@@ -4,7 +4,7 @@ RUN apt install neofetch -y
 RUN neofetch
 RUN npm install -g pnpm
 WORKDIR /usr/src/app
-COPY package.json pnpm-lock.yaml ./
+COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
 RUN pnpm install
 COPY . .
 RUN pnpm build

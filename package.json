@@ -54,7 +54,6 @@
   "scripts": {
     "build": "export NODE_OPTIONS=--max-old-space-size=16384 && docusaurus build",
     "clear": "docusaurus clear",
-    "deploy": "docusaurus deploy",
     "docusaurus": "docusaurus",
     "email": "email dev",
     "format": "prettier --config .prettierrc -w '**/*.{ts,tsx,json,md,mdx,css,scss,html,yml,yaml,xml,js,jsx,mts,mjs,cjs,cts}'",
