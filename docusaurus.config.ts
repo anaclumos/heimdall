@@ -54,9 +54,10 @@ const config = {
   baseUrl: '/',
   organizationName: 'anaclumos',
   projectName: 'heimdall',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  trailingSlash: true,
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
     locales: [
