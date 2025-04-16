@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[Heimdall]]></title>
+        <description><![CDATA[Heimdall]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>Heimdall</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/story/hu.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <language><![CDATA[hu]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title
+      ><![CDATA[„Egy svájci város betiltotta a hirdetőtáblákat. Zürich és Bern hamarosan követhetik”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Egy svájci város betiltotta a hirdetőtáblákat. Zürich és Bern hamarosan követhetik”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az AI keresőrobotoknak tisztelettudóbbnak kell lenniük”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Jelentős növekedés tapasztalható az AI termékek által végzett visszaélésszerű webhelyfeltérképezésben, ami problémákat okoz olyan oldalak számára, mint a Read the Docs, a túlzott sávszélesség-használat és költségek miatt.”</li>
+<li>„Példák közé tartozik egy robot, amely 2024 májusában 73 TB adatot töltött le, ami több mint 5000 dollárba került, és egy másik, amely a Facebook tartalomletöltőjét használva 2024 júniusában 10 TB-ot húzott le.”</li>
+<li>„Annak ellenére, hogy IP-alapú sebességkorlátozást alkalmaznak, ezek a keresőrobotok több IP-címet használnak, így az hatástalan; az intézkedések közé tartozik az azonosított AI keresőrobotok blokkolása és a CDN gyorsítótárazásának javítása.”</li>
+</ul>
+]]></description>
+            <link>https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Az AI keresőrobotoknak tisztelettudóbbnak kell lenniük”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Egy Deluxe Paint II klón Pythonban írva”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A PyDPainter egy pixel art program, amelyet Pythonban fejlesztettek a PyGame használatával, és amelyet az Electronic Arts által 1985-ben kiadott Commodore Amiga verziójú Deluxe Paint ihletett.”</li>
+<li>„A program célja, hogy modernizálja a klasszikus Deluxe Paint eszközt új funkciókkal, kielégítve a pixel art iránti újjáéledt érdeklődést a retro trend miatt.”</li>
+<li>„A PyDPainter legújabb kiadása elérhető a GitHubon, és GPLv3 vagy későbbi verzió alatt van licencelve.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/mriale/PyDPainter</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Egy Deluxe Paint II klón Pythonban írva”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Startup pénzügyek alapítóknak – I. rész, Számvitel (2016)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A cikk egy két részes sorozat része a startup pénzügyekről, az első részben a könyvelésre, a második részben pedig a stratégiai pénzügyekre összpontosítva.”</li>
+<li>„A főbb témák közé tartozik a biztonságos bankszámla-struktúra kialakítása, a hitelkártya-limit kezelése, valamint az átállás a Stripe-ról papíralapú szerződésekre és számlákra, ahogy az ügyfélkör bővült.”</li>
+<li>„A szerző gyakorlati betekintést nyújt a Segmentnél szerzett tapasztalataiból, amely jelentősen növekedett és 44 millió dollárt gyűjtött, kiemelve az alapvető könyvelési ismeretek fontosságát a startup alapítók számára.”</li>
+</ul>
+]]></description>
+            <link>https://rein.pk/startup-finance-for-founders-part-i-accounting</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Startup pénzügyek alapítóknak – I. rész, Számvitel (2016)”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Alkalmazott gépi tanulás táblázatos adatokhoz”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Max Kuhn és Kjell Johnson „Applied Machine Learning for Tabular Data” című könyve gyakorlati útmutató a táblázatos adatokból származó prediktív modellek fejlesztéséhez, amelynek megjelenése 2024 júniusára várható.”</li>
+<li>„A könyv az egész prediktív modellezési folyamatot lefedi, beleértve a jellemzők mérnöki tervezését és a modellezés utáni tevékenységeket, és a CC BY-NC-SA 4.0 licenc alatt áll, amely lehetővé teszi a nem kereskedelmi célú felhasználást és adaptációt.”</li>
+<li>„Adatelemzőknek, statisztikusoknak és adatszakértőknek szóló könyv, amely gyakorlatokat és számítástechnikai kiegészítőket kínál, elsősorban az R tidymodels keretrendszerét használva, és közösségi hozzájárulásokat vár a GitHubon keresztül.”</li>
+</ul>
+]]></description>
+            <link>https://aml4td.org/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Alkalmazott gépi tanulás táblázatos adatokhoz”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Bcachefs, egy bevezetés/felfedezés”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Bcachefs egy új fájlrendszer, amelyet a meglévő fájlrendszerek korlátainak leküzdésére terveztek, és egyedi funkciókat és fejlesztéseket kínál.”</li>
+<li>„Támogatja a kísérleti RAID szinteket (0, 1, 5, 6) és a törléskódolást, bár néhányat még nem ajánlott használni.”</li>
+<li>„A Bcachefs még fejlesztés alatt áll, folyamatos fejlesztések és közösségi segítség szükséges a több eszköz kezeléséhez és a rendszerintegrációhoz.”</li>
+</ul>
+]]></description>
+            <link>http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Bcachefs, egy bevezetés/felfedezés”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Zulip 9.0: Szervezett csevegés elosztott csapatok számára”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Megjelent a Zulip Server 9.0, amely több száz frissítést és hibajavítást tartalmaz, javítva ezzel a távoli és hibrid munkavégzéshez való használhatóságát.”</li>
+<li>„A legfontosabb frissítések közé tartozik a felhasználói felület áttervezése, a jobb üzenetírás, a terminológiai változások, a továbbfejlesztett keresés és a jobb felhasználói bevezetés.”</li>
+<li>„Új integrációk, az Ubuntu 24.04 támogatása, valamint a Flutterrel épített következő generációs mobilalkalmazások a jelentős fejlesztések közé tartoznak.”</li>
+</ul>
+]]></description>
+            <link>https://blog.zulip.com/2024/07/25/zulip-9-0-released/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Zulip 9.0: Szervezett csevegés elosztott csapatok számára”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Svájc előírja, hogy a kormányzati ügynökségek nyílt forráskódú szoftvereket használjanak”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Svájc elfogadott egy törvényt, amely előírja a kormányzati ügynökségek számára, hogy nyílt forráskódú szoftvereket (OSS) használjanak, és az új kormányzati kódokat nyílt forráskódú licencek alatt tegyék közzé. Ez a törvény az &quot;Elektronikus Eszközök Kormányzati Feladatok Teljesítésére Történő Használatáról szóló Szövetségi Törvény&quot; (EMBAG) néven ismert.”</li>
+<li>„Ez a kezdeményezés célja, hogy javítsa az átláthatóságot, a biztonságot és a hatékonyságot azáltal, hogy a nem személyes, nem biztonságérzékeny kormányzati adatokat nyilvánosan hozzáférhetővé teszi.”</li>
+<li>„Svájc lépése összhangban van hasonló európai kezdeményezésekkel, és potenciálisan ösztönözheti az OSS további elterjedését Európában és az Egyesült Államokban.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Svájc előírja, hogy a kormányzati ügynökségek nyílt forráskódú szoftvereket használjanak”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az Egyesült Államok Védelmi Minisztériuma – Az agilis BS észlelése [pdf] (2018)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Az Egyesült Államok Védelmi Minisztériuma – Az agilis BS észlelése [pdf] (2018)”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Nincs javítás az Intel 13. és 14. generációs processzorainak összeomlására – a károsodás végleges”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az Intel 13. és 14. generációs processzorai összeomlási problémával küzdenek a megemelkedett feszültségek és gyártási hibák miatt, amelyeket nem lehet kijavítani, ha a károsodás már bekövetkezett.”</li>
+<li>„Egy javítócsomag, amely a jövőbeli problémák megelőzésére szolgál, várhatóan augusztus közepén érkezik, de a sérült processzorokat ki kell cserélni; az Intel nem fog visszahívást kezdeményezni vagy garanciát meghosszabbítani.”</li>
+<li>„Az érintett felhasználóknak frissíteniük kell a BIOS-t, és fel kell venniük a kapcsolatot az Intel ügyfélszolgálatával, mivel a probléma potenciálisan érinti bármely 13. vagy 14. generációs asztali processzort, amely 65W vagy annál nagyobb teljesítményt fogyaszt.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Nincs javítás az Intel 13. és 14. generációs processzorainak összeomlására – a károsodás végleges”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Stripe felvásárolja a Lemon Squeezy-t”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Stripe felvásárolta a Lemon Squeezy-t, egy 2021-ben indított platformot, amely a digitális termékek globális értékesítésének egyszerűsítésére szolgál.”</li>
+<li>„A Lemon Squeezy kilenc hónappal a bevezetése után több mint 1 millió dollár éves ismétlődő bevételt (ARR) ért el.”</li>
+<li>„A felvásárlás célja, hogy a Lemon Squeezy kínálatát a Stripe fizetési képességeivel bővítse, ígéretesen javítva az ügyfélélményt és a megbízhatóságot.”</li>
+</ul>
+]]></description>
+            <link>https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„A Stripe felvásárolja a Lemon Squeezy-t”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Franciaország nagysebességű vasúti forgalmát 'rosszindulatú cselekmények' zavarták meg az olimpiai ceremónia idején”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Franciaország nagysebességű vasúthálózata, beleértve a TGV-t is, jelentős fennakadásokat szenvedett el a „rosszindulatú cselekmények”, például gyújtogatás miatt, közvetlenül a párizsi olimpia előtt.”</li>
+<li>„A támadások megrongálták a vonatbiztonság szempontjából létfontosságú optikai kábeleket, ami 800 000 utast érintett, és széles körű járattörléseket és késéseket okozott, a javítások várhatóan egész hétvégén eltartanak.”</li>
+<li>„A francia tisztviselők elítélték a támadásokat mint &quot;bűncselekményeket&quot;, és nyomozást indítottak, amely akár 20 év börtönbüntetést és jelentős pénzbírságokat is eredményezhet.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Franciaország nagysebességű vasúti forgalmát &apos;rosszindulatú cselekmények&apos; zavarták meg az olimpiai ceremónia idején”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A francia vasúthálózatot 'rosszindulatú cselekmények' érték a párizsi olimpia előtt”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„A francia vasúthálózatot &apos;rosszindulatú cselekmények&apos; érték a párizsi olimpia előtt”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Minden finanszírozott startup adatbázisa”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Minden finanszírozott startup adatbázisa”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Node.js kísérleti támogatást ad a TypeScript számára”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Node.js bevezetett egy új funkciót, amely lehetővé teszi a TypeScript fájlok futtatását a <code>--experimental-strip-types</code> zászló használatával, amely a TypeScriptet JavaScriptre fordítja típusellenőrzés nélkül.”</li>
+<li>„Ez a funkció a <code>@swc/wasm-typescript</code>-et használja a hatékony és egyszerű transzpiláció érdekében, célja pedig az, hogy csökkentse a külső függőségek szükségességét TypeScript fájlok futtatásakor.”</li>
+<li>„A funkció kísérleti jellegű, és elérhető az éjszakai verzióban, folyamatos megbeszélések zajlanak további fejlesztésekről, mint például a kiterjesztés nélküli importok támogatása.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/nodejs/node/pull/53725</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„A Node.js kísérleti támogatást ad a TypeScript számára”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Minden vállalatot a dolgozóinak kellene birtokolniuk”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Central States Manufacturing példát mutat az alkalmazotti tulajdonlásra, mivel részvénytulajdonlás révén 47 milliomos van a fizikai munkásai között.”</li>
+<li>„Az alkalmazotti részvénytulajdonosi programok (ESOP-ok) terjednek az Egyesült Államokban, 6 533 vállalat és 14,7 millió alkalmazott részesül ebből a modellből.”</li>
+<li>„Az ESOP-ok adóelőnyöket biztosítanak, javítják a vállalat teljesítményét, és növelik az alkalmazottak megtartását azáltal, hogy tulajdonosi érzést keltenek.”</li>
+</ul>
+]]></description>
+            <link>https://www.elysian.press/p/employee-ownership</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Minden vállalatot a dolgozóinak kellene birtokolniuk”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Korrupt Winamp skin-ek vizsgálata”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Miközben a szerző a Winamp Skin Museum gyűjteményét böngészte, sérült skinekre bukkant, és úgy döntött, hogy utánajár a dolognak, ami meglepő felfedezésekhez vezetett.”</li>
+<li>„A nyomozás különféle rejtett tárgyakat tárt fel, beleértve titkosított fájlokat, személyes leveleket, e-mail jelszavakat, Chet Baker titkos életrajzát, rejtélyes hangfájlokat és egy worm.exe nevű játék futtatható fájlt.”</li>
+<li>„A szerző 127 bőrt talált más bőrök között, ebből 54 új kiegészítés volt a múzeum számára, bemutatva egy lenyűgöző és furcsa kalandot, amelyet a Winamp és a talált tárgyak iránti szeretet vezérelt.”</li>
+</ul>
+]]></description>
+            <link>https://jordaneldredge.com/notes/corrupted-skins/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Korrupt Winamp skin-ek vizsgálata”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A mesterséges intelligencia ezüstérem szinten oldja meg a Nemzetközi Matematikai Diákolimpia feladatait”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A kutatási AI rendszerek, az AlphaProof és az AlphaGeometry 2 ezüstérmes szintet értek el azzal, hogy megoldottak hatból négy feladatot a 2024-es Nemzetközi Matematikai Olimpián (IMO).”</li>
+<li>„Az AlphaProof megerősítéses tanulást és a Lean formális nyelvet használva megoldott két algebrai problémát és egy számelméleti problémát, beleértve a verseny legnehezebb problémáját is.”</li>
+<li>„Az AlphaGeometry 2, egy neuro-szimbolikus hibrid rendszer, 19 másodperc alatt oldott meg egy geometriai feladatot, hozzájárulva a kombinált MI rendszer 42 pontból 28 pontos eredményéhez.”</li>
+</ul>
+]]></description>
+            <link>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„A mesterséges intelligencia ezüstérem szinten oldja meg a Nemzetközi Matematikai Diákolimpia feladatait”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az Apple Maps webes verziója béta állapotban elindult”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az Apple Maps mostantól nyilvános béta verzióban elérhető a weben, lehetővé téve a felhasználók számára, hogy böngészőikből világszerte hozzáférjenek a Térképekhez.”</li>
+<li>„A funkciók közé tartozik a vezetési és gyalogos útvonaltervezés, helyszíni fotók, nyitvatartási idők, értékelések, vélemények, ételrendelés és válogatott útmutatók, a Look Around pedig hamarosan elérhető lesz.”</li>
+<li>„Jelenleg támogatja a Safarit és a Chrome-ot Mac-en és iPad-en, valamint a Chrome-ot és az Edge-et Windows PC-ken, és idővel további nyelvek, böngészők és platformok kerülnek hozzáadásra.”</li>
+</ul>
+]]></description>
+            <link>https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Az Apple Maps webes verziója béta állapotban elindult”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Dungeons and Dragons megtanított arra, hogyan írjak alternatív szöveget”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Dungeons &amp; Dragons (D&amp;D) játék segített a szerzőnek értékes készségek fejlesztésében, beleértve a képekhez hatékony alt szöveg írását is.”</li>
+<li>„A D&amp;D-ben alkalmazott &quot;elme színháza&quot; módszer, amely a szóbeli történetmesélésre támaszkodik, megtanította a szerzőt arra, hogy a világos és lebilincselő leírásokat helyezze előtérbe.”</li>
+<li>„Az alternatív szöveg írása, hasonlóan a D&amp;D narrációhoz, megköveteli a fontos részletek kiemelését először, majd a kontextus és az érzelmek hozzáadását, olyan forrásokkal, mint a Web Accessibility Initiative és a BBC GEL, amelyek segítenek a készségek fejlesztésében.”</li>
+</ul>
+]]></description>
+            <link>https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„A Dungeons and Dragons megtanított arra, hogyan írjak alternatív szöveget”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A CrowdStrike felelős lesz a károkért Franciaországban, az OVH precedens alapján”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A CrowdStrike felelősségre vonható lehet a károkért Franciaországban, hasonlóan az OVH precedenshez, ahol egy tűzeset sikeres pereket eredményezett az OVH ellen.”</li>
+<li>„A CrowdStrike legutóbbi frissítése 8,5 millió számítógépet letiltott, ami több mint 5,4 milliárd dolláros kárt okozott és kritikus iparágakat zavart meg.”</li>
+<li>„Az eset rámutat a gondatlanságra a szakaszos bevezetések és tesztelések hiánya miatt, annak ellenére, hogy az ügyfelek ezt kérték, ami számos kárigényhez és szerződésbontáshoz vezethet.”</li>
+</ul>
+]]></description>
+            <link
+      >https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„A CrowdStrike felelős lesz a károkért Franciaországban, az OVH precedens alapján”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az EU parlamenti képviselőjét izraeli Candiru kémprogrammal támadták meg”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Daniel Freund, az Európai Parlament tagja, aki ismert Magyarország kritikájáról, egy kémprogramos támadás célpontja lett, amely valószínűleg az izraeli Candiru céget érintette.”</li>
+<li>„Magyarország, Lengyelországgal, Görögországgal, Ciprussal és Spanyolországgal együtt, illegálisan kémkedett polgárai után, ami aggodalmakat vet fel az adatvédelem és a megfigyelés terén ezekben az országokban.”</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/moo9000/status/1816352054425829420</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Az EU parlamenti képviselőjét izraeli Candiru kémprogrammal támadták meg”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Egy multimodális adatállomány egy billió tokennel”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A MINT-1T egy nyílt forráskódú adatbázis, amely egy billió szöveges tokent és 3,4 milliárd képet tartalmaz, ami körülbelül tízszeres növekedést jelent a meglévő adatbázisokhoz képest.”</li>
+<li>„Az adathalmaz új forrásokat tartalmaz, mint például PDF-ek és ArXiv cikkek, és minden részhalmaz kiadásra került, beleértve a HTML és PDF adatokat különböző CommonCrawl pillanatképekből.”</li>
+<li>„A MINT-1T adatbázist hivatalosan 2024. július 24-én tették nyílt forráskódúvá, a technikai jelentést pedig 2024. június 17-én adták ki.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/mlfoundations/MINT-1T</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Egy multimodális adatállomány egy billió tokennel”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Visszafejtés mindenkinek”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A bejegyzés egy átfogó visszafejtési tanfolyamsorozatot mutat be, amely az x86, x64, ARM-32 és ARM-64 architektúrákat fedi le, kezdők számára.”</li>
+<li>„A tanfolyamok részletes modulokat tartalmaznak az assembly nyelvről, a hibakeresésről, a hackelésről és az alapvető számítógép-architektúra fogalmakról.”</li>
+<li>„A bemutató készlet letölthető PDF vagy MOBI formátumban, így offline tanulásra is elérhető.”</li>
+</ul>
+]]></description>
+            <link>https://0xinfection.github.io/reversing/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Visszafejtés mindenkinek”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az X visszatervezi a vízipisztoly emojit egy lőfegyverré”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az X (korábban Twitter) újratervezte a 🔫 vízipisztoly emojit, hogy az most lőfegyverként jelenjen meg, ezzel visszafordítva a 2016-2018 közötti váltást a vízipisztolyra.”</li>
+<li>„Ez a frissítés 2024. július 18-án kezdett el terjedni, és jelenleg elérhető az X webes kliensén keresztül, a mobilmegjelenítés frissítését pedig hamarosan tervezik.”</li>
+<li>„A változás az első frissítést jelenti az X Twemoji készletében tavaly július óta, eltérve az Apple által 2016-ban elindított, több gyártót érintő dizájnváltástól.”</li>
+</ul>
+]]></description>
+            <link>https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Az X visszatervezi a vízipisztoly emojit egy lőfegyverré”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kedvenc algoritmusom: Lineáris időben történő mediánkeresés (2018)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A bejegyzés a mediánok mediánja algoritmusról szól, amely determinisztikus lineáris időben találja meg a mediánt, így elméletileg hatékony.”</li>
+<li>„Ezt szembeállítja a Quickselecttel, egy olyan algoritmussal, amely általában átlagos lineáris idő alatt találja meg a mediánt, de a legrosszabb esetekben kevésbé megbízható lehet.”</li>
+<li>„A mediánok mediánja algoritmus biztosítja a jó pivot kiválasztását a Quickselect számára, növelve annak hatékonyságát, bár a gyakorlatban gyakran lassabb, mint az egyszerűbb módszerek, például a véletlenszerű pivot kiválasztás.”</li>
+</ul>
+]]></description>
+            <link>https://rcoh.me/posts/linear-time-median-finding/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Kedvenc algoritmusom: Lineáris időben történő mediánkeresés (2018)”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az OpenAI bejelenti a SearchGPT-t”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A SearchGPT egy új keresési funkciók prototípusa, amely AI modelleket használ gyors válaszok biztosítására, egyértelmű forrásokkal.”</li>
+<li>„A szolgáltatás valós idejű információkat nyújt releváns forrásokból, vizuális eredményeket biztosít, és lehetővé teszi a természetes, beszélgetésszerű követő kérdéseket.”</li>
+<li>„A felhasználók feliratkozhatnak a várólistára, hogy kipróbálhassák a SearchGPT-t, és a visszajelzéseket felhasználják a legjobb funkciók integrálására a ChatGPT-be.”</li>
+</ul>
+]]></description>
+            <link>https://chatgpt.com/search</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Az OpenAI bejelenti a SearchGPT-t”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Szudokuk generálása szórakozásból és haszon nélkül”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Tom Nick kifejlesztett egy ingyenes, nyílt forráskódú Sudoku alkalmazást, a sudoku.tn1ck.com-ot, eredetileg a nagymamája számára, ami a Sudoku generálás és nehézségi besorolás felfedezéséhez vezetett.”</li>
+<li>„Különböző algoritmusokat, beleértve a Brute Force, a Minimum Remaining Value és az Arc Consistency (AC3) módszereket, használnak a Sudoku rejtvények megoldására és generálására, ahol a nehézséget a megoldó iterációinak száma alapján mérik.”</li>
+<li>„Az alkalmazás meghatározott nehézségi szintű Sudokukat generál úgy, hogy véletlenszerű számokkal tölti ki a rácsokat, módosítja a kitöltött cellákat, és újrakezdi, ha a kívánt nehézségi szintet nem éri el, így biztosítva szórakoztató és kihívást jelentő felhasználói élményt.”</li>
+</ul>
+]]></description>
+            <link>https://tn1ck.com/blog/how-to-generate-sudokus</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Szudokuk generálása szórakozásból és haszon nélkül”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Google Keresés: Roboto Mono”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Roboto Mono egy monospaced betűtípus a Roboto betűcsaládból, amelyet képernyőn való olvashatóságra optimalizáltak, és ingyenesen letölthető.”</li>
+<li>„A betűcsalád 100-tól 700-ig terjedő súlyokat kínál, beleértve a dőlt változatokat is, és önállóan is hosztolható NPM-en keresztül.”</li>
+<li>„A Roboto Mono széles körben elérhető olyan platformokon keresztül, mint a Google Fonts, az Adobe Fonts és különböző ingyenes betűtípus-gyűjtemények.”</li>
+</ul>
+]]></description>
+            <link>https://www.google.com/search?q=roboto+mono+font</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Google Keresés: Roboto Mono”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Hidrotermális robbanás a Yellowstone Nemzeti Parkban”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az Erdészeti Szolgálat azon dolgozik, hogy lezárja a Mike Harris ösvényrendszer egyes részeit.”</li>
+<li>„Az MD Nursery-t több mint 28 000 dollárra bírságolták egy férfi árokban bekövetkezett halála miatt.”</li>
+<li>„A Biscuit Basinben, Yellowstone-ban történt hidrotermális robbanás miatt a turisták menekülni kezdtek.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Hidrotermális robbanás a Yellowstone Nemzeti Parkban”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Elég nagy – Mistral AI”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Mistral AI kiadta a Mistral Large 2 modellt, amely 128k kontextusablakkal és több mint 80 programozási nyelv támogatásával rendelkezik, optimalizálva egycsomópontos következtetésre 123 milliárd paraméterrel.”</li>
+<li>„A modell 84,0%-os pontosságot ér el az MMLU-n, felülmúlva a korábbi modelleket és olyan riválisokat, mint a GPT-4o és a Llama 3 405B, továbbfejlesztett képességekkel a &quot;hallucinációk&quot; minimalizálására és a következtetések javítására.”</li>
+<li>„A Mistral Large 2 különböző licencek alatt érhető el nem kereskedelmi és kereskedelmi felhasználásra, a súlyok a HuggingFace-en vannak tárolva, és kibővített felhőszolgáltatási partnerségek révén, beleértve a Google Cloud Platformot és az Azure AI Stúdiót.”</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-large-2407/</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Elég nagy – Mistral AI”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A cukorbetegségem kezelését a saját kezembe veszem”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy 1-es típusú cukorbeteg Windows Forms alkalmazást fejlesztett OxyPlot diagramokkal, hogy jobban láthatóvá tegye és kezelje az inzulin- és szénhidrátbevitelét.”</li>
+<li>„Az egyén a GeneticSharp nevű genetikus algoritmus könyvtárat használta az inzulin adagok optimalizálására, sikeresen stabilizálva a glükózszinteket.”</li>
+<li>„A megközelítés ígéretesnek tűnik a személyre szabott diabétesz kezelésében, bár további szimulációkra és a hosszú hatású inzulin beállítására van szükség.”</li>
+</ul>
+]]></description>
+            <link>https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„A cukorbetegségem kezelését a saját kezembe veszem”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Mostantól a Google az egyetlen keresőmotor, amely a Redditen működik, köszönhetően az AI megállapodásnak”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Google mostantól az egyetlen keresőmotor, amely képes megjeleníteni a legfrissebb Reddit eredményeket, így a Reddit tartalma kizárólag a Google számára elérhető.”</li>
+<li>„Más keresőmotorok, mint a Bing, a DuckDuckGo és a Qwant, nem tudják megjeleníteni a legfrissebb Reddit eredményeket, a DuckDuckGo pedig korlátozott linkeket biztosít leírások nélkül.”</li>
+<li>„Ez a helyzet rávilágít a Google keresési monopóliumára, amely befolyásolja a versenyt és kritikákat vált ki a keresési minőség miatt, miközben spekulációk szerint egy több millió dolláros megállapodás lehetővé teszi a Google számára, hogy a Redditet használja AI képzéshez.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Mostantól a Google az egyetlen keresőmotor, amely a Redditen működik, köszönhetően az AI megállapodásnak”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kijelentkezhet a repülőtéri arcfelismerésből”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az utazók elkerülhetik a repülőtéri arcfelismerést, ha távol állnak a kamerától, bemutatják az igazolványukat, és kijelentik: „Nem kérem a biometrikus azonosítást.””</li>
+<li>„Az Algorithmic Justice League „Freedom Flyers” kampánya arra törekszik, hogy felhívja a figyelmet erre a jogra, különösen mivel a TSA tervezi a arcfelismerés kiterjesztését az összes amerikai repülőtérre.”</li>
+<li>„Az arcfelismerés olyan kockázatokat rejt magában, mint az adatvédelmi incidensek, a téves azonosítás, az AI torzítás és a megfigyelés normalizálása, jelentős adatvédelmi aggályokkal a biometrikus adatok megőrzése és felhasználása kapcsán.”</li>
+</ul>
+]]></description>
+            <link>https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Kijelentkezhet a repülőtéri arcfelismerésből”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A CrowdStrike egy 10 dolláros bocsánatkérő ajándékkártyát kínál a kimaradás miatt”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A CrowdStrike, egy kiberbiztonsági cég, július 19-én egy hibás frissítés miatt globális leállást okozott, amely milliók számítógépét érintette, és jelentős fennakadásokat eredményezett, például repülőtéri késéseket és leállított műtéteket.”</li>
+<li>„Bocsánatkérésként a cég 10 dolláros Uber Eats ajándékkártyákat ajánlott fel partnereinek, de néhány címzett arról számolt be, hogy a kuponok érvénytelenek voltak.”</li>
+<li>„A CrowdStrike vezérigazgatója és biztonsági főnöke nyilvános bocsánatkéréseket tett, elismerve az incidens súlyosságát, és elkötelezve magukat az átláthatóság és a jövőbeni megelőző intézkedések mellett.”</li>
+</ul>
+]]></description>
+            <link
+      >https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„A CrowdStrike egy 10 dolláros bocsánatkérő ajándékkártyát kínál a kimaradás miatt”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Hogyan néz ki a "hozzájárulás" a DEA és a TSA számára”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A DEA és a TSA együttműködnek az utazók pénzének lefoglalásában, azáltal, hogy azokat célozzák meg, akik nagy mennyiségű készpénzt visznek magukkal, informátorokat és TSA ellenőrzőpontokat használva az egyének azonosítására, és azt állítva, hogy azok &quot;beleegyeznek&quot; a kutatásokba.”</li>
+<li>„Ez a gyakorlat, amely az Amtrak vonatokra is kiterjed az Egyesült Államok Vám- és Határvédelmi Hivatalának segítségével, magában foglalja a „polgári elkobzást”, ahol pénzt foglalnak le parancs nélkül, gyakran figyelmen kívül hagyva az utasok beleegyezésének megtagadását.”</li>
+<li>„Egy folyamatban lévő csoportos kereset rávilágít ezeknek az illegális átkutatásoknak a gyakoriságára, a felperesek azzal érvelnek, hogy a nyilvántartások mennyisége rendszerszintű problémát jelez, annak ellenére, hogy a DEA és a TSA ellenáll a nyilvántartások nyilvánosságra hozatalának.”</li>
+</ul>
+]]></description>
+            <link>https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Hogyan néz ki a &quot;hozzájárulás&quot; a DEA és a TSA számára”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Llama 3.1 C-ben”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Megjelent egy új C-alapú implementáció a Llama 2 és Llama 3/3.1 Transformer modellek inferenciájához, amely int8 kvantált előrehaladást tartalmaz.”</li>
+<li>„A kód támogatja különböző környezetek, mint például a Linux Kernel, Unikraft Unikernel és beágyazott modellek Zip Archívumon keresztüli használatát.”</li>
+<li>„A felhasználók testre szabhatják a paramétereket, mint például a hőmérsékletet, a top-p mintavételt és a modell verzióját parancssori argumentumok segítségével, növelve ezzel a különböző felhasználási esetekhez való rugalmasságot.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/trholding/llama2.c/blob/master/runq.c</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Llama 3.1 C-ben”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az Emacs eredete 1976-ban”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az EMACS szövegszerkesztőt 1976-ban fejlesztették ki az MIT AI Lab-ban, és az év végére Richard Stallman (RMS) lett a fő fejlesztő.”</li>
+<li>„RMS „E” és „EMACS” néven ismert, és kulcsszerepet játszott abban, hogy a TECO makrókat egy erőteljes szerkesztővé alakítsa, kezdeti segítséget kapva Guy Steele-től, David Moon-tól és John Kulp-tól.”</li>
+<li>„A korai felhasználói közösség, beleértve Moont is, hozzájárult a kulcsfontosságú kötésekkel és parancsnevekkel, kiemelve az EMACS fejlesztésének együttműködő és közösségvezérelt jellegét.”</li>
+</ul>
+]]></description>
+            <link>https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Az Emacs eredete 1976-ban”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Scrapscript: Egy funkcionális, tartalom-címezhető programozási nyelv”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Scrapscript egy programozási nyelv, amelynek értelmezője elérhető Python 3.8+ és Cosmopolitan számára, és támogatja a Docker-t a konténerizált végrehajtáshoz.”</li>
+<li>„A Scrapscript szintaxisát hamarosan frissítik, és a felhasználók a <code>scrapscript.py</code> és annak tesztjei alapján érthetik meg a nyelvet.”</li>
+<li>„Egy kísérleti fordító érhető el, amely képes kimeneteket előállítani ELF, Cosmopolitan és Wasm formátumokban, mindegyikhez külön parancsokat biztosítva.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/tekknolagi/scrapscript</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Scrapscript: Egy funkcionális, tartalom-címezhető programozási nyelv”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Null eredményt kaptál. Vajon bárki publikálja majd?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A kutatók nehézségekkel szembesülnek a null eredmények publikálásában, amelyek nem mutatnak jelentős kapcsolatot a változók között, ami az eredmények pozitív irányú torzításához vezet.”</li>
+<li>„Ez a publikációs elfogultság torzítja a tudományos feljegyzéseket és pazarolja az erőforrásokat, ahogy azt az evolúciós biológus, Natalie Pilakouta Izland forró forrásaiban végzett, a halak preferenciáira vonatkozó, nem meggyőző tanulmánya is mutatja.”</li>
+<li>„Az e probléma kezelésére tett erőfeszítések közé tartozik, hogy a folyóiratok ösztönzik az előre regisztrált jelentéseket, de a lassú elfogadás és az a felfogás, hogy a null eredmények hibás kutatást jeleznek, továbbra is jelentős akadályok maradnak.”</li>
+</ul>
+]]></description>
+            <link>https://www.nature.com/articles/d41586-024-02383-9</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Null eredményt kaptál. Vajon bárki publikálja majd?”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Készítettük a glhf.chat-et – futtasson szinte bármilyen nyílt forráskódú LLM-et, beleértve a 405B-t is”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy új weboldal, a <a href="https://glhf.chat/">https://glhf.chat/</a>, lehetővé teszi a felhasználók számára, hogy szinte bármilyen nyílt forráskódú LLM-et (nagy nyelvi modellt) futtassanak automatikusan skálázódó GPU klasztereken ingyenesen az árazási meghatározási fázis alatt.”</li>
+<li>„A szolgáltatás támogat minden, az open-source vLLM projekttel kompatibilis modellt, akár ~640GB VRAM-ot is kínálva, és célja, hogy költséghatékonyabb legyen más GPU szolgáltatásoknál azáltal, hogy modelleket több bérlővel futtat.”</li>
+<li>„A platform a Llama-3.1-405B Launch Day-en indult, és támogatja a hatékony modelleket, mint például a Llama-3-70b finomhangolásokat, tervekkel a nagyobb modellek támogatásának javítására és a jelenlegi korlátok kezelésére.”</li>
+</ul>
+]]></description>
+            <link>https://glhf.chat/landing/home</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Készítettük a glhf.chat-et – futtasson szinte bármilyen nyílt forráskódú LLM-et, beleértve a 405B-t is”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pnut: Egy C to POSIX shell fordító, amelyben megbízhat”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Pnut egy C-ből POSIX shell-be transzpiláló eszköz, amely a C programokat ember által olvasható shell szkriptekké alakítja, biztosítva a magas hordozhatóságot a POSIX-kompatibilis shellek között.”</li>
+<li>„Lehetővé teszi a fejlesztők számára, hogy C nyelven írjanak szkripteket anélkül, hogy új nyelvet kellene megtanulniuk, és a kimenet könnyen ellenőrizhető, hibakereshető és karbantartható.”</li>
+<li>„A Pnut minden jelentős operációs rendszeren fut, beleértve a Linuxot, a macOS-t és a Windowst, és a BSD-2 Clause License alatt van licencelve.”</li>
+</ul>
+]]></description>
+            <link>https://pnut.sh</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Pnut: Egy C to POSIX shell fordító, amelyben megbízhat”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„MPPP – Az első 'designer drog' katasztrófa (2023)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az MPPP (1-metil-4-fenil-4-propionoxipiperidin) egy dizájner drog, amelyet először 1947-ben jelentettek, fájdalomcsillapítóként szánták, de kiderült, hogy nem jobb a meglévő lehetőségeknél.”</li>
+<li>„1976-ban Barry Kidston szintetizálta az MPPP-t, és Parkinson-kórhoz hasonló tüneteket fejlesztett ki egy szennyezőanyag, az MPTP miatt, amely szelektíven elpusztítja a motoros kontroll szempontjából kulcsfontosságú sejteket.”</li>
+<li>„Az 1982-es, MPTP-szennyezett szintetikus heroinhoz köthető Parkinson-tünetek kitörése jelentős tudományos felismerésekhez vezetett a Parkinson-kór kapcsán, és rávilágított az amatőr drogszintézis veszélyeire.”</li>
+</ul>
+]]></description>
+            <link>https://www.chm.bris.ac.uk/motm/mppp/mppph.htm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„MPPP – Az első &apos;designer drog&apos; katasztrófa (2023)”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mikroegér”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Micromouse egy robotikai verseny, ahol kis autonóm robotok oldanak meg egy 16×16-os labirintust. A verseny az 1970-es évek végén indult, és több országban, köztük az Egyesült Királyságban, az Egyesült Államokban és Japánban is népszerű.”</li>
+<li>„A robotok navigációhoz olyan algoritmusokat használnak, mint a Bellman-féle árasztás, a Dijkstra és az A*, és a legnagyobb sebességük meghaladja a három métert másodpercenként; a jelenlegi világrekordot Ng Beng Kiat tartja 3,921 másodperccel.”</li>
+<li>„A legújabb fejlesztések közé tartozik a ventilátorok használata a további leszorítóerő érdekében, amely lehetővé teszi a 2,5g feletti gyorsulásokat, valamint egy Half-Size Micromouse nevű változat, amely egy 32×32-es labirintust használ kisebb méretekkel.”</li>
+</ul>
+]]></description>
+            <link>https://en.wikipedia.org/wiki/Micromouse</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Mikroegér”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A nyílt forráskódú mesterséges intelligencia a jövő útja”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A nyílt forráskódú Linux az ipari szabvánnyá vált a felhőalapú számítástechnika és a mobil eszközök terén módosíthatósága, megfizethetősége és fejlett funkciói miatt, hasonlóan ahhoz, amit az AI-tól várunk.”</li>
+<li>„A Meta kiadta a Llama 3.1 405B-t, az első határszintű nyílt forráskódú AI modellt, valamint a továbbfejlesztett 70B és 8B modelleket, amelyek jobb költség/teljesítmény arányt és finomhangolásra való alkalmasságot hangsúlyoznak.”</li>
+<li>„A Meta együttműködik olyan vállalatokkal, mint az Amazon, a Databricks és az NVIDIA, hogy támogassa a fejlesztőket, azzal a céllal, hogy az open-source AI-t ipari szabvánnyá tegye, elősegítve az átláthatóságot, a biztonságot és a gazdasági növekedést.”</li>
+</ul>
+]]></description>
+            <link>https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„A nyílt forráskódú mesterséges intelligencia a jövő útja”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kawaii – Kulcstartó méretű Nintendo Wii”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://bitbuilt.net/forums/index.php?threads/kawaii.6474/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Kawaii – Kulcstartó méretű Nintendo Wii”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Timeshift: Rendszer-visszaállító eszköz Linuxhoz”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Timeshift for Linux egy rendszermentő eszköz, amely hasonló a Windows Rendszer-visszaállításhoz és a Mac OS Time Machine-hez, és a rendszerfájlokra és beállításokra összpontosít.”</li>
+<li>„Két üzemmódot támogat: RSYNC (rsync és hard-linkek használatával) és BTRFS (a BTRFS fájlrendszer funkcióinak használatával), utóbbi egy speciális al-kötet elrendezést igényel.”</li>
+<li>„Tony George által fejlesztett, és most a Linux Mint Xapp projektjének részeként működő Timeshift olyan funkciókat kínál, mint a több szintű pillanatképek, a különböző disztribúciók közötti visszaállítások és a visszaállítás utáni horgok, telepítési útmutatókkal különböző Linux disztribúciókhoz.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/linuxmint/timeshift</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Timeshift: Rendszer-visszaállító eszköz Linuxhoz”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„2024. júliusi frissítés az Intel Core 13. és 14. generációs asztali processzorok instabilitási jelentéseiről”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az Intel instabilitást azonosított a 13. és 14. generációs asztali processzoraiban, amelyet egy mikrokód algoritmus által okozott megemelkedett működési feszültség okoz.”</li>
+<li>„A probléma megoldására szolgáló mikrokód javítás várhatóan augusztus közepére készül el, és az Intel azt tanácsolja az érintett ügyfeleknek, hogy forduljanak támogatáshoz segítségért.”</li>
+<li>„A felhasználók aggodalmukat fejezték ki a potenciális hosszú távú CPU-károsodás, a BIOS-frissítések szükségessége miatt, és RMA (Return Merchandise Authorization) problémákat jelentettek, miközben útmutatást kerestek az instabilitás kezelésére a javítás megjelenéséig.”</li>
+</ul>
+]]></description>
+            <link
+      >https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„2024. júliusi frissítés az Intel Core 13. és 14. generációs asztali processzorok instabilitási jelentéseiről”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Adatbázis-tervezés a Google Naptárhoz: Egy útmutató”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Alexey Makhotkin útmutatója átfogó útmutatást nyújt a Google Naptár klón adatbázis tábláinak tervezéséhez, az „Adatbázis tervezés minimális modellezéssel” című készülő könyv megközelítését követve.”</li>
+<li>„Részletesen tárgyalja a logikai modellt, bemutatva, hogyan kell kezelni az alapvető egész napos eseményeket, időalapú eseményeket és ismétlődő eseményeket, majd áttér a fizikai SQL táblák létrehozására.”</li>
+<li>„A bemutató olyan olvasóknak szól, akik általános ismeretekkel rendelkeznek az adatbázisokról, segítve őket abban, hogy a koncepcionális ötletektől eljussanak a teljes adatbázis-táblázat meghatározásokig, és gyakorlati lépéseket tartalmaz a tervezés megvalósításához.”</li>
+</ul>
+]]></description>
+            <link>https://kb.databasedesignbook.com/posts/google-calendar/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Adatbázis-tervezés a Google Naptárhoz: Egy útmutató”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az ASCII tábla eleganciája”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az ASCII táblázat, amelyet 1963-ban szabványosítottak, 128 lehetséges 7 bites bináris kódpontból 100-hoz rendel jelentéseket, és ma is releváns marad, különösen az UTF-8 kódolás visszafelé kompatibilitása miatt.”</li>
+<li>„A táblázat tartalmaz vezérlőkódokat, nyomtatható karaktereket, és meghatározott bináris mintákat követ, ahol a szóköz karakter az első nyomtatható karakter a rendezés szempontjából.”</li>
+<li>„Az ASCII tervezése logikus és esztétikailag kellemes, így az emberek számára könnyen megtanulható és érthető, tükrözve történelmi jelentőségét és kifinomult logikáját.”</li>
+</ul>
+]]></description>
+            <link>https://danq.me/2024/07/21/ascii/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Az ASCII tábla eleganciája”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Lehetséges FAANG fizetéseket keresni anélkül, hogy ott dolgozna?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A fizetési különbség a FAANG (Facebook, Amazon, Apple, Netflix, Google) és a nem-FAANG cégek között jelentős, mivel a FAANG mérnökei lényegesen magasabb juttatási csomagokat kapnak.”</li>
+<li>„Egy tipikus startupnál dolgozó vezető mérnök 250 ezer dolláros alapfizetést és 10-20%-os bónuszt kaphat, míg egy FAANG vezető mérnök hasonló alapfizetést és 1 millió dollár értékű részvényt kaphat négy év alatt.”</li>
+<li>„A bejegyzés azt kérdezi, hogy a FAANG-on és a nagy bankokon/magas frekvenciájú kereskedési (HFT) cégeken kívüli egyének keresnek-e hasonló összegeket, és igyekszik azonosítani, hogy kik ők és milyen szerepeket töltenek be.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41042123</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Lehetséges FAANG fizetéseket keresni anélkül, hogy ott dolgozna?”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Llama 3.1”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Llama 3.1 egy nyílt forráskódú AI modell, amely három változatban érhető el: 8B, 70B és 405B, különböző teljesítmény- és költségigények kielégítésére.”</li>
+<li>„Támogatja a fejlett felhasználási eseteket, beleértve a kódolási asszisztenseket, többnyelvű ügynököket és összetett érvelést, valós idejű és kötegelt következtetés, finomhangolás és szintetikus adatgenerálás képességeivel.”</li>
+<li>„A modellt több mint 150 adathalmazon értékelték, és általánosságban magas teljesítményt mutatott az általános, kódolási, matematikai, érvelési, eszközhasználati és többnyelvű mércék terén.”</li>
+</ul>
+]]></description>
+            <link>https://llama.meta.com/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Llama 3.1”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Gombtolvaj”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Button Stealer egy Chrome-bővítmény, amely automatikusan eltávolít egy gombot minden weboldalról, amelyet meglátogat.”</li>
+<li>„A kiterjesztés szórakoztató célokra készült, és ingyenesen használható, gyakorlati haszna nincs.”</li>
+<li>„Biztosítja a felhasználói adatok védelmét azáltal, hogy helyben, a felhasználó eszközén működik.”</li>
+</ul>
+]]></description>
+            <link>https://anatolyzenkov.com/stolen-buttons/button-stealer</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Gombtolvaj”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Re: Tudják az emberek a való életben, hogy van blogod?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A szerző arról beszél, hogy milyen személyes jelentőséggel bír számára egy blog fenntartása közel húsz éven keresztül, annak ellenére, hogy a valós életben (IRL) az emberek közömbösek iránta.”</li>
+<li>„A blog az önkifejezés és a szabadság egyik formájaként szolgál, szemben a közösségi média és a nagy technológiai cégek nyomásával.”</li>
+<li>„Az olvasók válaszai különböző nézőpontokat emelnek ki, beleértve a blogolás személyes tisztánlátásra gyakorolt előnyeit, az AI kihasználásával kapcsolatos aggodalmakat, valamint a statisztikák nélküli írásra való bátorítást.”</li>
+</ul>
+]]></description>
+            <link>https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Re: Tudják az emberek a való életben, hogy van blogod?”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Wiz visszalép a Google-lel kötött 23 milliárd dolláros üzlettől”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Wiz úgy döntött, hogy eláll a Google-lel kötött 23 milliárd dolláros felvásárlási megállapodástól, és ehelyett egy nyilvános részvénykibocsátást (IPO) fog kezdeményezni – jelentette be Assaf Rappaport vezérigazgató.”</li>
+<li>„A döntést a trösztellenes és befektetői aggodalmak befolyásolták, miközben a Wiz évi 1 milliárd dolláros ismétlődő bevételt céloz meg.”</li>
+<li>„A 2020-ban alapított Wiz gyorsan növekedett, tavaly 350 millió dolláros éves ismétlődő bevételt ért el, és felhőbiztonsági termékeket kínál.”</li>
+</ul>
+]]></description>
+            <link>https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„A Wiz visszalép a Google-lel kötött 23 milliárd dolláros üzlettől”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Szándék az OCSP szolgáltatás megszüntetésére”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Let&#39;s Encrypt megszünteti az Online Certificate Status Protocol (OCSP) támogatását a tanúsítvány-visszavonási listák (CRL-ek) javára, a magánélet védelme és az erőforrás-hatékonyság miatt.”</li>
+<li>„Ez a változás nem fogja érinteni a weboldalakat vagy a látogatókat, de hatással lehet néhány nem böngésző szoftverre; a felhasználóknak javasolt ellenőrizni, hogy szoftverük működik-e OCSP URL nélkül.”</li>
+<li>„A CA/Böngésző Fórum döntése értelmében az OCSP opcionálissá válik a nyilvánosan megbízható tanúsítványhatóságok (CA-k) számára, kivéve a Microsoftot; az OCSP szolgáltatások leállításának ütemtervét akkor jelentik be, amikor a Microsoft is opcionálissá teszi azt.”</li>
+</ul>
+]]></description>
+            <link>https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Szándék az OCSP szolgáltatás megszüntetésére”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Linux audió rétegének rejtelmei (és még több)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A cikk átfogó áttekintést nyújt a Linux audio stackről, magyarázva a hang alapjait, az emberi hangérzékelést és a digitális hangfeldolgozást.”</li>
+<li>„A Linux audio stack kulcsfontosságú elemei közé tartozik az ALSA az alacsony szintű hardvervezérléshez, a JACK az alacsony késleltetésű valós idejű audióhoz, és a PulseAudio a magasabb szintű audió kezeléshez, miközben a PipeWire egy egységesítő megoldásként jelenik meg.”</li>
+<li>„A PipeWire-t sokoldalú lehetőségként emelik ki, amely integrálja a JACK és a PulseAudio funkcióit, és a jövőbeli Linux-disztribúciókban potenciálisan helyettesítheti ezeket.”</li>
+</ul>
+]]></description>
+            <link>https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„A Linux audió rétegének rejtelmei (és még több)”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Az Egyesült Államok nyilvánosságra hozza a nukleáris robbanófejek számát; helyreállítja a nukleáris átláthatóságot”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az Amerikai Tudósok Szövetsége (FAS) dicséri az Egyesült Államokat, amiért nyilvánosságra hozta nukleáris robbanófej számait, ezzel növelve a nukleáris átláthatóságot.”</li>
+<li>„2023 szeptemberében az Egyesült Államoknak 3 748 nukleáris robbanófeje van, és tavaly mindössze 69-et szereltek le, ami a legalacsonyabb szám 1994 óta.”</li>
+<li>„A Biden-kormányzat nyilvánosságra hozatala visszaállítja a Trump-kormányzat által felfüggesztett átláthatóságot, és a FAS arra ösztönzi a többi nukleáris államot, hogy hasonló átláthatóságot alkalmazzanak a bizalmatlanság és félretájékoztatás megelőzése érdekében.”</li>
+</ul>
+]]></description>
+            <link
+      >https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Az Egyesült Államok nyilvánosságra hozza a nukleáris robbanófejek számát; helyreállítja a nukleáris átláthatóságot”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Lisp C#-ben”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Sharpl egy egyedi Lisp értelmező, amely C# nyelven íródott, körülbelül 4000 sornyi kóddal és külső függőségek nélkül, így könnyen beágyazható.”</li>
+<li>„A főbb jellemzők közé tartoznak a párok, tömbök, térképek, metóduskompozíciók, változó számú argumentumok (varargs), egyesített iterátorprotokoll és egy fixpontos decimális típus, többek között.”</li>
+<li>„Támogatja a lexikális és dinamikus kötéseket, a farokhívás optimalizálását a verem túlcsordulásának megelőzése érdekében, valamint részletes hibajelentést biztosít sorszámokkal.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/codr7/sharpl</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Lisp C#-ben”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Jellyfin: Jól vagyunk, komolyan”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Jellyfin több mint 24 000 dolláros költségvetéssel rendelkezik, amely 40 hónapnyi kiadást fedez, és arra kéri a felhasználókat, hogy irányítsák át adományaikat az általuk használt kliensek szerzőihez.”</li>
+<li>„Ez a kérés összhangban van a Jellyfin „nincs fizetett fejlesztés” irányelvével, mivel az adományok önkéntesek, és a projekt újraértékeli a helyzetet, ha a pénzeszközök 12 hónapra elegendő szintre csökkennek.”</li>
+<li>„A közösség tagjai pozitívan reagálnak, tervekkel támogatják az ügyfél szerzőit, és érdeklődnek a konkrét ügyféltámogatás, például a WebOS iránt.”</li>
+</ul>
+]]></description>
+            <link>https://forum.jellyfin.org/t-we-re-good-seriously</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Jellyfin: Jól vagyunk, komolyan”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Tű”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Pin típus és a rögzítés fogalma alapvető, de gyakran félreértett elemei a Rust aszinkron ökoszisztémájának.”</li>
+<li>„A Pin bevezetésre került az önhivatkozó típusok támogatására az aszinkron Rustban, biztosítva, hogy az objektumok ne mozduljanak el, miután önhivatkozásokat tartalmaznak, ellentétben a Mojóval, amely eleve kezeli az objektumazonosságot.”</li>
+<li>„Annak ellenére, hogy szükséges, a Pin jelentős bonyolultságot vezet be a felhasználók számára a szintaktikai cukor és támogatás hiánya miatt, ami olyan problémákhoz vezet, mint az újrakölcsönzés, a rögzített vetületek és az interakciók a Drop trait-tel.”</li>
+</ul>
+]]></description>
+            <link>https://without.boats/blog/pin/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Tű”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Jiff: Dátum- és időkezelő könyvtár Rust nyelvhez”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Jiff egy új Rust dátum-idő könyvtár, amely a könnyű használatra és a teljesítményre összpontosít, és amelyet a JavaScript Temporal javaslata inspirált.”</li>
+<li>„Olyan funkciókat kínál, mint a magas szintű dátum-idő primitívek, zökkenőmentes időzóna-adatbázis integráció, DST-tudatos aritmetika, formázás, elemzés és opcionális Serde támogatás.”</li>
+<li>„A Jiff kettős licenc alatt áll, az MIT vagy az UNLICENSE licenc alatt, támogatja a Unix és a Windows rendszereket, és Rust 1.70.0 vagy újabb verziót igényel.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/BurntSushi/jiff</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Jiff: Dátum- és időkezelő könyvtár Rust nyelvhez”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Nincs többé kék péntek”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy július 19-i jelentős leállás, amelyet egy kernel illesztőprogram frissítése okozott, globális Windows rendszerösszeomlásokhoz vezetett, rávilágítva a biztonságosabb frissítési mechanizmusok szükségességére.”</li>
+<li>„Az eBPF (extended Berkeley Packet Filter), amelyet már használnak a Linuxban, egy biztonságos kernel végrehajtási környezet, amely megakadályozhatja az ilyen összeomlásokat, és hamarosan támogatni fogja a Windows is.”</li>
+<li>„Az eBPF programok biztonsági ellenőrzésen esnek át és sandbox környezetben futnak, ami olyan előnyöket kínál, mint a fokozott biztonság és az alacsonyabb erőforrás-felhasználás. Olyan cégek alkalmazzák őket, mint a Cisco, a Google és a Meta a biztonság és megfigyelhetőség érdekében.”</li>
+</ul>
+]]></description>
+            <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Nincs többé kék péntek”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Elemezzen, ne érvényesítsen (2019)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A bejegyzés hangsúlyozza a „Parse, don’t validate” elvet, amely az adatok elemzését szorgalmazza az információk megőrzése érdekében a típusrendszerben, ahelyett, hogy azokat érvényesítéssel eldobnánk.”</li>
+<li>„Elmagyarázza, hogyan alakíthatják a Haskellhez hasonló nyelvekben a típusvezérelt tervezés révén a részleges függvényeket teljes függvényekké az argumentumtípusok megerősítésével, például a <code>NonEmpty</code> listák használatával.”</li>
+<li>„A gyakorlati tanácsok közé tartozik a pontos adatstruktúrák használata, a refaktorálás a bizonyítási terhek felfelé tolása érdekében, valamint a denormalizált adatábrázolások elkerülése a program megbízhatóságának és biztonságának javítása érdekében.”</li>
+</ul>
+]]></description>
+            <link>https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Elemezzen, ne érvényesítsen (2019)”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Amikor a ChatGPT összefoglal, valójában nem tesz semmi ilyesmit”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A szerző a ChatGPT és más generatív mesterséges intelligenciák alapjait kutatja és tárgyalja, azzal a céllal, hogy reális nézőpontokat nyújtson a jelenlegi felhajtással szemben.”</li>
+<li>„Egy fontos felismerés, hogy a ChatGPT valójában nem összegzi a tartalmat, hanem csupán lerövidíti azt, gyakran kihagyva lényeges részleteket és javaslatokat, ahogy azt egy 50 oldalas tanulmány ember által készített összefoglalójával való összehasonlítás is bizonyítja.”</li>
+<li>„Ez a korlátozás abból adódik, hogy az összegzés megértést igényel, amivel a ChatGPT nem rendelkezik, ami szkepticizmushoz vezet az LLM-ek (nagy nyelvi modellek) megbízhatóságával kapcsolatban a gyakorlati üzleti alkalmazások terén.”</li>
+</ul>
+]]></description>
+            <link>https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Amikor a ChatGPT összefoglal, valójában nem tesz semmi ilyesmit”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A Ryanair megnyeri a képernyőkaparási ügyet a Booking.com ellen az amerikai bírósági ítéletben”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy amerikai bíróság úgy döntött, hogy a Booking.com megsértette a Számítógépes Csalás és Visszaélés Elleni Törvényt azzal, hogy engedély nélkül hozzáfért a Ryanair weboldalához, ezzel támogatva a Ryanair álláspontját az engedély nélküli adatgyűjtéssel szemben.”</li>
+<li>„A Delaware Kerületi Bíróság esküdtszéke bűnösnek találta a Booking.com-ot jogosulatlan hozzáférés szándékos csalás céljából vádjában, és elutasította a Booking.com rágalmazásra és tisztességtelen versenyre vonatkozó viszontkereseteit.”</li>
+<li>„A Ryanair vezérigazgatója, Michael O&#39;Leary reméli, hogy az ítélet csökkenti az illegális adatgyűjtést és a túlszámlázást, míg a Booking.com fellebbezést tervez, azzal érvelve, hogy a viteldíjak összehasonlítása előnyös a fogyasztói választás szempontjából.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„A Ryanair megnyeri a képernyőkaparási ügyet a Booking.com ellen az amerikai bírósági ítéletben”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Senki sem várja el a fiatal férfiaktól, hogy bármit is tegyenek, és ők erre semmittevéssel válaszolnak (2022)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Rob Henderson bejegyzése a fiatal férfiakkal szembeni társadalmi elvárások hiányáról és annak negatív következményeiről szól, beleértve a megnövekedett munkanélküliségi és börtönbe zárási arányokat.”</li>
+<li>„Hivatkozik Kathryn Edin és Maria Kefalas &quot;Promises I Can Keep&quot; című művére, amely azt vizsgálja, miért helyezik az alacsony jövedelmű nők gyakran az anyaságot a házasság elé, és ezt a fiatal férfiak rossz viselkedésének tulajdonítja.”</li>
+<li>„Henderson kritizálja a felső osztályt, amiért aláássák a családi stabilitás normáit, miközben biztosítják, hogy saját gyermekeik stabil otthonokban nőjenek fel, és azt állítja, hogy a fiatal férfiaknak magas elvárásokra van szükségük a boldoguláshoz.”</li>
+</ul>
+]]></description>
+            <link>https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Senki sem várja el a fiatal férfiaktól, hogy bármit is tegyenek, és ők erre semmittevéssel válaszolnak (2022)”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„James C. Scott, a Seeing Like a State című könyv szerzője, elhunyt”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nitter.poast.org/GerardoMunck/status/1815059432382067053</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„James C. Scott, a Seeing Like a State című könyv szerzője, elhunyt”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Eza: A modern, karbantartott helyettesítő az ls parancshoz”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az eza egy modern helyettesítője az ls parancsnak Unix és Linux rendszerekben, amely továbbfejlesztett funkciókat és jobb alapértelmezéseket kínál.”</li>
+<li>„A főbb jellemzők közé tartozik a színkódolt fájltípusok, a symlink támogatás, a kiterjesztett attribútumok, a Git integráció és az ember által olvasható dátumok.”</li>
+<li>„Az eza célja, hogy felhasználóbarátabb és funkciókban gazdagabb legyen, további támogatással a hiperhivatkozásokhoz, csatolási pont részletekhez, SELinux kontextushoz és élénk terminálszínekhez.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/eza-community/eza</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Eza: A modern, karbantartott helyettesítő az ls parancshoz”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mennyi pénzt tudunk összegyűjteni átláthatóan idióta startupok számára?”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://www.smbc-comics.com/comic/investment-2</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Mennyi pénzt tudunk összegyűjteni átláthatóan idióta startupok számára?”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Egy forráskódhoz hozzáférhető számlázási rendszert, amelyen 18 hónapot dolgoztam”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A platform mély integrációt kínál a Stripe-pal, lehetővé téve a számlázás, az adókezelés és az automatizált munkafolyamatok átfogó irányítását.”</li>
+<li>„A funkciók közé tartozik az adókulcsok különböző szinteken történő kezelése, egyedi előfizetési tervek létrehozása, valamint olyan eszközökkel való integráció, mint a Slack és az e-mail szolgáltatók.”</li>
+<li>„A rendszer támogatja a skálázhatóságot, az önálló üzemeltetést, és részletes üzleti betekintést nyújt, mint például az előfizetési lemorzsolódás és az élettartam értéke.”</li>
+</ul>
+]]></description>
+            <link>https://billabear.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Egy forráskódhoz hozzáférhető számlázási rendszert, amelyen 18 hónapot dolgoztam”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A munkások döntöttek: Otthon maradnak”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Dell azon politikáját, amely az irodai jelenlétet követelte meg az előléptetésekhez, nagyrészt figyelmen kívül hagyták, mivel sok alkalmazott inkább otthon maradt.”</li>
+<li>„A Gartner jelentése szerint az alkalmazottak 48%-a úgy véli, hogy a vállalati előírások inkább a vezetők preferenciáit részesítik előnyben a saját szükségleteik helyett.”</li>
+<li>„A távmunkát egyre inkább előnyben részesítik az előnyei miatt, beleértve az ingázás hiányát, a jobb munka-magánélet egyensúlyt, a költségmegtakarítást és a rugalmasságot, miközben a magas teljesítményű munkavállalók távoli lehetőségeket keresnek.”</li>
+</ul>
+]]></description>
+            <link>https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„A munkások döntöttek: Otthon maradnak”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Apollo DN10000: Négyprocesszoros/128 MB RAM munkaállomás 1988-ból [pdf]”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Apollo DN10000: Négyprocesszoros/128 MB RAM munkaállomás 1988-ból [pdf]”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A CrowdStrike Falcon Sensor összefüggésbe hozható a Linux kernel pánikokkal és összeomlásokkal”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A CrowdStrike Falcon Sensor szoftvere rendszerösszeomlásokat okozott mind Windows, mind Linux rendszereken, beleértve a Red Hat Enterprise Linux 9.4-et, a Debiant és a Rocky Linuxot is.”</li>
+<li>„A Falcon Sensor ideiglenes letiltása stabilizálja az érintett rendszereket, és a CrowdStrike egy gyors helyreállító eszközt tesztel a probléma megoldására.”</li>
+<li>„A zavar jelentős globális hatásokkal járt, beleértve a repülőjáratok törlését és az egészségügyi késedelmeket, a Microsoft becslése szerint 8,5 millió Windows gépet érintve.”</li>
+</ul>
+]]></description>
+            <link>https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„A CrowdStrike Falcon Sensor összefüggésbe hozható a Linux kernel pánikokkal és összeomlásokkal”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Empátia a felhasználó iránt, aki a szoftverével szexel”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az intim használatra szánt technológia fejlesztése, mint például a Buttplug alkalmazások, empátiát és a felhasználók egyedi igényeinek és kontextusainak figyelembevételét igényli, beleértve a használhatóságot izgalom közben és a hardveres kapcsolat megszakadásait.”</li>
+<li>„A szexuális technológiai kódok megosztása olyan platformokon, mint a GitHub, segíthet a bevált gyakorlatok kialakításában, de a fejlesztőknek óvatosnak kell lenniük az explicit médiával, és fontolóra kell venniük az érzékeny anyagok saját tárhelyen történő tárolását.”</li>
+<li>„A Buttplug projekt hangsúlyozza a biztonságot, az autonómiát és az emberi jogokat, felelősségteljes viselkedést és oktatást ösztönözve küldetésnyilatkozatában.”</li>
+</ul>
+]]></description>
+            <link>https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Empátia a felhasználó iránt, aki a szoftverével szexel”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kezdeti részletek arról, hogy miért omlott össze a CrowdStrike CSAgent.sys”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A CrowdStrike CSAgent.sys összeomlott egy hibás utasítás miatt, amely egy érvénytelen memória címet érintett.”</li>
+<li>„A problémát egy nem leképezett cím okozta egy mutatók tömbjéből, ami összeomláshoz vezetett a memória elérésekor.”</li>
+<li>„A konkrét hibát okozó utasítás a &quot;mov r9d, [r8]&quot; volt, ahol az R8 az érvénytelen címet tartalmazta.”</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/patrickwardle/status/1814343502886477857</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Kezdeti részletek arról, hogy miért omlott össze a CrowdStrike CSAgent.sys”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mi a jelentősége a "j" karakternek a római szám végén? (2013)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Mi a jelentősége a &quot;j&quot; karakternek a római szám végén? (2013)”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Minuteman rakéta kommunikáció”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A szerző tervezi a tárhelyszolgáltató platform megváltoztatását, ami több költséggel jár, és olvasói támogatást keres adományok formájában, cserébe exkluzív tartalmat és korai hozzáférést kínálva az új YouTube videókhoz a támogatóknak.”</li>
+<li>„Az Egyesült Államok 400 Minuteman III interkontinentális ballisztikus rakétát tart fenn, amelyeket a Légierő 90., 91. és 341. Rakétaezredei kezelnek, és minden tíz kilövőállomásból álló csoportot egyetlen Rakétariasztó Létesítmény felügyel.”</li>
+<li>„A Minuteman kommunikációs rendszerei közé tartoznak a külső rendszerek, mint például az LF, HF, UHF és SHF antennák, valamint a belső rendszerek, mint a Hardened Intersite Cable System (HICS), a jövőbeni fejlesztések pedig a Sentinel program keretében vannak tervezve.”</li>
+</ul>
+]]></description>
+            <link>https://computer.rip/2024-07-20-minuteman-missile-communications.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Minuteman rakéta kommunikáció”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Szóval azt hiszed, ismered a dobozárnyékokat?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A bejegyzés a box shadow-ok kreatív és szokatlan felhasználási módjait tárgyalja a CSS-ben, túl a tipikus felhasználói felület javításokon.”</li>
+<li>„A szerző kísérletezett a dobozárnyékokkal minimalista művészet, animációk, 3D hatások és még sugárkövetés terén is, bemutatva ennek a CSS funkciónak a sokoldalúságát.”</li>
+<li>„A kísérletek rávilágítanak a modern hardverek, például az M1 laptop teljesítményére, amikor összetett vizuális effekteket kezelnek dobozárnyékok használatával.”</li>
+</ul>
+]]></description>
+            <link>https://dgerrells.com/blog/how-not-to-use-box-shadows</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Szóval azt hiszed, ismered a dobozárnyékokat?”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Az X.com nem hajlandó megnyílni, ha a Firefox szigorú nyomkövetés-védelme be van kapcsolva”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://x.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Az X.com nem hajlandó megnyílni, ha a Firefox szigorú nyomkövetés-védelme be van kapcsolva”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A felhasználó visszatér a 100 ezer órás tiltás után, hogy folytassa a beszélgetést, ami miatt kitiltották”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy Etherwind nevű felhasználó 11 év, azaz 100 000 óra kitiltás után visszatért a Something Awful fórumokra, hogy folytassa azt az asztali játék vitát, amely 2013-ban a kitiltásához vezetett.”</li>
+<li>„Etherwindet eredetileg azért tiltották ki, mert tréfásan halált kívánt egy szerzőnek, és visszatérése humorral és ámulattal találkozott a fórum többi felhasználója részéről.”</li>
+<li>„A hosszú tilalom ellenére Etherwind komikus lehetőségként tekintett a visszatérésére, és végül elhagyta a fiókot, miután újrakezdte a vitát.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„A felhasználó visszatér a 100 ezer órás tiltás után, hogy folytassa a beszélgetést, ami miatt kitiltották”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„rr – rögzítő és visszajátszó hibakereső C/C++ nyelvhez”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az rr egy hibakereső eszköz C/C++ nyelvhez Linuxon, amely a gdb-t kiegészítve lehetővé teszi a determinisztikus visszajátszást és a hatékony visszafelé történő végrehajtást.”</li>
+<li>„Támogatja különböző alkalmazások rögzítését és visszajátszását, kezeli a többfolyamatú munkaterheléseket, és integrálódik a gdb szkriptekkel és IDE-kkel.”</li>
+<li>„Az rr figyelemre méltó alacsony erőforrásigénye, a szabványos Linux kernelre való telepíthetősége, valamint az időszakosan jelentkező hibák hibakeresésének megkönnyítése és felgyorsítása miatt.”</li>
+</ul>
+]]></description>
+            <link>https://rr-project.org/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„rr – rögzítő és visszajátszó hibakereső C/C++ nyelvhez”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Intel vs. Samsung vs. TSMC”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az Intel, a Samsung és a TSMC fokozzák a versenyt a bérgyártási piacon, mivel a hagyományos síkbeli méretezés előnyei csökkennek, és a 3D tranzisztorokra, chipletekre és fejlett csomagolási technológiákra összpontosítanak.”</li>
+<li>„Minden vállalat olyan szabványokat használ, mint az UCIe (Universal Chiplet Interconnect Express) és a BoW (Bridge of Wires) a chiplet csatlakoztatásához, az Intel pedig az EMIB-et (Embedded Multi-die Interconnect Bridge) alkalmazza, míg a Samsung és a TSMC a 2.5D és 3D-IC (Integrated Circuit) megoldásokat kutatja.”</li>
+<li>„A öntödék az angström skála felé haladnak a folyamatcsomópontokban, és olyan területeken innoválnak, mint a hátoldali áramellátás és az üvegalapú hordozók, azzal a céllal, hogy testreszabott, nagy teljesítményű megoldásokat nyújtsanak hatékonyan.”</li>
+</ul>
+]]></description>
+            <link>https://semiengineering.com/intel-vs-samsung-vs-tsmc/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Intel vs. Samsung vs. TSMC”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Joe Biden visszalép a demokrata jelöltségtől”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/JoeBiden/status/1815080881981190320</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Joe Biden visszalép a demokrata jelöltségtől”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Google Elosztott Felhő légmentesen zárt készülék”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Google Distributed Cloud légmentesen zárt készüléke, amely 2024. július 17-én kerül piacra, felhő- és mesterséges intelligencia képességeket hoz el taktikai peremkörnyezetekbe, mint például katasztrófa sújtotta területek és távoli kutatóállomások.”</li>
+<li>„A készülék valós idejű helyi adatfeldolgozást támogat AI felhasználási esetekhez, mint például objektumfelismerés és orvosi képalkotás elemzése, teljes elszigeteltséggel a nyilvános internettől a biztonság és megfelelőség érdekében.”</li>
+<li>„A Department of Defense Impact Level 5 akkreditációt kínál, így alkalmas katasztrófavédelemre, ipari automatizálásra, szállításra, logisztikára, valamint korlátozott szövetségi és védelmi munkaterhelésekre.”</li>
+</ul>
+]]></description>
+            <link
+      >https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Google Elosztott Felhő légmentesen zárt készülék”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Bármely kellően rossz szoftverfrissítés megkülönböztethetetlen egy kibertámadástól”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/leighhoneywell/status/1814278230704111792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Bármely kellően rossz szoftverfrissítés megkülönböztethetetlen egy kibertámadástól”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Áradat hamis Mac App Store értékelésekből”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Jeff Johnson jelentette, hogy az Egyesült Államok Mac App Store-jában a legjobban fizetett alkalmazások esetében hamis értékelések száma megugrott, ami 2024. június 11. és július 19. között a 40 legjobban fizetett alkalmazás közül 8-at érintett.”</li>
+<li>„A hamis értékelések, gyakran 5 csillagosak általános vagy értelmetlen szöveggel, valószínűleg az alkalmazás értékelésének növelésére szolgáltak, azzal a gyanúval, hogy egyetlen fejlesztő állhat mögöttük, hogy elrejtse saját alkalmazásának hamis értékeléseit.”</li>
+<li>„Annak ellenére, hogy jelentették az Apple-nek, a probléma továbbra sincs megoldva, a BetterSnapTool és a Vinegar fejlesztői elismerték és jelentették a problémát az Apple-nek.”</li>
+</ul>
+]]></description>
+            <link>https://lapcatsoftware.com/articles/2024/7/1.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Áradat hamis Mac App Store értékelésekből”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Az árokomlások több száz munkás életét követelték az Egyesült Államokban az elmúlt évtizedben”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az elmúlt évtizedben az árokomlások több mint 250 munkás halálát okozták az Egyesült Államokban, amelyek közül sok megelőzhető lett volna az alapvető biztonsági előírások betartásával.”</li>
+<li>„Annak ellenére, hogy az OSHA (Munkahelyi Biztonsági és Egészségvédelmi Hivatal) szabályozásai és bírságai léteznek, sok vállalat továbbra is megsérti a biztonsági előírásokat minimális következményekkel, mivel a büntetőjogi vádak ritkák, és a bírságokat gyakran csökkentik vagy figyelmen kívül hagyják.”</li>
+<li>„Egy NPR, a Texas Public Radio és az 1A által végzett vizsgálat hangsúlyozza a szigorúbb végrehajtás és elszámoltathatóság sürgető szükségességét a jövőbeli tragédiák megelőzése érdekében.”</li>
+</ul>
+]]></description>
+            <link>https://text.npr.org/g-s1-9028</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Az árokomlások több száz munkás életét követelték az Egyesült Államokban az elmúlt évtizedben”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Classic Mac OS erőforrásainak kezelése a ResEdit-ben”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Macintosh fájlrendszer két ágat tartalmazott: egy adatágat és egy erőforráságat, utóbbiban tárolták a strukturált adatokat, mint például ikonokat, párbeszédablakokat és kódrészleteket.”</li>
+<li>„Az Apple ResEdit, egy 1994-ben utoljára frissített erőforrás-szerkesztő, lehetővé tette a felhasználók számára a rendszerfájlok, párbeszédpanelek és billentyűzetkiosztások testreszabását, de biztonsági kockázatokat jelentett, mivel a rosszindulatú szoftverek gyakran kihasználták az erőforrás-forkokat.”</li>
+<li>„A Mac OS X rendszerben az erőforrás villák kiterjesztett attribútumokká alakultak át, és az alkalmazás erőforrásai most csomagokba vannak rendezve, a modern alkalmazások pedig aláírásokkal vannak lezárva, megakadályozva azokat a kiterjedt testreszabásokat, amelyek korábban a ResEdit segítségével lehetségesek voltak.”</li>
+</ul>
+]]></description>
+            <link>https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„A Classic Mac OS erőforrásainak kezelése a ResEdit-ben”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A 21. században szinte minden USA-beli közlekedési halálesetet feltérképeztem”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Nationwide Vision-Zero Térkép egy új kezdeményezés, amelynek célja a közúti halálesetek és súlyos sérülések megszüntetése.”</li>
+<li>„Ez a térkép átfogó áttekintést nyújt az ország közlekedésbiztonsági adatairól, segítve a magas kockázatú területek azonosítását és célzott biztonsági intézkedések bevezetését.”</li>
+<li>„A kezdeményezés egy szélesebb körű Vision-Zero stratégia része, amelyet különböző városok és országok fogadtak el az adatalapú megközelítések és a közösségi részvétel révén történő közlekedésbiztonság javítása érdekében.”</li>
+</ul>
+]]></description>
+            <link>https://roadway.report</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„A 21. században szinte minden USA-beli közlekedési halálesetet feltérképeztem”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kutató hibát talál az a16z weboldalán, amely néhány vállalati adatot felfedett”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy biztonsági kutató sebezhetőséget fedezett fel az a16z crypto aldomainjében, amely érzékeny információkat, például AWS kulcsokat és adatbázis tartalmakat tárt fel.”</li>
+<li>„A kiszivárgott hitelesítő adatok hozzáférést biztosítottak az AWS-hez, a Salesforce-hoz, a Mailgun-hoz, valamint egy, a személyes azonosításra alkalmas információkat (PII) tartalmazó adatbázishoz.”</li>
+<li>„A kutató nem kapott hibavadász jutalmat, mivel a nyilvános közzététel után nem találtak privát kapcsolatfelvételi módot, amit igazságtalannak tartottak.”</li>
+</ul>
+]]></description>
+            <link>https://www.kibty.town/blog/a16z/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Kutató hibát talál az a16z weboldalán, amely néhány vállalati adatot felfedett”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Garázs: Nyílt forráskódú elosztott objektumtároló”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Garage egy nyílt forráskódú, elosztott objektumtároló szolgáltatás, amelyet önálló üzemeltetésre terveztek, és három zónában történő adatmásolással biztosítja a redundanciát.”</li>
+<li>„A főbb jellemzők közé tartozik a könnyű és hatékony telepítés, a több adatközpontban való sokoldalúság, valamint a hálózati és hardverhibákkal szembeni ellenálló képesség.”</li>
+<li>„Támogatja a heterogén hardvereket, megvalósítja az Amazon S3 API-t a kompatibilitás érdekében, és az NGI POINTER, az NLnet / NGI0 Entrust, valamint az Európai Unió Horizon 2021 kutatási és innovációs programja finanszírozza.”</li>
+</ul>
+]]></description>
+            <link>https://garagehq.deuxfleurs.fr/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Garázs: Nyílt forráskódú elosztott objektumtároló”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Több műhold adatai rekordot döntő metánszivárgást mutatnak egy kútkifúvásból”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Több műhold adatai rekordot döntő metánszivárgást mutatnak egy kútkifúvásból”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Typst: Egy könnyen megtanulható alternatíva a LaTex számára”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Typst egy új, felhasználóbarát, jelölésalapú szedési rendszer, amelyet úgy terveztek, hogy olyan erős legyen, mint a LaTeX, beépített jelölésekkel, rugalmas funkciókkal, integrált szkriptekkel és gyors fordítási időkkel.”</li>
+<li>„A Typst fordító és CLI (parancssori felület) elérhető a helyi dokumentumok fordításához, egy ingyenes online szerkesztő pedig jelenleg nyilvános béta verzióban érhető el a jobb felhasználói élmény érdekében.”</li>
+<li>„A felhasználók csatlakozhatnak a Typst közösséghez a Discordon, hogy támogatást kapjanak és hozzáférjenek a közösség által létrehozott erőforrásokhoz, valamint lehetőségük van hibák jelentésére vagy funkciók javaslatára.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/typst/typst</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Typst: Egy könnyen megtanulható alternatíva a LaTex számára”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Hirdetések által finanszírozott mesterséges intelligencia – a GPT-4o mini inflexiós pont”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az OpenAI elindította a GPT-4o mini modellt, amelynek ára 0,15 dollár 1 millió bemeneti tokenenként és 0,60 dollár 1 millió kimeneti tokenenként, így olcsóbb és intelligensebb, mint a GPT-3.5 Turbo.”</li>
+<li>„A GPT-4o mini alacsony költsége lehetővé teszi az AI által generált tartalom létrehozását, amelyet teljes mértékben hirdetési bevételek támogathatnak, potenciálisan átalakítva az online tartalomkészítést.”</li>
+<li>„Például egy blogbejegyzés generálása GPT-4o mini segítségével $0.00051525-ba kerül, míg az oldalletöltésenkénti hirdetési bevétel körülbelül $0.0026 lehet, ami hozzávetőlegesen $0.002 nettó nyereséget eredményez oldalletöltésenként.”</li>
+</ul>
+]]></description>
+            <link>https://batchmon.com/blog/ai-cheaper-than-ads/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Hirdetések által finanszírozott mesterséges intelligencia – a GPT-4o mini inflexiós pont”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„No Uptime Hosting (2006)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nouptime.com/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„No Uptime Hosting (2006)”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Soha ne frissítsen semmit”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A cikk egy ellentmondásos nézetet mutat be a gyakori szoftverfrissítésekkel szemben, kiemelve az általuk okozott zavarokat és erőforrás-felhasználást.”</li>
+<li>„Egy stabilabb megközelítést javasol, olyan példákat használva, mint a Lazarus IDE és a FreeBSD stabil csomagjai, hogy csökkentsék a folyamatos frissítések szükségességét.”</li>
+<li>„A szerző azt javasolja, hogy lassítsák le a frissítések ütemét, és helyezzék a hangsúlyt a hosszú távú stabilitásra és a nem törő változtatásokra, hogy megkönnyítsék a karbantartást és csökkentsék a fejlesztők kognitív terhelését.”</li>
+</ul>
+]]></description>
+            <link>https://blog.kronis.dev/articles/never-update-anything</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Soha ne frissítsen semmit”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A nyilvános WC-k eltűnnek, és ez egy polgári katasztrófa”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A nyilvános WC-k eltűnnek, ami polgári válsághoz vezet, különösen az egészségügyi problémákkal küzdő és a marginalizált csoportokat érintve.”</li>
+<li>„Guido Corradi, egy pszichológiai kutató, hangsúlyozza a nyilvános illemhelyek rossz állapotát a tehetős nyugati országokban, kiemelve azok hatását a közegészségügyre és az emberi méltóságra.”</li>
+<li>„Tanulmányok azt mutatják, hogy a szegényebb, kevésbé iskolázott egyének és a nők több negatív élményt tapasztalnak a nyilvános mosdókkal kapcsolatban, ami rámutat a jobb létesítmények és a közvélemény-tudatossági kampányok szükségességére.”</li>
+</ul>
+]]></description>
+            <link>https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„A nyilvános WC-k eltűnnek, és ez egy polgári katasztrófa”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Doom a Playdate-en”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Doom egy korai verzióját sikeresen átültették a Playdate nevű kézi játékkonzolra.”</li>
+<li>„A fejlesztő jelentős kihívásokkal szembesült a makefile-okkal, fordítókkal és linker problémákkal kapcsolatban, különösen a libc-ben hiányzó hivatkozásokkal, amelyeket a linker beállításainak módosításával és a Playdate SDK átalakításával oldottak meg.”</li>
+<li>„A játék most már fut mind a szimulátoron, mind a tényleges hardveren, lehetővé téve a fejlesztő számára, hogy a játék irányítására, bemutatására és optimalizálására összpontosítson.”</li>
+</ul>
+]]></description>
+            <link>https://devforum.play.date/t/doom-on-playdate/852</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Doom a Playdate-en”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az Európai Uniónak továbbra is finanszíroznia kell a szabad szoftvereket”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pad.public.cat/lettre-NCP-NGI</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Az Európai Uniónak továbbra is finanszíroznia kell a szabad szoftvereket”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A CrowdStrike fiaskó útmutatót nyújt az amerikai sebezhetőségekről az ellenfelek számára”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy szoftverfrissítési hiba pénteken digitális összeomlást okozott, amely repülőtereket, kórházakat és tévéállomásokat érintett, rávilágítva az összekapcsolt hálózatok törékenységére.”</li>
+<li>„Az incidens emberi hibából adódott, nem pedig egy nemzetállami támadásból, és a CrowdStrike szoftverét érintette, amelynek célja a kibertámadások semlegesítése.”</li>
+<li>„Ez az esemény rávilágít a digitális ellenálló képesség javításának szükségességére, annak ellenére, hogy az amerikai kormány és a magánszektor folyamatosan törekszik a kiberbiztonság fokozására.”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„A CrowdStrike fiaskó útmutatót nyújt az amerikai sebezhetőségekről az ellenfelek számára”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Google rövidített linkjei jövőre megszűnnek működni”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Google rövidített linkjei (goo.gl) 2025. augusztus 25. után nem fognak működni, ami 404-es hibát eredményez minden ilyen link esetében.”</li>
+<li>„2024. augusztus 23-tól a goo.gl linkek egy köztes oldalt fognak megjeleníteni, amely figyelmezteti a felhasználókat a közelgő leállásra.”</li>
+<li>„A Google azt tanácsolja a fejlesztőknek, hogy frissítsék az érintett linkeket a zavarok elkerülése érdekében, megjegyezve, hogy a goo.gl szolgáltatást eredetileg 2019-ben állították le, és javasolták a Firebase Dynamic Links használatát, amelyet szintén megszüntettek.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„A Google rövidített linkjei jövőre megszűnnek működni”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Az akadémikusok megdöbbentek, miután a T&F eladta kutatásaikhoz való hozzáférést a Microsoft AI-nak”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Az akadémikusok megdöbbentek, miután a T&amp;F eladta kutatásaikhoz való hozzáférést a Microsoft AI-nak”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Technikai részletek a mai kimaradásról”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„2024. július 19-én a CrowdStrike kiadott egy érzékelő konfigurációs frissítést Windows rendszerekhez, amely logikai hiba miatt rendszerösszeomlásokat és kék halálokat (BSOD) okozott, amit körülbelül 1,5 órán belül javítottak.”</li>
+<li>„A probléma azokat az ügyfeleket érintette, akik a Falcon szenzort használták Windows 7.11-es és újabb verzióin, és online voltak 04:09 UTC és 05:27 UTC között, egy problémás, 291-es csatornafájl miatt, amely a névvel ellátott csővezeték végrehajtását értékelte.”</li>
+<li>„A Linux vagy macOS rendszert futtató rendszerek nem voltak érintettek, és a gyökérok elemzése folyamatban van a jövőbeli problémák megelőzése érdekében.”</li>
+</ul>
+]]></description>
+            <link>https://www.crowdstrike.com/blog/technical-details-on-todays-outage/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Technikai részletek a mai kimaradásról”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Crowdstrike frissítés: Windows kékhalál és boot loopok”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Több felhasználó a munkahelyen Windows kék halál képernyőkkel és rendszerindítási hurkokkal találkozik, ami valószínűleg egy nemrégiben történt Crowd Strike alkalmazásfrissítéshez köthető.”</li>
+<li>„Az IT osztály megjegyezte, hogy néhány szerver offline állapotba került, és egy helyi rádióállomás hasonló laptop problémákról és egy leállt telefonrendszerről számolt be.”</li>
+<li>„Ezek az incidensek Ausztráliában történnek, de eddig még nem volt róluk híradás.”</li>
+</ul>
+]]></description>
+            <link>https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Crowdstrike frissítés: Windows kékhalál és boot loopok”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Crowdstrike leállása széleskörű problémákat okoz”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy globális informatikai zavar keletkezett a CrowdStrike Holdings kiberbiztonsági cég hibás szoftverfrissítése miatt, amely számos Microsoft Windows rendszert érintett.”</li>
+<li>„Mind a Microsoft, mind a CrowdStrike kiadott javításokat a probléma megoldására, de a teljes helyreállítás várhatóan némi időt vesz igénybe.”</li>
+<li>„A helyzet kissé javult, de a félresikerült frissítés hatása még mindig érezhető világszerte.”</li>
+</ul>
+]]></description>
+            <link>https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„A Crowdstrike leállása széleskörű problémákat okoz”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az FCC megszavazta a börtön távközlési díjak korlátozását”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az FCC megszavazta a börtönök és fogdák telefon- és videóhívási díjainak jelentős csökkentését, a percdíjkorlátokat több mint felére csökkentve, és minden díjat, beleértve a letéti díjakat is, megtiltva.”</li>
+<li>„Ez a változás a bebörtönzött egyének 83%-át érinti, évente legalább 500 millió dollárt takarít meg a családoknak, és javítja a bebörtönzött egyének jólétét és visszailleszkedési sikerét.”</li>
+<li>„Jelentős bevételkiesés várható a börtön távközlési cégek, mint például az Aventiv és a ViaPath számára, miközben olyan államok, mint Massachusetts, Minnesota és Colorado már lépéseket tettek a börtönhívások ingyenessé tételére.”</li>
+</ul>
+]]></description>
+            <link
+      >https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Az FCC megszavazta a börtön távközlési díjak korlátozását”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Foliate: Olvasson e-könyveket stílusosan, navigáljon könnyedén”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Foliate egy nyílt forráskódú e-könyv olvasó, amely különböző formátumokat támogat, mint például az EPUB, Mobipocket, Kindle, FB2, CBZ és PDF, testreszabható olvasási beállításokkal.”</li>
+<li>„Olyan funkciókat kínál, mint az érintőpad és érintőképernyős navigáció, könyvjelzők, jegyzetek, valamint integráció olyan eszközökkel, mint a Wiktionary és a Google Fordító.”</li>
+<li>„A Foliate támogatja a jobbról balra írást, a függőleges írást és a fix elrendezéseket, és elérhető több Linux disztribúcióhoz vagy forráskód klónozással.”</li>
+</ul>
+]]></description>
+            <link>https://johnfactotum.github.io/foliate/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Foliate: Olvasson e-könyveket stílusosan, navigáljon könnyedén”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Több légitársaság működése megszakadt a Microsoft Azure leállása miatt”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Frontier Airlines körülbelül 35 percre leállította az összes járatot egy jelentős Microsoft Azure leállás miatt, amely befolyásolta a foglalást, a bejelentkezést és a beszállókártyák elérését.”</li>
+<li>„A 17:56-kor kezdődő kimaradás az Allegiant és a Sun Country Airlines rendszereit is megzavarta, több rendszert érintve az Egyesült Államok középső részén.”</li>
+<li>„A Frontier, amely több mint 100 repülőgépet üzemeltet, legalább három légitársaság egyike volt, amelyet érintettek a szolgáltatási zavarok.”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Több légitársaság működése megszakadt a Microsoft Azure leállása miatt”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mi kellene ahhoz, hogy újra létrehozzuk a Bell Labs-t?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az AT&amp;T, a Bell Labs révén, kulcsszerepet játszott Amerika telefoninfrastruktúrájának fejlesztésében, és jelentős találmányokat hozott létre, mint például a tranzisztor, a szilícium napelem és a UNIX operációs rendszer.”</li>
+<li>„A Bell Labs sikere részben az AT&amp;T monopóliumának köszönhető, amely támogatta a hosszú távú kutatási projekteket, és számos elismerést eredményezett, beleértve 10 Nobel-díjat is.”</li>
+<li>„AT&amp;T felbomlása Bell Labs felosztásához és hanyatlásához vezetett, ami megnehezíti egy ilyen intézmény újbóli létrehozását a korábbi egyedi történelmi és technológiai feltételek miatt.”</li>
+</ul>
+]]></description>
+            <link>https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Mi kellene ahhoz, hogy újra létrehozzuk a Bell Labs-t?”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Ryanair – amikor minden oldal egy sötét minta”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Ryanair ismert arról, hogy a foglalási folyamat során &quot;sötét mintákat&quot;, manipulatív tervezési technikákat alkalmaz a profit növelése érdekében.”</li>
+<li>„A taktikák közé tartozik a &quot;privacy zuckering,&quot; ahol az ügyfeleket alapértelmezés szerint promóciós feliratkozásokra állítják be, és a &quot;misdirection,&quot; amely feltűnő gombokat és felugró ablakokat használ a szolgáltatások eladásának növelésére.”</li>
+<li>„Ezek a megtévesztő tervezések áthatják a Ryanair weboldalát, ezért elengedhetetlen, hogy a felhasználók éberek maradjanak, hogy elkerüljék a véletlen vásárlásokat vagy a szándékoltnál több információ megosztását.”</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Ryanair – amikor minden oldal egy sötét minta”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A CrowdStrike javításai a „legfeljebb 15 újraindítással” kezdődnek, és onnan egyre bonyolultabbá válnak”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A CrowdStrike legutóbbi frissítése a Windows rendszerek összeomlását okozta kék halál képernyővel (BSOD), jelentős fennakadást okozva.”</li>
+<li>„A javítások a többszöri újraindítástól a bonyolultabb megoldásokig terjednek, mint például a biztonsági mentések visszaállítása vagy a problémás illesztőprogram manuális törlése, további lépésekkel a BitLocker titkosítást használó rendszerek esetében.”</li>
+<li>„A frissítést visszavonták, és a CrowdStrike vezérigazgatója bocsánatot kért, biztosítva a felhasználókat, hogy a probléma megoldása érdekében már folynak az erőfeszítések.”</li>
+</ul>
+]]></description>
+            <link
+      >https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„A CrowdStrike javításai a „legfeljebb 15 újraindítással” kezdődnek, és onnan egyre bonyolultabbá válnak”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Sendune – nyílt forráskódú HTML email tervező”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A SENDUNE bemutatott egy új, nyílt forráskódú HTML email tervezőt, amelynek célja az HTML emailek létrehozásának egyszerűsítése, mivel ezek hagyományosan nehezen írhatók és karbantarthatók.”</li>
+<li>„A tervező könnyűsúlyú, tiszta HTML-t használ, és elkerüli a nehézkes függőségeket, lehetővé téve a felhasználók számára, hogy az HTML kimenetet sablonként mentsék bármelyik e-mail szolgáltatóhoz.”</li>
+<li>„A felhasználókat arra ösztönzik, hogy fork-olják a repozitóriumot, végezzenek fejlesztéseket, és nyújtsanak be pull requesteket, elősegítve ezzel az együttműködő fejlesztési környezetet.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41007403</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Sendune – nyílt forráskódú HTML email tervező”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Egy 60 éves német férfi valószínűleg a hetedik ember, akit hatékonyan meggyógyítottak HIV-ből”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy 60 éves német férfi valószínűleg a hetedik személy, akit hatékonyan meggyógyítottak HIV-ből egy őssejt-transzplantációt követően, amely egyben az agresszív leukémiáját is kezelte.”</li>
+<li>„A beteget, akit a &quot;következő berlini betegként&quot; emlegetnek, 2018 végén abbahagyta az antiretrovirális gyógyszerek szedését, és közel hat évvel később is HIV- és rákmentes.”</li>
+<li>„A kutatók óvatosan optimisták, megjegyezve, hogy ez az eset arra utal, hogy nem minden CCR5 génmutáció szükséges a sikeres HIV-kezeléshez, ami reményt nyújt a szélesebb körű HIV-gyógyítási stratégiák számára.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Egy 60 éves német férfi valószínűleg a hetedik ember, akit hatékonyan meggyógyítottak HIV-ből”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Világszerte jelentős informatikai leállás érinti a légitársaságokat, a médiát és a bankokat”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Crowdstrike, egy 2011-ben alapított texasi székhelyű kiberbiztonsági vállalat, az végponti biztonságra specializálódott, hogy megvédje a vállalati hálózatokat és a felhőalapú adatokat a kiberfenyegetésektől.”</li>
+<li>„George Kurtz és Dmitri Alperovitch által társalapított cég 2019-ben lépett a Nasdaq tőzsdére.”</li>
+<li>„A Crowdstrike kulcsszerepet játszott a jelentős kibertámadások kivizsgálásában, különösen a 2016-os amerikai Demokrata Nemzeti Bizottság hálózatának feltörésében.”</li>
+</ul>
+]]></description>
+            <link>https://www.bbc.co.uk/news/live/cnk4jdwp49et</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Világszerte jelentős informatikai leállás érinti a légitársaságokat, a médiát és a bankokat”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kettős baj: az ESA Gaia űrszondáját mikrometeoroid és napvihar érte”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az ESA Gaia űrszondája, amelyet 2013 decemberében indítottak el, hogy több mint egymilliárd csillagot térképezzen fel a Tejútrendszerben, nemrégiben jelentős kihívásokkal szembesült egy mikrometeoroid becsapódása és egy napvihar miatt.”</li>
+<li>„A mikrometeoroid megrongálta Gaia védőburkolatát, és a napvihar meghibásodást okozott az egyik töltéscsatolt eszközében (CCD), ami több ezer hamis csillagészlelést eredményezett.”</li>
+<li>„Az ESA és az Airbus Defence and Space mérnökei sikeresen módosították a Gaia szoftverét, csökkentve a téves észleléseket és visszaállítva az űrszondát a rutinszerű működéshez, amely most a legjobb minőségű adatokat szolgáltatja.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Kettős baj: az ESA Gaia űrszondáját mikrometeoroid és napvihar érte”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mi van a C-00000291*.sys fájlban?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A CrowdStrike C-00000291*.sys fájlja rendszerösszeomlásokat okozott érvénytelen formázás miatt, ami hatással van a CrowdStrike illesztőprogramra.”</li>
+<li>„A felhasználók különböző verziókról számolnak be a fájllal kapcsolatban, egyesek ügyfél-specifikus kulcsokkal történő titkosítást feltételeznek, míg mások titkosítás nélkül is elemezték azokat.”</li>
+<li>„A fájlok saját frissítési formátumok, nem DLL-ek vagy javítások, ami aggodalmakat vet fel a CrowdStrike frissítési folyamatának biztonságával és megbízhatóságával kapcsolatban.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41004103</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Mi van a C-00000291*.sys fájlban?”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A NASA Curiosity marsjárója meglepetést fedez fel egy marsi kőzetben”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A NASA Curiosity roverje először fedezett fel elemi ként a Marson, ami jelentős mérföldkő a marsi kutatásokban.”</li>
+<li>„A felfedezés egy szulfátban gazdag területen történt, ahol a Curiosity egy egész mezőt talált fényes kövekkel, amelyek tiszta kénből állnak, ami felkeltette a tudósok érdeklődését.”</li>
+<li>„A Curiosity küldetése, amely magában foglalja a Mars ősi terepének tanulmányozását a mikrobiális élet jelei után kutatva, folytatódik, miközben felmászik a Sharp-hegyre, és begyűjti 41. kőzetmintáját további elemzés céljából.”</li>
+</ul>
+]]></description>
+            <link>https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„A NASA Curiosity marsjárója meglepetést fedez fel egy marsi kőzetben”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az oxigénveszteség a tavakban és az óceánokban”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Rensselaer Műszaki Intézet kutatása rámutat arra, hogy az oxigénvesztés a tavakban és az óceánokban jelentős fenyegetést jelent az ökoszisztémákra, a társadalomra és a bolygóra nézve.”</li>
+<li>„Az éghajlatváltozáshoz, földhasználathoz és szennyezéshez kapcsolódó vízi oxigénhiány gyors csökkenést eredményezett az oldott oxigén mennyiségében, a tavak és tározók 1980 óta 5,5%-ot, illetve 18,6%-ot veszítettek oxigénjükből, míg az óceánok körülbelül 2%-ot veszítettek 1960 óta.”</li>
+<li>„Ez a deoxigenáció hatással van a fajok fiziológiájára, az élelmiszerhálókra és az ökoszisztéma szolgáltatásokra, &quot;halott zónákat&quot; és káros algavirágzásokat hozva létre, sürgős intézkedéseket téve szükségessé a globális felmelegedés és a lefolyás kezelésére.”</li>
+</ul>
+]]></description>
+            <link>https://www.sciencedaily.com/releases/2024/07/240715135713.htm</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Az oxigénveszteség a tavakban és az óceánokban”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A lányom (7 éves) HTML-t használt egy weboldal készítéséhez”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://naya.lol</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„A lányom (7 éves) HTML-t használt egy weboldal készítéséhez”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mistral NeMo”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Mistral AI kiadta a Mistral NeMo-t, egy 12 milliárd paraméteres modellt, amelyet az NVIDIA-val közösen fejlesztettek ki. A modell 128 ezer tokenes kontextusablakkal rendelkezik, és kiemelkedő teljesítményt nyújt érvelésben, világismeretben és kódolási pontosságban.”</li>
+<li>„A Mistral NeMo támogatja az FP8 inferenciát teljesítményveszteség nélkül, felülmúlja a Gemma 2 9B és a Llama 3 8B modelleket, és többnyelvű alkalmazásokhoz lett tervezve.”</li>
+<li>„A modell egy új tokenizálót, a Tekken-t használ, és fejlett finomhangoláson esett át a jobb utasításkövetés, érvelés, többszörös fordulós beszélgetések és kódgenerálás érdekében; a súlyok elérhetők a HuggingFace-en.”</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-nemo/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Mistral NeMo”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az Amazon Kindle Direct Publishing egy disztópikus rémálom”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A szerző egy frusztráló élményt ír le az Amazon Kindle Direct Publishing (KDP) szolgáltatásával kapcsolatban, ahol e-könyvét &quot;megtévesztő vásárlói élmény&quot; miatt blokkolták, annak ellenére, hogy nem volt bizonyíték hasonló könyvre.”</li>
+<li>„Az Amazonhoz intézett fellebbezések automatizált és homályos válaszokat eredményeztek, végül az író fiókjának egyértelmű indoklás nélküli megszüntetéséhez vezettek.”</li>
+<li>„Még az Amazon Vezető Ügyfélkapcsolati Osztályával való kapcsolatfelvétel sem oldotta meg a problémát, ami rávilágít az Amazon automatizált felülvizsgálati és fellebbezési folyamatainak esetleges hibáira.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40992654</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Az Amazon Kindle Direct Publishing egy disztópikus rémálom”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Milyen a Prolog 2024-ben?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy számítástechnika szakos hallgató felfedezte a Prologot és a logikai programozást, megtanulva az alapokat, és egy alapvető ügynök kommunikációs rendszeren dolgozik a SICStus Prolog segítségével.”</li>
+<li>„A diák érdeklődik a Prolog és az ontológiák szakosodása iránt, és betekintést keres a Prolog jelenlegi állapotába és alkalmazásaiba 2024-ben.”</li>
+<li>„A vizsgálat rávilágít arra a vágyra, hogy megértsük a Prolog potenciális és jelenlegi felhasználási módjait a technológiai iparban.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40994552</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Milyen a Prolog 2024-ben?”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„SAPwned: Az SAP AI sebezhetőségei kiteszik az ügyfelek felhőalapú környezetét és privát adatait”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Wiz Kutatócsoport bérlői izolációs sebezhetőségeket fedezett fel az AI szolgáltatóknál, amelyek jelentős kockázatot jelentenek, mivel az AI infrastruktúra egyre fontosabbá válik a vállalkozások számára.”</li>
+<li>„Kutatásuk az SAP AI kínálatáról, az &quot;SAP AI Core&quot;-ról feltárt olyan sebezhetőségeket, amelyek lehetővé tették az illetéktelen hozzáférést az ügyféladatokhoz és a felhőhitelesítő adatokhoz, amelyeket azóta az SAP kijavított.”</li>
+<li>„A főbb megállapítások közé tartozik a hálózati korlátozások megkerülése, az AWS tokenek felfedése, az AWS EFS megosztásokhoz való hitelesítés nélküli hozzáférés, valamint a teljes klaszter átvétele, ami rámutat az AI szolgáltatásokban az izoláció és a sandboxing szabványok javításának szükségességére.”</li>
+</ul>
+]]></description>
+            <link>https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„SAPwned: Az SAP AI sebezhetőségei kiteszik az ügyfelek felhőalapú környezetét és privát adatait”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Egy RP2040 alapú DECstation 3000 emulátor, amely képes futtatni a DECWindows-t”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A DECstation 2040 egy emulátor a DECstation 3000-hez, amely az RP2040 mikrovezérlőre épül, és képes futtatni a DECWindows-t.”</li>
+<li>„A főbb hardverjellemzők közé tartozik az 1,8 V/300 MHz-es RP2040, 32 MB PSRAM, 8 MB SPI flash és az Ethernet RMII PHY támogatás.”</li>
+<li>„A projekt 2023. március 23-án kezdődött, Dmitry LinuxCard-jának inspirációjára, és magában foglalta az RP2040 PIO motorok és a DMA alrendszer használatának elsajátítását.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/rscott2049/DECstation2040</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Egy RP2040 alapú DECstation 3000 emulátor, amely képes futtatni a DECWindows-t”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Életünk tárgyai (1983)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„1983-ban Steve Jobs az Aspenben megrendezett Nemzetközi Design Konferencián beszélt, hangsúlyozva a számítógépek jövőbeli társadalmi hatását és a jó tervezés fontosságát a fogyasztói elektronika terén.”</li>
+<li>„Jobs bemutatta a Lisa számítógépet, amely egérrel és grafikus felhasználói felülettel rendelkezett, és megjósolta, hogy 1986-ra a PC-eladások meghaladják az autóeladásokat, arra ösztönözve a tervezőket, hogy jól megtervezett termékeket hozzanak létre.”</li>
+<li>„Kiemelte a bölcsészettudományok integrációját a technológiába és a hasznos, szép termékek készítésének polgári felelősségét, majd előadását egy kérdezz-felelek résszel zárta, amelyben a számítógépek intuitív és hozzáférhetővé tételéről beszélt.”</li>
+</ul>
+]]></description>
+            <link>https://stevejobsarchive.com/exhibits/objects-of-our-life</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Életünk tárgyai (1983)”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Sötét minták és etikátlan tervezés gyűjteménye”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A katalógus átfogó gyűjteményt nyújt a sötét mintákról, amelyek megtévesztő tervezési gyakorlatok a felhasználói felületeken.”</li>
+<li>„Ezek a példák kategóriák szerint rendszerezettek, így a felhasználók könnyebben megérthetik és azonosíthatják a különböző manipulációs tervezési típusokat.”</li>
+<li>„A forrás célja, hogy oktasson és felhívja a figyelmet az etikátlan tervezési taktikákra, segítve a felhasználókat azok felismerésében és elkerülésében.”</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/collection/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Sötét minták és etikátlan tervezés gyűjteménye”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Product Hunt a zenéért”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A TrackList egy platform új zenék felfedezésére és megosztására, amely napi frissítéseket kínál az új számokról.”</li>
+<li>„A mai kiemelt számok között szerepel az Off Trakk &quot;Keep Your Cool&quot; és Raf Duran &quot;Erasing&quot; című dala.”</li>
+<li>„A platform emellett kiemeli az előző napok zeneszámait is, folyamatosan új zenéket kínálva a felhasználóknak felfedezésre.”</li>
+</ul>
+]]></description>
+            <link>https://tracklist.it/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Product Hunt a zenéért”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Az amerikaiak bizalma a felsőoktatásban meredeken zuhant”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy új Gallup-felmérés jelentős csökkenést mutat az amerikaiak felsőoktatásba vetett bizalmában, egyharmaduk &quot;kevés vagy semmilyen bizalmat&quot; fejez ki, szemben a 2015-ös 57%-kal.”</li>
+<li>„A hanyatláshoz hozzájáruló tényezők közé tartoznak a politikai napirendek, a tanított készségek vélt irrelevanciája, a magas költségek és a liberális &quot;indoktrinációval&quot; kapcsolatos aggodalmak, különösen a konzervatívok körében.”</li>
+<li>„Annak ellenére, hogy az általános csökkenés tapasztalható, a közösségi főiskolákba és a kétéves programokba vetett bizalom növekszik, ami azt jelzi, hogy az emberek egyre inkább az olcsóbb és gyakorlatiasabb oktatási lehetőségek felé fordulnak.”</li>
+</ul>
+]]></description>
+            <link>https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Az amerikaiak bizalma a felsőoktatásban meredeken zuhant”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„GPT-4o mini: a költséghatékony intelligencia fejlesztése”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„GPT-4o mini: a költséghatékony intelligencia fejlesztése”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„SQLite tranzakciós benchmark eszköz”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Az értékelés az SQLite kísérleti <code>BEGIN CONCURRENT</code> ága és a standard <code>DEFERRED</code> és <code>IMMEDIATE</code> tranzakciós viselkedések összehasonlítására összpontosít.”</li>
+<li>„A cél az, hogy felmérjük a teljesítménybeli különbségeket egy szerverkörnyezetben, és betekintést nyújtsunk a lehetséges fejlesztésekbe vagy kompromisszumokba.”</li>
+<li>„A részletes magyarázatokért és eredményekért tekintse meg az eredeti szövegben hivatkozott blogbejegyzést.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/seddonm1/sqlite-bench</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„SQLite tranzakciós benchmark eszköz”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Polikromatikus pixelek”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A hangolható hullámhosszú MicroLED-ek forradalmasíthatják a kijelzőtechnológiát, mivel a jelenlegi folyadékkristályos és szerves LED kijelzőkhöz képest kiválóbb hatékonyságot és felbontást kínálnak.”</li>
+<li>„A Q-Pixel Inc. kifejlesztett egy módszert, amellyel egyetlen ostyán hangolható hullámhosszú LED-eket lehet növeszteni, így nincs szükség külön piros, zöld és kék alpixelekre, ezáltal egyszerűsítve a gyártást és csökkentve a költségeket.”</li>
+<li>„Ez az innováció rekorddöntő pixelsűrűséget ért el, ami különösen előnyös a virtuális valóság (VR) és a kiterjesztett valóság (AR) alkalmazások számára, jelezve egy potenciális elmozdulást a költséghatékonyabb és nagyfelbontású microLED kijelzők felé.”</li>
+</ul>
+]]></description>
+            <link>https://compoundsemiconductor.net/article/119170/Polychromatic_pixels</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Polikromatikus pixelek”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Zárt formájú ívhossz parametrizáció lehetetlen a kvadratikus Bézier-görbék esetében”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Bézier-görbék alapvetőek a vektorgrafikában, és a Bernstein-alapú kontrollpontok segítségével vannak meghatározva.”</li>
+<li>„A kvadratikus Bézier-görbék három vezérlőpontot használnak, és ívhosszuk pontosan kiszámítható, de a paraméterezésüknek nincs zárt formájú megoldása, feltételezve Schanuel sejtését.”</li>
+<li>„A kubikus Bézier-görbék négy vezérlőpontot használnak, és ívhosszukat numerikusan kell kiszámítani, mivel nincs zárt formájuk.”</li>
+</ul>
+]]></description>
+            <link>https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Zárt formájú ívhossz parametrizáció lehetetlen a kvadratikus Bézier-görbék esetében”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A verebek lehetnek a 'kanári a szénbányában' a gyermekkori ólommérgezés esetében: tanulmány”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy, az Environmental Sciences &amp; Technology folyóiratban megjelent tanulmány szerint a házi verebek pontosan meg tudják jósolni a gyermekek ólomszintjét, különösen az ausztráliai bányászvárosokban, Broken Hillben és Mount Isában.”</li>
+<li>„A verebek költséghatékony eszközként szolgálhatnak az ólomszennyezés gócpontjainak azonosítására, gyakorlati alternatívát kínálva a közvetlen emberi teszteléssel szemben, amely gyakran költséges és bonyolult.”</li>
+<li>„A kutatás rámutat az ólommérgezés folyamatos problémájára Ausztráliában, és azt sugallja, hogy a verebek más nehézfémek és &quot;örökkévaló vegyi anyagok&quot; kitettségét is jelezhetik.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„A verebek lehetnek a &apos;kanári a szénbányában&apos; a gyermekkori ólommérgezés esetében: tanulmány”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Markdown importálása és exportálása a Google Dokumentumokban”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Google Docs mostantól támogatja a továbbfejlesztett Markdown funkciókat, beleértve a Markdown tartalom Docs tartalommá alakítását beillesztéskor, a Docs tartalom Markdownként való másolását, egy Doc Markdownként való exportálását és a Markdown importálását Docként.”</li>
+<li>„Ez a frissítés előnyös a technikai tartalomírók számára, mivel megkönnyíti a Docs és a Markdown közötti átalakítást az együttműködés és a dokumentáció érdekében.”</li>
+<li>„A bevezetés 2024. július 16-án kezdődik a Rapid Release és a Scheduled Release domainek esetében, és elérhető lesz minden Google Workspace ügyfél, Workspace Individual előfizető és személyes Google fiók felhasználó számára.”</li>
+</ul>
+]]></description>
+            <link>https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Markdown importálása és exportálása a Google Dokumentumokban”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pánik a munkaerőpiacon”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A technológiai munkaerőpiac zűrzavarban van a növekvő kamatlábak, spekulatív finanszírozás és hibás felvételi gyakorlatok miatt.”</li>
+<li>„A magasabb kamatlábak arra ösztönzik a vállalatokat, hogy biztonságos, államilag támogatott számlákba fektessenek a kockázatos vállalkozások helyett, ami munkahelyvesztést okoz a technológiai szektorban.”</li>
+<li>„A felvételi folyamat gyakran irreleváns kódolási tesztekre és viselkedési interjúkra összpontosít, nem pedig a jelöltek valódi tapasztalatainak és képességeinek felmérésére.”</li>
+</ul>
+]]></description>
+            <link>https://matt.sh/panic-at-the-job-market</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Pánik a munkaerőpiacon”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„RabbitOS feltörése: Titkos naplók felfedése és GPL megsértések”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„David Buchanan kifejlesztett egy „tethered jailbreak”-et a Rabbit R1-hez, amely lehetővé teszi a root hozzáférést a bootloader feloldása vagy a belső tároló módosítása nélkül.”</li>
+<li>„A Rabbit R1, amely egy MediaTek MT6765 SoC-t használ, kritikákat kapott a kiterjedt felhasználói adatnaplózás és a GPL megsértése miatt, amelyeket részben orvosoltak egy nemrégiben kiadott frissítésben.”</li>
+<li>„Buchanan megállapításai szerint a RabbitOS egy erősen módosított Android 13 AOSP, amely elsősorban egyetlen alkalmazásos kioszk módot kényszerít ki, és kiadott egy eszközt, amely segíti a készülék további felfedezését.”</li>
+</ul>
+]]></description>
+            <link>https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„RabbitOS feltörése: Titkos naplók felfedése és GPL megsértések”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A legnagyobb oktatási életmód trükk: a matematika előre tanulása”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A matematika előzetes elsajátítása jobb jegyekhez, a gyenge tanítás elleni védelemhez, valamint gyakornoki helyekhez, kutatási projektekhez és erős ajánlólevelekhez vezethet, amelyek kulcsfontosságúak a főiskolai és karrierlehetőségek szempontjából.”</li>
+<li>„A kalkuluson túli haladó matematikai kurzusok, mint például a lineáris algebra és a differenciálegyenletek, elengedhetetlenek számos kvantitatív területen, és gyorsíthatják a diákok előrehaladását a specializált területek felé, növelve karrierjük eredményeit.”</li>
+<li>„A kutatások azt mutatják, hogy az oktatási gyorsítás nem árt a pszichológiai jólétnek, és nagyobb akadémiai és szakmai sikerekhez vezet, a gyakori tévhitek és logisztikai kihívások ellenére.”</li>
+</ul>
+]]></description>
+            <link>https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„A legnagyobb oktatási életmód trükk: a matematika előre tanulása”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A csalók aranykora: Mesterséges intelligenciával támogatott adathalászat”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A generatív mesterséges intelligencia lehetővé teszi a csalók számára, hogy rendkívül személyre szabott és meggyőző adathalász e-maileket küldjenek, leküzdve a nyelvi akadályokat és automatizálva a tömeges kampányokat.”</li>
+<li>„Az olyan AI eszközök, mint a WormGPT és a FraudGPT, segítenek adathalász e-mailek és hamis weboldalak létrehozásában, jelentősen csökkentve a hatékony támadások létrehozásához szükséges időt.”</li>
+<li>„A védekezési stratégiák közé tartozik a DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) bevezetése, az AI-alapú adathalász kísérletek felismerése, a többrétegű biztonság alkalmazása és az erős feladói hírnév fenntartása.”</li>
+</ul>
+]]></description>
+            <link>https://www.mailgun.com/blog/email/ai-phishing/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„A csalók aranykora: Mesterséges intelligenciával támogatott adathalászat”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„TinyPod – Apple Watch tok görgetőkerékkel”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Bemutatjuk a tinyPod-ot, egy kompakt eszközt, amely alapvető funkciókat kínál, mint például telefonálás, zenehallgatás, üzenetküldés és még sok más, mindezt az Apple Watch segítségével.”</li>
+<li>„A főbb jellemzők közé tartozik a tapintható görgetőkerék, a gyors mágneses töltés, a többnapos akkumulátor-élettartam, az Apple Pay és a 32 GB tárhely a médiához.”</li>
+<li>„Két modellben elérhető: tinyPod görgetőkerékkel 79,99 dollárért és tinyPod lite görgetőkerék nélkül 29,99 dollárért, kompatibilis különböző Apple Watch sorozatokkal, szállítás ezen a nyáron.”</li>
+</ul>
+]]></description>
+            <link>https://thetinypod.com/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„TinyPod – Apple Watch tok görgetőkerékkel”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Jia Tan "JiaT75": Hibaüzenet hozzáadva a figyelmeztetéshez, amikor bsdtar-ral kicsomagol (2021)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Libarchive egy commitot egyesített, amely hibaszöveget ad a figyelmeztetésekhez a bsdtar használatakor, ezzel kezelve a #1561-es problémát, de aggodalmak merültek fel a safe_fprintf helyettesítése miatt az unsafe fprintf használatával.”</li>
+<li>„Egy javítást vezettek be, hogy visszatérjenek a safe_fprintf használatához és helyes errno kezelést alkalmazzanak, további auditok és egy CVE (Common Vulnerabilities and Exposures) javaslatával a probléma megoldására.”</li>
+<li>„A megbeszélés hangsúlyozta az alapos kódellenőrzések és a biztonság fenntartásának fontosságát a nyílt forráskódú projektekben, és a kérdést a beszélgetés lezárásával oldották meg.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/libarchive/libarchive/pull/1609</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Jia Tan &quot;JiaT75&quot;: Hibaüzenet hozzáadva a figyelmeztetéshez, amikor bsdtar-ral kicsomagol (2021)”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Puerto Rico 1 milliárd dolláros pert indít a fosszilis tüzelőanyagokat gyártó cégek ellen”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Puerto Rico 1 milliárd dolláros pert indított nagy fosszilis tüzelőanyag-vállalatok, köztük az ExxonMobil, a BP, a Chevron, a Shell és a ConocoPhillips ellen, azzal vádolva őket, hogy félrevezették a nyilvánosságot a klímaváltozással kapcsolatban és késleltették a tiszta energiára való átállást.”</li>
+<li>„A San Juanban benyújtott per azt állítja, hogy ezek a vállalatok megsértették a kereskedelmi törvényeket azzal, hogy fosszilis tüzelőanyagokat népszerűsítettek anélkül, hogy megfelelő figyelmeztetéseket adtak volna azok veszélyeiről, és kártérítést követelnek a Maria hurrikánhoz hasonló éghajlati katasztrófák elleni védekezéshez.”</li>
+<li>„Ez a jogi lépés része egy szélesebb körű trendnek, amely hasonló pereket indít a fosszilis tüzelőanyag-ipar ellen, kiemelve a klímaváltozással kapcsolatos hatásokért való növekvő felelősségvállalási erőfeszítéseket.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Puerto Rico 1 milliárd dolláros pert indít a fosszilis tüzelőanyagokat gyártó cégek ellen”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„A Gitlab eladását fontolgatja”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„A Gitlab eladását fontolgatja”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Darwini gépek”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A bejegyzés William Calvin elméletét tárgyalja a &quot;The Cerebral Code&quot; című műből, amely szerint az agy minioszlopokon belüli evolúciós folyamatokat használ az érzékszervi bemenetek feldolgozására és a legmegfelelőbb minták megtalálására.”</li>
+<li>„Az elmélet azt állítja, hogy az agy szerkezete, különösen a neocortex oszlopai és minioszlopai, lehetővé teszik a hatékony problémamegoldást és a párhuzamos feldolgozást, amely alkalmazható lehet a mesterséges intelligenciában (AI) és a gépi tanulásban (ML).”</li>
+<li>„A szerző neurális hálózatokkal kísérletezik, hogy utánozza ezt az evolúciós folyamatot, és tanácsot kér a kutatási és tudományos meglátások terén, kiemelve az AI mély gondolkodási képességeinek lehetséges fejlődését.”</li>
+</ul>
+]]></description>
+            <link>https://vedgie.net/writing/darwin_machines.md</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Darwini gépek”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Magic-cli – Egy segéd a parancssorodhoz”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://github.com/guywaldman/magic-cli</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Magic-cli – Egy segéd a parancssorodhoz”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A Google bemutatja a módszert a címkekezelő automatikus blokkolásának megkerülésére”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A Google egy béta funkciót vezet be a címkék első fél módban történő telepítésére, amely javítja a címkék teljesítményét és az adatvédelmet azáltal, hogy a webhely domainjét használja a hosztoláshoz.”</li>
+<li>„A beállítás magában foglalja egy egyedi útvonal lefoglalását a domainen, a forgalom irányítását olyan szolgáltatásokon keresztül, mint a Google Cloud vagy a Cloudflare, valamint a webhely szkriptek frissítését az új mérési útvonal használatához.”</li>
+<li>„A felhasználókat arra ösztönzik, hogy teszteljék a beállítást a Tag Assistant segítségével, és adjanak visszajelzést egy kijelölt visszajelzési űrlapon vagy kapcsolattartási e-mailen keresztül.”</li>
+</ul>
+]]></description>
+            <link>https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„A Google bemutatja a módszert a címkekezelő automatikus blokkolásának megkerülésére”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„12 évnyi étteremkritika után elhagyom az asztalt”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Pete Wells, miután 12 évig volt a The New York Times étteremkritikusa, egészségügyi problémák, köztük magas koleszterinszint, vércukorszint és magas vérnyomás miatt lemond.”</li>
+<li>„Annak ellenére, hogy munkája jutalmazó jellegű, a gyakori étteremlátogatások fizikai megterhelése fenntarthatatlanná vált Wells számára.”</li>
+<li>„Wells a The Times-nál marad, de többé nem vállalja a heti kritikák írásának terheit, helyette inkább az egészségére és egy kiegyensúlyozottabb életmódra fog koncentrálni.”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„12 évnyi étteremkritika után elhagyom az asztalt”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Bevezetés a Bash szkriptelésbe”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Egy nyílt forráskódú útmutató/ebook jelent meg a Bash szkriptek írásáról, amely a fejlesztők, rendszergazdák és DevOps mérnökök feladatainak automatizálására irányul.”</li>
+<li>„Az e-könyv széles körű témákat ölel fel, a Bash alapvető felépítésétől a fejlett szkriptelési technikákig, beleértve az API-kkal való munkát és a jelszavak generálását.”</li>
+<li>„További források közé tartozik egy mini videókurzus, interaktív képzés a Katacoda segítségével, valamint Bobby Iliev, a Linux DevOps mérnök hozzájárulásai.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/bobbyiliev/introduction-to-bash-scripting</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Bevezetés a Bash szkriptelésbe”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„A visszatérés az irodába kötelezővé tétele nem éri meg a tehetségek elvesztésének kockázatát”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„A visszatérés az irodába kötelezővé tétele nem éri meg a tehetségek elvesztésének kockázatát”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

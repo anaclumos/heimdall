@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Heimdall</ShortName>
+  <Description>Search Heimdall</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://hn.cho.sh/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://hn.cho.sh/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://hn.cho.sh/opensearch.xml" />
+  <moz:SearchForm>https://hn.cho.sh/</moz:SearchForm>
+</OpenSearchDescription>

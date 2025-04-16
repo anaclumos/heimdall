@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[Heimdall]]></title>
+        <description><![CDATA[Heimdall]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>Heimdall</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/newsletter/en.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <copyright><![CDATA[2023 Sunghyun Cho]]></copyright>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2024-07-26]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/26&#39;</h2>
+<h1>2024-07-26</h1>
+<h2><a href="https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution">A Swiss town banned billboards. Zurich, Bern may soon follow</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41075766">Reactions</a></h3>
+<ul>
+<li>A Swiss town has banned billboards, with Zurich and Bern considering similar measures, following Cracow, Poland&#39;s successful ban two years ago.</li>
+<li>Vermont and Hawaii have long-standing billboard bans, contributing to their visually pleasant environments.</li>
+<li>The discussion emphasizes the positive impact of reducing visual clutter on urban aesthetics and the potential benefits of promoting public transportation.</li>
+</ul>
+<h2><a href="https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/">AI crawlers need to be more respectful</a></h2>
+<ul>
+<li>There has been a significant increase in abusive site crawling by AI products, causing issues for sites like Read the Docs due to excessive bandwidth usage and costs.</li>
+<li>Examples include one crawler downloading 73 TB of data in May 2024, costing over $5,000, and another using Facebook&#39;s content downloader to pull 10 TB in June 2024.</li>
+<li>Despite IP-based rate limiting, these crawlers use multiple IP addresses, making it ineffective; actions taken include blocking identified AI crawlers and improving CDN caching.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072549">Reactions</a></h3>
+<ul>
+<li>AI crawlers have been criticized for being overly aggressive, with one instance involving a crawler downloading 73TB of zipped HTML files from ReadTheDocs in a month, causing significant bandwidth costs.</li>
+<li>The excessive data scraping led to over $5,000 in bandwidth charges for ReadTheDocs, highlighting the need for more respectful and regulated crawling practices.</li>
+<li>The incident raises questions about the potential for such behavior to be considered reckless under the Computer Fraud and Abuse Act (CFAA) and suggests that government fines might be appropriate for companies responsible for such actions.</li>
+</ul>
+<h2><a href="https://github.com/mriale/PyDPainter">A Clone of Deluxe Paint II Written in Python</a></h2>
+<ul>
+<li>PyDPainter is a pixel art program developed in Python using PyGame, inspired by the 1985 Commodore Amiga version of Deluxe Paint by Electronic Arts.</li>
+<li>The program aims to modernize the classic Deluxe Paint tool with new features, catering to the revived interest in pixel art due to the retro trend.</li>
+<li>The latest release of PyDPainter is available on GitHub, and it is licensed under GPLv3 or later.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41073264">Reactions</a></h3>
+<ul>
+<li>A Python clone of Deluxe Paint II has been released on GitHub, showcasing impressive features like palette cycling and animations.</li>
+<li>Users are reminiscing about Deluxe Paint and other retro graphics programs, highlighting the work of artist Mark Ferrari.</li>
+<li>Discussions include comparisons with other tools like DPaint.js and Aseprite, and the technical challenges of recreating pixel art software.</li>
+</ul>
+<h2><a href="https://rein.pk/startup-finance-for-founders-part-i-accounting">Startup Finance for Founders – Part I, Accounting (2016)</a></h2>
+<ul>
+<li>The article is part of a two-part series on startup finance, focusing on accounting in Part I and strategic finance in Part II.</li>
+<li>Key topics covered include setting up a secure bank account structure, managing credit card limits, and transitioning from Stripe to paper contracts and invoices as the customer base grew.</li>
+<li>The author shares practical insights from their experience at Segment, which grew significantly and raised $44 million, highlighting the importance of understanding basic accounting for startup founders.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41074002">Reactions</a></h3>
+<ul>
+<li>The article &quot;Startup Finance for Founders – Part I, Accounting&quot; discusses essential accounting principles for startup founders, though it lacks detailed accounting information.</li>
+<li>A significant point raised is the strategy of negotiating credit lines during investment talks instead of gradually increasing credit card limits.</li>
+<li>The discussion also touches on the limitations and risks associated with using debit cards for transactions like car rentals, particularly in the USA compared to Europe.</li>
+</ul>
+<h2><a href="https://aml4td.org/">Applied Machine Learning for Tabular Data</a></h2>
+<ul>
+<li>&quot;Applied Machine Learning for Tabular Data&quot; by Max Kuhn and Kjell Johnson is a practical guide for developing predictive models from tabular data, set to be published in June 2024.</li>
+<li>The book covers the entire predictive modeling process, including feature engineering and post-modeling activities, and is licensed under CC BY-NC-SA 4.0, allowing for noncommercial use and adaptation.</li>
+<li>Aimed at data analysts, statisticians, and data scientists, the book provides exercises and computing supplements, primarily using R’s tidymodels framework, and welcomes community contributions via GitHub.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072616">Reactions</a></h3>
+<ul>
+<li>Discussion on applied machine learning (ML) for tabular data, highlighting common challenges like data leakage, intelligent data splitting, and model selection.</li>
+<li>Emphasis on using XGBoost for state-of-the-art results, with some experts recommending alternatives like LightGBM, CatBoost, and Random Forests.</li>
+<li>Mention of a new hands-on textbook by an O&#39;Reilly author, focusing on building ML systems with a feature store and practical projects.</li>
+</ul>
+<h2><a href="http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/">Bcachefs, an Introduction/Exploration</a></h2>
+<ul>
+<li>Bcachefs is a new filesystem designed to overcome limitations in existing filesystems, offering unique features and improvements.</li>
+<li>It supports experimental RAID levels (0, 1, 5, 6) and erasure coding, though some are not recommended for use yet.</li>
+<li>Bcachefs is still under development, with ongoing improvements and community assistance needed for multi-device management and system integration.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41076190">Reactions</a></h3>
+<ul>
+<li>Bcachefs, a new filesystem, is being discussed for its error handling capabilities, specifically its self-healing feature on read IO/checksum errors, which will be implemented in Linux 6.11.</li>
+<li>There is a debate on the potential risks of self-healing, such as the possibility of corrupting good data if system components like RAM are faulty.</li>
+<li>Comparisons are being made between Bcachefs and other filesystems like ZFS and btrfs, with users sharing their experiences and concerns about reliability and data integrity.</li>
+</ul>
+<h2><a href="https://blog.zulip.com/2024/07/25/zulip-9-0-released/">Zulip 9.0: Organized chat for distributed teams</a></h2>
+<ul>
+<li>Zulip Server 9.0 has been released, featuring hundreds of updates and bug fixes, enhancing its usability for remote and hybrid work.</li>
+<li>Key updates include a UI redesign, improved message composition, terminology changes, enhanced search, and better user onboarding.</li>
+<li>New integrations, support for Ubuntu 24.04, and next-gen mobile apps built with Flutter are among the significant enhancements.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41075934">Reactions</a></h3>
+<ul>
+<li>Zulip 9.0 has been released, featuring a new less-dense default layout and plans for more customization.</li>
+<li>Zulip&#39;s organized spaces and intuitive design are praised for enhancing productivity, especially for distributed teams.</li>
+<li>The new mobile app is built with Flutter, an open-source framework known for its performance and iteration speed.</li>
+</ul>
+<h2><a href="https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software">Switzerland mandates government agencies use open-source software</a></h2>
+<ul>
+<li>Switzerland has passed a law requiring government agencies to use open-source software (OSS) and publish new government code under open-source licenses, known as the &quot;Federal Law on the Use of Electronic Means for the Fulfillment of Government Tasks&quot; (EMBAG).</li>
+<li>This initiative aims to improve transparency, security, and efficiency by making non-personal, non-security-sensitive government data publicly accessible.</li>
+<li>Switzerland&#39;s move aligns with similar European initiatives and could potentially inspire further adoption of OSS in Europe and the U.S.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072795">Reactions</a></h3>
+<ul>
+<li>Switzerland mandates that government agencies use open-source software, aiming to increase transparency and reduce dependency on proprietary vendors.</li>
+<li>Open-source software allows governments to modify and audit code, potentially leading to better security and cost savings by avoiding vendor lock-in.</li>
+<li>This move is seen as an investment in local capabilities and a step towards systematic, long-term digitization, despite potential short-term costs.</li>
+</ul>
+<h2><a href="https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF">U.S. Department of Defense – Detecting Agile BS [pdf] (2018)</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41073688">Reactions</a></h3>
+<ul>
+<li>The U.S. Department of Defense&#39;s 2018 document addresses inefficiencies in Agile software development, highlighting issues like lack of end-user interaction and fund mismanagement by intermediaries.</li>
+<li>The document suggests Agile practices are often misapplied, leading to resource wastage and failure to deliver quality software on time.</li>
+<li>It emphasizes the need for better alignment between development teams and end-users and cautions against over-reliance on tools and processes.</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a">There is no fix for Intel&#39;s crashing 13th/14th Gen CPUs – damage is permanent</a></h2>
+<ul>
+<li>Intel’s 13th and 14th Gen CPUs have a crashing issue due to elevated voltages and manufacturing defects, which cannot be fixed if damage has already occurred.</li>
+<li>A patch to prevent future issues is expected in mid-August, but damaged CPUs will need to be replaced; Intel will not recall or extend warranties.</li>
+<li>Affected users should update their BIOS and contact Intel Customer Support, as the issue potentially affects any 13th or 14th Gen desktop processor consuming 65W or more power.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41079901">Reactions</a></h3>
+<ul>
+<li>Intel&#39;s 13th/14th Gen CPUs have a permanent crashing issue with no current fix, affecting CPUs consuming 65W or more.</li>
+<li>MicroCenter has stopped featuring these CPUs in their bundles, and a microcode update expected in mid-August may lower performance.</li>
+<li>Despite the issue, Intel&#39;s stock hasn&#39;t significantly dropped, and the company hasn&#39;t halted sales or planned a recall, focusing instead on microcode fixes.</li>
+</ul>
+<h2><a href="https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy">Stripe acquires Lemon Squeezy</a></h2>
+<ul>
+<li>Stripe has acquired Lemon Squeezy, a platform launched in 2021 to simplify selling digital products globally.</li>
+<li>Lemon Squeezy achieved over $1M in Annual Recurring Revenue (ARR) within nine months of its launch.</li>
+<li>The acquisition aims to enhance Lemon Squeezy&#39;s offerings with Stripe&#39;s payment capabilities, promising improved customer experience and reliability.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41080018">Reactions</a></h3>
+<ul>
+<li>Stripe has acquired Lemon Squeezy, a platform recognized for its Merchant of Record (MoR) feature that simplifies VAT remittance.</li>
+<li>Users are concerned about potential changes in fees and the future of the MoR feature, leading to mixed sentiments about the acquisition.</li>
+<li>Some view the acquisition as reducing competition in the payments space, while others hope for improved tax handling integration.</li>
+</ul>
+<h2><a href="https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html">France high-speed rail traffic disrupted by &#39;malicious acts&#39; on Olympic ceremony</a></h2>
+<ul>
+<li>France&#39;s high-speed rail network, including the TGV, faced significant disruptions due to &quot;malicious acts&quot; such as arson, just before the Paris Olympics.</li>
+<li>The attacks damaged fiber-optic cables essential for train safety, affecting 800,000 passengers and causing widespread cancellations and delays, with repairs expected to last all weekend.</li>
+<li>French officials condemned the attacks as &quot;criminal actions&quot; and launched an investigation, with potential penalties of up to 20 years in prison and substantial fines.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41076831">Reactions</a></h3>
+<ul>
+<li>France&#39;s high-speed rail traffic was disrupted by &quot;malicious acts&quot; during the Olympic ceremony, highlighting vulnerabilities in public transport systems to sabotage.</li>
+<li>Speculations suggest possible involvement of foreign actors, including Russia, drawing parallels to similar incidents in Germany and other parts of Europe.</li>
+<li>The incident has sparked debates on the resilience of transport modes, national security implications, and the need for measures to protect critical infrastructure.</li>
+</ul>
+<h2><a href="https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony">French rail network hit by &#39;malicious acts&#39; ahead of Paris Olympics</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41077798">Reactions</a></h3>
+<ul>
+<li>The French rail network has been targeted by &#39;malicious acts&#39; just before the Paris Olympics, raising concerns about security and infrastructure resilience.</li>
+<li>The timing of these acts is particularly significant as France prepares to host a major international event, highlighting potential vulnerabilities.</li>
+<li>Discussions and further details are ongoing in various forums, reflecting the high level of public and media interest in the incident.</li>
+</ul>
+<h2><a href="https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/">Database of All Funded Startups</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41076252">Reactions</a></h3>
+<ul>
+<li>A database of all funded startups has been shared on Reddit, garnering significant attention with 81 points.</li>
+<li>The post has sparked discussions, with some users questioning the frequency of its reposting.</li>
+</ul>
+<head>
+  <meta property="og:title" content="A Swiss town banned billboards. Zurich, Bern may soon follow" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=A%20Swiss%20town%20banned%20billboards.%20Zurich%2C%20Bern%20may%20soon%20follow&subheading=Friday%2C%20July%2026%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/26</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-25]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/25&#39;</h2>
+<h1>2024-07-25</h1>
+<h2><a href="https://github.com/nodejs/node/pull/53725">Node.js adds experimental support for TypeScript</a></h2>
+<ul>
+<li>Node.js has introduced a new feature to execute TypeScript files using the <code>--experimental-strip-types</code> flag, which transpiles TypeScript to JavaScript without type checking.</li>
+<li>This feature leverages <code>@swc/wasm-typescript</code> for efficient and simple transpilation, aiming to reduce the need for external dependencies when running TypeScript files.</li>
+<li>The feature is experimental and available in the nightly version, with ongoing discussions about additional enhancements like supporting extensionless imports.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064351">Reactions</a></h3>
+<ul>
+<li>Node.js has introduced experimental support for running TypeScript files directly, eliminating the need for prior compilation to JavaScript.</li>
+<li>This feature, akin to what Deno offers, aims to streamline the development process for TypeScript users.</li>
+<li>Considerations include maintaining compatibility between Node.js and TypeScript versions and assessing the potential impact on the NPM ecosystem.</li>
+</ul>
+<h2><a href="https://www.elysian.press/p/employee-ownership">Every company should be owned by its employees</a></h2>
+<ul>
+<li>Central States Manufacturing exemplifies employee ownership, with 47 millionaires among its blue-collar workers due to stock ownership.</li>
+<li>Employee Stock Ownership Plans (ESOPs) are expanding in the U.S., with 6,533 companies and 14.7 million employees benefiting from this model.</li>
+<li>ESOPs provide tax advantages, enhance company performance, and improve employee retention by fostering a sense of ownership.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065227">Reactions</a></h3>
+<ul>
+<li>Employee Stock Ownership Plans (ESOPs) offer a way for employees to own part of the company through stock options, but they can be demotivating during tough times.</li>
+<li>Employee ownership is risky, especially if the company fails, and while common in tech, it&#39;s not prevalent in all industries.</li>
+<li>Optimizing for worker happiness over profit could be beneficial but may impact competitiveness in the global market.</li>
+</ul>
+<h2><a href="https://jordaneldredge.com/notes/corrupted-skins/">Investigating corrupt Winamp skins</a></h2>
+<ul>
+<li>While exploring the Winamp Skin Museum collection, the author discovered corrupted skins and decided to investigate, leading to surprising findings.</li>
+<li>The investigation revealed various hidden items, including encrypted files, personal letters, email passwords, a secret biography of Chet Baker, cryptic audio files, and a game executable named worm.exe.</li>
+<li>The author found 127 skins within other skins, with 54 being new additions to the museum, showcasing a fascinating and strange adventure driven by a love for Winamp and found items.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064645">Reactions</a></h3>
+<ul>
+<li>Jordan Eldredge has created significant WinAmp projects, such as WebAmp and a WASM (WebAssembly) engine for music visualization, which can be found on his website.</li>
+<li>Users are reminiscing about their experiences with WinAmp, discussing software customization, and expressing nostalgia for early 2000s software.</li>
+<li>The conversation highlights a sentiment of loss regarding user customization in modern software and a preference for the more community-driven internet of the past.</li>
+</ul>
+<h2><a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/">AI solves International Math Olympiad problems at silver medal level</a></h2>
+<ul>
+<li>Research AI systems AlphaProof and AlphaGeometry 2 achieved a silver-medal standard by solving four out of six problems in the 2024 International Mathematical Olympiad (IMO).</li>
+<li>AlphaProof, using reinforcement learning and formal language Lean, solved two algebra problems and one number theory problem, including the hardest problem in the competition.</li>
+<li>AlphaGeometry 2, a neuro-symbolic hybrid system, solved a geometry problem in 19 seconds, contributing to the combined AI system&#39;s score of 28 out of 42 points.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41069829">Reactions</a></h3>
+<ul>
+<li>DeepMind&#39;s AI has achieved solving International Math Olympiad (IMO) problems at a silver medal level, showcasing significant advancements in AI&#39;s problem-solving capabilities.</li>
+<li>The AI system, named AlphaProof, combines pre-trained language models with reinforcement learning algorithms, leveraging formal mathematical languages like Lean to generate and verify solutions.</li>
+<li>This development highlights the potential of AI in tackling complex mathematical problems, which traditionally require significant human intuition and expertise, marking a notable milestone in AI research and application.</li>
+</ul>
+<h2><a href="https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/">Apple Maps on the web launches in beta</a></h2>
+<ul>
+<li>Apple Maps is now available in public beta on the web, enabling users to access Maps from their browsers globally.</li>
+<li>Features include driving and walking directions, place photos, hours, ratings, reviews, food ordering, and curated Guides, with Look Around coming soon.</li>
+<li>Currently supports Safari and Chrome on Mac and iPad, and Chrome and Edge on Windows PCs, with more languages, browsers, and platforms to be added over time.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065326">Reactions</a></h3>
+<ul>
+<li>Apple Maps has introduced a beta web version, but it is currently only compatible with Safari and Chrome on macOS and Windows.</li>
+<li>Users are frustrated by the lack of support for Firefox and Linux, as well as issues with data accuracy and usability compared to Google Maps.</li>
+<li>Despite these challenges, there is optimism that Apple Maps will improve and potentially become a strong competitor to Google Maps.</li>
+</ul>
+<h2><a href="https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/">Dungeons and Dragons taught me how to write alt text</a></h2>
+<ul>
+<li>Playing Dungeons &amp; Dragons (D&amp;D) helped the author develop valuable skills, including writing effective alt text for images.</li>
+<li>The &quot;theater of the mind&quot; method in D&amp;D, which relies on verbal storytelling, taught the author to prioritize clear and engaging descriptions.</li>
+<li>Writing alt text, similar to D&amp;D narration, requires emphasizing important details first and adding context and emotion, with resources like the Web Accessibility Initiative and BBC GEL aiding in skill improvement.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41061755">Reactions</a></h3>
+<ul>
+<li>The post discusses how playing Dungeons and Dragons (D&amp;D) helped the author learn to write effective alt text, which is text used to describe images for screen readers.</li>
+<li>The key takeaway is the importance of describing things in order of importance, similar to the inverted pyramid structure in journalism, to make content accessible and useful for screen reader users.</li>
+<li>The discussion highlights how D&amp;D&#39;s narrative techniques can be applied to professional communication, emphasizing clarity and prioritization of information.</li>
+</ul>
+<h2><a href="https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/">CrowdStrike will be liable for damages in France, based on the OVH precedent</a></h2>
+<ul>
+<li>CrowdStrike may face liability for damages in France, drawing parallels to the OVH precedent where a fire led to successful lawsuits against OVH.</li>
+<li>A recent update from CrowdStrike disabled 8.5 million computers, causing over $5.4 billion in damages and disrupting critical industries.</li>
+<li>The incident underscores negligence due to the lack of staged rollouts and testing, despite customer requests, potentially leading to numerous damage claims and contract terminations.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41066811">Reactions</a></h3>
+<ul>
+<li>CrowdStrike may face liability for damages in France, drawing parallels to the OVH incident, which involved significant data loss and business impacts.</li>
+<li>Recent issues, including a major outage, have raised concerns about CrowdStrike&#39;s liability, particularly in critical sectors like healthcare.</li>
+<li>Broader discussions are emerging about software liability and the responsibilities of tech companies across different jurisdictions.</li>
+</ul>
+<h2><a href="https://twitter.com/moo9000/status/1816352054425829420">EU parliament member hit by Israeli Candiru spyware</a></h2>
+<ul>
+<li>European Parliament member Daniel Freund, known for his criticism of Hungary, was targeted in a spyware attack, likely involving the Israeli company Candiru.</li>
+<li>Hungary, along with Poland, Greece, Cyprus, and Spain, has a history of illegally spying on its citizens, raising concerns about privacy and surveillance in these countries.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065156">Reactions</a></h3>
+<ul>
+<li>An EU parliament member was targeted by Israeli Candiru spyware through a spear-phishing attempt, where merely opening a link could compromise the phone.</li>
+<li>The incident raises significant concerns about the security of high-profile individuals and the implications of state-sponsored cyber-espionage.</li>
+<li>The broader issue of spyware being used by various countries for political gain and the ethical considerations of such technologies is highlighted.</li>
+</ul>
+<h2><a href="https://github.com/mlfoundations/MINT-1T">A multimodal dataset with one trillion tokens</a></h2>
+<ul>
+<li>MINT-1T is an open-source dataset featuring one trillion text tokens and 3.4 billion images, representing a ~10x increase from existing datasets.</li>
+<li>The dataset includes new sources such as PDFs and ArXiv papers, and all subsets are released, including HTML and PDF data from various CommonCrawl snapshots.</li>
+<li>The MINT-1T dataset was officially open-sourced on July 24, 2024, with a technical report released on June 17, 2024.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41061390">Reactions</a></h3>
+<ul>
+<li>A new multimodal dataset containing one trillion tokens has been released, which includes text and images.</li>
+<li>The dataset is licensed under CC-BY-4.0, meaning users must ensure legal use in commercial settings.</li>
+<li>Salesforce is behind this release, showcasing their growing involvement in AI research beyond their core CRM products.</li>
+</ul>
+<h2><a href="https://0xinfection.github.io/reversing/">Reverse Engineering for Everyone</a></h2>
+<ul>
+<li>The post introduces a comprehensive set of reverse engineering courses covering x86, x64, ARM-32, and ARM-64 architectures, aimed at beginners.</li>
+<li>The courses include detailed modules on assembly language, debugging, hacking, and fundamental computer architecture concepts.</li>
+<li>The tutorial set is available for download in PDF or MOBI format, making it accessible for offline study.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41069256">Reactions</a></h3>
+<ul>
+<li>Reverse engineering can be performed without direct access to the target, as demonstrated by Andrew Tridgell&#39;s work on Microsoft&#39;s SMB protocol and BitKeeper, which eventually led to the creation of Git.</li>
+<li>Practical experience and curiosity are crucial for learning reverse engineering, with tools like Cheat Engine, IDA, and radare2 being essential for analyzing and modifying software.</li>
+<li>A high-level overview and more in-depth resources for beginners are available, such as the tutorial on GitHub by mytechnotalent and blog series by boricj.</li>
+</ul>
+<h2><a href="https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/">X redesigns water pistol emoji back to a firearm</a></h2>
+<ul>
+<li>X (formerly Twitter) has redesigned its 🔫 Water Pistol emoji to display as a firearm, reversing the 2016-2018 shift to a water pistol.</li>
+<li>This update began rolling out on July 18th, 2024, and is currently available through X&#39;s web client, with plans to update mobile rendering soon.</li>
+<li>The change marks the first update to X&#39;s Twemoji set since July last year, diverging from the cross-vendor design shift initially led by Apple in 2016.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41060813">Reactions</a></h3>
+<ul>
+<li>X (formerly Twitter) has reverted the water pistol emoji back to a firearm, sparking debates about the political implications of emoji design changes.</li>
+<li>The initial change from a gun to a water pistol was seen as a political move, and reverting it is also viewed as politically charged, causing confusion and debate among users.</li>
+<li>The inconsistency in emoji representation across platforms can lead to misunderstandings, highlighting the challenges of standardizing visual symbols in digital communication.</li>
+</ul>
+<h2><a href="https://rcoh.me/posts/linear-time-median-finding/">My Favorite Algorithm: Linear Time Median Finding (2018)</a></h2>
+<ul>
+<li>The post discusses the median-of-medians algorithm, which finds the median in deterministic linear time, making it theoretically efficient.</li>
+<li>It contrasts this with Quickselect, an algorithm that usually finds the median in average linear time but can be less reliable in worst-case scenarios.</li>
+<li>The median-of-medians algorithm ensures a good pivot selection for Quickselect, enhancing its efficiency, though it is often slower in practice compared to simpler methods like random pivot selection.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41066536">Reactions</a></h3>
+<ul>
+<li>The post discusses various methods for finding the median in large datasets, focusing on linear time algorithms and their practical applications.</li>
+<li>A notable example includes using MapReduce and bucket sort to efficiently find the median in a single pass, highlighting the importance of data precision and range.</li>
+<li>The conversation also touches on different algorithms like Quickselect, Median-of-Medians, and streaming algorithms, comparing their efficiency and suitability for different scenarios.</li>
+</ul>
+<h2><a href="https://chatgpt.com/search">OpenAI Announces SearchGPT</a></h2>
+<ul>
+<li>SearchGPT is a prototype of new search features using AI models to provide fast answers with clear sources.</li>
+<li>The service offers real-time information from relevant sources, visual results, and allows for natural, conversational follow-up questions.</li>
+<li>Users can sign up for the waitlist to try SearchGPT, with feedback being used to integrate the best features into ChatGPT.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41071639">Reactions</a></h3>
+<ul>
+<li>OpenAI has announced SearchGPT, a new AI-powered search tool, which has sparked significant discussion and interest in the tech community.</li>
+<li>SearchGPT aims to provide direct answers without redirecting traffic to websites, raising concerns about its impact on web traffic and site monetization.</li>
+<li>The announcement has led to debates on the future of SEO (Search Engine Optimization) and how AI search tools might change the landscape of online information retrieval and advertising.</li>
+</ul>
+<h2><a href="https://tn1ck.com/blog/how-to-generate-sudokus">Generating sudokus for fun and no profit</a></h2>
+<ul>
+<li>Tom Nick developed a free, open-source Sudoku app, sudoku.tn1ck.com, initially for his grandmother, which led to exploring Sudoku generation and difficulty rating.</li>
+<li>Various algorithms, including Brute Force, Minimum Remaining Value, and Arc Consistency (AC3), are used to solve and generate Sudokus, with difficulty measured by solver iteration counts.</li>
+<li>The app generates Sudokus of specific difficulty levels by filling grids with random numbers, adjusting filled cells, and restarting if the desired difficulty isn&#39;t achieved, ensuring a fun and challenging user experience.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41062072">Reactions</a></h3>
+<ul>
+<li>A blog post by TN1ck discusses generating Sudoku puzzles for fun and no profit, featuring interactive examples and a user-friendly website.</li>
+<li>The post has garnered positive feedback from the community, with users sharing their own experiences and tools for solving and generating Sudoku puzzles.</li>
+<li>TN1ck&#39;s website is open source, built with Next.js and React, and has recently been made public on GitHub for further collaboration and improvement.</li>
+</ul>
+<h2><a href="https://www.google.com/search?q=roboto+mono+font">Google Search: Roboto Mono</a></h2>
+<ul>
+<li>Roboto Mono is a monospaced font from the Roboto type family, optimized for screen readability and available for free download.</li>
+<li>The font family offers a range of weights from 100 to 700, including italic variants, and can be self-hosted via NPM.</li>
+<li>Roboto Mono is widely accessible through platforms like Google Fonts, Adobe Fonts, and various free font repositories.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064950">Reactions</a></h3>
+<ul>
+<li>Google has introduced a new Easter egg related to font searches, specifically for &quot;Comic Sans&quot; and other fonts.</li>
+<li>Users are sharing various fun and hidden features they discovered, such as searching for &quot;do a barrel roll&quot; or &quot;minecraft&quot; on Google.</li>
+<li>The community appreciates these Easter eggs, though some express concerns about the resources spent on maintaining them.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Node.js adds experimental support for TypeScript" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Node.js%20adds%20experimental%20support%20for%20TypeScript&subheading=Thursday%2C%20July%2025%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/25</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-24]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/24&#39;</h2>
+<h1>2024-07-24</h1>
+<h2><a href="https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html">Hydrothermal explosion at Yellowstone National Park</a></h2>
+<ul>
+<li>The Forest Service is working to close parts of the Mike Harris trail system.</li>
+<li>MD Nursery has been fined over $28,000 due to a man&#39;s death in a trench.</li>
+<li>A hydrothermal explosion at Biscuit Basin in Yellowstone caused tourists to flee.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41050055">Reactions</a></h3>
+<ul>
+<li>A hydrothermal explosion occurred at Yellowstone National Park in the Biscuit Basin thermal area, damaging the boardwalk but causing no injuries.</li>
+<li>The explosion originated near Black Diamond Pool and was recorded by visitors, leading to temporary closures in the area for safety.</li>
+<li>Experts emphasize that such local hydrothermal events are not indicative of activity in the larger Yellowstone Caldera (supervolcano).</li>
+</ul>
+<h2><a href="https://mistral.ai/news/mistral-large-2407/">Large Enough – Mistral AI</a></h2>
+<ul>
+<li>Mistral AI has released the Mistral Large 2 model, featuring a 128k context window and support for over 80 coding languages, optimized for single-node inference with 123 billion parameters.</li>
+<li>The model achieves 84.0% accuracy on MMLU, outperforming previous models and rivals like GPT-4o and Llama 3 405B, with enhanced capabilities to minimize &quot;hallucinations&quot; and improve reasoning.</li>
+<li>Mistral Large 2 is available under different licenses for non-commercial and commercial use, with weights hosted on HuggingFace and expanded cloud service partnerships, including Google Cloud Platform and Azure AI Studio.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41058107">Reactions</a></h3>
+<ul>
+<li>Mistral AI&#39;s new model, Large 2, and Meta&#39;s Llama 3.1 405B were tested and found to be comparable, with no clear winner.</li>
+<li>Users highlighted that Claude remains a strong option but expressed a desire for improvements such as smarter responses, longer context windows, and faster replies.</li>
+<li>Despite some models struggling with simple tasks due to tokenization issues, the rapid development and competition in AI models remain exciting, with many users switching to models like Claude Sonnet 3.5 for better performance in coding and other tasks.</li>
+</ul>
+<h2><a href="https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html">Taking my diabetes treatment into my own hands</a></h2>
+<ul>
+<li>A Type 1 diabetic developed a Windows Forms application with OxyPlot charts to better visualize and manage insulin and carbohydrate intake.</li>
+<li>The individual used GeneticSharp, a genetic algorithm library, to optimize insulin dosages, successfully stabilizing glucose levels.</li>
+<li>The approach shows promise for personalized diabetes management, though further simulation and adjustments for long-acting insulin are needed.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052365">Reactions</a></h3>
+<ul>
+<li>Individuals with diabetes are sharing personal experiences and strategies for managing their condition, emphasizing the importance of self-monitoring and data logging.</li>
+<li>Various methods discussed include dietary changes, continuous glucose monitoring (CGM), and personalized tracking of food and exercise impacts on blood sugar levels.</li>
+<li>The conversation highlights a common sentiment of self-reliance due to perceived inadequacies in the healthcare system&#39;s management of diabetes.</li>
+</ul>
+<h2><a href="https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/">Google is the only search engine that works on Reddit now, thanks to AI deal</a></h2>
+<ul>
+<li>Google is now the only search engine that can display recent Reddit results, making Reddit content exclusive to Google.</li>
+<li>Other search engines like Bing, DuckDuckGo, and Qwant cannot show recent Reddit results, with DuckDuckGo providing limited links without descriptions.</li>
+<li>This situation underscores Google&#39;s near monopoly on search, affecting competition and drawing criticism over search quality, with speculation of a multi-million dollar deal allowing Google to scrape Reddit for AI training.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41057033">Reactions</a></h3>
+<ul>
+<li>Google has become the exclusive search engine for Reddit due to a new AI deal, with Reddit&#39;s robots.txt file blocking other search engines from indexing its content.</li>
+<li>This decision has ignited debates about its effects on search engine competition and the principles of an open internet.</li>
+<li>Concerns have been raised about the anticompetitive nature of the deal and its potential adverse impact on user experience and content accessibility.</li>
+</ul>
+<h2><a href="https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan">You can opt out of airport face scans</a></h2>
+<ul>
+<li>Travelers can opt out of airport facial recognition by standing away from the camera, presenting their ID, and stating, “I opt out of biometrics.”</li>
+<li>The Algorithmic Justice League’s “Freedom Flyers” campaign aims to raise awareness of this right, especially as TSA plans to expand facial recognition to all US airports.</li>
+<li>Facial recognition poses risks such as data breaches, misidentification, AI bias, and the normalization of surveillance, with significant privacy concerns over the retention and use of biometric data.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41051327">Reactions</a></h3>
+<ul>
+<li>Experiences with opting out of airport face scans vary significantly, with some users facing resistance and others encountering no issues.</li>
+<li>Advanced cameras at airports capture 3D images for high facial recognition accuracy, raising concerns about the retention of facial data and pervasive surveillance.</li>
+<li>The debate continues on whether opting out is essential to resist the normalization of surveillance practices or if it&#39;s futile due to the ubiquity of such technologies.</li>
+</ul>
+<h2><a href="https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/">CrowdStrike offers a $10 apology gift card to say sorry for outage</a></h2>
+<ul>
+<li>CrowdStrike, a cybersecurity firm, caused a global outage on July 19 due to a faulty update, affecting millions of computers and leading to significant disruptions such as airport delays and halted surgeries.</li>
+<li>As an apology, the company offered $10 Uber Eats gift cards to its partners, but some recipients reported the vouchers were invalid.</li>
+<li>CrowdStrike&#39;s CEO and chief security officer issued public apologies, acknowledging the severity of the incident and committing to transparency and future prevention measures.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41058261">Reactions</a></h3>
+<ul>
+<li>CrowdStrike issued $10 Uber Eats gift cards to apologize for an outage, but many users found the vouchers invalid, leading to criticism and speculation about the company&#39;s competence.</li>
+<li>Some users suspected the gift card issue might be a phishing attempt or a hack, further damaging CrowdStrike&#39;s reputation.</li>
+<li>The gesture was perceived as inadequate and insulting, especially given the outage&#39;s significant impact on critical services like airlines and hospitals, sparking discussions about potential legal liabilities.</li>
+</ul>
+<h2><a href="https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/">What &quot;consent&quot; looks like for the DEA and TSA</a></h2>
+<ul>
+<li>The DEA and TSA have been collaborating to seize travelers&#39; money by targeting those carrying large amounts of cash, using informers and TSA checkpoints to identify individuals and claiming they &quot;consent&quot; to searches.</li>
+<li>This practice, which extends to Amtrak trains with the help of US Customs and Border Protection, involves &quot;civil forfeiture&quot; where money is seized without a warrant, often ignoring passengers&#39; refusal to consent.</li>
+<li>An ongoing class-action lawsuit highlights the frequency of these illegal searches, with plaintiffs arguing that the volume of records indicates a systemic issue, despite the DEA and TSA&#39;s resistance to disclosing these records.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053329">Reactions</a></h3>
+<ul>
+<li>A wedding was disrupted by a flash flood, necessitating a rescue operation, though no serious injuries occurred.</li>
+<li>Police detained attendees on buses with drug-sniffing dogs before moving them to a high school shelter, adding to their distress.</li>
+<li>The incident sparked a discussion on law enforcement&#39;s misuse of power, civil asset forfeiture, and the war on drugs, highlighting the need for reform and its impact on public trust and safety.</li>
+</ul>
+<h2><a href="https://github.com/trholding/llama2.c/blob/master/runq.c">Llama 3.1 in C</a></h2>
+<ul>
+<li>A new C-based implementation for inference on Llama 2 and Llama 3/3.1 Transformer models has been released, featuring int8 quantized forward pass.</li>
+<li>The code includes support for various environments such as Linux Kernel, Unikraft Unikernel, and embedded models via Zip Archive.</li>
+<li>Users can customize parameters like temperature, top-p sampling, and model version through command-line arguments, enhancing flexibility for different use cases.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053201">Reactions</a></h3>
+<ul>
+<li>Meta&#39;s Llama 3.1 models can generate multilingual text, but the current implementation in C is still buggy and requires further refinement.</li>
+<li>The project involves quantizing the model to 8-bit, which can degrade the output quality, humorously referred to as &quot;brain damage.&quot;</li>
+<li>The community is actively contributing to improving the implementation, with discussions around optimal quantization methods and extending context length using new scaling techniques.</li>
+</ul>
+<h2><a href="https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html">The Origin of Emacs in 1976</a></h2>
+<ul>
+<li>EMACS, a text editor, was developed at the MIT AI Lab in 1976, with Richard Stallman (RMS) becoming the main developer by the end of that year.</li>
+<li>RMS named &quot;E&quot; and &quot;EMACS&quot; and played a crucial role in transforming TECO macros into a powerful editor, with initial help from Guy Steele, David Moon, and John Kulp.</li>
+<li>The early user community, including Moon, contributed to key bindings and command names, highlighting the collaborative and community-driven nature of EMACS&#39;s development.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052593">Reactions</a></h3>
+<ul>
+<li>In 1976, MIT-AI used &quot;at&quot; instead of the @ symbol for email addresses due to the absence of DNS (Domain Name System).</li>
+<li>Early computer scientists preferred clear date formats like &quot;dd MON yy&quot; and discussed early network file systems and protocols such as MLDEV and SUPDUP.</li>
+<li>Emacs, a text editor initially written in TECO, evolved with contributions from developers like James Gosling, who created a Unix version in 1981.</li>
+</ul>
+<h2><a href="https://github.com/tekknolagi/scrapscript">Scrapscript: A functional, content-addressable programming language</a></h2>
+<ul>
+<li>Scrapscript is a programming language with an interpreter available for Python 3.8+ and Cosmopolitan, and it supports Docker for containerized execution.</li>
+<li>The syntax of Scrapscript is set to be updated soon, and users can refer to <code>scrapscript.py</code> and its tests for understanding the language.</li>
+<li>An experimental compiler is available, capable of producing outputs in ELF, Cosmopolitan, and Wasm formats, with specific commands provided for each.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052371">Reactions</a></h3>
+<ul>
+<li>Scrapscript is a new functional, content-addressable programming language designed to address software sharability issues using JSON-like types, functions, and hashed references.</li>
+<li>Unlike Unison, which uses a git-based paradigm, Scrapscript is more ambitious and focuses on IPFS (InterPlanetary File System) for code identification and serialization.</li>
+<li>The language has gained attention due to its public development and the personal journey of its creator, who overcame alcoholism while working on the project.</li>
+</ul>
+<h2><a href="https://www.nature.com/articles/d41586-024-02383-9">You got a null result. Will anyone publish it?</a></h2>
+<ul>
+<li>Researchers face challenges in publishing null results, which show no significant relationship between variables, leading to a bias favoring positive findings.</li>
+<li>This publication bias distorts the scientific record and wastes resources, as seen in evolutionary biologist Natalie Pilakouta&#39;s inconclusive study on fish preferences in Iceland&#39;s hot springs.</li>
+<li>Efforts to address this issue include journals encouraging pre-registered reports, but slow adoption and the perception that null results indicate flawed research remain significant hurdles.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41056387">Reactions</a></h3>
+<ul>
+<li>The discussion highlights the challenges and lack of incentives for publishing null results in scientific research, despite their potential value.</li>
+<li>A significant portion of scientists are willing to publish null results, but very few are able to do so due to systemic barriers and lack of demand from high-tier journals.</li>
+<li>Suggestions include creating dedicated journals for null results, integrating null results as appendices to main publications, and improving the peer review process to include pre-registration of methods.</li>
+</ul>
+<h2><a href="https://glhf.chat/landing/home">We made glhf.chat – run almost any open-source LLM, including 405B</a></h2>
+<ul>
+<li>A new website, <a href="https://glhf.chat/">https://glhf.chat/</a>, allows users to run almost any open-source LLM (Large Language Model) on autoscaling GPU clusters for free during the pricing determination phase.</li>
+<li>The service supports any model compatible with the open-source vLLM project, offering up to ~640GB of VRAM, and aims to be more cost-effective than other GPU services by running models multi-tenant.</li>
+<li>The platform launched on Llama-3.1-405B Launch Day and supports efficient models like Llama-3-70b finetunes, with plans to improve support for larger models and address current limitations.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052934">Reactions</a></h3>
+<ul>
+<li>glhf.chat allows users to run almost any open-source LLM (Large Language Model) on autoscaling GPU clusters, currently free as they determine pricing.</li>
+<li>The service supports any model compatible with the open-source vLLM project, including popular models like Llama-3-70b finetunes, with some limitations due to NVLink issues.</li>
+<li>Launched on Llama-3.1-405B Launch Day, the platform aims to be cost-effective by running models in a multi-tenant environment and welcomes user feedback.</li>
+</ul>
+<h2><a href="https://pnut.sh">Pnut: A C to POSIX shell compiler you can trust</a></h2>
+<ul>
+<li>Pnut is a C to POSIX shell transpiler that converts C programs into human-readable shell scripts, ensuring high portability across POSIX-compliant shells.</li>
+<li>It allows developers to write scripts in C without needing to learn a new language, and the output is easy to inspect, debug, and maintain.</li>
+<li>Pnut runs on all major operating systems, including Linux, macOS, and Windows, and is licensed under the BSD-2 Clause License.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052446">Reactions</a></h3>
+<ul>
+<li>Pnut is a C to POSIX shell compiler that can be distributed as a human-readable shell script, enabling reproducible builds from source files.</li>
+<li>It can compile itself and, with effort, the Tiny C Compiler (TCC), which can then bootstrap the GNU Compiler Collection (GCC), creating a full build toolchain.</li>
+<li>While praised for its innovation, Pnut faces critiques regarding practical limitations, such as handling binary I/O and certain C constructs, and varying opinions on its trustworthiness and completeness.</li>
+</ul>
+<h2><a href="https://www.chm.bris.ac.uk/motm/mppp/mppph.htm">MPPP – The first &#39;designer drug&#39; disaster (2023)</a></h2>
+<ul>
+<li>MPPP (1-methyl-4-phenyl-4-propionoxypiperidine) is a designer drug first reported in 1947, intended as a painkiller but found to be no better than existing options.</li>
+<li>In 1976, Barry Kidston synthesized MPPP and developed Parkinson’s-like symptoms due to an impurity, MPTP, which selectively kills cells crucial for motor control.</li>
+<li>The 1982 outbreak of Parkinson’s symptoms linked to MPTP-contaminated synthetic heroin led to significant scientific insights into Parkinson’s disease and highlighted the dangers of amateur drug synthesis.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053383">Reactions</a></h3>
+<ul>
+<li>The discussion centers on the dangers of designer drugs, particularly MPPP and its by-product MPTP, which have been linked to Parkinson&#39;s-like symptoms in users.</li>
+<li>Emphasis is placed on the risks associated with synthetic drugs, the importance of drug purity, and the potential benefits of legalizing and regulating drugs to ensure safety.</li>
+<li>Users share personal experiences and stress the need for caution and proper testing, while also addressing the broader implications of drug prohibition and the challenges of ensuring safe consumption.</li>
+</ul>
+<h2><a href="https://en.wikipedia.org/wiki/Micromouse">Micromouse</a></h2>
+<ul>
+<li>Micromouse is a robotics competition where small autonomous robots solve a 16×16 maze, originating in the late 1970s and popular in several countries including the UK, U.S., and Japan.</li>
+<li>Robots use algorithms like Bellman flood-fill, Dijkstra&#39;s, and A* for navigation, with top speeds exceeding three meters per second; the current world record is 3.921 seconds by Ng Beng Kiat.</li>
+<li>Recent advancements include using fans for additional downforce, enabling accelerations over 2.5g, and a variant called Half-Size Micromouse uses a 32×32 maze with smaller dimensions.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41055230">Reactions</a></h3>
+<ul>
+<li>Micromouse is a robotics competition where small robots navigate a maze, with a recent video by Veritasium highlighting the topic.</li>
+<li>The competition includes a reconnaissance phase for mapping the maze, and different strategies like wall-following and maze-mapping are used.</li>
+<li>The event engages young people in programming and engineering, with categories like LEGO robots and more advanced robots, demonstrating the evolution of technology over decades.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Hydrothermal explosion at Yellowstone National Park" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Hydrothermal%20explosion%20at%20Yellowstone%20National%20Park&subheading=Wednesday%2C%20July%2024%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/24</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-23]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/23&#39;</h2>
+<h1>2024-07-23</h1>
+<h2><a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/">Open source AI is the path forward</a></h2>
+<ul>
+<li>Open-source Linux became the industry standard for cloud computing and mobile devices due to its modifiability, affordability, and advanced features, similar to the expected trajectory of AI.</li>
+<li>Meta has released Llama 3.1 405B, the first frontier-level open-source AI model, along with improved 70B and 8B models, emphasizing better cost/performance and suitability for fine-tuning.</li>
+<li>Meta collaborates with companies like Amazon, Databricks, and NVIDIA to support developers, aiming to make open-source AI the industry standard, promoting transparency, security, and economic growth.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046773">Reactions</a></h3>
+<ul>
+<li>Meta has launched Llama 3.1, an open-source AI model, featuring a 405 billion parameter model and enhanced 70 billion and 8 billion parameter models.</li>
+<li>This release is perceived as a strategic move to challenge competitors like OpenAI, Google, and Microsoft by offering advanced AI models for free, with restrictions for companies exceeding 700 million users.</li>
+<li>Critics argue that without access to the training data and infrastructure, these models are more akin to freeware than genuinely open-source, sparking debate on Meta&#39;s true intentions and the broader implications.</li>
+</ul>
+<h2><a href="https://bitbuilt.net/forums/index.php?threads/kawaii.6474/">Kawaii – A Keychain-Sized Nintendo Wii</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41038552">Reactions</a></h3>
+<ul>
+<li>The &quot;Thundervolt&quot; project involves modifying a Nintendo Wii by trimming down its PCB (Printed Circuit Board) to retain only essential components like DRAM (Dynamic Random-Access Memory) and processors, and adding an external DCDC (Direct Current to Direct Current) board for power.</li>
+<li>The project aims to create a keychain-sized Wii, named &quot;Kawaii,&quot; which is smaller than other miniaturized versions like the GC Nano, but still requires a dock for full functionality, including power input and controller connections.</li>
+<li>This project highlights the ongoing interest and innovation in retro gaming and console miniaturization, showcasing the community&#39;s dedication to preserving and enhancing classic gaming hardware.</li>
+</ul>
+<h2><a href="https://github.com/linuxmint/timeshift">Timeshift: System Restore Tool for Linux</a></h2>
+<ul>
+<li>Timeshift for Linux is a system backup tool similar to Windows System Restore and Mac OS Time Machine, focusing on system files and settings.</li>
+<li>It supports two modes: RSYNC (using rsync and hard-links) and BTRFS (using BTRFS filesystem features), with the latter requiring a specific subvolume layout.</li>
+<li>Developed by Tony George and now part of the Xapp project by Linux Mint, Timeshift offers features like multiple snapshot levels, cross-distribution restores, and post-restore hooks, with installation instructions available for various Linux distributions.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41039967">Reactions</a></h3>
+<ul>
+<li>Timeshift is a system restore tool for Linux, similar to macOS&#39;s Time Machine and Windows&#39; System Restore, allowing users to create filesystem snapshots using rsync and hardlinks.</li>
+<li>Users discuss various backup solutions and configurations, including restic, rclone, ZFS, BTRFS, and LVM snapshots, highlighting the importance of atomic snapshots for database consistency and reliable backups.</li>
+<li>The conversation emphasizes the need for robust backup strategies, comparing tools like restic, Borg, and kopia, and discussing the pros and cons of different filesystems and snapshot methods.</li>
+</ul>
+<h2><a href="https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792">July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs</a></h2>
+<ul>
+<li>Intel has identified instability in its 13th and 14th Gen desktop processors caused by elevated operating voltage from a microcode algorithm.</li>
+<li>A microcode patch to address this issue is expected by mid-August, and Intel advises affected customers to contact support for assistance.</li>
+<li>Users have expressed concerns about potential long-term CPU damage, the need for BIOS updates, and have reported RMA (Return Merchandise Authorization) issues while seeking guidance on managing the instability until the patch is released.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41039708">Reactions</a></h3>
+<ul>
+<li>Intel&#39;s July 2024 update indicates a microcode issue in 13th/14th Gen desktop CPUs causing incorrect voltage requests, though some users suspect a hardware fault.</li>
+<li>Concerns arise due to Intel&#39;s delay in addressing the problem and reports of non-faulty CPUs shipping without updated microcode, potentially leading to long-term CPU degradation.</li>
+<li>Intel plans to release a microcode patch, but its effectiveness and impact on performance are uncertain, with users reporting mixed experiences regarding CPU stability.</li>
+</ul>
+<h2><a href="https://kb.databasedesignbook.com/posts/google-calendar/">Database Design for Google Calendar: A Tutorial</a></h2>
+<ul>
+<li>The tutorial by Alexey Makhotkin provides a comprehensive guide on designing database tables for a Google Calendar clone, following the approach from the upcoming book “Database Design using Minimal Modeling.”</li>
+<li>It covers the logical model extensively, detailing how to handle basic all-day events, time-based events, and repeated events, and then transitions to creating physical SQL tables.</li>
+<li>The tutorial is aimed at readers with a general understanding of databases, helping them move from conceptual ideas to complete database table definitions, and includes practical steps for implementing the design.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41043371">Reactions</a></h3>
+<ul>
+<li>A discussion on Google Calendar&#39;s database design suggests optimizing an iCalendar parser for fast event scanning instead of creating a complex schema.</li>
+<li>Concerns were raised about the need for SQL-like range searches and user-specific queries, which traditional databases handle well.</li>
+<li>The debate included challenges like timezones, daylight savings, and recurring events, with a consensus that SQL&#39;s ability to manage relationships and queries makes it suitable for calendar applications.</li>
+</ul>
+<h2><a href="https://danq.me/2024/07/21/ascii/">The Elegance of the ASCII Table</a></h2>
+<ul>
+<li>The ASCII table, standardized in 1963, assigns meanings to 100 of 128 possible 7-bit binary codepoints and remains relevant today, especially with UTF-8 encoding being backward-compatible.</li>
+<li>The table includes control codes, printable characters, and follows specific binary patterns, with the space character being the first printable character for sorting purposes.</li>
+<li>ASCII’s design is logical and aesthetically pleasing, making it coherent for humans to learn and understand, reflecting its historical significance and refined logic.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41040543">Reactions</a></h3>
+<ul>
+<li>The post discusses the elegance and utility of the ASCII table, a character encoding standard used in computing.</li>
+<li>It highlights how users can access the ASCII table on Linux systems via the command <code>man ascii</code>, which is useful for shell escape codes and regular expressions (regex).</li>
+<li>The conversation includes historical context and personal anecdotes about learning various technologies through manpages, emphasizing the ASCII table&#39;s longstanding relevance in computing.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41042123">Is it possible to make FAANG salaries without working there?</a></h2>
+<ul>
+<li>The salary gap between FAANG (Facebook, Amazon, Apple, Netflix, Google) and non-FAANG companies is substantial, with FAANG engineers receiving significantly higher compensation packages.</li>
+<li>A Staff Engineer at a typical startup might earn a $250k base salary plus a 10-20% bonus, whereas a FAANG Staff Engineer could receive a similar base salary plus $1 million in stock over four years.</li>
+<li>The post questions if individuals outside of FAANG and big banks/high-frequency trading (HFT) firms earn comparable amounts, and seeks to identify who they are and their roles.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042123">Reactions</a></h3>
+<ul>
+<li>Earning FAANG-level salaries outside of FAANG companies is possible but rare, often involving niche or high-stress roles.</li>
+<li>High-paying alternatives include hedge funds, high-frequency trading firms, specialized consulting, niche software companies, legacy systems expertise, and entrepreneurship.</li>
+<li>These roles typically come with high stress, intense competition, or significant risk and effort, making them less common and straightforward compared to FAANG jobs.</li>
+</ul>
+<h2><a href="https://llama.meta.com/">Llama 3.1</a></h2>
+<ul>
+<li>Llama 3.1 is an open-source AI model available in three versions: 8B, 70B, and 405B, catering to different performance and cost needs.</li>
+<li>It supports advanced use cases, including coding assistants, multi-lingual agents, and complex reasoning, with capabilities for real-time and batch inference, fine-tuning, and synthetic data generation.</li>
+<li>The model has been evaluated on over 150 datasets, showing high performance in general, code, math, reasoning, tool use, and multilingual benchmarks.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046540">Reactions</a></h3>
+<ul>
+<li>Llama 3.1, an open-source AI model by Meta, is showing competitive performance against closed-source models like GPT-4.</li>
+<li>The 405B model demonstrates significant benchmark improvements but is impractical for home use without cloud support, highlighting challenges in running large models locally.</li>
+<li>Meta&#39;s release of powerful open models aims to disrupt the competitive landscape, sparking interest in hardware requirements, quantization solutions, and the broader implications for AI development and accessibility.</li>
+</ul>
+<h2><a href="https://anatolyzenkov.com/stolen-buttons/button-stealer">Button Stealer</a></h2>
+<ul>
+<li>Button Stealer is a Chrome extension that automatically removes a button from every website you visit.</li>
+<li>The extension is designed to be fun and is free to use, with no practical utility.</li>
+<li>It ensures user data privacy by operating locally on the user&#39;s device.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042294">Reactions</a></h3>
+<ul>
+<li>Button Stealer, a Chrome extension, raises security concerns due to its broad permissions, which could allow it to scrape data from any webpage.</li>
+<li>Users suggest reviewing the code on GitHub and installing it locally to avoid potential malicious updates, while others argue such risky extensions should not be in the Chrome store.</li>
+<li>The discussion emphasizes the need for more specific permissions and improved security practices for browser extensions.</li>
+</ul>
+<h2><a href="https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/">Re: Do people IRL know you have a blog?</a></h2>
+<ul>
+<li>The author discusses the personal significance of maintaining a blog for nearly twenty years, despite indifference from people in real life (IRL).</li>
+<li>The blog serves as a form of self-expression and freedom, contrasting with the pressures of social media and big tech.</li>
+<li>Responses from readers highlight various perspectives, including the benefits of blogging for personal clarity, concerns about AI exploitation, and encouragement to write without analytics.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41041537">Reactions</a></h3>
+<ul>
+<li>Personal websites offer flexibility and refinement without the pressure of regular updates, unlike blogs which can feel lazy and unwelcoming.</li>
+<li>Blogs may be useful for historians and sharing thoughts, but personal pages are preferred for their organization and creative potential.</li>
+<li>Some individuals use pseudonyms on personal websites to avoid professional repercussions, highlighting the personal nature of these platforms.</li>
+</ul>
+<h2><a href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html">Wiz walks away from $23B deal with Google</a></h2>
+<ul>
+<li>Wiz has decided to abandon a $23 billion acquisition deal with Google and will pursue an Initial Public Offering (IPO) instead, as announced by CEO Assaf Rappaport.</li>
+<li>The decision was influenced by antitrust and investor concerns, with Wiz aiming for $1 billion in annual recurring revenue.</li>
+<li>Founded in 2020, Wiz has quickly grown, achieving $350 million in annual recurring revenue last year, and offers cloud security products.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042034">Reactions</a></h3>
+<ul>
+<li>Wiz has withdrawn from a $23 billion deal with Google, possibly due to Google re-evaluating the deal after an internal data review.</li>
+<li>Wiz claims they walked away because they believe their valuation is higher, though skepticism exists about their high valuation, reportedly over 60 times their Annual Recurring Revenue (ARR).</li>
+<li>The deal&#39;s collapse raises questions about Wiz&#39;s actual value and future, despite their rapid growth to $100 million ARR since their founding in 2020.</li>
+</ul>
+<h2><a href="https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html">Intent to End OCSP Service</a></h2>
+<ul>
+<li>Let’s Encrypt is ending support for Online Certificate Status Protocol (OCSP) in favor of Certificate Revocation Lists (CRLs) due to privacy risks and resource efficiency.</li>
+<li>This change will not affect websites or visitors but may impact some non-browser software; users are advised to ensure their software functions without an OCSP URL.</li>
+<li>The CA/Browser Forum&#39;s decision makes OCSP optional for publicly trusted Certificate Authorities (CAs), with Microsoft being the only exception; a timeline for shutting down OCSP services will be announced once Microsoft also makes it optional.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046956">Reactions</a></h3>
+<ul>
+<li>Let&#39;s Encrypt plans to discontinue its OCSP (Online Certificate Status Protocol) service due to issues with Certificate Revocation Lists (CRLs) and the complexity of OCSP systems.</li>
+<li>Proposals include using a binary format for CRLs to improve efficiency and mandatory OCSP stapling to address privacy concerns, though this could disrupt many websites.</li>
+<li>The shift away from OCSP may affect non-browser applications and embedded devices, but users of standard web servers like Nginx or Caddy should not need immediate changes.</li>
+</ul>
+<h2><a href="https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/">The Linux audio stack demystified (and more)</a></h2>
+<ul>
+<li>The article provides a comprehensive overview of the Linux audio stack, explaining sound basics, human sound perception, and digital audio processing.</li>
+<li>Key components of the Linux audio stack include ALSA for low-level hardware control, JACK for low-latency real-time audio, and PulseAudio for higher-level audio management, with PipeWire emerging as a unifying solution.</li>
+<li>PipeWire is highlighted as a versatile option that integrates features of both JACK and PulseAudio, potentially replacing them in future Linux distributions.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042753">Reactions</a></h3>
+<ul>
+<li>The Linux audio stack, though complex, supports diverse hardware and functionalities, including multiplexing and network features.</li>
+<li>Pipewire aims to unify the Linux audio stack, supporting various APIs and improving on PulseAudio, offering enhanced versatility and stability.</li>
+<li>While some users face challenges with advanced setups, many appreciate the improvements and flexibility Pipewire brings to Linux audio.</li>
+</ul>
+<h2><a href="https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/">United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency</a></h2>
+<ul>
+<li>The Federation of American Scientists (FAS) praises the U.S. for declassifying its nuclear warhead numbers, enhancing nuclear transparency.</li>
+<li>As of September 2023, the U.S. has 3,748 nuclear warheads, with only 69 dismantled last year, the lowest since 1994.</li>
+<li>The Biden administration&#39;s disclosure reinstates transparency paused by the Trump administration, and FAS encourages other nuclear states to adopt similar transparency to prevent mistrust and misinformation.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41040417">Reactions</a></h3>
+<ul>
+<li>The United States has revealed its nuclear warhead numbers, reinstating nuclear transparency and sparking discussions on production capacity and strategic importance.</li>
+<li>Key topics include the speed of potential production ramp-up, the impact of stockpile size on global safety and geopolitics, and the maintenance challenges like plutonium aging and tritium replacement.</li>
+<li>The disclosure aims to reassure allies and deter adversaries by showcasing the U.S.&#39;s significant nuclear capabilities.</li>
+</ul>
+<h2><a href="https://github.com/codr7/sharpl">Lisp in C#</a></h2>
+<ul>
+<li>Sharpl is a custom Lisp interpreter written in C# with around 4,000 lines of code and no external dependencies, making it easy to embed.</li>
+<li>Key features include pairs, arrays, maps, method compositions, varargs, a unified iterator protocol, and a fixpoint decimal type, among others.</li>
+<li>It supports lexical and dynamic bindings, tail call optimization to prevent stack overflow, and provides detailed error reporting with line numbers.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41041575">Reactions</a></h3>
+<ul>
+<li>A developer named codr7 is working on a Lisp implementation in C# and seeking optimization help from the community.</li>
+<li>Significant performance improvements have been achieved by community suggestions, such as changing how ArrayStack is accessed and using Span and ReadOnlySpan for data slicing.</li>
+<li>The project is not aiming for standard compliance but rather for practical performance and usability, with ongoing discussions about integrating features like macros and Fexprs (function expressions).</li>
+</ul>
+<head>
+  <meta property="og:title" content="Open source AI is the path forward" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Open%20source%20AI%20is%20the%20path%20forward&subheading=Tuesday%2C%20July%2023%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/23</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-22]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/22&#39;</h2>
+<h1>2024-07-22</h1>
+<h2><a href="https://forum.jellyfin.org/t-we-re-good-seriously">Jellyfin: We&#39;re Good, Seriously</a></h2>
+<ul>
+<li>Jellyfin has a budget of over $24,000, covering 40 months of expenses, and is asking users to redirect donations to the authors of the Clients they use.</li>
+<li>This request aligns with Jellyfin&#39;s &quot;no paid development&quot; policy, as donations are voluntary, and the project will reassess if funds drop to 12 months of runway.</li>
+<li>Community members are responding positively, with plans to support Client authors and inquiries about specific client support like WebOS.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031998">Reactions</a></h3>
+<ul>
+<li>Jellyfin, an open-source media server project, announced they have sufficient funds and suggested donors support other ecosystem projects instead.</li>
+<li>The community is divided on this approach; some believe funds should be distributed to ecosystem developers, while others agree with Jellyfin&#39;s decision to avoid additional administrative burdens.</li>
+<li>The discussion highlights the complexities and potential issues of managing donations within open-source projects, including transparency, administrative overhead, and maintaining focus on core development.</li>
+</ul>
+<h2><a href="https://without.boats/blog/pin/">Pin</a></h2>
+<ul>
+<li>The Pin type and the concept of pinning are essential but often misunderstood components of Rust&#39;s async ecosystem.</li>
+<li>Pin was introduced to support self-referential types in async Rust, ensuring objects don&#39;t move once they contain self-references, unlike Mojo, which inherently handles object identity.</li>
+<li>Despite its necessity, Pin introduces significant complexity for users due to its lack of syntactic sugar and support, leading to issues like reborrowing, pinned projections, and interactions with the Drop trait.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41029287">Reactions</a></h3>
+<ul>
+<li>The discussion revolves around the Rust programming language&#39;s <code>Pin</code> type, which is often misunderstood due to unclear documentation.</li>
+<li><code>Pin</code> ensures that certain objects cannot be moved in memory, which is crucial for self-referential structs, but this concept is not well-explained in the official docs.</li>
+<li>The conversation highlights the need for better documentation and analogies to make the concept of <code>Pin</code> and <code>Unpin</code> more accessible to Rust developers, especially those new to the language.</li>
+</ul>
+<h2><a href="https://github.com/BurntSushi/jiff">Jiff: Datetime library for Rust</a></h2>
+<ul>
+<li>Jiff is a new Rust datetime library focused on ease of use and performance, inspired by JavaScript&#39;s Temporal proposal.</li>
+<li>It offers features like high-level datetime primitives, seamless Time Zone Database integration, DST-aware arithmetic, formatting, parsing, and optional Serde support.</li>
+<li>Jiff is dual-licensed under MIT or the UNLICENSE, supports Unix and Windows, and requires Rust 1.70.0 or newer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031037">Reactions</a></h3>
+<ul>
+<li>Jiff is a new datetime library for Rust, developed by BurntSushi, known for creating high-quality tools like ripgrep.</li>
+<li>The library aims to address complexities in datetime handling, such as DST (Daylight Saving Time) arithmetic, timezone-aware calculations, and retrospective timezone conflict detection.</li>
+<li>Jiff offers a more user-friendly and flexible API compared to the existing standard, Chrono, while maintaining correctness and capability in datetime operations.</li>
+</ul>
+<h2><a href="https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html">No More Blue Fridays</a></h2>
+<ul>
+<li>A major outage on July 19th caused by a kernel driver update led to global Windows system crashes, highlighting the need for safer update mechanisms.</li>
+<li>eBPF (extended Berkeley Packet Filter), already used in Linux, is a secure kernel execution environment that can prevent such crashes and will soon be supported by Windows.</li>
+<li>eBPF programs are safety-checked and sandboxed, offering benefits like enhanced security and lower resource usage, with adoption by companies like Cisco, Google, and Meta for security and observability.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41033579">Reactions</a></h3>
+<ul>
+<li>Microsoft&#39;s eBPF (Extended Berkeley Packet Filter) support for Windows is currently limited to packet filtering, unlike Crowdstrike&#39;s comprehensive kernel monitoring drivers.</li>
+<li>Integrating eBPF into Windows&#39; existing frameworks is challenging, and it&#39;s uncertain if Microsoft aims to make it a standard.</li>
+<li>eBPF could enhance security by isolating kernel code, but it is not a complete solution, as highlighted by the recent Crowdstrike incident, which underscores the need for improved deployment practices and security measures.</li>
+</ul>
+<h2><a href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/">Parse, Don&#39;t Validate (2019)</a></h2>
+<ul>
+<li>The post emphasizes the principle &quot;Parse, don’t validate,&quot; advocating for parsing data to preserve information in the type system rather than discarding it through validation.</li>
+<li>It explains how type-driven design in languages like Haskell can turn partial functions into total functions by strengthening argument types, using <code>NonEmpty</code> lists as an example.</li>
+<li>Practical advice includes using precise data structures, refactoring to push proof burdens upward, and avoiding denormalized data representations to improve program reliability and safety.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031585">Reactions</a></h3>
+<ul>
+<li>The article &quot;Parse, Don&#39;t Validate&quot; emphasizes the importance of parsing data to ensure correctness rather than repeatedly validating it throughout the program.</li>
+<li>This approach, rooted in concepts like Design by Contract and Domain-Driven Design (DDD), leverages strong type systems to enforce guarantees and reduce errors, making code easier to reason about and maintain.</li>
+<li>The discussion highlights practical examples and benefits, such as using distinct types for different validation stages and ensuring that data is always in a valid state, which can simplify complex applications and improve reliability.</li>
+</ul>
+<h2><a href="https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/">When ChatGPT summarises, it does nothing of the kind</a></h2>
+<ul>
+<li>The author has been exploring and discussing the foundations of ChatGPT and other Generative AIs, aiming to provide realistic perspectives against the prevailing hype.</li>
+<li>A key insight is that ChatGPT does not truly summarize content but merely shortens it, often missing essential details and proposals, as evidenced by a comparison with a human-generated summary of a 50-page paper.</li>
+<li>This limitation arises because summarizing requires understanding, which ChatGPT lacks, leading to skepticism about the reliability of LLMs (Large Language Models) for practical business applications.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41027658">Reactions</a></h3>
+<ul>
+<li>The author argues that ChatGPT&#39;s text summarization lacks true understanding, resulting in incomplete and sometimes misleading summaries.</li>
+<li>The critique points out the absence of details about the GPT model, the prompt, and the number of attempts in the original analysis.</li>
+<li>User experiences and opinions vary, with some finding ChatGPT and other LLMs helpful, while others highlight their limitations and the need for improved prompting and context management.</li>
+</ul>
+<h2><a href="https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/">Ryanair wins screen scraping case against Booking.com in US court ruling</a></h2>
+<ul>
+<li>A US court ruled that Booking.com violated the Computer Fraud and Abuse Act by accessing Ryanair&#39;s website without permission, supporting Ryanair&#39;s stance against unauthorized screen scraping.</li>
+<li>The Delaware District Court jury found Booking.com guilty of unauthorized access with intent to defraud and dismissed Booking.com&#39;s counterclaims of defamation and unfair competition.</li>
+<li>Ryanair CEO Michael O&#39;Leary hopes the ruling will reduce illegal screen scraping and overcharging, while Booking.com plans to appeal, arguing that fare comparison benefits consumer choice.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031960">Reactions</a></h3>
+<ul>
+<li>Ryanair won a legal case against Booking.com in a US court for unauthorized access to resell tickets, violating the Computer Fraud and Abuse Act.</li>
+<li>The ruling could affect other online travel agents using similar practices, highlighting the complexities of web scraping laws.</li>
+<li>There is speculation that the decision might be overturned due to conflicting legal precedents.</li>
+</ul>
+<h2><a href="https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything">No one expects young men to do anything and they respond by doing nothing (2022)</a></h2>
+<ul>
+<li>Rob Henderson&#39;s post discusses the lack of societal expectations for young men and its negative consequences, including increased unemployment and incarceration rates.</li>
+<li>He references &quot;Promises I Can Keep&quot; by Kathryn Edin and Maria Kefalas, which examines why low-income women often prioritize motherhood over marriage, attributing it to poor behavior from young males.</li>
+<li>Henderson criticizes the upper class for undermining family stability norms while ensuring their own children benefit from stable homes, arguing that young men need high expectations to thrive.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41032918">Reactions</a></h3>
+<ul>
+<li>The article attributes the phenomenon of &quot;young men with nothing to do&quot; to wealth inequality and the concentration of wealth among older elites, which drives up prices for necessities and stifles demand for new ventures.</li>
+<li>It also discusses the instability of family structures, noting that societal changes and economic pressures have altered traditional family dynamics.</li>
+<li>Comments on the article debate the impact of absentee fathers, the role of women in family stability, and the broader societal and economic factors contributing to these issues.</li>
+</ul>
+<h2><a href="https://nitter.poast.org/GerardoMunck/status/1815059432382067053">James C. Scott, author of Seeing Like a State, has died</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41028887">Reactions</a></h3>
+<ul>
+<li>James C. Scott, author of &quot;Seeing Like a State,&quot; has passed away, prompting reflections on his influential ideas within the tech community.</li>
+<li>Scott&#39;s work highlights how states and technology can enforce uniformity, impacting fields like medicine, education, and social engagement by reducing diversity.</li>
+<li>Discussions on Hacker News explore Scott&#39;s concepts, particularly the balance between security and flexibility in software, and the broader implications of technological homogeneity.</li>
+</ul>
+<h2><a href="https://github.com/eza-community/eza">Eza: A modern, maintained replacement for ls</a></h2>
+<ul>
+<li>eza is a modern replacement for the ls command in Unix and Linux, offering enhanced features and better defaults.</li>
+<li>Key features include color-coded file types, symlink support, extended attributes, Git integration, and human-readable dates.</li>
+<li>eza aims to be more user-friendly and feature-rich, with additional support for hyperlinking, mount point details, SELinux context, and bright terminal colors.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031112">Reactions</a></h3>
+<ul>
+<li>Eza is introduced as a modern and actively maintained replacement for the traditional <code>ls</code> command, which lists directory contents in Unix-like operating systems.</li>
+<li>The discussion highlights user frustrations with &quot;human-readable dates&quot; in directory listings, advocating for exact timestamps instead of relative time formats like &quot;1 day ago.&quot;</li>
+<li>The post also mentions other modern command-line tools that users prefer over traditional ones, such as <code>bat</code> (a <code>cat</code> replacement with syntax highlighting) and <code>rg</code> (ripgrep, a faster alternative to <code>grep</code>).</li>
+</ul>
+<h2><a href="https://www.smbc-comics.com/comic/investment-2">How much money we can raise for transparently idiotic startups?</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41036844">Reactions</a></h3>
+<ul>
+<li>The post discusses the phenomenon of raising funds for startups with seemingly nonsensical ideas, highlighting the ease with which capital can be obtained for such ventures.</li>
+<li>It critiques the startup ecosystem, suggesting it operates like a &quot;pump and dump&quot; scheme, moving from one trendy field to another, often wasting resources.</li>
+<li>The conversation includes examples of successful startups and debates the value and impact of focus groups and MVPs (Minimum Viable Products) in product development.</li>
+</ul>
+<h2><a href="https://billabear.com/">A source-available billing system I&#39;ve spent 18 months building</a></h2>
+<ul>
+<li>The platform offers deep integration with Stripe, enabling comprehensive control over billing, tax management, and automated workflows.</li>
+<li>Features include managing tax rates at various levels, creating custom subscription plans, and integrating with tools like Slack and email providers.</li>
+<li>The system supports scalability, self-hosting, and provides detailed business insights such as subscription churn and lifetime value.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031975">Reactions</a></h3>
+<ul>
+<li>A new source-available billing system, Billabear, has been launched after 18 months of development, offering features similar to Stripe but with the source code available under the Fair Source License (FSL).</li>
+<li>The FSL allows users to access the source code, which transitions to an Apache 2.0 license after two years, providing more flexibility and control compared to Stripe&#39;s closed-source model.</li>
+<li>Discussions highlight the importance of source availability for some users, the need for better localization in various languages, and concerns about handling US state sales tax and GDPR compliance.</li>
+</ul>
+<h2><a href="https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html">The workers have spoken: They&#39;re staying home</a></h2>
+<ul>
+<li>Dell&#39;s policy requiring in-office presence for promotions was largely ignored, with many employees opting to stay home.</li>
+<li>A Gartner report indicates that 48% of employees believe company mandates favor leaders&#39; preferences over their own needs.</li>
+<li>Remote work is increasingly preferred for its benefits, including no commutes, better work-life balance, cost savings, and flexibility, with high performers seeking remote opportunities.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41037097">Reactions</a></h3>
+<ul>
+<li>Workers are reluctant to return to offices due to poor environments, lack of permanent desks, and productivity issues in open-plan setups.</li>
+<li>Many employees find remote work more efficient and are resistant to returning to suboptimal office conditions, with commutes being a significant factor.</li>
+<li>Some companies are using return-to-office mandates as a strategy to reduce headcount without resorting to layoffs, fueling the ongoing debate on optimal work arrangements.</li>
+</ul>
+<h2><a href="https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf">Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41029987">Reactions</a></h3>
+<ul>
+<li>The Apollo DN10000, a quad CPU workstation with 128MB RAM from 1988, is being nostalgically discussed for its historical significance and technical capabilities.</li>
+<li>Users recall its use in university labs and its role in early graphics programming, despite its complex Unix environment and configuration challenges.</li>
+<li>The machine&#39;s high cost, up to $250,000 in the 1980s (equivalent to about $660,000 today), highlights its premium status and the significant technological advancements since then.</li>
+</ul>
+<h2><a href="https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/">CrowdStrike&#39;s Falcon Sensor also linked to Linux kernel panics and crashes</a></h2>
+<ul>
+<li>CrowdStrike&#39;s Falcon Sensor software has caused system crashes on both Windows and Linux, including Red Hat Enterprise Linux 9.4, Debian, and Rocky Linux.</li>
+<li>Disabling the Falcon Sensor temporarily stabilizes affected systems, and CrowdStrike is testing a rapid recovery tool to address the issue.</li>
+<li>The disruption has had significant global impacts, including flight cancellations and healthcare delays, with Microsoft estimating 8.5 million Windows machines affected.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41030352">Reactions</a></h3>
+<ul>
+<li>CrowdStrike&#39;s Falcon Sensor has been associated with Linux kernel panics and crashes, distinct from Windows BSOD (Blue Screen of Death) issues.</li>
+<li>The Linux kernel panics are likely due to a bug in the kernel&#39;s eBPF (Extended Berkeley Packet Filter) implementation, potentially from a Red Hat-specific patch, indicating a kernel bug rather than a vendor issue.</li>
+<li>The discussion highlights the challenges of supporting multiple OS versions and the complexities involved in kernel module testing, emphasizing the differences in kernel reliability engineering between Linux and Windows.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Jellyfin: We're Good, Seriously" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Jellyfin%3A%20We're%20Good%2C%20Seriously&subheading=Monday%2C%20July%2022%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/22</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-21]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/21&#39;</h2>
+<h1>2024-07-21</h1>
+<h2><a href="https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/">Empathy for the user having sex with your software</a></h2>
+<ul>
+<li>Developing technology for intimate use, such as Buttplug applications, requires empathy and consideration of users&#39; unique needs and contexts, including usability during arousal and hardware disconnections.</li>
+<li>Sharing sex tech code on platforms like GitHub can help establish best practices, but developers should be cautious with explicit media and consider self-hosting sensitive materials.</li>
+<li>The Buttplug project emphasizes safety, autonomy, and human rights, encouraging responsible behavior and education in its mission statement.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021029">Reactions</a></h3>
+<ul>
+<li>The post discusses buttplug.io, a software library for controlling sex toys, highlighting its extensive device support and ethical considerations.</li>
+<li>The founder, qdot, shares insights on the development challenges, including Bluetooth library management and the importance of user empathy in software design.</li>
+<li>The conversation includes humorous and serious exchanges about the software&#39;s applications, testing methods, and potential uses in other domains like health.</li>
+</ul>
+<h2><a href="https://twitter.com/patrickwardle/status/1814343502886477857">Initial details about why CrowdStrike&#39;s CSAgent.sys crashed</a></h2>
+<ul>
+<li>CrowdStrike&#39;s CSAgent.sys crashed due to a faulting instruction involving an invalid memory address.</li>
+<li>The issue was caused by an unmapped address from an array of pointers, leading to a crash when accessing memory.</li>
+<li>The specific faulting instruction was &quot;mov r9d, [r8],&quot; where R8 held the invalid address.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021366">Reactions</a></h3>
+<ul>
+<li>CrowdStrike&#39;s CSAgent.sys crash was caused by bad binary data and a poorly-written parser that failed to handle invalid data correctly.</li>
+<li>The incident was worsened by poorly written kernel code, lack of internal testing, ignored update settings, simultaneous global rollout, and initial data corruption.</li>
+<li>This highlights the need for robust error handling, staggered deployments, and thorough testing, including fuzz testing, to prevent similar failures.</li>
+</ul>
+<h2><a href="https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral">What is the significance of the character &quot;j&quot; at the end of a Roman Numeral? (2013)</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41022653">Reactions</a></h3>
+<ul>
+<li>The character &quot;j&quot; at the end of a Roman numeral was historically used to indicate the end of the number, ensuring clarity and preventing tampering.</li>
+<li>This practice was essential in handwritten documents to avoid misinterpretation, such as distinguishing &quot;xviij&quot; (18) from &quot;xviii&quot; (17) or &quot;xviiii&quot; (19).</li>
+<li>Similar typographical conventions influenced the evolution of the Dutch digraph &quot;ij,&quot; highlighting the impact of these practices on language development.</li>
+</ul>
+<h2><a href="https://computer.rip/2024-07-20-minuteman-missile-communications.html">Minuteman missile communications</a></h2>
+<ul>
+<li>The author plans to change hosting platforms, incurring more expenses, and seeks reader support through donations, offering exclusive content and early access to new YouTube videos for supporters.</li>
+<li>The U.S. maintains 400 Minuteman III ICBMs managed by the Air Force&#39;s 90th, 91st, and 341st Missile Wings, with each cluster of ten Launch Facilities monitored by a single Missile Alert Facility.</li>
+<li>Minuteman communications include external systems like LF, HF, UHF, and SHF antennas, and internal systems like the Hardened Intersite Cable System (HICS), with future upgrades planned under the Sentinel program.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019604">Reactions</a></h3>
+<ul>
+<li>The post discusses the communication systems of Minuteman missiles, highlighting the transition from older technologies like DSL over HICS cables to modern fiber-optic cables for improved capacity and reliability.</li>
+<li>The conversation includes insights into the challenges of EMP (Electromagnetic Pulse) and lightning protection for these communication systems, emphasizing the advantages of nonconductive fiber-optic cables.</li>
+<li>The post also features anecdotes and recommendations for visiting historical missile sites, such as the Minuteman launch control facility in South Dakota and the Titan II missile silo in Arizona, providing a historical context for these technologies.</li>
+</ul>
+<h2><a href="https://dgerrells.com/blog/how-not-to-use-box-shadows">So you think you know box shadows?</a></h2>
+<ul>
+<li>The post explores creative and unconventional uses of box shadows in CSS, beyond typical UI enhancements.</li>
+<li>The author experimented with box shadows for minimal art, animations, 3D effects, and even ray tracing, showcasing the versatility of this CSS feature.</li>
+<li>The experiments highlight the performance capabilities of modern hardware, like the M1 laptop, in handling complex visual effects using box shadows.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024664">Reactions</a></h3>
+<ul>
+<li>The discussion focuses on how transparency in graphics rendering impacts GPU batching and overdraw, which are critical for performance optimization.</li>
+<li>Users share techniques like using signed distance fields (SDF) for more efficient rendering, noting varied performance across different devices and browsers.</li>
+<li>Insights include practical experiences and links to related resources and historical articles for further reading.</li>
+</ul>
+<h2><a href="https://x.com/">X.com refuses to open with Firefox strict tracking protection enabled</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41022408">Reactions</a></h3>
+<ul>
+<li>X.com does not load with Firefox&#39;s strict tracking protection enabled, which blocks various tracking mechanisms and scripts.</li>
+<li>Users speculate that essential parts of the site are blocked or that X.com detects the ad blocker and refuses to load.</li>
+<li>Some users suggest using alternative browsers or tools like Nitter to access Twitter content without issues.</li>
+</ul>
+<h2><a href="https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/">User returns after 100k-hours ban to continue conversation that got them banned</a></h2>
+<ul>
+<li>A user named Etherwind returned to the Something Awful forums after an 11-year, 100,000-hour ban to continue a tabletop game debate that led to his ban in 2013.</li>
+<li>Etherwind was originally banned for jokingly wishing death upon an author, and his return was met with humor and awe from other forum users.</li>
+<li>Despite the lengthy ban, Etherwind saw his return as a comedic opportunity and ultimately dropped the account after resuming the debate.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024633">Reactions</a></h3>
+<ul>
+<li>A user returned after a 100,000-hour ban, reigniting discussions on forums like Habbo Hotel and Stack Overflow about ban experiences and moderator power.</li>
+<li>The conversation included debates on democratic moderation, the biases of moderators, and the mental health impact of long-term bans.</li>
+<li>The thread underscored the evolving nature of online communities and the significant, lasting effects of extended bans.</li>
+</ul>
+<h2><a href="https://rr-project.org/">rr – record and replay debugger for C/C++</a></h2>
+<ul>
+<li>rr is a debugging tool for C/C++ on Linux, enhancing gdb by allowing deterministic replay and efficient reverse execution.</li>
+<li>It supports recording and replaying various applications, handles multiple-process workloads, and integrates with gdb scripting and IDEs.</li>
+<li>rr is notable for its low overhead, deployability on stock Linux kernels, and ability to make debugging intermittent bugs easier and faster.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41023547">Reactions</a></h3>
+<ul>
+<li>rr is a record and replay debugger for C/C++ that aids in reverse engineering and debugging complex codebases by allowing breakpoints, watchpoints, and reverse-continuation to trace variable changes and identify bugs.</li>
+<li>It uses gdb (GNU Debugger) and supports various compiled languages like Rust, Go, and Julia on Linux, but has limitations with concurrency bugs and does not support GPUs.</li>
+<li>rr&#39;s chaos mode can help expose some concurrency issues, and advanced tools like Pernosco, based on rr, offer a queryable database of program execution.</li>
+</ul>
+<h2><a href="https://semiengineering.com/intel-vs-samsung-vs-tsmc/">Intel vs. Samsung vs. TSMC</a></h2>
+<ul>
+<li>Intel, Samsung, and TSMC are intensifying competition in the foundry market as traditional planar scaling benefits diminish, focusing on 3D transistors, chiplets, and advanced packaging technologies.</li>
+<li>Each company is leveraging standards like UCIe (Universal Chiplet Interconnect Express) and BoW (Bridge of Wires) for chiplet connectivity, with Intel using EMIB (Embedded Multi-die Interconnect Bridge) and Samsung and TSMC exploring 2.5D and 3D-IC (Integrated Circuit) approaches.</li>
+<li>The foundries are advancing towards the angstrom scale in process nodes and innovating in areas like backside power delivery and glass substrates, aiming to deliver customized, high-performance solutions efficiently.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019561">Reactions</a></h3>
+<ul>
+<li>The discussion highlights the critical role of chip manufacturing, with Intel, Samsung, and TSMC being key players in the industry.</li>
+<li>The complexity and precision required in modern chip production, including advanced packaging and microfluidics, are emphasized as significant technological achievements.</li>
+<li>The conversation touches on the potential consequences if a major player like TSMC were to exit the market, suggesting it could lead to monopolistic conditions and impact global semiconductor supply.</li>
+</ul>
+<h2><a href="https://twitter.com/JoeBiden/status/1815080881981190320">Joe Biden stands down as Democratic candidate</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41026741">Reactions</a></h3>
+<ul>
+<li>Joe Biden has announced his decision to step down as the Democratic candidate for the upcoming election.</li>
+<li>This decision has sparked a wide range of reactions, from praise for his presidency to concerns about his age and mental capacity.</li>
+<li>The Democratic Party now faces the challenge of selecting a new candidate, with discussions about potential successors and the implications for the upcoming election.</li>
+</ul>
+<h2><a href="https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga">Google Distributed Cloud air-gapped appliance</a></h2>
+<ul>
+<li>Google Distributed Cloud air-gapped appliance, launching on July 17, 2024, brings cloud and AI capabilities to tactical edge environments like disaster zones and remote research stations.</li>
+<li>The appliance supports real-time local data processing for AI use cases such as object detection and medical imaging analysis, with full isolation from the public internet for security and compliance.</li>
+<li>It offers Department of Defense Impact Level 5 accreditation, making it suitable for disaster response, industrial automation, transportation, logistics, and restricted federal and defense workloads.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019777">Reactions</a></h3>
+<ul>
+<li>Google has introduced the Distributed Cloud air-gapped appliance, designed to operate without connectivity to Google Cloud or the public internet, primarily targeting military and other high-security applications.</li>
+<li>This appliance is part of a broader trend among major cloud providers (AWS, Azure) to offer rugged, portable, and secure on-premises solutions for environments with stringent security and operational requirements.</li>
+<li>The appliance&#39;s design includes features like AI capabilities, rugged portability, and compliance with military standards, aiming to meet the needs of disconnected and demanding edge environments.</li>
+</ul>
+<h2><a href="https://twitter.com/leighhoneywell/status/1814278230704111792">Any sufficiently bad software update is indistinguishable from a cyberattack</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41023086">Reactions</a></h3>
+<ul>
+<li>The discussion centers around the risks and implications of giving remote root access to third-party security software, comparing it to malware due to its potential for abuse and system control.</li>
+<li>There is a debate on whether to rely solely on first-party security solutions (like Microsoft&#39;s) versus third-party ones, with some advocating for the use of Linux to avoid such risks.</li>
+<li>The conversation highlights the importance of staged rollouts for software updates to minimize disruption and the potential dangers of kernel-level access by third-party software.</li>
+</ul>
+<h2><a href="https://lapcatsoftware.com/articles/2024/7/1.html">Deluge of Fake Mac App Store Reviews</a></h2>
+<ul>
+<li>Jeff Johnson reported a surge of fake reviews for top paid apps in the U.S. Mac App Store, affecting 8 out of the top 40 paid apps between June 11 and July 19, 2024.</li>
+<li>The fake reviews, often 5-star with generic or nonsensical text, were likely intended to boost app ratings, with suspicions that a single developer might be behind them to obscure their own app&#39;s fake reviews.</li>
+<li>Despite reports to Apple, the issue remains unaddressed, with developers of BetterSnapTool and Vinegar acknowledging and reporting the problem to Apple.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021472">Reactions</a></h3>
+<ul>
+<li>The Mac App Store is experiencing a surge of fake reviews, with developers like BetterSnapTool&#39;s creator reporting the issue to Apple.</li>
+<li>Apple is investigating and removing some fake reviews, but the source and motive behind them remain unclear, potentially involving competitors or review farms.</li>
+<li>The prevalence of fake reviews on both Mac and iOS App Stores undermines their reliability for software discovery, prompting users to seek app recommendations from Google or Reddit instead.</li>
+</ul>
+<h2><a href="https://text.npr.org/g-s1-9028">Trench collapses have killed hundreds of workers in the US over the last decade</a></h2>
+<ul>
+<li>Over the past decade, trench collapses have resulted in over 250 worker fatalities in the U.S., many of which could have been prevented with adherence to basic safety regulations.</li>
+<li>Despite OSHA&#39;s (Occupational Safety and Health Administration) regulations and fines, many companies continue to violate safety standards with minimal consequences, as criminal charges are rare and fines are often reduced or ignored.</li>
+<li>An investigation by NPR, Texas Public Radio, and 1A underscores the urgent need for stricter enforcement and accountability to prevent future tragedies.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024559">Reactions</a></h3>
+<ul>
+<li>Trench collapses have resulted in hundreds of preventable worker deaths in the US over the past decade, primarily due to non-compliance with safety regulations.</li>
+<li>OSHA (Occupational Safety and Health Administration) regulations are essential but often not strictly enforced, leading to unsafe working conditions.</li>
+<li>Both company policies and worker attitudes, such as ignoring safety gear due to peer pressure, contribute to the lack of a robust safety culture, which requires top-down enforcement and accountability.</li>
+</ul>
+<h2><a href="https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/">Managing Classic Mac OS Resources in ResEdit</a></h2>
+<ul>
+<li>The Macintosh file system featured two forks: a data fork and a resource fork, with the latter storing structured data like icons, dialogs, and code chunks.</li>
+<li>Apple’s ResEdit, a resource editor last updated in 1994, allowed users to customize system files, dialogs, and keyboard layouts, but posed security risks as malware often exploited resource forks.</li>
+<li>With Mac OS X, resource forks transitioned to extended attributes, and app resources are now organized into bundles, with modern apps being locked down by signatures, preventing the extensive customizations once possible with ResEdit.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019829">Reactions</a></h3>
+<ul>
+<li>The post discusses the nostalgia and technical details of using ResEdit, a resource editor for Classic Mac OS, which allowed users to modify software and system resources.</li>
+<li>Users share their experiences with various debugging tools like MacsBug, TMON, and The Debugger, highlighting their importance in early software development and hacking.</li>
+<li>The conversation reflects on how these tools influenced their careers and the broader impact of resource editing on software customization and development.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Empathy for the user having sex with your software" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Empathy%20for%20the%20user%20having%20sex%20with%20your%20software&subheading=Sunday%2C%20July%2021%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/21</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-20]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/20&#39;</h2>
+<h1>2024-07-20</h1>
+<h2><a href="https://roadway.report">I mapped almost every USA traffic death in the 21st century</a></h2>
+<ul>
+<li>The Nationwide Vision-Zero Map is a new initiative aimed at eliminating traffic fatalities and severe injuries on roadways.</li>
+<li>This map provides a comprehensive overview of traffic safety data across the country, helping to identify high-risk areas and implement targeted safety measures.</li>
+<li>The initiative is part of a broader Vision-Zero strategy, which has been adopted by various cities and countries to improve road safety through data-driven approaches and community engagement.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41012443">Reactions</a></h3>
+<ul>
+<li>A comprehensive map of nearly every USA traffic death in the 21st century was created, with users suggesting a heatmap to identify fatality hotspots.</li>
+<li>Discussions highlighted data inaccuracies from the NHTSA&#39;s FARS database, including issues with police reports and state reporting systems.</li>
+<li>Users debated the impact of road design on safety, advocating for narrower streets and traffic calming measures, and discussed the balance between road safety and traffic efficiency.</li>
+</ul>
+<h2><a href="https://www.kibty.town/blog/a16z/">Researcher finds flaw in a16z website that exposed some company data</a></h2>
+<ul>
+<li>A security researcher discovered a vulnerability in a16z crypto&#39;s subdomain, revealing sensitive information such as AWS keys and database contents.</li>
+<li>The exposed credentials included access to AWS, Salesforce, Mailgun, and a database containing Personally Identifiable Information (PII).</li>
+<li>The researcher did not receive a bug bounty due to public disclosure after failing to find a private contact method, which they deemed unfair.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41016768">Reactions</a></h3>
+<ul>
+<li>A researcher identified a vulnerability in the a16z website that exposed company data but received no bug bounty due to public disclosure after private contact attempts failed.</li>
+<li>The incident has ignited debates on responsible disclosure, company security practices, and the ethics of unpaid bug hunting.</li>
+<li>Criticism has been directed at a16z for not compensating the researcher, highlighting the responsibilities of both companies and security researchers in handling such discoveries.</li>
+</ul>
+<h2><a href="https://garagehq.deuxfleurs.fr/">Garage: Open-Source Distributed Object Storage</a></h2>
+<ul>
+<li>Garage is an open-source distributed object storage service designed for self-hosting, offering redundancy by replicating data across three zones.</li>
+<li>Key features include lightweight and efficient deployment, versatility across multiple datacenters, and resilience to network and hardware failures.</li>
+<li>It supports heterogeneous hardware, implements the Amazon S3 API for compatibility, and is funded by NGI POINTER, NLnet / NGI0 Entrust, and the European Union&#39;s Horizon 2021 research and innovation programme.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013004">Reactions</a></h3>
+<ul>
+<li>Garage is an open-source distributed object storage system that users are adopting over Minio due to better performance with small files and replication.</li>
+<li>Key features include significant performance improvements, low memory usage, and CRDTs (Conflict-free Replicated Data Types) for distributed consensus.</li>
+<li>The project is AGPL-licensed and aims to offer a flexible, self-hosted storage solution, with ongoing discussions about compliance features and comparisons to other storage systems like SeaweedFS, IPFS, and Tahoe-LAFS.</li>
+</ul>
+<h2><a href="https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399">Multisatellite data depicts a record-breaking methane leak from a well blowout</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41012193">Reactions</a></h3>
+<ul>
+<li>Multisatellite data has identified a record-breaking methane leak from a well blowout, highlighting that oil and gas-related methane emissions are significantly underreported by the industry.</li>
+<li>Methane&#39;s greenhouse gas potential is 20 times that of CO2 over 100 years, making some production paths worse than coal in terms of climate impact.</li>
+<li>The incident in Kazakhstan underscores the need for stronger climate policies and accurate metering to address methane leaks, which are exacerbated by weakened regulatory agencies and outdated infrastructure.</li>
+</ul>
+<h2><a href="https://github.com/typst/typst">Typst: An easy to learn alternative for LaTex</a></h2>
+<ul>
+<li>Typst is a new, user-friendly markup-based typesetting system designed to be as powerful as LaTeX, featuring built-in markup, flexible functions, integrated scripting, and fast compile times.</li>
+<li>The Typst compiler and CLI (Command Line Interface) are available for local document compilation, with a free online editor currently in public beta for an enhanced experience.</li>
+<li>Users can join the Typst community on Discord for support and access community-built resources, with opportunities to contribute by reporting bugs or suggesting features.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41014941">Reactions</a></h3>
+<ul>
+<li>Typst is presented as an easier and more resource-efficient alternative to LaTeX for generating PDFs, with users reporting significant performance improvements.</li>
+<li>The tool is praised for its intuitive templating system, making it more accessible for users compared to LaTeX, especially for generating large volumes of documents quickly.</li>
+<li>Typst is gaining attention due to its potential to streamline academic writing and regulatory document generation, though it currently lacks some features like HTML output and full TeX support.</li>
+</ul>
+<h2><a href="https://batchmon.com/blog/ai-cheaper-than-ads/">AI paid for by Ads – the GPT-4o mini inflection point</a></h2>
+<ul>
+<li>OpenAI has launched the GPT-4o mini model, priced at $0.15 per 1 million input tokens and $0.60 per 1 million output tokens, making it more affordable and intelligent than GPT-3.5 Turbo.</li>
+<li>The low cost of GPT-4o mini enables the creation of AI-generated content that can be supported entirely by ad revenue, potentially transforming online content creation.</li>
+<li>For example, generating a blog post with GPT-4o mini costs $0.00051525, while ad revenue per page view can be around $0.0026, resulting in a net profit of approximately $0.002 per page view.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41010188">Reactions</a></h3>
+<ul>
+<li>The discussion highlights concerns about the future of web content, suggesting that AI-generated content may soon dominate, leading to a cycle of AI training on AI outputs.</li>
+<li>There is a debate on the quality of current web content, with some arguing that much of it is already low-quality SEO (Search Engine Optimization) material, and AI might exacerbate this issue.</li>
+<li>The conversation touches on the difficulty of distinguishing between human and AI-generated text, raising questions about the authenticity and originality of online interactions and content.</li>
+</ul>
+<h2><a href="https://nouptime.com/">No Uptime Hosting (2006)</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41016290">Reactions</a></h3>
+<ul>
+<li>No Uptime Hosting is a satirical website, humorously offering outdated and impractical hosting services, such as accepting files on floppy disks and supporting obsolete operating systems like OS/2 Warp.</li>
+<li>The HTML source code of the site is intentionally filled with errors and outdated practices, such as mixed doctype declarations, raw PHP tags, and missing closing tags, adding layers to the joke.</li>
+<li>The community finds the humor in the absurdity of the service offerings and the intentionally poor website design, with many comments highlighting the nostalgic and comedic elements.</li>
+</ul>
+<h2><a href="https://blog.kronis.dev/articles/never-update-anything">Never Update Anything</a></h2>
+<ul>
+<li>The article presents a controversial view against frequent software updates, highlighting the disruptions and resource consumption they cause.</li>
+<li>It suggests a more stable approach, using examples like the Lazarus IDE and FreeBSD&#39;s stable packages, to reduce the need for constant updates.</li>
+<li>The author advocates for slowing down the pace of updates, focusing on long-term stability and non-breaking changes to ease maintenance and reduce developer cognitive load.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41009942">Reactions</a></h3>
+<ul>
+<li>Before the internet, software updates were infrequent and costly, making buggy software a significant issue.</li>
+<li>The internet facilitated easier updates, leading companies to push frequent updates and use customers as testers, resulting in less stable software.</li>
+<li>There is a debate between prioritizing long-term support (LTS) versions for stability versus the industry trend of frequent updates at the expense of quality.</li>
+</ul>
+<h2><a href="https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe">Public toilets are vanishing and that&#39;s a civic catastrophe</a></h2>
+<ul>
+<li>Public toilets are vanishing, leading to a civic crisis, particularly affecting individuals with health issues and marginalized groups.</li>
+<li>Guido Corradi, a psychology researcher, underscores the poor state of public restrooms in affluent Western nations, highlighting their impact on public health and human dignity.</li>
+<li>Studies indicate that poor, less educated individuals, and women experience more negative encounters with public restrooms, stressing the need for improved facilities and public awareness campaigns.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41015731">Reactions</a></h3>
+<ul>
+<li>The disappearance of public toilets in the US has led to significant accessibility issues, forcing people to rely on businesses for restroom access.</li>
+<li>Although the Committee To End Pay Toilets In America succeeded in banning pay toilets, no measures were taken to replace them with free public toilets.</li>
+<li>In some states like Florida, businesses are required to have public restrooms, but access is often restricted to customers, highlighting the need for improved public restroom infrastructure.</li>
+</ul>
+<h2><a href="https://devforum.play.date/t/doom-on-playdate/852">Doom on Playdate</a></h2>
+<ul>
+<li>An early version of Doom has been successfully ported to the Playdate, a handheld gaming console.</li>
+<li>The developer faced significant challenges with makefiles, compilers, and linker issues, particularly missing references in libc, which were resolved by adjusting linker options and modifying the Playdate SDK.</li>
+<li>The game now runs on both the simulator and actual hardware, allowing the developer to focus on game control, presentation, and optimization.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013159">Reactions</a></h3>
+<ul>
+<li>The Playdate handheld console is running Doom, sparking discussions on optimizing its display using various dithering techniques for better visual clarity.</li>
+<li>Users are debating the merits of different dithering methods, such as Atkinson and ordered dithering, and referencing other games like Return of the Obra Dinn for inspiration.</li>
+<li>The Playdate uses a Sharp Memory LCD, which offers fast refresh rates and low power consumption, though some users wish it had a backlight for better usability.</li>
+</ul>
+<h2><a href="https://pad.public.cat/lettre-NCP-NGI">The European Union must keep funding free software</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41010458">Reactions</a></h3>
+<ul>
+<li>The European Union is encouraged to increase funding for free software, as current contributions are minimal compared to commercial efforts.</li>
+<li>A new funding model may be necessary to foster a thriving free software ecosystem, with NLnet&#39;s impact being limited compared to major companies like Google.</li>
+<li>The debate centers on the effectiveness of government funding for technical projects and the EU&#39;s position in the tech industry.</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html">CrowdStrike debacle provides road map of American vulnerabilities to adversaries</a></h2>
+<ul>
+<li>A software update bug caused a digital meltdown on Friday, impacting airports, hospitals, and TV stations, highlighting the fragility of interconnected networks.</li>
+<li>The incident was due to human error, not a nation-state attack, and involved CrowdStrike’s software, which is intended to neutralize cyberattacks.</li>
+<li>This event underscores the need for improved digital resilience, despite ongoing efforts by the U.S. government and private sector to enhance cybersecurity.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41017077">Reactions</a></h3>
+<ul>
+<li>The CrowdStrike incident has exposed vulnerabilities in American critical infrastructure, prompting debates on the use of operating systems (OS) that need frequent security patches.</li>
+<li>Experts are suggesting alternatives like Linux or OpenBSD, which are perceived to offer better security compared to Windows, which is widely used due to historical and practical reasons.</li>
+<li>The incident emphasizes the necessity for built-in security features in systems and raises concerns about the broader implications for national security and infrastructure resilience.</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support">Google&#39;s shortened links will stop working next year</a></h2>
+<ul>
+<li>Google’s shortened links (goo.gl) will stop working after August 25th, 2025, resulting in a 404 error for all such links.</li>
+<li>Starting August 23rd, 2024, goo.gl links will show an interstitial page warning users about the upcoming shutdown.</li>
+<li>Google advises developers to update affected links to avoid disruptions, noting that the goo.gl service was initially shut down in 2019 with a recommendation to switch to Firebase Dynamic Links, which has also been deprecated.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41014089">Reactions</a></h3>
+<ul>
+<li>Google&#39;s URL shortening service will cease operations next year, causing frustration among users who rely on it for redirects.</li>
+<li>Critics highlight Google&#39;s pattern of discontinuing services, attributing the decision to maintenance costs and internal policies.</li>
+<li>Users suggest alternatives like AWS for redirects and propose simpler solutions or outsourcing to keep the service functional.</li>
+</ul>
+<h2><a href="https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai">Academics shocked after T&amp;F sells access to their research to Microsoft AI</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41011779">Reactions</a></h3>
+<ul>
+<li>Academics are frustrated with Taylor &amp; Francis for selling access to their research to Microsoft AI, arguing that publicly funded research should be freely accessible to maximize its benefits.</li>
+<li>Critics claim that charging for access creates barriers and hinders scientific progress, emphasizing the importance of proper attribution and the moral right to credit.</li>
+<li>The situation underscores the ongoing tension between open access and traditional publishing models, which often profit from publicly funded research.</li>
+</ul>
+<h2><a href="https://www.crowdstrike.com/blog/technical-details-on-todays-outage/">Technical Details on Today&#39;s Outage</a></h2>
+<ul>
+<li>On July 19, 2024, CrowdStrike released a sensor configuration update for Windows systems, causing system crashes and blue screens (BSOD) due to a logic error, which was fixed within approximately 1.5 hours.</li>
+<li>The issue affected customers using Falcon sensor for Windows version 7.11 and above, who were online between 04:09 UTC and 05:27 UTC, due to a problematic Channel File 291 designed to evaluate named pipe execution.</li>
+<li>Systems running Linux or macOS were not impacted, and a root cause analysis is ongoing to prevent future issues.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013198">Reactions</a></h3>
+<ul>
+<li>CrowdStrike experienced a significant outage due to a malformed configuration file, causing Windows systems to crash with Blue Screen of Death (BSOD) and boot loops.</li>
+<li>The issue stemmed from an update targeting malicious named pipes, which inadvertently led to CrowdStrike&#39;s own systems blocking themselves, highlighting a lack of adequate testing and rollout procedures.</li>
+<li>This incident has raised concerns about CrowdStrike&#39;s quality control, testing practices, and the robustness of their deployment strategies, especially given their critical role in cybersecurity for many organizations.</li>
+</ul>
+<head>
+  <meta property="og:title" content="I mapped almost every USA traffic death in the 21st century" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=I%20mapped%20almost%20every%20USA%20traffic%20death%20in%20the%2021st%20century&subheading=Saturday%2C%20July%2020%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/20</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-19]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/19&#39;</h2>
+<h1>2024-07-19</h1>
+<h2><a href="https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/">Crowdstrike Update: Windows Bluescreen and Boot Loops</a></h2>
+<ul>
+<li>Multiple users at a workplace are encountering Windows blue screens and boot loops, potentially linked to a recent Crowd Strike application update.</li>
+<li>The IT Department noted that some servers went offline, and a local radio station reported similar laptop issues and a downed phone system.</li>
+<li>These incidents are occurring in Australia, but there has been no news coverage yet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002195">Reactions</a></h3>
+<ul>
+<li>Crowdstrike&#39;s recent update caused significant issues, including Windows bluescreens and boot loops, affecting various sectors, including emergency services and hospitals.</li>
+<li>A Reddit user reported that their emergency department was down during a heart attack treatment, and 911 services were also impacted, leading to delays in patient care.</li>
+<li>The incident underscores the risks of relying on interconnected systems and the potential for catastrophic failures when updates are not properly tested before deployment.</li>
+</ul>
+<h2><a href="https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t">Crowdstrike Outage Causing Widespread Issues</a></h2>
+<ul>
+<li>A global IT disruption was triggered by a flawed software update from cybersecurity firm CrowdStrike Holdings, affecting numerous Microsoft Windows systems.</li>
+<li>Both Microsoft and CrowdStrike have released fixes to address the issue, but complete recovery is expected to take some time.</li>
+<li>The situation has slightly improved, but the impact of the botched update is still being felt worldwide.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002677">Reactions</a></h3>
+<ul>
+<li>Crowdstrike experienced an outage causing widespread issues, including Windows bluescreens and boot loops, due to a recent update.</li>
+<li>The incident has sparked significant discussion on Hacker News, highlighting the impact on users and systems.</li>
+<li>This event underscores the critical importance of rigorous testing and monitoring in software updates to prevent such disruptions.</li>
+</ul>
+<h2><a href="https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms">FCC votes to limit prison telecom charges</a></h2>
+<ul>
+<li>The FCC has voted to significantly reduce phone and video call rates for prisons and jails, cutting per-minute rate caps by more than half and prohibiting all fees, including deposit fees.</li>
+<li>This change impacts 83% of incarcerated individuals, saving families at least $500 million annually and enhancing the well-being and reentry success of incarcerated individuals.</li>
+<li>Major revenue losses are expected for prison telecom companies like Aventiv and ViaPath, while states such as Massachusetts, Minnesota, and Colorado have already moved to make prison calls free.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41005181">Reactions</a></h3>
+<ul>
+<li>The FCC has voted to limit charges for prison telecom services, aiming to reduce the high costs of inmate phone calls.</li>
+<li>Previously, inmates were restricted to using a single, prison-approved private phone operator, resulting in exorbitant prices due to lack of competition.</li>
+<li>The new regulations are intended to alleviate the financial burden on inmates and their families, promoting better rehabilitation and reducing recidivism.</li>
+</ul>
+<h2><a href="https://johnfactotum.github.io/foliate/">Foliate: Read e-books in style, navigate with ease</a></h2>
+<ul>
+<li>Foliate is an open-source e-book reader supporting various formats like EPUB, Mobipocket, Kindle, FB2, CBZ, and PDF, with customizable reading settings.</li>
+<li>It offers features such as touchpad and touchscreen navigation, bookmarks, annotations, and integration with tools like Wiktionary and Google Translate.</li>
+<li>Foliate supports right-to-left text, vertical writing, and fixed layouts, and is available for multiple Linux distributions or via source code cloning.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002273">Reactions</a></h3>
+<ul>
+<li>Foliate is an e-book reader praised for its simplicity, easy navigation, bookmarking, and annotation features.</li>
+<li>It stores reading progress, bookmarks, and annotations in plain JSON files, facilitating easy export and synchronization.</li>
+<li>Foliate uses file hashes to generate unique identifiers for books, ensuring PDFs remain unmodified when annotated, though some users note potential issues if files are altered.</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html">Multiple airlines disrupted due to Microsoft Azure outage</a></h2>
+<ul>
+<li>Frontier Airlines grounded all flights for about 35 minutes due to a major Microsoft Azure outage, affecting booking, check-in, and boarding pass access.</li>
+<li>The outage, starting at 5:56 p.m., also disrupted systems for Allegiant and Sun Country Airlines, impacting multiple systems in the central U.S.</li>
+<li>Frontier, operating over 100 planes, was one of at least three airlines affected by the service disruptions.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41001959">Reactions</a></h3>
+<ul>
+<li>Multiple airlines experienced disruptions due to a Microsoft Azure outage, potentially linked to a faulty Crowdstrike update causing global Windows machine crashes.</li>
+<li>The outage has impacted various sectors, including ATMs, supermarkets, and airports in Europe and New Zealand, indicating a widespread issue.</li>
+<li>The incident underscores the risks associated with centralized cloud services and emphasizes the necessity for improved disaster recovery plans.</li>
+</ul>
+<h2><a href="https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell">What would it take to recreate Bell Labs?</a></h2>
+<ul>
+<li>AT&amp;T, through Bell Labs, was pivotal in developing America&#39;s telephone infrastructure and produced significant inventions like the transistor, silicon solar PV cell, and UNIX operating system.</li>
+<li>Bell Labs&#39; success was partly due to AT&amp;T&#39;s monopoly, which supported long-term research projects, resulting in numerous accolades, including 10 Nobel Prizes.</li>
+<li>The breakup of AT&amp;T led to the division and decline of Bell Labs, making it difficult to recreate such an institution today due to the unique historical and technological conditions that once existed.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40998927">Reactions</a></h3>
+<ul>
+<li>Recreating Bell Labs would necessitate a quasi-monopoly, substantial funding, minimal competition, and a culture prioritizing long-term innovation over short-term profits.</li>
+<li>Historical and modern examples, such as Sandia National Laboratories and tech giants like Google and Microsoft, highlight the importance of leadership, national culture, and tax structures in fostering innovation.</li>
+<li>The current emphasis on immediate shareholder returns poses a significant barrier to the focus on long-term research.</li>
+</ul>
+<h2><a href="https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/">Ryanair – when every page is a dark pattern</a></h2>
+<ul>
+<li>Ryanair is known for using &quot;dark patterns,&quot; manipulative design techniques, to increase profits during the booking process.</li>
+<li>Tactics include &quot;privacy zuckering,&quot; where customers are defaulted into promotional sign-ups, and &quot;misdirection,&quot; which uses prominent buttons and popups to upsell services.</li>
+<li>These deceptive designs are pervasive throughout Ryanair&#39;s website, making it essential for users to stay vigilant to avoid accidental purchases or sharing more information than intended.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41004039">Reactions</a></h3>
+<ul>
+<li>Ryanair uses dark patterns, such as hidden fees and manipulative tactics, to increase profits, frustrating customers.</li>
+<li>Examples include charges for app ID scans, misleading &quot;speedy boarding&quot; perks, and complex baggage policies, leading to additional costs for basic services.</li>
+<li>Despite low prices and efficient flights, many customers prefer to avoid Ryanair due to its customer-unfriendly practices, with other low-cost airlines like EasyJet and WizzAir being considered less aggressive.</li>
+</ul>
+<h2><a href="https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/">CrowdStrike fixes start at &quot;reboot up to 15 times&quot;, gets more complex from there</a></h2>
+<ul>
+<li>CrowdStrike&#39;s recent update led to Windows systems crashing with a blue screen of death (BSOD), causing significant disruption.</li>
+<li>Fixes range from multiple reboots to more complex solutions like restoring backups or manually deleting the problematic driver, with additional steps required for systems using BitLocker encryption.</li>
+<li>The update has been retracted, and CrowdStrike&#39;s CEO has apologized, assuring users that efforts are underway to resolve the issue.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007898">Reactions</a></h3>
+<ul>
+<li>CrowdStrike&#39;s recent fix requires up to 15 reboots, causing significant disruptions across various sectors, including CNC systems, AC and security alarms, phones, email, and accounting systems.</li>
+<li>The incident underscores the risks associated with automatic updates and the necessity for improved security practices, with many advocating for more robust testing and gradual rollouts.</li>
+<li>Users are questioning the reliance on internet-connected, Windows-based critical systems, highlighting a need for reevaluation of current IT infrastructure strategies.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41007403">Sendune – open-source HTML email designer</a></h2>
+<ul>
+<li>SENDUNE has introduced a new open-source HTML email designer aimed at simplifying the creation of HTML emails, which are traditionally difficult to write and maintain.</li>
+<li>The designer is lightweight, uses pure HTML, and avoids cumbersome dependencies, allowing users to save the HTML output as a template for any email service provider.</li>
+<li>Users are encouraged to fork the repository, make improvements, and submit pull requests, fostering a collaborative development environment.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007403">Reactions</a></h3>
+<ul>
+<li>Sendune is an open-source HTML email designer that emphasizes simplicity and ease of use, producing pure HTML for compatibility with any email service provider.</li>
+<li>The tool is lightweight, free from dependencies, and can be easily embedded in applications, with users able to save HTML output as templates.</li>
+<li>Despite some reported issues with drag-and-drop functionality on Firefox, the community response has been positive, and contributions can be made via GitHub.</li>
+</ul>
+<h2><a href="https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce">60-year-old German man likely seventh person to be effectively cured from HIV</a></h2>
+<ul>
+<li>A 60-year-old German man is likely the seventh person effectively cured of HIV following a stem cell transplant, which also treated his aggressive leukemia.</li>
+<li>The patient, referred to as the &quot;next Berlin patient,&quot; stopped taking anti-retroviral drugs in late 2018 and remains HIV and cancer-free nearly six years later.</li>
+<li>Researchers are cautiously optimistic, noting that this case suggests not all CCR5 gene mutations are necessary for successful HIV treatment, offering hope for broader HIV cure strategies.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40999098">Reactions</a></h3>
+<ul>
+<li>A 60-year-old German man is likely the seventh person effectively cured of HIV, though the procedure is drastic and usually reserved for severe leukemia cases.</li>
+<li>There is a suggestion to evolve this into an autologous stem cell transplant to avoid complications like graft-versus-host disease.</li>
+<li>Despite advancements in HIV treatments that reduce viral loads to undetectable levels, 10,000 people still die of AIDS annually in the US, often due to poor sexual education and healthcare access.</li>
+</ul>
+<h2><a href="https://www.bbc.co.uk/news/live/cnk4jdwp49et">Mass worldwide IT outage affects airlines, media and banks</a></h2>
+<ul>
+<li>Crowdstrike, a Texas-based cybersecurity company founded in 2011, specializes in endpoint security to protect corporate networks and cloud data from cyber threats.</li>
+<li>Co-founded by George Kurtz and Dmitri Alperovitch, the company went public on the Nasdaq in 2019.</li>
+<li>Crowdstrike has been pivotal in investigating major cyber-attacks, notably the 2016 breach of the US Democratic National Committee&#39;s network.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002730">Reactions</a></h3>
+<ul>
+<li>A global IT outage, triggered by a Crowdstrike update, caused Windows systems to experience bluescreens and boot loops, affecting airlines, media, and banks.</li>
+<li>The incident has sparked discussions on the reliability of endpoint protection software, the risks of supply chain attacks, and the heavy dependence on Windows infrastructure.</li>
+<li>The outage, stemming from a &quot;security update,&quot; has raised significant concerns about the sovereignty and resilience of IT infrastructure.</li>
+</ul>
+<h2><a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm">Double trouble: ESA&#39;s Gaia hit by micrometeoroid and solar storm</a></h2>
+<ul>
+<li>ESA’s Gaia spacecraft, launched in December 2013 to map over a billion stars in the Milky Way, recently faced significant challenges from a micrometeoroid strike and a solar storm.</li>
+<li>The micrometeoroid damaged Gaia’s protective cover, and the solar storm caused a failure in one of its charge-coupled devices (CCDs), leading to thousands of false star detections.</li>
+<li>Engineers from ESA and Airbus Defence and Space successfully adjusted Gaia’s software, reducing false detections and returning the spacecraft to routine operations, now producing some of its best quality data.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40999928">Reactions</a></h3>
+<ul>
+<li>ESA&#39;s Gaia spacecraft recently sustained damage from a micrometeoroid and a solar storm but continues its mission, showcasing the resilience of space missions.</li>
+<li>Historical examples like Voyager 1 and Hubble demonstrate that space missions often outlive their expected lifetimes through software updates and repairs.</li>
+<li>Despite budget constraints and technical challenges, the dedication of engineers has allowed Gaia to continue producing high-quality data after recent adjustments.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41004103">What is in C-00000291*.sys?</a></h2>
+<ul>
+<li>CrowdStrike&#39;s C-00000291*.sys file has caused system crashes due to invalid formatting, affecting the CrowdStrike driver.</li>
+<li>Users report different versions of the file, with some speculating encryption with customer-specific keys, though others have parsed them without decryption.</li>
+<li>The files are proprietary update formats, not DLLs or patches, raising concerns about the security and reliability of CrowdStrike&#39;s update process.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41004103">Reactions</a></h3>
+<ul>
+<li>CrowdStrike&#39;s C-00000291*.sys file has caused system crashes due to invalid formatting, affecting the main CrowdStrike driver.</li>
+<li>Users report different versions of the file, with some speculating encryption with customer-specific keys, though others have parsed them without decryption.</li>
+<li>The files are proprietary update formats, not DLLs or plain patches, raising concerns about the security and reliability of CrowdStrike&#39;s update process.</li>
+</ul>
+<h2><a href="https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock">NASA&#39;s Curiosity rover discovers a surprise in a Martian rock</a></h2>
+<ul>
+<li>NASA’s Curiosity rover discovered elemental sulfur on Mars for the first time, a significant milestone in Martian exploration.</li>
+<li>The discovery was made in a sulfate-rich region, with Curiosity finding an entire field of bright rocks composed of pure sulfur, intriguing scientists.</li>
+<li>Curiosity&#39;s mission, which includes studying Mars&#39; ancient terrain for signs of microbial life, continues as it ascends Mount Sharp, drilling its 41st rock sample for further analysis.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41006552">Reactions</a></h3>
+<ul>
+<li>NASA&#39;s Curiosity rover discovered sulfur crystals in a Martian rock, leading to a debate on the use of clickbait headlines to engage the public.</li>
+<li>The discovery occurred when Curiosity drove over a rock, revealing the crystals, highlighting the importance of public interest and funding for NASA.</li>
+<li>The discussion also addressed NASA&#39;s budget challenges and the necessity of public engagement for the agency&#39;s continued operations.</li>
+</ul>
+<h2><a href="https://www.sciencedaily.com/releases/2024/07/240715135713.htm">Loss of oxygen in lakes and oceans</a></h2>
+<ul>
+<li>Research from Rensselaer Polytechnic Institute highlights that loss of oxygen in lakes and oceans poses a significant threat to ecosystems, society, and the planet.</li>
+<li>Aquatic deoxygenation, linked to climate change, land use, and pollution, has led to a rapid decline in dissolved oxygen, with lakes and reservoirs losing 5.5% and 18.6% of their oxygen since 1980, and oceans losing around 2% since 1960.</li>
+<li>This deoxygenation impacts species&#39; physiology, food webs, and ecosystem services, creating &quot;dead zones&quot; and harmful algal blooms, necessitating urgent action to address global warming and runoff.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007196">Reactions</a></h3>
+<ul>
+<li>Lakes and reservoirs have experienced significant oxygen loss, with 5.5% and 18.6% reductions since 1980, respectively, while oceans have seen around a 2% decrease since 1960.</li>
+<li>Central California is particularly affected, with a 40% drop in oxygen levels, primarily due to greenhouse gas emissions, nutrient runoff, and raw sewage.</li>
+<li>Suggested solutions include regenerative agriculture and reducing industrial meat consumption to mitigate the broader environmental impacts of climate change and pollution.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Crowdstrike Update: Windows Bluescreen and Boot Loops" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Crowdstrike%20Update%3A%20Windows%20Bluescreen%20and%20Boot%20Loops&subheading=Friday%2C%20July%2019%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/19</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-18]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/18&#39;</h2>
+<h1>2024-07-18</h1>
+<h2><a href="https://naya.lol">My daughter (7 years old) used HTML to make a website</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40992982">Reactions</a></h3>
+<ul>
+<li>A 7-year-old created a website using basic HTML, sparking nostalgia among users for the early days of web development.</li>
+<li>The simplicity and enjoyment of creating basic HTML pages were highlighted, contrasting with the complexity of modern web development tools and techniques.</li>
+<li>The discussion emphasized the importance of encouraging children to explore technology from a young age.</li>
+</ul>
+<h2><a href="https://mistral.ai/news/mistral-nemo/">Mistral NeMo</a></h2>
+<ul>
+<li>Mistral AI has released Mistral NeMo, a 12B model developed with NVIDIA, featuring a 128k token context window and excelling in reasoning, world knowledge, and coding accuracy.</li>
+<li>Mistral NeMo supports FP8 inference without performance loss, outperforms models like Gemma 2 9B and Llama 3 8B, and is designed for multilingual applications.</li>
+<li>The model uses a new tokenizer, Tekken, and underwent advanced fine-tuning for better instruction-following, reasoning, multi-turn conversations, and code generation; weights are available on HuggingFace.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40996058">Reactions</a></h3>
+<ul>
+<li>Mistral NeMo, a 12B model developed with NVIDIA, features a 128k token context window and excels in reasoning, world knowledge, and coding accuracy.</li>
+<li>The model is a drop-in replacement for Mistral 7B, supports FP8 inference without performance loss, and is available under the Apache 2.0 license.</li>
+<li>It uses a new tokenizer, Tekken, trained on over 100 languages, and is designed to fit on GPUs like the NVIDIA RTX 4090, with VRAM requirements ranging from 8-40GB depending on quantization.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=40992654">Amazon&#39;s Kindle Direct Publishing is a dystopian nightmare</a></h2>
+<ul>
+<li>The author describes a frustrating experience with Amazon&#39;s Kindle Direct Publishing (KDP), where their eBook was blocked for &quot;misleading customer experience&quot; despite no evidence of a similar book.</li>
+<li>Appeals to Amazon resulted in automated and vague responses, ultimately leading to the termination of the author&#39;s account without clear justification.</li>
+<li>Even contacting Amazon&#39;s Executive Customer Relations did not resolve the issue, highlighting potential flaws in Amazon&#39;s automated review and appeal processes.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40992654">Reactions</a></h3>
+<ul>
+<li>An author reported their eBook being blocked and their Kindle Direct Publishing (KDP) account terminated due to alleged misleading metadata, despite providing evidence to the contrary.</li>
+<li>The appeals process was frustrating, involving automated responses and vague reasons for denial, highlighting issues with automated systems and lack of human oversight in large tech companies.</li>
+<li>This situation has led many authors to seek alternative publishing platforms and underscores the need for better regulation and transparency in digital marketplaces.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=40994552">What&#39;s Prolog like in 2024?</a></h2>
+<ul>
+<li>A computer science student has discovered Prolog and logic programming, learning the basics and working on a basic agent communication system using SICStus Prolog.</li>
+<li>The student is interested in specializing in Prolog and ontologies, seeking insights into the current state and applications of Prolog in 2024.</li>
+<li>The inquiry highlights a desire to understand the potential and contemporary uses of Prolog in the tech industry.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40994552">Reactions</a></h3>
+<ul>
+<li>In 2024, Prolog continues to be a niche language with a divided community of enthusiasts and skeptics, facing challenges in mainstream adoption.</li>
+<li>Prolog excels in specific areas such as logic programming and ontologies but struggles with issues like the lack of a modern module system and performance concerns.</li>
+<li>New developments, including Scryer Prolog and integrations with languages like Python, indicate potential for specialized applications rather than widespread use.</li>
+</ul>
+<h2><a href="https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security">SAPwned: SAP AI vulnerabilities expose customers&#39; cloud environments and privat</a></h2>
+<ul>
+<li>The Wiz Research Team discovered tenant isolation vulnerabilities in AI service providers, posing significant risks as AI infrastructure becomes essential for businesses.</li>
+<li>Their research on SAP’s AI offering, &quot;SAP AI Core,&quot; revealed vulnerabilities that allowed unauthorized access to customer data and cloud credentials, which have since been fixed by SAP.</li>
+<li>Key findings include bypassing network restrictions, exposing AWS tokens, unauthenticated access to AWS EFS shares, and full cluster takeover, highlighting the need for improved isolation and sandboxing standards in AI services.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40990768">Reactions</a></h3>
+<ul>
+<li>SAP AI vulnerabilities have exposed customers&#39; cloud environments and private data due to poor Kubernetes (k8s) configuration, not the AI product itself.</li>
+<li>Critics point out SAP&#39;s failure in basic cloud security, highlighting the risk of attackers running malicious AI models on weak infrastructure.</li>
+<li>Security researchers stress the need for improved alert systems and strict adherence to regulations, emphasizing the importance of robust security practices in cloud environments.</li>
+</ul>
+<h2><a href="https://github.com/rscott2049/DECstation2040">A RP2040 based DECstation 3000 emulator that can run DECWindows</a></h2>
+<ul>
+<li>The DECstation 2040 is an emulator for the DECstation 3000, built on the RP2040 microcontroller, capable of running DECWindows.</li>
+<li>Key hardware features include a 1.8v/300 MHz RP2040, 32 MB PSRAM, 8 MB SPI flash, and Ethernet RMII PHY support.</li>
+<li>The project began on March 23, 2023, inspired by Dmitry&#39;s LinuxCard, and involved learning to use RP2040 PIO engines and the DMA subsystem.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991182">Reactions</a></h3>
+<ul>
+<li>A new RP2040-based DECstation 3000 emulator can run DECWindows, showcasing the RP2040 microcontroller&#39;s capabilities in memory management and VGA display.</li>
+<li>The project has sparked discussions about the evolution of computing, with users reminiscing about using DECstations in academic settings and the benefits of centralized home directories and X11.</li>
+<li>Some users are interested in running NetBSD on the emulator, highlighting both the advancements in computing power and the nostalgia for older systems.</li>
+</ul>
+<h2><a href="https://stevejobsarchive.com/exhibits/objects-of-our-life">The Objects of Our Life (1983)</a></h2>
+<ul>
+<li>In 1983, Steve Jobs spoke at the International Design Conference in Aspen, emphasizing the future impact of computers on society and the importance of good design in consumer electronics.</li>
+<li>Jobs introduced the Lisa computer, featuring a mouse and graphical user interface, and predicted that by 1986, PC sales would surpass car sales, urging designers to create well-designed products.</li>
+<li>He highlighted the integration of liberal arts into technology and the civic responsibility of making useful, beautiful products, ending his talk with a Q&amp;A session on making computers intuitive and accessible.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40995515">Reactions</a></h3>
+<ul>
+<li>Steve Jobs was renowned for his simple and powerful communication style, effectively engaging audiences by rephrasing complex ideas humorously.</li>
+<li>Jobs&#39; visionary nature led to predictions of tech advancements, such as software trials and more affordable computers, emphasizing user-friendly products.</li>
+<li>His influential presentations, including the iconic iPhone launch, and his minimalist lifestyle, highlighted in a famous photo, prompt reflection on design and lasting value.</li>
+</ul>
+<h2><a href="https://hallofshame.design/collection/">Collection of Dark Patterns and Unethical Design</a></h2>
+<ul>
+<li>The catalog provides a comprehensive collection of dark patterns, which are deceptive design practices used in user interfaces.</li>
+<li>These examples are systematically organized by category, making it easier for users to understand and identify different types of manipulative designs.</li>
+<li>The resource aims to educate and raise awareness about unethical design tactics, helping users recognize and avoid them.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40993389">Reactions</a></h3>
+<ul>
+<li>The post highlights various &quot;dark patterns&quot; and unethical design practices used by companies to manipulate users into making decisions that benefit the company, often at the user&#39;s expense.</li>
+<li>Examples include Zoom misleading users into thinking they need to install an app, Booking.com creating false urgency about property availability, and GoDaddy using deceptive renewal practices.</li>
+<li>The discussion emphasizes the need for awareness and potential regulation to combat these manipulative tactics, suggesting that public shaming and legal action might be necessary to enforce ethical standards.</li>
+</ul>
+<h2><a href="https://tracklist.it/">Product Hunt for Music</a></h2>
+<ul>
+<li>TrackList is a platform for discovering and sharing new music, featuring daily updates on new tracks.</li>
+<li>Today&#39;s featured tracks include &quot;Keep Your Cool&quot; by Off Trakk and &quot;Erasing&quot; by Raf Duran.</li>
+<li>The platform also highlights tracks from previous days, providing a continuous stream of new music for users to explore.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40989451">Reactions</a></h3>
+<ul>
+<li>Small artists in niche genres, like didgeridoo music, find platforms like Bandcamp or YouTube more beneficial for discovery compared to Spotify.</li>
+<li>Music discovery platforms are exploring alternatives to algorithm-based recommendations, with some focusing on community sharing and manual curation.</li>
+<li>There is a demand for more specific sub-genres and better music recommendation systems that do not rely solely on popularity metrics.</li>
+</ul>
+<h2><a href="https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/">Americans&#39; confidence in higher education has taken a nosedive</a></h2>
+<ul>
+<li>A new Gallup poll reveals a significant decline in Americans&#39; confidence in higher education, with one-third expressing &quot;little or no confidence,&quot; compared to 57% in 2015.</li>
+<li>Factors contributing to this decline include political agendas, perceived irrelevance of skills taught, high costs, and concerns about liberal &quot;indoctrination,&quot; particularly among conservatives.</li>
+<li>Despite the overall decline, confidence in community colleges and two-year programs is increasing, indicating a shift in perception towards more affordable and practical education options.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991894">Reactions</a></h3>
+<ul>
+<li>Americans&#39; confidence in higher education has notably declined, with a 36% drop among Republicans and a 12% drop among Democrats since 2015, according to a recent Gallup poll.</li>
+<li>68% of respondents believe higher education is &quot;headed in the wrong direction,&quot; citing concerns like ideological capture and reduced economic utility.</li>
+<li>Critics argue the poll&#39;s methodology is unclear and simplistic, suggesting the decline in confidence may reflect broader societal and political trends rather than specific issues within higher education.</li>
+</ul>
+<h2><a href="https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/">GPT-4o mini: advancing cost-efficient intelligence</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40997585">Reactions</a></h3>
+<ul>
+<li>GPT-4o Mini features a 16k output token limit, beneficial for tasks like summarizing complex documents.</li>
+<li>Smaller models are trained with synthetic and live data, enabling scalable data generation and specialized &quot;Narrow AI&quot; models.</li>
+<li>GPT-4o Mini is more cost-efficient than Claude Haiku, but the sustainability of its low prices is uncertain.</li>
+</ul>
+<h2><a href="https://github.com/seddonm1/sqlite-bench">SQLite Transaction Benchmarking Tool</a></h2>
+<ul>
+<li>The evaluation focuses on comparing SQLite&#39;s experimental <code>BEGIN CONCURRENT</code> branch with the standard <code>DEFERRED</code> and <code>IMMEDIATE</code> transaction behaviors.</li>
+<li>The goal is to assess performance differences on a server environment, providing insights into potential improvements or trade-offs.</li>
+<li>For detailed explanations and results, refer to the blog post linked in the original text.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40990641">Reactions</a></h3>
+<ul>
+<li>A new SQLite Transaction Benchmarking Tool has been released to evaluate SQLite performance, specifically comparing the <code>BEGIN CONCURRENT</code> branch with <code>DEFERRED</code> and <code>IMMEDIATE</code> behaviors.</li>
+<li>The discussion highlights the challenges and strategies for achieving concurrency in SQLite, including the use of multiple connections, connection pooling, and managing file I/O congestion.</li>
+<li>The tool and blog post have sparked interest due to their practical insights into optimizing SQLite performance, especially in scenarios involving high concurrency and asynchronous operations.</li>
+</ul>
+<h2><a href="https://compoundsemiconductor.net/article/119170/Polychromatic_pixels">Polychromatic Pixels</a></h2>
+<ul>
+<li>MicroLEDs with tunable wavelengths are poised to revolutionize display technology, offering superior efficiency and resolution compared to current liquid crystal and organic LED displays.</li>
+<li>Q-Pixel Inc. has developed a method to grow tunable-wavelength LEDs on a single wafer, eliminating the need for separate red, green, and blue sub-pixels, thus simplifying manufacturing and reducing costs.</li>
+<li>This innovation has achieved record-breaking pixel densities, which is particularly beneficial for applications in virtual reality (VR) and augmented reality (AR), indicating a potential shift towards more cost-effective and high-resolution microLED displays.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40997087">Reactions</a></h3>
+<ul>
+<li>Polychromatic pixels can only produce one wavelength at a time, requiring at least two to reproduce any visible color, unlike traditional displays that use three subpixels (RGB) to cover the color space.</li>
+<li>The technology promises a significant boost in pixel density and manufacturing efficiency, but it faces challenges like color consistency, brightness control, and the inability to produce certain colors like white and magenta without additional techniques like dithering.</li>
+<li>This development is particularly exciting for applications requiring high pixel density, such as VR headsets, but it may not yet be suitable for general-purpose displays due to its current limitations.</li>
+</ul>
+<h2><a href="https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/">Closed form arc length parametrization is impossible for quadratic Bézier curves</a></h2>
+<ul>
+<li>Bézier curves are fundamental in vector graphics, defined using control points in the Bernstein basis.</li>
+<li>Quadratic Bézier curves use three control points, and their arc length can be computed exactly, but the parametrization lacks a closed form solution, assuming Schanuel&#39;s conjecture.</li>
+<li>Cubic Bézier curves use four control points, and their arc length must be computed numerically as it lacks a closed form.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991075">Reactions</a></h3>
+<ul>
+<li>Closed form arc length parametrization is not feasible for quadratic Bézier curves; numerical solutions are preferred for their stability and accuracy.</li>
+<li>Although closed form solutions can be faster, they tend to become unstable, particularly for curves near a straight line.</li>
+<li>Numerical methods are generally superior and more practical for most applications, despite the existence of Pythagorean-Hodograph curves and Euler spirals.</li>
+</ul>
+<h2><a href="https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894">Sparrows may be &#39;canary in the coal mine&#39; for lead poisoning in children: study</a></h2>
+<ul>
+<li>A study published in Environmental Sciences &amp; Technology found that house sparrows can accurately predict lead levels in children, particularly in the Australian mining towns of Broken Hill and Mount Isa.</li>
+<li>Sparrows could serve as a cost-effective tool for identifying lead contamination hotspots, offering a practical alternative to direct human testing, which is often costly and complex.</li>
+<li>The research highlights the ongoing issue of lead exposure in Australia and suggests that sparrows might also indicate exposure to other heavy metals and &quot;forever chemicals.&quot;</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40995527">Reactions</a></h3>
+<ul>
+<li>A study suggests that sparrows can indicate lead poisoning in children, particularly in Australian mining towns like Broken Hill and Mount Isa.</li>
+<li>Lead contamination from mining activities poses significant health risks, but town mayors often deny the evidence to protect the mining industry.</li>
+<li>The issue underscores the broader impact of environmental toxins on both human and wildlife health, with public health data collection being essential yet often resisted due to political and economic interests.</li>
+</ul>
+<head>
+  <meta property="og:title" content="My daughter (7 years old) used HTML to make a website" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=My%20daughter%20(7%20years%20old)%20used%20HTML%20to%20make%20a%20website&subheading=Thursday%2C%20July%2018%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/18</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-17]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/17&#39;</h2>
+<h1>2024-07-17</h1>
+<h2><a href="https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html">Import and Export Markdown in Google Docs</a></h2>
+<ul>
+<li>Google Docs now supports enhanced Markdown features, including converting Markdown to Docs content on paste, copying Docs content as Markdown, exporting a Doc as Markdown, and importing Markdown as a Doc.</li>
+<li>This update is beneficial for technical content writers, facilitating easier conversion between Docs and Markdown for collaboration and documentation.</li>
+<li>The rollout begins on July 16, 2024, for Rapid Release and Scheduled Release domains, and is available to all Google Workspace customers, Workspace Individual Subscribers, and personal Google account users.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40982118">Reactions</a></h3>
+<ul>
+<li>Google Docs now supports full import/export of Markdown, enhancing its utility for technical writers and collaborators on Markdown documents.</li>
+<li>The feature is gradually rolling out to catch severe bugs early, so users may not see it immediately.</li>
+<li>Google Drive and its APIs will also support this new Markdown capability, although some users have concerns about slow rollouts and incomplete support for elements like code blocks and comments.</li>
+</ul>
+<h2><a href="https://matt.sh/panic-at-the-job-market">Panic at the Job Market</a></h2>
+<ul>
+<li>The tech job market is in turmoil due to rising interest rates, speculative funding, and flawed hiring practices.</li>
+<li>Higher interest rates lead companies to invest in safe government-backed accounts rather than risky ventures, causing job losses in the tech sector.</li>
+<li>The hiring process often focuses on irrelevant coding tests and behavioral interviews, failing to assess candidates&#39; true experience and capabilities.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40986894">Reactions</a></h3>
+<ul>
+<li>The job market is challenging across multiple industries, including tech, with complex hiring processes that overlook individual profiles and contributions.</li>
+<li>Networking is essential as job portals often obscure resumes, and the tech job market faces diminishing opportunities with companies focusing on irrelevant skills and arbitrary requirements.</li>
+<li>Inefficient hiring practices can indicate poor workplace environments, and the irrationality of the job market can outlast individuals&#39; financial stability, complicating the search for suitable employment.</li>
+</ul>
+<h2><a href="https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html">Jailbreaking RabbitOS: Uncovering secret logs, and GPL violations</a></h2>
+<ul>
+<li>David Buchanan has developed a &quot;tethered jailbreak&quot; for the Rabbit R1, allowing root access without unlocking the bootloader or altering internal storage.</li>
+<li>The Rabbit R1, using a MediaTek MT6765 SoC, has been criticized for extensive user data logging and GPL violations, which were partially addressed in a recent update.</li>
+<li>Buchanan&#39;s findings reveal that RabbitOS is a heavily modified Android 13 AOSP, primarily enforcing a single-app kiosk mode, and he has released a tool to aid further exploration of the device.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40987730">Reactions</a></h3>
+<ul>
+<li>Jailbreaking RabbitOS has revealed secret logs and potential GPL (General Public License) violations, raising privacy and legal concerns.</li>
+<li>Logs include sensitive data such as precise GPS locations, WiFi network names, IDs of nearby cell towers, and user tokens, some of which are sent to Rabbit&#39;s servers.</li>
+<li>Rabbit Inc. released an update (v0.8.112) addressing these logging issues, but the controversy highlights ongoing concerns about data privacy and transparency in tech products.</li>
+</ul>
+<h2><a href="https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/">The Greatest Educational Life Hack: Learning Math Ahead of Time</a></h2>
+<ul>
+<li>Learning math ahead of time can lead to better grades, protection against poor teaching, and access to internships, research projects, and strong recommendation letters, which are crucial for college and career opportunities.</li>
+<li>Advanced math courses beyond calculus, such as Linear Algebra and Differential Equations, are essential for many quantitative fields and can fast-track students into specialized fields, enhancing career accomplishments.</li>
+<li>Research indicates that educational acceleration does not harm psychological well-being and leads to greater academic and professional success, despite common misconceptions and logistical challenges.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40983734">Reactions</a></h3>
+<ul>
+<li>A user shared their journey of overcoming math-phobia in their 30s, highlighting that it&#39;s never too late to learn math and its benefits for problem-solving and insights into programming.</li>
+<li>Suggestions for learning math later in life included starting with basic math books, utilizing community college resources, and gradually progressing to advanced topics.</li>
+<li>The discussion also emphasized the importance of early math education, parental involvement, and external resources like Kumon, as well as the broader educational system&#39;s role in fostering self-study and motivation.</li>
+</ul>
+<h2><a href="https://www.mailgun.com/blog/email/ai-phishing/">The golden age of scammers: AI-powered phishing</a></h2>
+<ul>
+<li>Generative AI enables scammers to send highly personalized and convincing phishing emails, overcoming language barriers and automating mass campaigns.</li>
+<li>AI tools like WormGPT and FraudGPT assist in generating phishing emails and spoofing websites, significantly reducing the time needed to create effective attacks.</li>
+<li>Defense strategies include implementing DMARC (Domain-based Message Authentication, Reporting &amp; Conformance), recognizing AI phishing attempts, using multi-layered security, and maintaining a strong sender reputation.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40981067">Reactions</a></h3>
+<ul>
+<li>AI-powered phishing scams are becoming more sophisticated, leveraging technologies like Llama for text, Whisper/Tortoise for voice, and Stable Diffusion for images, though their deployment is still limited.</li>
+<li>Despite the potential for AI to enhance phishing, traditional methods like Indian call center scams remain highly effective and economically viable, as evidenced by a recent case where an elderly person was scammed out of $25,000.</li>
+<li>Banks and other institutions are improving their scam detection capabilities, but the rise of AI-driven scams necessitates increased awareness and education, especially for vulnerable populations like the elderly.</li>
+</ul>
+<h2><a href="https://thetinypod.com/">TinyPod – Apple Watch case with scroll wheel</a></h2>
+<ul>
+<li>Introducing tinyPod, a compact device offering essential features like phone, music, messaging, and more, all powered by your Apple Watch.</li>
+<li>Key features include a tactile scroll wheel, quick magnetic charging, multi-day battery life, Apple Pay, and 32GB storage for media.</li>
+<li>Available in two models: tinyPod with a scroll wheel for $79.99 and tinyPod lite without a scroll wheel for $29.99, compatible with various Apple Watch series, shipping this summer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40987402">Reactions</a></h3>
+<ul>
+<li>TinyPod is an Apple Watch case that incorporates a scroll wheel, reminiscent of the iPod&#39;s clickwheel, creating a mechanical linkage with the digital crown.</li>
+<li>The product is seen as a fun, niche hardware idea, appealing to those who appreciate unique and whimsical tech gadgets, despite its impracticality.</li>
+<li>There are mixed reviews about the product&#39;s webpage functionality, with some users experiencing issues on Firefox, while others find the design appealing.</li>
+</ul>
+<h2><a href="https://github.com/libarchive/libarchive/pull/1609">Jia Tan &quot;JiaT75&quot;: Added error text to warning when untaring with bsdtar (2021)</a></h2>
+<ul>
+<li>Libarchive merged a commit to add error text to warnings when using bsdtar, addressing issue #1561, but concerns about replacing safe_fprintf with unsafe fprintf were raised.</li>
+<li>A fix was implemented to revert to safe_fprintf and use correct errno handling, with suggestions for further audits and a CVE (Common Vulnerabilities and Exposures) for the issue.</li>
+<li>The discussion underscored the importance of thorough code reviews and maintaining security in open-source projects, and the issue was resolved with the conversation locked.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40984589">Reactions</a></h3>
+<ul>
+<li>Jia Tan &quot;JiaT75&quot; added error text to a warning in bsdtar in 2021, leading to a heated GitHub discussion about comment quality and code change scrutiny.</li>
+<li>The debate highlighted the challenges of maintaining large software projects and the potential role of AI in improving security reviews.</li>
+<li>The incident underscored the difficulty of detecting malicious code, especially from known contributors, and linked Jia Tan to a state-sponsored attack on the xz tool.</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change">Puerto Rico files $1B suit against fossil fuel companies</a></h2>
+<ul>
+<li>Puerto Rico has filed a $1 billion lawsuit against major fossil fuel companies, including ExxonMobil, BP, Chevron, Shell, and ConocoPhillips, for allegedly misleading the public about climate change and delaying the transition to clean energy.</li>
+<li>The lawsuit, filed in San Juan, claims these companies violated trade laws by promoting fossil fuels without adequate warnings about their dangers, seeking damages to defend against climate disasters like Hurricane Maria.</li>
+<li>This legal action is part of a broader trend of similar lawsuits against the fossil fuel industry, highlighting growing accountability efforts for climate-related impacts.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40986213">Reactions</a></h3>
+<ul>
+<li>Puerto Rico has initiated a $1 billion lawsuit against fossil fuel companies, accusing them of causing climate change-related damages and seeking stricter environmental regulations.</li>
+<li>The lawsuit underscores the ongoing debate between the economic benefits of fossil fuels and the necessity for sustainable practices and corporate accountability.</li>
+<li>Opinions are divided, with some emphasizing the importance of corporate responsibility for pollution and misinformation, while others stress the role of individual actions and government policies in combating climate change.</li>
+</ul>
+<h2><a href="https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/">Gitlab Explores Sale</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40983486">Reactions</a></h3>
+<ul>
+<li>Gitlab is considering a sale, raising concerns among users about potential shutdowns or changes in service models, reminiscent of past issues with RedHat and CentOS.</li>
+<li>Users debate the merits of open-source options like Gitlab, citing easier migration and community support, while speculating on potential buyers such as Datadog or IBM.</li>
+<li>Criticisms of Gitlab&#39;s pricing and enterprise focus have led some users to contemplate switching to alternatives like GitHub, reflecting mixed sentiments about future stability and costs.</li>
+</ul>
+<h2><a href="https://vedgie.net/writing/darwin_machines.md">Darwin Machines</a></h2>
+<ul>
+<li>The post discusses William Calvin&#39;s theory from &quot;The Cerebral Code,&quot; which suggests the brain uses evolutionary processes within minicolumns to process sensory inputs and find the most &quot;fit&quot; patterns.</li>
+<li>The theory posits that the brain&#39;s structure, particularly the neocortex&#39;s columns and minicolumns, allows for efficient problem-solving and parallel processing, which could be applied to AI and machine learning (ML).</li>
+<li>The author is experimenting with neural networks to mimic this evolutionary process and seeks advice on research and academic insights in this field, highlighting potential advancements in AI&#39;s deep thinking capabilities.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40981068">Reactions</a></h3>
+<ul>
+<li>The post discusses the concept of Darwin Machines, where different sensory data modalities are processed by brain minicolumns, each outputting unique firing patterns that compete and reinforce the dominant pattern, aiding learning.</li>
+<li>Capsule-routing algorithms, proposed by Geoffrey Hinton, aim to implement this idea using expectation-maximization (EM) processes, but have been overshadowed by the success of transformers in AI research.</li>
+<li>The discussion highlights the importance of understanding brain function and neural networks, referencing Hebbian learning and the need for deeper exploration of temporal dynamics in neural activity.</li>
+</ul>
+<h2><a href="https://github.com/guywaldman/magic-cli">Magic-cli – A copilot for your command line</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40980715">Reactions</a></h3>
+<ul>
+<li>Magic-cli, a command line copilot developed by Guy Waldman, has sparked discussions due to its default &quot;unsafe-execution&quot; mode, with suggestions for a safer default like &quot;clipboard&quot; mode.</li>
+<li>Users have shared opinions and experiences, mentioning alternative tools such as zsh_codex, aichat, and Warp terminal.</li>
+<li>The project is built in Rust, raising questions about its complexity compared to simpler implementations in other languages.</li>
+</ul>
+<h2><a href="https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide">Google presents method to circumvent automatic blocking of tag manager</a></h2>
+<ul>
+<li>Google is introducing a beta feature for deploying tags in first-party mode, enhancing tag performance and data privacy by using the website&#39;s domain for hosting.</li>
+<li>The setup involves reserving a unique path on the domain, routing traffic through services like Google Cloud or Cloudflare, and updating website scripts to use the new measurement path.</li>
+<li>Users are encouraged to test the setup using Tag Assistant and provide feedback through a designated feedback form or contact email.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40983585">Reactions</a></h3>
+<ul>
+<li>Google has introduced a method to bypass the automatic blocking of its Tag Manager, raising concerns about privacy and the effectiveness of ad blockers.</li>
+<li>Users discuss strategies to block tracking, such as using uBlock Origin with JavaScript disabled by default, and selectively enabling it for ease of use and speed benefits.</li>
+<li>The new method by Google has sparked a debate on balancing data collection for business purposes with user privacy, with some users expressing frustration over Google&#39;s tracking practices.</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html">After 12 years of reviewing restaurants, I&#39;m leaving the table</a></h2>
+<ul>
+<li>Pete Wells, after 12 years as The New York Times restaurant critic, is stepping down due to health concerns, including high cholesterol, blood sugar, and hypertension.</li>
+<li>Despite the rewarding nature of his role, the physical toll of frequent restaurant visits has become unsustainable for Wells.</li>
+<li>Wells will remain at The Times but will no longer handle the demands of weekly reviews, choosing instead to focus on his health and a more balanced lifestyle.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40979539">Reactions</a></h3>
+<ul>
+<li>A long-time restaurant reviewer is stepping down after 12 years, sparking discussions about his impact and the future of restaurant reviews.</li>
+<li>The reviewer was known for his diverse restaurant choices and his unique, sometimes standoffish, approach to reviews.</li>
+<li>The announcement has generated excitement for the incoming reviewer, Mellissa Clark, and reflections on the experiences of those in the restaurant industry.</li>
+</ul>
+<h2><a href="https://github.com/bobbyiliev/introduction-to-bash-scripting">Introduction to Bash Scripting</a></h2>
+<ul>
+<li>An open-source guide/ebook on Bash scripting has been released, aimed at automating tasks for developers, system administrators, and DevOps engineers.</li>
+<li>The ebook covers a wide range of topics from basic Bash structure to advanced scripting techniques, including working with APIs and generating passwords.</li>
+<li>Additional resources include a mini video course, interactive training via Katacoda, and contributions from the Linux DevOps Engineer, Bobby Iliev.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40982011">Reactions</a></h3>
+<ul>
+<li>Bash scripting is often compared to Python for terminal tasks, with Bash being more efficient for filesystem operations and simple command sequences due to its native terminal integration.</li>
+<li>Critics highlight Python&#39;s complexity for basic tasks and Bash&#39;s clunky syntax, but Bash remains essential in environments without Python pre-installed.</li>
+<li>Alternatives like Ruby&#39;s shell or Perl for text parsing exist, and tools like ChatGPT can assist in script generation, but understanding Bash basics is still valuable.</li>
+</ul>
+<h2><a href="https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks">Return-to-Office Mandates Aren&#39;t Worth the Talent Risks</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40983717">Reactions</a></h3>
+<ul>
+<li>Return-to-office (RTO) mandates risk losing top talent, as employees with alternatives may leave first, potentially causing a domino effect.</li>
+<li>Flexible options, such as travel compensation or improved office amenities, are suggested as better alternatives to strict RTO mandates.</li>
+<li>The debate includes perspectives on productivity, mentorship, and personal preferences, with some viewing RTO as driven by outdated management views or economic pressures.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Import and Export Markdown in Google Docs" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Import%20and%20Export%20Markdown%20in%20Google%20Docs&subheading=Wednesday%2C%20July%2017%2C%202024%3A%20Hacker%20News%20Summary" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/2024/07/17</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

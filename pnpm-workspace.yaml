@@ -1,7 +1,0 @@
-onlyBuiltDependencies:
-  - '@swc/core'
-  - core-js
-  - core-js-pure
-  - esbuild
-  - puppeteer
-  - sharp

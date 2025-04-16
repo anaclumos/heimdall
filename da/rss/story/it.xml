@@ -1,0 +1,2097 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[Heimdall]]></title>
+        <description><![CDATA[Heimdall]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>Heimdall</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/story/it.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <language><![CDATA[it]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title
+      ><![CDATA[Una città svizzera ha vietato i cartelloni pubblicitari. Zurigo e Berna potrebbero presto seguire]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZUna città svizzera ha vietato i cartelloni pubblicitari. Zurigo e Berna potrebbero presto seguire</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Le intelligenze artificiali che eseguono la scansione devono essere più rispettose]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Si è verificato un aumento significativo della scansione abusiva dei siti da parte dei prodotti di intelligenza artificiale, causando problemi per siti come Read the Docs a causa dell&#39;uso eccessivo della larghezza di banda e dei costi.</li>
+<li>Esempi includono un crawler che ha scaricato 73 TB di dati a maggio 2024, costando oltre $5.000, e un altro che ha utilizzato il downloader di contenuti di Facebook per scaricare 10 TB a giugno 2024.</li>
+<li>Nonostante il rate limiting basato su IP, questi crawler utilizzano più indirizzi IP, rendendolo inefficace; le azioni intraprese includono il blocco dei crawler AI identificati e il miglioramento della cache del CDN.</li>
+</ul>
+]]></description>
+            <link>https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZLe intelligenze artificiali che eseguono la scansione devono essere più rispettose</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un clone di Deluxe Paint II scritto in Python]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>PyDPainter è un programma di pixel art sviluppato in Python utilizzando PyGame, ispirato alla versione del 1985 di Deluxe Paint per Commodore Amiga di Electronic Arts.</li>
+<li>Il programma mira a modernizzare il classico strumento Deluxe Paint con nuove funzionalità, rispondendo al rinnovato interesse per la pixel art dovuto alla tendenza retrò.</li>
+<li>È disponibile su GitHub l&#39;ultima versione di PyDPainter, ed è concessa in licenza sotto GPLv3 o successiva.</li>
+</ul>
+]]></description>
+            <link>https://github.com/mriale/PyDPainter</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000ZUn clone di Deluxe Paint II scritto in Python</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finanza per Startup per Fondatori – Parte I, Contabilità (2016)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il articolo fa parte di una serie in due parti sulla finanza delle startup, concentrandosi sulla contabilità nella Parte I e sulla finanza strategica nella Parte II.</li>
+<li>Tra gli argomenti principali trattati vi sono l&#39;impostazione di una struttura di conto bancario sicura, la gestione dei limiti delle carte di credito e la transizione da Stripe a contratti e fatture cartacee con la crescita della base clienti.</li>
+<li>L&#39;autore condivide intuizioni pratiche dalla loro esperienza presso Segment, che è cresciuta significativamente e ha raccolto 44 milioni di dollari, sottolineando l&#39;importanza di comprendere la contabilità di base per i fondatori di startup.</li>
+</ul>
+]]></description>
+            <link>https://rein.pk/startup-finance-for-founders-part-i-accounting</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZFinanza per Startup per Fondatori – Parte I, Contabilità (2016)</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apprendimento Automatico Applicato per Dati Tabulari]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>&quot;Applied Machine Learning for Tabular Data&quot; di Max Kuhn e Kjell Johnson è una guida pratica per sviluppare modelli predittivi a partire da dati tabulari, la cui pubblicazione è prevista per giugno 2024.</li>
+<li>Il libro copre l&#39;intero processo di modellazione predittiva, inclusi l&#39;ingegneria delle caratteristiche e le attività post-modellazione, ed è concesso in licenza sotto CC BY-NC-SA 4.0, consentendo l&#39;uso non commerciale e l&#39;adattamento.</li>
+<li>Rivolto ad analisti di dati, statistici e data scientist, il libro offre esercizi e supplementi di calcolo, utilizzando principalmente il framework tidymodels di R, e accoglie contributi della comunità tramite GitHub.</li>
+</ul>
+]]></description>
+            <link>https://aml4td.org/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZApprendimento Automatico Applicato per Dati Tabulari</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bcachefs, un'introduzione/esplorazione]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Bcachefs è un nuovo filesystem progettato per superare le limitazioni dei filesystem esistenti, offrendo caratteristiche e miglioramenti unici.</li>
+<li>Supporta livelli RAID sperimentali (0, 1, 5, 6) e codifica di cancellazione, anche se alcuni non sono ancora raccomandati per l&#39;uso.</li>
+<li>Bcachefs è ancora in fase di sviluppo, con miglioramenti in corso e assistenza della comunità necessaria per la gestione multi-dispositivo e l&#39;integrazione del sistema.</li>
+</ul>
+]]></description>
+            <link>http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000ZBcachefs, un&apos;introduzione/esplorazione</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zulip 9.0: Chat organizzata per team distribuiti]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Zulip Server 9.0 è stato rilasciato, con centinaia di aggiornamenti e correzioni di bug, migliorando la sua usabilità per il lavoro remoto e ibrido.</li>
+<li>Le principali novità includono un restyling dell&#39;interfaccia utente, una composizione dei messaggi migliorata, cambiamenti nella terminologia, una ricerca potenziata e un onboarding degli utenti migliorato.</li>
+<li>Nuove integrazioni, supporto per Ubuntu 24.04 e app mobili di nuova generazione sviluppate con Flutter sono tra i miglioramenti significativi.</li>
+</ul>
+]]></description>
+            <link>https://blog.zulip.com/2024/07/25/zulip-9-0-released/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000ZZulip 9.0: Chat organizzata per team distribuiti</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Svizzera impone alle agenzie governative di utilizzare software open-source]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il governo svizzero ha approvato una legge che richiede alle agenzie governative di utilizzare software open-source (OSS) e di pubblicare il nuovo codice governativo sotto licenze open-source, nota come &quot;Legge federale sull&#39;uso dei mezzi elettronici per l&#39;adempimento dei compiti governativi&quot; (EMBAG).</li>
+<li>Questa iniziativa mira a migliorare la trasparenza, la sicurezza e l&#39;efficienza rendendo accessibili al pubblico i dati governativi non personali e non sensibili alla sicurezza.</li>
+<li>Il passo della Svizzera è in linea con iniziative europee simili e potrebbe potenzialmente ispirare un&#39;ulteriore adozione di OSS in Europa e negli Stati Uniti.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZSvizzera impone alle agenzie governative di utilizzare software open-source</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ministero della Difesa degli Stati Uniti – Rilevare BS Agile [pdf] (2018)]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZMinistero della Difesa degli Stati Uniti – Rilevare BS Agile [pdf] (2018)</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Non esiste una soluzione per i crash delle CPU Intel di 13a/14a generazione – il danno è permanente]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Le CPU Intel di 13ª e 14ª generazione hanno un problema di crash dovuto a tensioni elevate e difetti di fabbricazione, che non può essere risolto se il danno è già avvenuto.</li>
+<li>Una patch per prevenire problemi futuri è prevista per metà agosto, ma le CPU danneggiate dovranno essere sostituite; Intel non richiamerà né estenderà le garanzie.</li>
+<li>Gli utenti interessati dovrebbero aggiornare il loro BIOS e contattare il supporto clienti Intel, poiché il problema potrebbe riguardare qualsiasi processore desktop di 13a o 14a generazione che consuma 65W o più di potenza.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZNon esiste una soluzione per i crash delle CPU Intel di 13a/14a generazione – il danno è permanente</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stripe acquisisce Lemon Squeezy]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Stripe ha acquisito Lemon Squeezy, una piattaforma lanciata nel 2021 per semplificare la vendita di prodotti digitali a livello globale.</li>
+<li>Lemon Squeezy ha raggiunto oltre $1M di Entrate Ricorrenti Annuali (ARR) entro nove mesi dal suo lancio.</li>
+<li>L&#39;acquisizione mira a migliorare le offerte di Lemon Squeezy con le capacità di pagamento di Stripe, promettendo un&#39;esperienza cliente migliorata e maggiore affidabilità.</li>
+</ul>
+]]></description>
+            <link>https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000ZStripe acquisisce Lemon Squeezy</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Il traffico ferroviario ad alta velocità in Francia è stato interrotto da 'atti dolosi' durante la cerimonia olimpica]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il sistema ferroviario ad alta velocità della Francia, compreso il TGV, ha subito significative interruzioni a causa di &quot;atti dolosi&quot; come incendi dolosi, poco prima delle Olimpiadi di Parigi.</li>
+<li>Gli attacchi hanno danneggiato i cavi in fibra ottica essenziali per la sicurezza dei treni, colpendo 800.000 passeggeri e causando cancellazioni e ritardi diffusi, con riparazioni che si prevede dureranno tutto il fine settimana.</li>
+<li>Le autorità francesi hanno condannato gli attacchi come &quot;azioni criminali&quot; e hanno avviato un&#39;indagine, con potenziali pene fino a 20 anni di carcere e multe sostanziali.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZIl traffico ferroviario ad alta velocità in Francia è stato interrotto da &apos;atti dolosi&apos; durante la cerimonia olimpica</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Rete ferroviaria francese colpita da 'atti dolosi' in vista delle Olimpiadi di Parigi]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000ZRete ferroviaria francese colpita da &apos;atti dolosi&apos; in vista delle Olimpiadi di Parigi</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Database di tutte le startup finanziate]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000ZDatabase di tutte le startup finanziate</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js aggiunge il supporto sperimentale per TypeScript]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Node.js ha introdotto una nuova funzionalità per eseguire file TypeScript utilizzando il flag <code>--experimental-strip-types</code>, che transpila TypeScript in JavaScript senza controllo dei tipi.</li>
+<li>Questa funzionalità sfrutta <code>@swc/wasm-typescript</code> per una transpilation efficiente e semplice, con l&#39;obiettivo di ridurre la necessità di dipendenze esterne durante l&#39;esecuzione di file TypeScript.</li>
+<li>Questa funzione è sperimentale ed è disponibile nella versione nightly, con discussioni in corso su ulteriori miglioramenti come il supporto agli import senza estensione.</li>
+</ul>
+]]></description>
+            <link>https://github.com/nodejs/node/pull/53725</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZNode.js aggiunge il supporto sperimentale per TypeScript</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ogni azienda dovrebbe essere di proprietà dei suoi dipendenti]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Central States Manufacturing esemplifica la proprietà dei dipendenti, con 47 milionari tra i suoi operai grazie alla proprietà azionaria.</li>
+<li>Il numero di Piani di Partecipazione Azionaria dei Dipendenti (ESOP) sta aumentando negli Stati Uniti, con 6.533 aziende e 14,7 milioni di dipendenti che beneficiano di questo modello.</li>
+<li>Le ESOP offrono vantaggi fiscali, migliorano le prestazioni aziendali e aumentano la fidelizzazione dei dipendenti promuovendo un senso di appartenenza.</li>
+</ul>
+]]></description>
+            <link>https://www.elysian.press/p/employee-ownership</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZOgni azienda dovrebbe essere di proprietà dei suoi dipendenti</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indagare sulle skin corrotte di Winamp]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Esplorando la collezione del Winamp Skin Museum, l&#39;autore ha scoperto skin corrotte e ha deciso di indagare, portando a scoperte sorprendenti.</li>
+<li>Le indagini hanno rivelato vari oggetti nascosti, tra cui file criptati, lettere personali, password di email, una biografia segreta di Chet Baker, file audio criptici e un eseguibile di gioco chiamato worm.exe.</li>
+<li>Il autore ha trovato 127 skin all&#39;interno di altre skin, con 54 nuove aggiunte al museo, mostrando un&#39;avventura affascinante e strana guidata dall&#39;amore per Winamp e gli oggetti trovati.</li>
+</ul>
+]]></description>
+            <link>https://jordaneldredge.com/notes/corrupted-skins/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000ZIndagare sulle skin corrotte di Winamp</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[AI risolve i problemi dell'Olimpiade Internazionale di Matematica a livello di medaglia d'argento]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Nel 2024, i sistemi di intelligenza artificiale AlphaProof e AlphaGeometry 2 hanno raggiunto uno standard da medaglia d&#39;argento risolvendo quattro dei sei problemi nell&#39;Olimpiade Internazionale della Matematica (IMO).</li>
+<li>AlphaProof, utilizzando l&#39;apprendimento per rinforzo e il linguaggio formale Lean, ha risolto due problemi di algebra e un problema di teoria dei numeri, incluso il problema più difficile della competizione.</li>
+<li>AlphaGeometry 2, un sistema ibrido neuro-simbolico, ha risolto un problema di geometria in 19 secondi, contribuendo al punteggio complessivo del sistema AI combinato di 28 su 42 punti.</li>
+</ul>
+]]></description>
+            <link>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZAI risolve i problemi dell&apos;Olimpiade Internazionale di Matematica a livello di medaglia d&apos;argento</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple Maps sul web lanciato in versione beta]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Apple Maps è ora disponibile in beta pubblica sul web, consentendo agli utenti di accedere a Maps dai loro browser a livello globale.</li>
+<li>Le caratteristiche includono indicazioni stradali e pedonali, foto dei luoghi, orari, valutazioni, recensioni, ordinazione di cibo e Guide curate, con Look Around in arrivo presto.</li>
+<li>Attualmente supporta Safari e Chrome su Mac e iPad, e Chrome ed Edge su PC Windows, con più lingue, browser e piattaforme che verranno aggiunti nel tempo.</li>
+</ul>
+]]></description>
+            <link>https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000ZApple Maps sul web lanciato in versione beta</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dungeons and Dragons mi ha insegnato a scrivere il testo alternativo]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Giocare a Dungeons &amp; Dragons (D&amp;D) ha aiutato l&#39;autore a sviluppare competenze preziose, tra cui scrivere testi alternativi efficaci per le immagini.</li>
+<li>Il metodo del &quot;teatro della mente&quot; in D&amp;D, che si basa sulla narrazione verbale, ha insegnato all&#39;autore a dare priorità a descrizioni chiare e coinvolgenti.</li>
+<li>Scrivere testo alternativo, simile alla narrazione di D&amp;D, richiede di enfatizzare prima i dettagli importanti e aggiungere contesto ed emozione, con risorse come la Web Accessibility Initiative e BBC GEL che aiutano a migliorare le competenze.</li>
+</ul>
+]]></description>
+            <link>https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZDungeons and Dragons mi ha insegnato a scrivere il testo alternativo</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CrowdStrike sarà responsabile dei danni in Francia, basandosi sul precedente OVH]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>CrowdStrike potrebbe affrontare responsabilità per danni in Francia, tracciando parallelismi con il precedente OVH dove un incendio ha portato a cause legali di successo contro OVH.</li>
+<li>Un recente aggiornamento di CrowdStrike ha disabilitato 8,5 milioni di computer, causando oltre 5,4 miliardi di dollari di danni e interrompendo industrie critiche.</li>
+<li>L&#39;incidente sottolinea la negligenza dovuta alla mancanza di implementazioni graduali e test, nonostante le richieste dei clienti, che potrebbero portare a numerose richieste di risarcimento danni e risoluzioni contrattuali.</li>
+</ul>
+]]></description>
+            <link
+      >https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZCrowdStrike sarà responsabile dei danni in Francia, basandosi sul precedente OVH</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parlamentare dell'UE colpito dallo spyware israeliano Candiru]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il membro del Parlamento europeo Daniel Freund, noto per le sue critiche all&#39;Ungheria, è stato preso di mira in un attacco spyware, probabilmente coinvolgendo la società israeliana Candiru.</li>
+<li>Ungheria, insieme a Polonia, Grecia, Cipro e Spagna, ha una storia di spionaggio illegale sui propri cittadini, sollevando preoccupazioni sulla privacy e la sorveglianza in questi paesi.</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/moo9000/status/1816352054425829420</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZParlamentare dell&apos;UE colpito dallo spyware israeliano Candiru</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un dataset multimodale con un trilione di token]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>MINT-1T è un dataset open-source che presenta un trilione di token di testo e 3,4 miliardi di immagini, rappresentando un aumento di circa 10 volte rispetto ai dataset esistenti.</li>
+<li>Il dataset include nuove fonti come PDF e articoli di ArXiv, e tutti i sottoinsiemi sono rilasciati, inclusi dati HTML e PDF da vari snapshot di CommonCrawl.</li>
+<li>Il dataset MINT-1T è stato ufficialmente reso open-source il 24 luglio 2024, con un rapporto tecnico rilasciato il 17 giugno 2024.</li>
+</ul>
+]]></description>
+            <link>https://github.com/mlfoundations/MINT-1T</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000ZUn dataset multimodale con un trilione di token</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reverse Engineering per Tutti]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il post presenta un insieme completo di corsi di reverse engineering che coprono le architetture x86, x64, ARM-32 e ARM-64, rivolti ai principianti.</li>
+<li>I corsi includono moduli dettagliati su linguaggio assembly, debugging, hacking e concetti fondamentali di architettura dei computer.</li>
+<li>Il set di tutorial è disponibile per il download in formato PDF o MOBI, rendendolo accessibile per lo studio offline.</li>
+</ul>
+]]></description>
+            <link>https://0xinfection.github.io/reversing/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000ZReverse Engineering per Tutti</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[X ridisegna l'emoji della pistola ad acqua trasformandola di nuovo in un'arma da fuoco]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>X (precedentemente Twitter) ha ridisegnato la sua emoji della pistola ad acqua 🔫 per mostrarla come un&#39;arma da fuoco, invertendo il cambiamento del 2016-2018 verso una pistola ad acqua.</li>
+<li>Questo aggiornamento ha iniziato a essere distribuito il 18 luglio 2024 ed è attualmente disponibile tramite il client web di X, con piani per aggiornare presto il rendering mobile.</li>
+<li>Il cambiamento segna il primo aggiornamento del set Twemoji di X da luglio dell&#39;anno scorso, divergendo dal cambiamento di design tra i vari fornitori inizialmente guidato da Apple nel 2016.</li>
+</ul>
+]]></description>
+            <link>https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZX ridisegna l&apos;emoji della pistola ad acqua trasformandola di nuovo in un&apos;arma da fuoco</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il mio algoritmo preferito: Ricerca della mediana in tempo lineare (2018)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il post discute l&#39;algoritmo median-of-medians, che trova la mediana in tempo lineare deterministico, rendendolo teoricamente efficiente.</li>
+<li>Lo contrappone a Quickselect, un algoritmo che di solito trova la mediana in tempo lineare medio ma può essere meno affidabile negli scenari peggiori.</li>
+<li>Il metodo median-of-medians garantisce una buona selezione del pivot per Quickselect, migliorandone l&#39;efficienza, anche se nella pratica è spesso più lento rispetto a metodi più semplici come la selezione casuale del pivot.</li>
+</ul>
+]]></description>
+            <link>https://rcoh.me/posts/linear-time-median-finding/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZIl mio algoritmo preferito: Ricerca della mediana in tempo lineare (2018)</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI annuncia SearchGPT]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>SearchGPT è un prototipo di nuove funzionalità di ricerca che utilizza modelli di intelligenza artificiale per fornire risposte rapide con fonti chiare.</li>
+<li>Il servizio offre informazioni in tempo reale da fonti rilevanti, risultati visivi e consente domande di approfondimento naturali e conversazionali.</li>
+<li>Gli utenti possono iscriversi alla lista d&#39;attesa per provare SearchGPT, e i feedback verranno utilizzati per integrare le migliori funzionalità in ChatGPT.</li>
+</ul>
+]]></description>
+            <link>https://chatgpt.com/search</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000ZOpenAI annuncia SearchGPT</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generare sudoku per divertimento e senza scopo di lucro]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Tom Nick ha sviluppato un&#39;app Sudoku gratuita e open-source, sudoku.tn1ck.com, inizialmente per sua nonna, il che lo ha portato a esplorare la generazione di Sudoku e la valutazione della difficoltà.</li>
+<li>Vari algoritmi, tra cui Brute Force, Minimum Remaining Value e Arc Consistency (AC3), vengono utilizzati per risolvere e generare Sudoku, con la difficoltà misurata dal numero di iterazioni del risolutore.</li>
+<li>L&#39;app genera Sudoku di specifici livelli di difficoltà riempiendo le griglie con numeri casuali, regolando le celle riempite e ricominciando se non viene raggiunta la difficoltà desiderata, garantendo un&#39;esperienza utente divertente e stimolante.</li>
+</ul>
+]]></description>
+            <link>https://tn1ck.com/blog/how-to-generate-sudokus</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000ZGenerare sudoku per divertimento e senza scopo di lucro</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Search: Roboto Mono]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Roboto Mono è un carattere monospaziato della famiglia tipografica Roboto, ottimizzato per la leggibilità su schermo e disponibile per il download gratuito.</li>
+<li>La famiglia di caratteri offre una gamma di pesi da 100 a 700, inclusi varianti in corsivo, e può essere ospitata autonomamente tramite NPM.</li>
+<li>Roboto Mono è ampiamente accessibile tramite piattaforme come Google Fonts, Adobe Fonts e vari archivi di font gratuiti.</li>
+</ul>
+]]></description>
+            <link>https://www.google.com/search?q=roboto+mono+font</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000ZGoogle Search: Roboto Mono</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esplosione idrotermale al Parco Nazionale di Yellowstone]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il Servizio Forestale sta lavorando per chiudere parti del sistema di sentieri Mike Harris.</li>
+<li>Il vivaio MD è stato multato per oltre $28.000 a causa della morte di un uomo in una trincea.</li>
+<li>Un&#39;esplosione idrotermale a Biscuit Basin nello Yellowstone ha causato la fuga dei turisti.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZEsplosione idrotermale al Parco Nazionale di Yellowstone</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abbastanza grande – Mistral AI]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Mistral AI ha rilasciato il modello Mistral Large 2, caratterizzato da una finestra di contesto di 128k e supporto per oltre 80 linguaggi di programmazione, ottimizzato per l&#39;inferenza su singolo nodo con 123 miliardi di parametri.</li>
+<li>Il modello raggiunge un&#39;accuratezza dell&#39;84,0% su MMLU, superando i modelli precedenti e rivali come GPT-4o e Llama 3 405B, con capacità migliorate per ridurre le &quot;allucinazioni&quot; e migliorare il ragionamento.</li>
+<li>Mistral Large 2 è disponibile con diverse licenze per uso non commerciale e commerciale, con i pesi ospitati su HuggingFace e partnership di servizi cloud ampliati, tra cui Google Cloud Platform e Azure AI Studio.</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-large-2407/</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000ZAbbastanza grande – Mistral AI</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prendere il controllo del mio trattamento per il diabete]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un diabetico di Tipo 1 ha sviluppato un&#39;applicazione Windows Forms con grafici OxyPlot per visualizzare e gestire meglio l&#39;assunzione di insulina e carboidrati.</li>
+<li>Il soggetto ha utilizzato GeneticSharp, una libreria di algoritmi genetici, per ottimizzare i dosaggi di insulina, stabilizzando con successo i livelli di glucosio.</li>
+<li>Il metodo mostra potenzialità per la gestione personalizzata del diabete, sebbene siano necessarie ulteriori simulazioni e aggiustamenti per l&#39;insulina a lunga durata d&#39;azione.</li>
+</ul>
+]]></description>
+            <link>https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZPrendere il controllo del mio trattamento per il diabete</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Google è l'unico motore di ricerca che funziona su Reddit ora, grazie all'accordo sull'IA]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Google è ora l&#39;unico motore di ricerca che può visualizzare i risultati recenti di Reddit, rendendo i contenuti di Reddit esclusivi per Google.</li>
+<li>Altri motori di ricerca come Bing, DuckDuckGo e Qwant non possono mostrare risultati recenti di Reddit, con DuckDuckGo che fornisce link limitati senza descrizioni.</li>
+<li>Questa situazione sottolinea il quasi monopolio di Google sulla ricerca, influenzando la concorrenza e attirando critiche sulla qualità della ricerca, con speculazioni su un accordo da milioni di dollari che permetterebbe a Google di raccogliere dati da Reddit per l&#39;addestramento dell&#39;IA.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZGoogle è l&apos;unico motore di ricerca che funziona su Reddit ora, grazie all&apos;accordo sull&apos;IA</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puoi scegliere di non sottoporti alle scansioni facciali in aeroporto]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Viaggiatori possono rinunciare al riconoscimento facciale in aeroporto allontanandosi dalla telecamera, presentando il loro documento d&#39;identità e dichiarando: &#39;Rinuncio ai biometria.&#39;</li>
+<li>Il programma “Freedom Flyers” della Algorithmic Justice League mira a sensibilizzare su questo diritto, soprattutto mentre la TSA prevede di estendere il riconoscimento facciale a tutti gli aeroporti degli Stati Uniti.</li>
+<li>Il riconoscimento facciale comporta rischi come violazioni dei dati, identificazioni errate, bias dell&#39;IA e la normalizzazione della sorveglianza, con significative preoccupazioni per la privacy riguardo alla conservazione e all&#39;uso dei dati biometrici.</li>
+</ul>
+]]></description>
+            <link>https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZPuoi scegliere di non sottoporti alle scansioni facciali in aeroporto</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CrowdStrike offre una carta regalo di scuse da $10 per scusarsi dell'interruzione]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>CrowdStrike, una società di cybersecurity, ha causato un&#39;interruzione globale il 19 luglio a causa di un aggiornamento difettoso, che ha colpito milioni di computer e ha portato a significativi disagi come ritardi negli aeroporti e interventi chirurgici sospesi.</li>
+<li>Come scusa, l&#39;azienda ha offerto buoni regalo Uber Eats da 10 dollari ai suoi partner, ma alcuni destinatari hanno segnalato che i voucher erano invalidi.</li>
+<li>CrowdStrike, il CEO e il responsabile della sicurezza hanno rilasciato scuse pubbliche, riconoscendo la gravità dell&#39;incidente e impegnandosi alla trasparenza e a misure preventive future.</li>
+</ul>
+]]></description>
+            <link
+      >https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZCrowdStrike offre una carta regalo di scuse da $10 per scusarsi dell&apos;interruzione</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Che aspetto ha il "consenso" per la DEA e la TSA]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>DEA e TSA hanno collaborato per sequestrare il denaro dei viaggiatori prendendo di mira coloro che trasportano grandi quantità di contanti, utilizzando informatori e posti di controllo TSA per identificare gli individui e affermando che essi &quot;consentono&quot; alle perquisizioni.</li>
+<li>Questa pratica, che si estende ai treni Amtrak con l&#39;aiuto della US Customs and Border Protection, comporta il &quot;sequestro civile&quot; in cui il denaro viene sequestrato senza un mandato, spesso ignorando il rifiuto dei passeggeri di acconsentire.</li>
+<li>Una causa legale collettiva in corso evidenzia la frequenza di queste perquisizioni illegali, con i querelanti che sostengono che il volume dei documenti indica un problema sistemico, nonostante la resistenza della DEA e della TSA a divulgare questi documenti.</li>
+</ul>
+]]></description>
+            <link>https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZChe aspetto ha il &quot;consenso&quot; per la DEA e la TSA</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Llama 3.1 in C]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>È stata rilasciata una nuova implementazione basata su C per l&#39;inferenza sui modelli Transformer Llama 2 e Llama 3/3.1, caratterizzata da un passaggio in avanti quantizzato a int8.</li>
+<li>Il codice include il supporto per vari ambienti come Linux Kernel, Unikraft Unikernel e modelli embedded tramite Zip Archive.</li>
+<li>Gli utenti possono personalizzare parametri come la temperatura, il campionamento top-p e la versione del modello tramite argomenti da riga di comando, migliorando la flessibilità per diversi casi d&#39;uso.</li>
+</ul>
+]]></description>
+            <link>https://github.com/trholding/llama2.c/blob/master/runq.c</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000ZLlama 3.1 in C</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'origine di Emacs nel 1976]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>EMACS, un editor di testo, è stato sviluppato presso il MIT AI Lab nel 1976, con Richard Stallman (RMS) che è diventato il principale sviluppatore entro la fine di quell&#39;anno.</li>
+<li>RMS chiamato &quot;E&quot; e &quot;EMACS&quot; e ha svolto un ruolo cruciale nella trasformazione delle macro TECO in un potente editor, con l&#39;aiuto iniziale di Guy Steele, David Moon e John Kulp.</li>
+<li>Le prime comunità di utenti, inclusa Moon, contribuirono ai tasti di scelta rapida e ai nomi dei comandi, evidenziando la natura collaborativa e guidata dalla comunità dello sviluppo di EMACS.</li>
+</ul>
+]]></description>
+            <link>https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000ZL&apos;origine di Emacs nel 1976</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Scrapscript: Un linguaggio di programmazione funzionale e indirizzabile per contenuti]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Scrapscript è un linguaggio di programmazione con un interprete disponibile per Python 3.8+ e Cosmopolitan, e supporta Docker per l&#39;esecuzione containerizzata.</li>
+<li>Si prevede che la sintassi di Scrapscript verrà aggiornata presto, e gli utenti possono fare riferimento a <code>scrapscript.py</code> e ai suoi test per comprendere il linguaggio.</li>
+<li>È disponibile un compilatore sperimentale, capace di produrre output nei formati ELF, Cosmopolitan e Wasm, con comandi specifici forniti per ciascuno.</li>
+</ul>
+]]></description>
+            <link>https://github.com/tekknolagi/scrapscript</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZScrapscript: Un linguaggio di programmazione funzionale e indirizzabile per contenuti</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Avete ottenuto un risultato nullo. Qualcuno lo pubblicherà?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Ricercatori affrontano sfide nella pubblicazione di risultati nulli, che non mostrano alcuna relazione significativa tra le variabili, portando a un bias a favore dei risultati positivi.</li>
+<li>Questo bias di pubblicazione distorce il registro scientifico e spreca risorse, come si vede nello studio inconcludente della biologa evoluzionista Natalie Pilakouta sulle preferenze dei pesci nelle sorgenti termali islandesi.</li>
+<li>Gli sforzi per affrontare questo problema includono le riviste che incoraggiano i rapporti pre-registrati, ma l&#39;adozione lenta e la percezione che i risultati nulli indichino una ricerca difettosa rimangono ostacoli significativi.</li>
+</ul>
+]]></description>
+            <link>https://www.nature.com/articles/d41586-024-02383-9</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZAvete ottenuto un risultato nullo. Qualcuno lo pubblicherà?</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abbiamo creato glhf.chat – esegui quasi qualsiasi LLM open-source, incluso 405B]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un nuovo sito web, <a href="https://glhf.chat/">https://glhf.chat/</a>, consente agli utenti di eseguire quasi qualsiasi LLM (Large Language Model) open-source su cluster GPU autoscalabili gratuitamente durante la fase di determinazione dei prezzi.</li>
+<li>Il servizio supporta qualsiasi modello compatibile con il progetto open-source vLLM, offrendo fino a ~640GB di VRAM, e mira a essere più conveniente rispetto ad altri servizi GPU eseguendo modelli multi-tenant.</li>
+<li>Il lancio della piattaforma è avvenuto nel giorno del lancio di Llama-3.1-405B e supporta modelli efficienti come le finetune di Llama-3-70b, con piani per migliorare il supporto per modelli più grandi e affrontare le limitazioni attuali.</li>
+</ul>
+]]></description>
+            <link>https://glhf.chat/landing/home</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZAbbiamo creato glhf.chat – esegui quasi qualsiasi LLM open-source, incluso 405B</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pnut: Un compilatore da C a shell POSIX di cui ti puoi fidare]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Pnut è un transpiler da C a shell POSIX che converte i programmi C in script di shell leggibili dall&#39;uomo, garantendo un&#39;alta portabilità tra le shell conformi a POSIX.</li>
+<li>Permette agli sviluppatori di scrivere script in C senza dover imparare un nuovo linguaggio, e l&#39;output è facile da ispezionare, debug e mantenere.</li>
+<li>Pnut funziona su tutti i principali sistemi operativi, inclusi Linux, macOS e Windows, ed è concesso in licenza sotto la BSD-2 Clause License.</li>
+</ul>
+]]></description>
+            <link>https://pnut.sh</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZPnut: Un compilatore da C a shell POSIX di cui ti puoi fidare</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MPPP – Il primo disastro delle 'designer drug' (2023)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>MPPP (1-metil-4-fenil-4-propionossipiperidina) è una droga di design riportata per la prima volta nel 1947, destinata come analgesico ma risultata non migliore delle opzioni esistenti.</li>
+<li>In 1976, Barry Kidston sintetizzò MPPP e sviluppò sintomi simili al Parkinson a causa di un&#39;impurità, MPTP, che uccide selettivamente le cellule cruciali per il controllo motorio.</li>
+<li>Il focolaio del 1982 di sintomi parkinsoniani legati all&#39;eroina sintetica contaminata da MPTP ha portato a significativi approfondimenti scientifici sulla malattia di Parkinson e ha evidenziato i pericoli della sintesi amatoriale di droghe.</li>
+</ul>
+]]></description>
+            <link>https://www.chm.bris.ac.uk/motm/mppp/mppph.htm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000ZMPPP – Il primo disastro delle &apos;designer drug&apos; (2023)</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Micromouse]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Micromouse è una competizione di robotica in cui piccoli robot autonomi risolvono un labirinto di 16×16, nata alla fine degli anni &#39;70 e popolare in diversi paesi tra cui il Regno Unito, gli Stati Uniti e il Giappone.</li>
+<li>Robot utilizzano algoritmi come Bellman flood-fill, Dijkstra e A* per la navigazione, con velocità massime che superano i tre metri al secondo; l&#39;attuale record mondiale è di 3,921 secondi di Ng Beng Kiat.</li>
+<li>Recenti progressi includono l&#39;uso di ventole per una maggiore deportanza, consentendo accelerazioni superiori a 2,5g, e una variante chiamata Half-Size Micromouse utilizza un labirinto 32×32 con dimensioni ridotte.</li>
+</ul>
+]]></description>
+            <link>https://en.wikipedia.org/wiki/Micromouse</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000ZMicromouse</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il futuro è l'intelligenza artificiale open source]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il Linux open-source è diventato lo standard del settore per il cloud computing e i dispositivi mobili grazie alla sua modificabilità, convenienza e funzionalità avanzate, simile alla traiettoria prevista per l&#39;IA.</li>
+<li>Meta ha rilasciato Llama 3.1 405B, il primo modello AI open-source a livello di frontiera, insieme a modelli migliorati da 70B e 8B, sottolineando una migliore relazione costo/prestazioni e l&#39;idoneità per il fine-tuning.</li>
+<li>Meta collabora con aziende come Amazon, Databricks e NVIDIA per supportare gli sviluppatori, con l&#39;obiettivo di rendere l&#39;IA open-source lo standard del settore, promuovendo trasparenza, sicurezza e crescita economica.</li>
+</ul>
+]]></description>
+            <link>https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZIl futuro è l&apos;intelligenza artificiale open source</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kawaii – Una Nintendo Wii grande quanto un portachiavi]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://bitbuilt.net/forums/index.php?threads/kawaii.6474/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZKawaii – Una Nintendo Wii grande quanto un portachiavi</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Timeshift: Strumento di Ripristino del Sistema per Linux]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Timeshift per Linux è uno strumento di backup del sistema simile a Windows System Restore e Mac OS Time Machine, concentrandosi su file di sistema e impostazioni.</li>
+<li>Supporta due modalità: RSYNC (utilizzando rsync e hard-link) e BTRFS (utilizzando le funzionalità del filesystem BTRFS), con quest&#39;ultima che richiede un layout specifico dei subvolumi.</li>
+<li>Creato da Tony George e ora parte del progetto Xapp di Linux Mint, Timeshift offre funzionalità come livelli di snapshot multipli, ripristini cross-distribution e hook post-ripristino, con istruzioni di installazione disponibili per varie distribuzioni Linux.</li>
+</ul>
+]]></description>
+            <link>https://github.com/linuxmint/timeshift</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZTimeshift: Strumento di Ripristino del Sistema per Linux</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Luglio 2024 Aggiornamento sui Rapporti di Instabilità sui CPU Desktop Intel Core di 13a/14a Generazione]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Intel ha identificato instabilità nei suoi processori desktop di 13ª e 14ª generazione causata da una tensione operativa elevata dovuta a un algoritmo di microcodice.</li>
+<li>Una patch di microcodice per risolvere questo problema è prevista per metà agosto, e Intel consiglia ai clienti interessati di contattare l&#39;assistenza per ricevere supporto.</li>
+<li>Gli utenti hanno espresso preoccupazioni riguardo a potenziali danni a lungo termine alla CPU, alla necessità di aggiornamenti del BIOS e hanno segnalato problemi di RMA (Autorizzazione alla Restituzione della Merce) mentre cercavano indicazioni su come gestire l&#39;instabilità fino al rilascio della patch.</li>
+</ul>
+]]></description>
+            <link
+      >https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZLuglio 2024 Aggiornamento sui Rapporti di Instabilità sui CPU Desktop Intel Core di 13a/14a Generazione</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Progettazione del Database per Google Calendar: Un Tutorial]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il tutorial di Alexey Makhotkin fornisce una guida completa sulla progettazione delle tabelle del database per un clone di Google Calendar, seguendo l&#39;approccio del prossimo libro “Database Design using Minimal Modeling.”</li>
+<li>Copre ampiamente il modello logico, descrivendo in dettaglio come gestire eventi di un&#39;intera giornata, eventi basati sul tempo ed eventi ripetuti, per poi passare alla creazione di tabelle SQL fisiche.</li>
+<li>Il tutorial è rivolto a lettori con una comprensione generale dei database, aiutandoli a passare da idee concettuali a definizioni complete delle tabelle del database, e include passaggi pratici per implementare il design.</li>
+</ul>
+]]></description>
+            <link>https://kb.databasedesignbook.com/posts/google-calendar/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZProgettazione del Database per Google Calendar: Un Tutorial</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'eleganza della tabella ASCII]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il tavolo ASCII, standardizzato nel 1963, assegna significati a 100 dei 128 possibili punti di codice binari a 7 bit e rimane rilevante oggi, soprattutto con la codifica UTF-8 che è retrocompatibile.</li>
+<li>Il tavolo include codici di controllo, caratteri stampabili e segue specifici schemi binari, con il carattere spazio che è il primo carattere stampabile per scopi di ordinamento.</li>
+<li>Il design di ASCII è logico ed esteticamente gradevole, rendendolo coerente per gli esseri umani da apprendere e comprendere, riflettendo la sua importanza storica e la logica raffinata.</li>
+</ul>
+]]></description>
+            <link>https://danq.me/2024/07/21/ascii/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000ZL&apos;eleganza della tabella ASCII</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[È possibile guadagnare stipendi da FAANG senza lavorare lì?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il divario salariale tra le aziende FAANG (Facebook, Amazon, Apple, Netflix, Google) e le aziende non-FAANG è sostanziale, con gli ingegneri delle FAANG che ricevono pacchetti retributivi significativamente più alti.</li>
+<li>Un Ingegnere Senior in una tipica startup potrebbe guadagnare uno stipendio base di 250.000 dollari più un bonus del 10-20%, mentre un Ingegnere Senior in una delle aziende FAANG potrebbe ricevere uno stipendio base simile più 1 milione di dollari in azioni distribuite su quattro anni.</li>
+<li>Il post si chiede se individui al di fuori di FAANG e delle grandi banche/aziende di trading ad alta frequenza (HFT) guadagnino somme comparabili, e cerca di identificare chi sono e quali sono i loro ruoli.</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41042123</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZÈ possibile guadagnare stipendi da FAANG senza lavorare lì?</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Llama 3.1]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Llama 3.1 è un modello di intelligenza artificiale open-source disponibile in tre versioni: 8B, 70B e 405B, per soddisfare diverse esigenze di prestazioni e costi.</li>
+<li>Supporta casi d&#39;uso avanzati, inclusi assistenti di codifica, agenti multilingue e ragionamenti complessi, con capacità per inferenza in tempo reale e batch, fine-tuning e generazione di dati sintetici.</li>
+<li>Il modello è stato valutato su oltre 150 dataset, mostrando alte prestazioni in generale, nel codice, nella matematica, nel ragionamento, nell&#39;uso degli strumenti e nei benchmark multilingue.</li>
+</ul>
+]]></description>
+            <link>https://llama.meta.com/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000ZLlama 3.1</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il ladro di bottoni]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Button Stealer è un&#39;estensione di Chrome che rimuove automaticamente un pulsante da ogni sito web che visiti.</li>
+<li>Il componente aggiuntivo è progettato per essere divertente ed è gratuito, senza alcuna utilità pratica.</li>
+<li>Garantisce la privacy dei dati dell&#39;utente operando localmente sul dispositivo dell&#39;utente.</li>
+</ul>
+]]></description>
+            <link>https://anatolyzenkov.com/stolen-buttons/button-stealer</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000ZIl ladro di bottoni</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re: Le persone nella vita reale sanno che hai un blog?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>L&#39;autore discute il significato personale di mantenere un blog per quasi vent&#39;anni, nonostante l&#39;indifferenza delle persone nella vita reale (IRL).</li>
+<li>Il blog serve come una forma di auto-espressione e libertà, in contrasto con le pressioni dei social media e delle grandi aziende tecnologiche.</li>
+<li>Le risposte dei lettori evidenziano varie prospettive, tra cui i benefici del blogging per la chiarezza personale, le preoccupazioni riguardo allo sfruttamento dell&#39;IA e l&#39;incoraggiamento a scrivere senza analisi.</li>
+</ul>
+]]></description>
+            <link>https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZRe: Le persone nella vita reale sanno che hai un blog?</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wiz si ritira dall'accordo da 23 miliardi di dollari con Google]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Wiz ha deciso di abbandonare un accordo di acquisizione da 23 miliardi di dollari con Google e perseguirà invece un&#39;Offerta Pubblica Iniziale (IPO), come annunciato dal CEO Assaf Rappaport.</li>
+<li>La decisione è stata influenzata da preoccupazioni antitrust e degli investitori, con Wiz che punta a 1 miliardo di dollari di entrate ricorrenti annuali.</li>
+<li>Fondata nel 2020, Wiz è cresciuta rapidamente, raggiungendo 350 milioni di dollari di entrate ricorrenti annuali l&#39;anno scorso, e offre prodotti per la sicurezza cloud.</li>
+</ul>
+]]></description>
+            <link>https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZWiz si ritira dall&apos;accordo da 23 miliardi di dollari con Google</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intenzione di terminare il servizio OCSP]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Let’s Encrypt sta terminando il supporto per il Protocollo di Stato del Certificato Online (OCSP) a favore delle Liste di Revoca dei Certificati (CRL) a causa dei rischi per la privacy e dell&#39;efficienza delle risorse.</li>
+<li>Questo cambiamento non influirà sui siti web o sui visitatori, ma potrebbe avere un impatto su alcuni software non basati su browser; si consiglia agli utenti di assicurarsi che il loro software funzioni senza un URL OCSP.</li>
+<li>Il decisione del CA/Browser Forum rende l&#39;OCSP facoltativo per le Autorità di Certificazione (CA) pubblicamente fidate, con Microsoft come unica eccezione; una tempistica per la disattivazione dei servizi OCSP sarà annunciata una volta che anche Microsoft lo renderà facoltativo.</li>
+</ul>
+]]></description>
+            <link>https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000ZIntenzione di terminare il servizio OCSP</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lo stack audio di Linux demistificato (e altro)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il articolo fornisce una panoramica completa dello stack audio di Linux, spiegando le basi del suono, la percezione umana del suono e l&#39;elaborazione audio digitale.</li>
+<li>Componenti chiave dello stack audio di Linux includono ALSA per il controllo hardware a basso livello, JACK per l&#39;audio in tempo reale a bassa latenza e PulseAudio per la gestione audio di livello superiore, con PipeWire che emerge come soluzione unificante.</li>
+<li>PipeWire è evidenziato come un&#39;opzione versatile che integra le caratteristiche sia di JACK che di PulseAudio, potenzialmente sostituendoli nelle future distribuzioni Linux.</li>
+</ul>
+]]></description>
+            <link>https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000ZLo stack audio di Linux demistificato (e altro)</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Stati Uniti divulgano i numeri delle testate nucleari; ripristinano la trasparenza nucleare]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Federazione degli Scienziati Americani (FAS) elogia gli Stati Uniti per aver declassificato il numero delle loro testate nucleari, migliorando la trasparenza nucleare.</li>
+<li>Nel settembre 2023, gli Stati Uniti possiedono 3.748 testate nucleari, con solo 69 smantellate l&#39;anno scorso, il numero più basso dal 1994.</li>
+<li>Il comunicato dell&#39;amministrazione Biden ripristina la trasparenza sospesa dall&#39;amministrazione Trump, e la FAS incoraggia altri stati nucleari ad adottare una simile trasparenza per prevenire sfiducia e disinformazione.</li>
+</ul>
+]]></description>
+            <link
+      >https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000ZStati Uniti divulgano i numeri delle testate nucleari; ripristinano la trasparenza nucleare</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisp in C#]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Sharpl è un interprete Lisp personalizzato scritto in C# con circa 4.000 righe di codice e senza dipendenze esterne, il che lo rende facile da incorporare.</li>
+<li>Le caratteristiche principali includono coppie, array, mappe, composizioni di metodi, varargs, un protocollo di iteratore unificato e un tipo decimale a punto fisso, tra gli altri.</li>
+<li>Supporta legami lessicali e dinamici, ottimizzazione delle chiamate di coda per prevenire il sovraccarico dello stack e fornisce una segnalazione dettagliata degli errori con numeri di riga.</li>
+</ul>
+]]></description>
+            <link>https://github.com/codr7/sharpl</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000ZLisp in C#</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jellyfin: Siamo bravi, sul serio]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Jellyfin ha un budget di oltre $24.000, coprendo 40 mesi di spese, e sta chiedendo agli utenti di reindirizzare le donazioni agli autori dei Client che utilizzano.</li>
+<li>Questa richiesta è in linea con la politica di Jellyfin di &quot;nessuno sviluppo a pagamento&quot;, poiché le donazioni sono volontarie e il progetto rivaluterà se i fondi scenderanno a 12 mesi di autonomia.</li>
+<li>Le risposte dei membri della comunità sono positive, con piani per supportare gli autori dei Client e richieste di informazioni su supporti specifici per i client come WebOS.</li>
+</ul>
+]]></description>
+            <link>https://forum.jellyfin.org/t-we-re-good-seriously</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZJellyfin: Siamo bravi, sul serio</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spillo]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il tipo Pin e il concetto di pinning sono componenti essenziali ma spesso fraintesi dell&#39;ecosistema async di Rust.</li>
+<li>Pin è stato introdotto per supportare i tipi auto-referenziali in Rust asincrono, garantendo che gli oggetti non si spostino una volta che contengono auto-riferimenti, a differenza di Mojo, che gestisce intrinsecamente l&#39;identità degli oggetti.</li>
+<li>Nonostante la sua necessità, Pin introduce una complessità significativa per gli utenti a causa della mancanza di zucchero sintattico e supporto, portando a problemi come il reborrowing, le proiezioni pin e le interazioni con il tratto Drop.</li>
+</ul>
+]]></description>
+            <link>https://without.boats/blog/pin/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZSpillo</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jiff: Libreria Datetime per Rust]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Jiff è una nuova libreria datetime per Rust incentrata sulla facilità d&#39;uso e sulle prestazioni, ispirata alla proposta Temporal di JavaScript.</li>
+<li>Offre funzionalità come primitive datetime di alto livello, integrazione senza soluzione di continuità con il database dei fusi orari, aritmetica consapevole dell&#39;ora legale, formattazione, analisi e supporto opzionale per Serde.</li>
+<li>Jiff è concesso in licenza doppia sotto MIT o UNLICENSE, supporta Unix e Windows, e richiede Rust 1.70.0 o versioni successive.</li>
+</ul>
+]]></description>
+            <link>https://github.com/BurntSushi/jiff</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZJiff: Libreria Datetime per Rust</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Niente più venerdì tristi]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un&#39;interruzione importante il 19 luglio causata da un aggiornamento del driver del kernel ha portato a crash globali dei sistemi Windows, evidenziando la necessità di meccanismi di aggiornamento più sicuri.</li>
+<li>eBPF (extended Berkeley Packet Filter), già utilizzato in Linux, è un ambiente di esecuzione sicuro del kernel che può prevenire tali crash e sarà presto supportato da Windows.</li>
+<li>i programmi eBPF sono controllati per la sicurezza e isolati, offrendo vantaggi come una maggiore sicurezza e un minore utilizzo delle risorse, con l&#39;adozione da parte di aziende come Cisco, Google e Meta per la sicurezza e l&#39;osservabilità.</li>
+</ul>
+]]></description>
+            <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZNiente più venerdì tristi</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analizza, non convalidare (2019)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il post sottolinea il principio &quot;Analizza, non validare,&quot; sostenendo l&#39;analisi dei dati per preservare le informazioni nel sistema di tipi piuttosto che scartarle attraverso la validazione.</li>
+<li>Spiega come il design guidato dai tipi in linguaggi come Haskell possa trasformare funzioni parziali in funzioni totali rafforzando i tipi degli argomenti, utilizzando le liste <code>NonEmpty</code> come esempio.</li>
+<li>Consigli pratici includono l&#39;uso di strutture dati precise, il refactoring per spostare gli oneri di prova verso l&#39;alto e l&#39;evitare rappresentazioni di dati denormalizzati per migliorare l&#39;affidabilità e la sicurezza del programma.</li>
+</ul>
+]]></description>
+            <link>https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZAnalizza, non convalidare (2019)</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quando ChatGPT riassume, non fa nulla del genere]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il autore ha esplorato e discusso le fondamenta di ChatGPT e di altre intelligenze artificiali generative, con l&#39;obiettivo di fornire prospettive realistiche contro l&#39;attuale clamore.</li>
+<li>Un&#39;intuizione chiave è che ChatGPT non riassume veramente il contenuto ma lo accorcia semplicemente, spesso mancando dettagli essenziali e proposte, come evidenziato da un confronto con un riassunto generato da un umano di un documento di 50 pagine.</li>
+<li>Questa limitazione sorge perché riassumere richiede comprensione, di cui ChatGPT è privo, portando a scetticismo sulla affidabilità dei LLM (Modelli di Linguaggio di Grandi Dimensioni) per applicazioni aziendali pratiche.</li>
+</ul>
+]]></description>
+            <link>https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZQuando ChatGPT riassume, non fa nulla del genere</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Ryanair vince la causa contro Booking.com per screen scraping in una sentenza del tribunale statunitense]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un tribunale statunitense ha stabilito che Booking.com ha violato il Computer Fraud and Abuse Act accedendo al sito web di Ryanair senza permesso, sostenendo la posizione di Ryanair contro lo screen scraping non autorizzato.</li>
+<li>Il tribunale distrettuale del Delaware ha dichiarato Booking.com colpevole di accesso non autorizzato con l&#39;intento di frodare e ha respinto le controaccuse di diffamazione e concorrenza sleale di Booking.com.</li>
+<li>Il CEO di Ryanair Michael O&#39;Leary spera che la sentenza ridurrà il screen scraping illegale e i sovrapprezzi, mentre Booking.com prevede di fare appello, sostenendo che il confronto delle tariffe avvantaggia la scelta dei consumatori.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZRyanair vince la causa contro Booking.com per screen scraping in una sentenza del tribunale statunitense</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[No ci si aspetta che i giovani facciano qualcosa e loro rispondono non facendo nulla (2022)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il post di Rob Henderson discute la mancanza di aspettative sociali per i giovani uomini e le sue conseguenze negative, tra cui l&#39;aumento dei tassi di disoccupazione e incarcerazione.</li>
+<li>Fa riferimento a &quot;Promises I Can Keep&quot; di Kathryn Edin e Maria Kefalas, che esamina perché le donne a basso reddito spesso danno priorità alla maternità rispetto al matrimonio, attribuendolo al cattivo comportamento dei giovani maschi.</li>
+<li>Henderson critica la classe superiore per aver minato le norme di stabilità familiare mentre garantisce ai propri figli i benefici di case stabili, sostenendo che i giovani uomini hanno bisogno di alte aspettative per prosperare.</li>
+</ul>
+]]></description>
+            <link>https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZNo ci si aspetta che i giovani facciano qualcosa e loro rispondono non facendo nulla (2022)</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[James C. Scott, autore di Seeing Like a State, è morto]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nitter.poast.org/GerardoMunck/status/1815059432382067053</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZJames C. Scott, autore di Seeing Like a State, è morto</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eza: una sostituzione moderna e mantenuta per ls]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Eza è un sostituto moderno del comando ls in Unix e Linux, offrendo funzionalità avanzate e impostazioni predefinite migliori.</li>
+<li>Le caratteristiche principali includono tipi di file codificati a colori, supporto per i collegamenti simbolici, attributi estesi, integrazione con Git e date leggibili dall&#39;uomo.</li>
+<li>eza mira a essere più user-friendly e ricco di funzionalità, con supporto aggiuntivo per l&#39;hyperlinking, i dettagli dei punti di montaggio, il contesto SELinux e colori terminali brillanti.</li>
+</ul>
+]]></description>
+            <link>https://github.com/eza-community/eza</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000ZEza: una sostituzione moderna e mantenuta per ls</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quanti soldi possiamo raccogliere per startup trasparentemente idiote?]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://www.smbc-comics.com/comic/investment-2</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZQuanti soldi possiamo raccogliere per startup trasparentemente idiote?</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Un sistema di fatturazione a codice sorgente disponibile che ho impiegato 18 mesi a costruire]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>La piattaforma offre un&#39;integrazione profonda con Stripe, consentendo un controllo completo sulla fatturazione, la gestione delle tasse e i flussi di lavoro automatizzati.</li>
+<li>Le caratteristiche includono la gestione delle aliquote fiscali a vari livelli, la creazione di piani di abbonamento personalizzati e l&#39;integrazione con strumenti come Slack e fornitori di servizi email.</li>
+<li>Il sistema supporta la scalabilità, l&#39;auto-gestione e fornisce dettagliate informazioni aziendali come il tasso di abbandono degli abbonamenti e il valore a vita.</li>
+</ul>
+]]></description>
+            <link>https://billabear.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZUn sistema di fatturazione a codice sorgente disponibile che ho impiegato 18 mesi a costruire</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le lavoratrici e i lavoratori hanno parlato: rimangono a casa]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Dell ha ignorato in gran parte la politica che richiedeva la presenza in ufficio per le promozioni, con molti dipendenti che hanno scelto di rimanere a casa.</li>
+<li>Un rapporto di Gartner indica che il 48% dei dipendenti ritiene che i mandati aziendali favoriscano le preferenze dei leader rispetto alle proprie esigenze.</li>
+<li>Il lavoro a distanza è sempre più preferito per i suoi benefici, tra cui l&#39;assenza di spostamenti, un migliore equilibrio tra lavoro e vita privata, risparmi sui costi e flessibilità, con i migliori professionisti che cercano opportunità di lavoro a distanza.</li>
+</ul>
+]]></description>
+            <link>https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZLe lavoratrici e i lavoratori hanno parlato: rimangono a casa</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apollo DN10000: workstation Quad CPU/128Mb RAM del 1988 [pdf]]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZApollo DN10000: workstation Quad CPU/128Mb RAM del 1988 [pdf]</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[CrowdStrike's Falcon Sensor è stato anche collegato a panici e crash del kernel Linux]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>CrowdStrike Falcon Sensor ha causato crash di sistema sia su Windows che su Linux, inclusi Red Hat Enterprise Linux 9.4, Debian e Rocky Linux.</li>
+<li>Disabilitare temporaneamente il Falcon Sensor stabilizza i sistemi interessati, e CrowdStrike sta testando uno strumento di recupero rapido per affrontare il problema.</li>
+<li>Il disservizio ha avuto significativi impatti globali, inclusi cancellazioni di voli e ritardi nell&#39;assistenza sanitaria, con Microsoft che stima 8,5 milioni di macchine Windows colpite.</li>
+</ul>
+]]></description>
+            <link>https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000ZCrowdStrike&apos;s Falcon Sensor è stato anche collegato a panici e crash del kernel Linux</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Empatia per l'utente che ha rapporti sessuali con il tuo software]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Lo sviluppo di tecnologie per l&#39;uso intimo, come le applicazioni Buttplug, richiede empatia e considerazione delle esigenze e dei contesti unici degli utenti, inclusa l&#39;usabilità durante l&#39;eccitazione e le disconnessioni hardware.</li>
+<li>Condividere il codice della tecnologia sessuale su piattaforme come GitHub può aiutare a stabilire le migliori pratiche, ma gli sviluppatori dovrebbero essere cauti con i media espliciti e considerare l&#39;auto-hosting di materiali sensibili.</li>
+<li>Il progetto Buttplug pone l&#39;accento sulla sicurezza, l&#39;autonomia e i diritti umani, incoraggiando un comportamento responsabile e l&#39;educazione nella sua dichiarazione di missione.</li>
+</ul>
+]]></description>
+            <link>https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZEmpatia per l&apos;utente che ha rapporti sessuali con il tuo software</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dettagli iniziali sul motivo per cui CSAgent.sys di CrowdStrike si è bloccato]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>CrowdStrike&#39;s CSAgent.sys si è bloccato a causa di un&#39;istruzione difettosa che coinvolgeva un indirizzo di memoria non valido.</li>
+<li>Il problema è stato causato da un indirizzo non mappato proveniente da un array di puntatori, che ha portato a un crash durante l&#39;accesso alla memoria.</li>
+<li>Il comando di errore specifico era &quot;mov r9d, [r8],&quot; dove R8 conteneva l&#39;indirizzo non valido.</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/patrickwardle/status/1814343502886477857</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZDettagli iniziali sul motivo per cui CSAgent.sys di CrowdStrike si è bloccato</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Qual è il significato del carattere "j" alla fine di un numero romano? (2013)]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZQual è il significato del carattere &quot;j&quot; alla fine di un numero romano? (2013)</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comunicazioni dei missili Minuteman]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il autore ha intenzione di cambiare piattaforma di hosting, sostenendo maggiori spese, e cerca il supporto dei lettori attraverso donazioni, offrendo contenuti esclusivi e accesso anticipato ai nuovi video su YouTube per i sostenitori.</li>
+<li>Gli Stati Uniti mantengono 400 ICBM Minuteman III gestiti dai 90°, 91° e 341° Stormi Missili dell&#39;Aeronautica, con ciascun gruppo di dieci strutture di lancio monitorato da una singola struttura di allerta missilistica.</li>
+<li>Le comunicazioni Minuteman includono sistemi esterni come antenne LF, HF, UHF e SHF, e sistemi interni come il Sistema di Cavi Interstiziali Rinforzati (HICS), con aggiornamenti futuri previsti nell&#39;ambito del programma Sentinel.</li>
+</ul>
+]]></description>
+            <link>https://computer.rip/2024-07-20-minuteman-missile-communications.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000ZComunicazioni dei missili Minuteman</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quindi pensi di conoscere le ombre del riquadro?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il post esplora usi creativi e non convenzionali delle ombre delle caselle in CSS, oltre ai tipici miglioramenti dell&#39;interfaccia utente.</li>
+<li>L&#39;autore ha sperimentato con le ombre delle scatole per l&#39;arte minimale, le animazioni, gli effetti 3D e persino il ray tracing, dimostrando la versatilità di questa funzionalità CSS.</li>
+<li>Gli esperimenti evidenziano le capacità prestazionali dell&#39;hardware moderno, come il laptop M1, nella gestione di effetti visivi complessi utilizzando le ombre a scatola.</li>
+</ul>
+]]></description>
+            <link>https://dgerrells.com/blog/how-not-to-use-box-shadows</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000ZQuindi pensi di conoscere le ombre del riquadro?</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[X.com si rifiuta di aprirsi con la protezione rigorosa contro il tracciamento di Firefox abilitata]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://x.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZX.com si rifiuta di aprirsi con la protezione rigorosa contro il tracciamento di Firefox abilitata</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Utente ritorna dopo un ban di 100.000 ore per continuare la conversazione che li ha fatti bannare]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un utente di nome Etherwind è tornato sui forum di Something Awful dopo un divieto di 11 anni e 100.000 ore per continuare un dibattito su un gioco da tavolo che aveva portato al suo divieto nel 2013.</li>
+<li>Etherwind fu inizialmente bandito per aver scherzosamente augurato la morte a un autore, e il suo ritorno fu accolto con umorismo e stupore dagli altri utenti del forum.</li>
+<li>Nonostante il lungo divieto, Etherwind ha visto il suo ritorno come un&#39;opportunità comica e alla fine ha abbandonato l&#39;account dopo aver ripreso il dibattito.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZUtente ritorna dopo un ban di 100.000 ore per continuare la conversazione che li ha fatti bannare</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rr – debugger per la registrazione e la riproduzione per C/C++]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>rr è uno strumento di debugging per C/C++ su Linux, che migliora gdb permettendo la riproduzione deterministica e l&#39;esecuzione inversa efficiente.</li>
+<li>Supporta la registrazione e la riproduzione di varie applicazioni, gestisce carichi di lavoro multi-processo e si integra con la scripting di gdb e gli IDE.</li>
+<li>rr è notevole per il suo basso overhead, la possibilità di essere distribuito su kernel Linux standard e la capacità di rendere il debug di bug intermittenti più facile e veloce.</li>
+</ul>
+]]></description>
+            <link>https://rr-project.org/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Zrr – debugger per la registrazione e la riproduzione per C/C++</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel vs. Samsung vs. TSMC]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Intel, Samsung e TSMC stanno intensificando la competizione nel mercato delle fonderie poiché i benefici della scalatura planare tradizionale diminuiscono, concentrandosi su transistor 3D, chiplet e tecnologie di packaging avanzate.</li>
+<li>Ogni azienda sta sfruttando standard come UCIe (Universal Chiplet Interconnect Express) e BoW (Bridge of Wires) per la connettività dei chiplet, con Intel che utilizza EMIB (Embedded Multi-die Interconnect Bridge) e Samsung e TSMC che esplorano approcci 2.5D e 3D-IC (Integrated Circuit).</li>
+<li>Le fonderie stanno avanzando verso la scala degli angstrom nei nodi di processo e innovando in aree come la distribuzione di potenza posteriore e i substrati di vetro, con l&#39;obiettivo di fornire soluzioni personalizzate e ad alte prestazioni in modo efficiente.</li>
+</ul>
+]]></description>
+            <link>https://semiengineering.com/intel-vs-samsung-vs-tsmc/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000ZIntel vs. Samsung vs. TSMC</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden si ritira come candidato democratico]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/JoeBiden/status/1815080881981190320</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000ZJoe Biden si ritira come candidato democratico</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dispositivo isolato di Google Distributed Cloud]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il dispositivo Google Distributed Cloud air-gapped, che verrà lanciato il 17 luglio 2024, porta le capacità del cloud e dell&#39;IA in ambienti tattici come le zone di disastro e le stazioni di ricerca remote.</li>
+<li>Il dispositivo supporta l&#39;elaborazione locale dei dati in tempo reale per casi d&#39;uso di intelligenza artificiale come il rilevamento di oggetti e l&#39;analisi delle immagini mediche, con pieno isolamento da internet pubblico per sicurezza e conformità.</li>
+<li>Offre l&#39;accreditamento di Livello di Impatto 5 del Dipartimento della Difesa, rendendolo adatto per la risposta ai disastri, l&#39;automazione industriale, i trasporti, la logistica e i carichi di lavoro federali e di difesa riservati.</li>
+</ul>
+]]></description>
+            <link
+      >https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000ZDispositivo isolato di Google Distributed Cloud</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Qualsiasi aggiornamento software sufficientemente pessimo è indistinguibile da un attacco informatico]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/leighhoneywell/status/1814278230704111792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZQualsiasi aggiornamento software sufficientemente pessimo è indistinguibile da un attacco informatico</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valanga di recensioni false sull'App Store di Mac]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Jeff Johnson ha segnalato un aumento di recensioni false per le app a pagamento più popolari nel Mac App Store degli Stati Uniti, che ha interessato 8 delle prime 40 app a pagamento tra l&#39;11 giugno e il 19 luglio 2024.</li>
+<li>Le recensioni false, spesso a 5 stelle con testo generico o insensato, erano probabilmente destinate a migliorare le valutazioni dell&#39;app, con il sospetto che un singolo sviluppatore potesse essere dietro di esse per nascondere le recensioni false della propria app.</li>
+<li>Nonostante le segnalazioni ad Apple, il problema rimane irrisolto, con gli sviluppatori di BetterSnapTool e Vinegar che riconoscono e segnalano il problema ad Apple.</li>
+</ul>
+]]></description>
+            <link>https://lapcatsoftware.com/articles/2024/7/1.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZValanga di recensioni false sull&apos;App Store di Mac</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Il crollo di trincee ha ucciso centinaia di lavoratori negli Stati Uniti nell'ultimo decennio]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Negli ultimi dieci anni, i crolli delle trincee hanno causato oltre 250 morti tra i lavoratori negli Stati Uniti, molti dei quali avrebbero potuto essere evitati con l&#39;adesione alle normative di sicurezza di base.</li>
+<li>Nonostante le normative e le sanzioni dell&#39;OSHA (Occupational Safety and Health Administration), molte aziende continuano a violare gli standard di sicurezza con conseguenze minime, poiché le accuse penali sono rare e le multe vengono spesso ridotte o ignorate.</li>
+<li>Un&#39;indagine condotta da NPR, Texas Public Radio e 1A sottolinea l&#39;urgente necessità di un&#39;applicazione più rigorosa e di una maggiore responsabilità per prevenire future tragedie.</li>
+</ul>
+]]></description>
+            <link>https://text.npr.org/g-s1-9028</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZIl crollo di trincee ha ucciso centinaia di lavoratori negli Stati Uniti nell&apos;ultimo decennio</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gestione delle risorse del Classic Mac OS in ResEdit]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il file system Macintosh presentava due fork: un data fork e un resource fork, con quest&#39;ultimo che memorizzava dati strutturati come icone, dialoghi e frammenti di codice.</li>
+<li>ResEdit di Apple, un editor di risorse aggiornato l&#39;ultima volta nel 1994, permetteva agli utenti di personalizzare i file di sistema, le finestre di dialogo e i layout della tastiera, ma comportava rischi per la sicurezza poiché i malware spesso sfruttavano i fork delle risorse.</li>
+<li>Con Mac OS X, i fork delle risorse sono stati trasformati in attributi estesi e le risorse delle app sono ora organizzate in bundle, con le app moderne bloccate da firme, impedendo le ampie personalizzazioni una volta possibili con ResEdit.</li>
+</ul>
+]]></description>
+            <link>https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000ZGestione delle risorse del Classic Mac OS in ResEdit</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ho mappato quasi ogni morte per incidente stradale negli USA nel 21° secolo]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>La Mappa Nazionale Vision-Zero è una nuova iniziativa volta a eliminare le morti per incidenti stradali e le lesioni gravi sulle strade.</li>
+<li>Questa mappa fornisce una panoramica completa dei dati sulla sicurezza del traffico in tutto il paese, aiutando a identificare le aree ad alto rischio e a implementare misure di sicurezza mirate.</li>
+<li>La iniziativa fa parte di una più ampia strategia Vision-Zero, adottata da varie città e paesi per migliorare la sicurezza stradale attraverso approcci basati sui dati e il coinvolgimento della comunità.</li>
+</ul>
+]]></description>
+            <link>https://roadway.report</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZHo mappato quasi ogni morte per incidente stradale negli USA nel 21° secolo</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Un ricercatore trova una falla nel sito web di a16z che ha esposto alcuni dati aziendali]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un ricercatore di sicurezza ha scoperto una vulnerabilità nel sottodominio di a16z crypto, rivelando informazioni sensibili come chiavi AWS e contenuti del database.</li>
+<li>Le credenziali esposte includevano l&#39;accesso ad AWS, Salesforce, Mailgun e a un database contenente Informazioni di Identificazione Personale (PII).</li>
+<li>Il ricercatore non ha ricevuto una ricompensa per la segnalazione di bug a causa della divulgazione pubblica dopo non essere riuscito a trovare un metodo di contatto privato, che hanno ritenuto ingiusto.</li>
+</ul>
+]]></description>
+            <link>https://www.kibty.town/blog/a16z/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZUn ricercatore trova una falla nel sito web di a16z che ha esposto alcuni dati aziendali</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garage: Archiviazione di oggetti distribuita open-source]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Garage è un servizio di archiviazione di oggetti distribuito open-source progettato per l&#39;auto-hosting, che offre ridondanza replicando i dati su tre zone.</li>
+<li>Le caratteristiche principali includono un&#39;implementazione leggera ed efficiente, versatilità attraverso più datacenter e resilienza ai guasti di rete e hardware.</li>
+<li>Supporta hardware eterogeneo, implementa l&#39;API Amazon S3 per la compatibilità ed è finanziato da NGI POINTER, NLnet / NGI0 Entrust e dal programma di ricerca e innovazione Horizon 2021 dell&#39;Unione Europea.</li>
+</ul>
+]]></description>
+            <link>https://garagehq.deuxfleurs.fr/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZGarage: Archiviazione di oggetti distribuita open-source</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Le dati multisatellite mostrano una fuoriuscita di metano da record a causa di un'esplosione di un pozzo]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZLe dati multisatellite mostrano una fuoriuscita di metano da record a causa di un&apos;esplosione di un pozzo</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typst: Un'alternativa facile da imparare per LaTeX]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Typst è un nuovo sistema di composizione basato su markup, facile da usare e progettato per essere potente quanto LaTeX, con markup integrato, funzioni flessibili, scripting integrato e tempi di compilazione rapidi.</li>
+<li>Il compilatore Typst e l&#39;interfaccia a riga di comando (CLI) sono disponibili per la compilazione locale dei documenti, con un editor online gratuito attualmente in beta pubblica per un&#39;esperienza migliorata.</li>
+<li>Gli utenti possono unirsi alla comunità di Typst su Discord per ricevere supporto e accedere a risorse create dalla comunità, con opportunità di contribuire segnalando bug o suggerendo funzionalità.</li>
+</ul>
+]]></description>
+            <link>https://github.com/typst/typst</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZTypst: Un&apos;alternativa facile da imparare per LaTeX</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IA pagata dalla pubblicità – il mini punto di inflessione di GPT-4o]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>OpenAI ha lanciato il modello GPT-4o mini, al prezzo di $0,15 per 1 milione di token di input e $0,60 per 1 milione di token di output, rendendolo più conveniente e intelligente rispetto a GPT-3.5 Turbo.</li>
+<li>Il basso costo di GPT-4o mini consente la creazione di contenuti generati dall&#39;IA che possono essere supportati interamente dai ricavi pubblicitari, trasformando potenzialmente la creazione di contenuti online.</li>
+<li>Ad esempio, generare un post sul blog con GPT-4o mini costa $0,00051525, mentre le entrate pubblicitarie per visualizzazione di pagina possono essere circa $0,0026, con un profitto netto di circa $0,002 per visualizzazione di pagina.</li>
+</ul>
+]]></description>
+            <link>https://batchmon.com/blog/ai-cheaper-than-ads/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZIA pagata dalla pubblicità – il mini punto di inflessione di GPT-4o</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No Uptime Hosting (2006)]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nouptime.com/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000ZNo Uptime Hosting (2006)</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Non aggiornare mai nulla]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il articolo presenta una visione controversa contro gli aggiornamenti frequenti del software, evidenziando le interruzioni e il consumo di risorse che causano.</li>
+<li>Propone un approccio più stabile, utilizzando esempi come Lazarus IDE e i pacchetti stabili di FreeBSD, per ridurre la necessità di aggiornamenti costanti.</li>
+<li>L&#39;autore sostiene di rallentare il ritmo degli aggiornamenti, concentrandosi sulla stabilità a lungo termine e su cambiamenti non distruttivi per facilitare la manutenzione e ridurre il carico cognitivo degli sviluppatori.</li>
+</ul>
+]]></description>
+            <link>https://blog.kronis.dev/articles/never-update-anything</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000ZNon aggiornare mai nulla</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le toilette pubbliche stanno scomparendo ed è una catastrofe civica]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Le toilette pubbliche stanno scomparendo, portando a una crisi civica che colpisce particolarmente le persone con problemi di salute e i gruppi emarginati.</li>
+<li>Guido Corradi, un ricercatore di psicologia, sottolinea il pessimo stato dei bagni pubblici nelle nazioni occidentali benestanti, evidenziando il loro impatto sulla salute pubblica e sulla dignità umana.</li>
+<li>Studi indicano che le persone povere, meno istruite e le donne sperimentano più incontri negativi con i bagni pubblici, sottolineando la necessità di migliorare le strutture e le campagne di sensibilizzazione pubblica.</li>
+</ul>
+]]></description>
+            <link>https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZLe toilette pubbliche stanno scomparendo ed è una catastrofe civica</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doom su Playdate]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Una versione iniziale di Doom è stata portata con successo sulla Playdate, una console di gioco portatile.</li>
+<li>Lo sviluppatore ha affrontato sfide significative con makefile, compilatori e problemi di linker, in particolare riferimenti mancanti in libc, che sono stati risolti regolando le opzioni del linker e modificando il Playdate SDK.</li>
+<li>Il gioco ora funziona sia sul simulatore che sull&#39;hardware reale, permettendo allo sviluppatore di concentrarsi sul controllo del gioco, sulla presentazione e sull&#39;ottimizzazione.</li>
+</ul>
+]]></description>
+            <link>https://devforum.play.date/t/doom-on-playdate/852</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000ZDoom su Playdate</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unione Europea deve continuare a finanziare il software libero]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pad.public.cat/lettre-NCP-NGI</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZUnione Europea deve continuare a finanziare il software libero</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Il disastro di CrowdStrike fornisce una mappa delle vulnerabilità americane agli avversari]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un bug nell&#39;aggiornamento del software ha causato un collasso digitale venerdì, colpendo aeroporti, ospedali e stazioni televisive, evidenziando la fragilità delle reti interconnesse.</li>
+<li>Il incidente è stato dovuto a un errore umano, non a un attacco di uno stato-nazione, e ha coinvolto il software di CrowdStrike, che è destinato a neutralizzare gli attacchi informatici.</li>
+<li>Questo evento sottolinea la necessità di migliorare la resilienza digitale, nonostante gli sforzi continui del governo degli Stati Uniti e del settore privato per potenziare la sicurezza informatica.</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZIl disastro di CrowdStrike fornisce una mappa delle vulnerabilità americane agli avversari</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il prossimo anno i link abbreviati di Google smetteranno di funzionare]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Dal 25 agosto 2025, i link abbreviati di Google (goo.gl) smetteranno di funzionare, causando un errore 404 per tutti questi link.</li>
+<li>Inizierà il 23 agosto 2024, i link goo.gl mostreranno una pagina interstiziale che avviserà gli utenti della prossima chiusura.</li>
+<li>Google consiglia agli sviluppatori di aggiornare i link interessati per evitare interruzioni, notando che il servizio goo.gl è stato inizialmente chiuso nel 2019 con la raccomandazione di passare ai Firebase Dynamic Links, che sono stati anch&#39;essi deprecati.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZIl prossimo anno i link abbreviati di Google smetteranno di funzionare</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Accademici scioccati dopo che T&F vende l'accesso alle loro ricerche all'IA di Microsoft]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000ZAccademici scioccati dopo che T&amp;F vende l&apos;accesso alle loro ricerche all&apos;IA di Microsoft</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dettagli tecnici sull'interruzione di oggi]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Sul 19 luglio 2024, CrowdStrike ha rilasciato un aggiornamento della configurazione del sensore per i sistemi Windows, causando crash di sistema e schermate blu (BSOD) a causa di un errore logico, che è stato risolto entro circa 1,5 ore.</li>
+<li>Il problema ha interessato i clienti che utilizzavano il sensore Falcon per Windows versione 7.11 e successive, che erano online tra le 04:09 UTC e le 05:27 UTC, a causa di un file di canale problematico 291 progettato per valutare l&#39;esecuzione dei named pipe.</li>
+<li>Il problema non ha interessato i sistemi che eseguono Linux o macOS, e un&#39;analisi delle cause principali è in corso per prevenire problemi futuri.</li>
+</ul>
+]]></description>
+            <link>https://www.crowdstrike.com/blog/technical-details-on-todays-outage/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000ZDettagli tecnici sull&apos;interruzione di oggi</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crowdstrike Aggiornamento: Schermata Blu di Windows e Cicli di Avvio]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Molti utenti in un luogo di lavoro stanno riscontrando schermate blu di Windows e cicli di riavvio, potenzialmente collegati a un recente aggiornamento dell&#39;applicazione Crowd Strike.</li>
+<li>Il Dipartimento IT ha notato che alcuni server sono andati offline, e una stazione radio locale ha riportato problemi simili con i laptop e un sistema telefonico fuori uso.</li>
+<li>Questi incidenti stanno avvenendo in Australia, ma non ci sono ancora state notizie al riguardo.</li>
+</ul>
+]]></description>
+            <link>https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZCrowdstrike Aggiornamento: Schermata Blu di Windows e Cicli di Avvio</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crowdstrike: interruzione causa problemi diffusi]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un&#39;interruzione globale dell&#39;IT è stata causata da un aggiornamento software difettoso della società di sicurezza informatica CrowdStrike Holdings, che ha colpito numerosi sistemi Microsoft Windows.</li>
+<li>Entrambe Microsoft e CrowdStrike hanno rilasciato correzioni per affrontare il problema, ma il recupero completo è previsto richiedere del tempo.</li>
+<li>La situazione è leggermente migliorata, ma l&#39;impatto dell&#39;aggiornamento fallito si fa ancora sentire in tutto il mondo.</li>
+</ul>
+]]></description>
+            <link>https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000ZCrowdstrike: interruzione causa problemi diffusi</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FCC vota per limitare le tariffe delle telecomunicazioni nelle prigioni]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il FCC ha votato per ridurre significativamente le tariffe delle chiamate telefoniche e video per le prigioni e le carceri, tagliando i limiti delle tariffe al minuto di oltre la metà e vietando tutte le commissioni, comprese le commissioni di deposito.</li>
+<li>Questo cambiamento influisce sull&#39;83% delle persone incarcerate, facendo risparmiare alle famiglie almeno 500 milioni di dollari all&#39;anno e migliorando il benessere e il successo nel reinserimento delle persone incarcerate.</li>
+<li>Si prevedono perdite di entrate significative per le società di telecomunicazioni carcerarie come Aventiv e ViaPath, mentre stati come Massachusetts, Minnesota e Colorado hanno già deciso di rendere gratuite le chiamate carcerarie.</li>
+</ul>
+]]></description>
+            <link
+      >https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZFCC vota per limitare le tariffe delle telecomunicazioni nelle prigioni</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foliate: Leggi e-book con stile, naviga con facilità]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Foliate è un lettore di e-book open-source che supporta vari formati come EPUB, Mobipocket, Kindle, FB2, CBZ e PDF, con impostazioni di lettura personalizzabili.</li>
+<li>Offre funzionalità come la navigazione tramite touchpad e touchscreen, segnalibri, annotazioni e integrazione con strumenti come Wiktionary e Google Translate.</li>
+<li>Foliate supporta il testo da destra a sinistra, la scrittura verticale e i layout fissi, ed è disponibile per diverse distribuzioni Linux o tramite clonazione del codice sorgente.</li>
+</ul>
+]]></description>
+            <link>https://johnfactotum.github.io/foliate/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZFoliate: Leggi e-book con stile, naviga con facilità</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Molte compagnie aeree interrotte a causa di un'interruzione di Microsoft Azure]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Frontier Airlines ha bloccato tutti i voli per circa 35 minuti a causa di un&#39;importante interruzione di Microsoft Azure, che ha influenzato la prenotazione, il check-in e l&#39;accesso alle carte d&#39;imbarco.</li>
+<li>L&#39;interruzione, iniziata alle 17:56, ha anche interrotto i sistemi di Allegiant e Sun Country Airlines, influenzando diversi sistemi nel centro degli Stati Uniti.</li>
+<li>Frontier, che opera con oltre 100 aerei, è stata una delle almeno tre compagnie aeree colpite dalle interruzioni del servizio.</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZMolte compagnie aeree interrotte a causa di un&apos;interruzione di Microsoft Azure</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Che cosa ci vorrebbe per ricreare i Bell Labs?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>AT&amp;T, attraverso i Bell Labs, è stata fondamentale nello sviluppo dell&#39;infrastruttura telefonica americana e ha prodotto invenzioni significative come il transistor, la cella solare fotovoltaica al silicio e il sistema operativo UNIX.</li>
+<li>Il successo dei Bell Labs fu in parte dovuto al monopolio di AT&amp;T, che supportava progetti di ricerca a lungo termine, portando a numerosi riconoscimenti, tra cui 10 Premi Nobel.</li>
+<li>Lo scioglimento di AT&amp;T ha portato alla divisione e al declino dei Bell Labs, rendendo difficile ricreare un&#39;istituzione simile oggi a causa delle condizioni storiche e tecnologiche uniche che esistevano una volta.</li>
+</ul>
+]]></description>
+            <link>https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000ZChe cosa ci vorrebbe per ricreare i Bell Labs?</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ryanair – quando ogni pagina è un dark pattern]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Ryanair è nota per l&#39;uso di &quot;dark patterns&quot;, tecniche di design manipolative, per aumentare i profitti durante il processo di prenotazione.</li>
+<li>Tattiche includono il &quot;privacy zuckering,&quot; dove i clienti sono impostati di default per iscriversi a promozioni, e la &quot;misdirection,&quot; che utilizza pulsanti e popup prominenti per vendere servizi aggiuntivi.</li>
+<li>Questi design ingannevoli sono diffusi in tutto il sito web di Ryanair, rendendo essenziale per gli utenti rimanere vigili per evitare acquisti accidentali o la condivisione di più informazioni del previsto.</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000ZRyanair – quando ogni pagina è un dark pattern</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[CrowdStrike risolve a partire da "riavvia fino a 15 volte", diventa più complesso da lì in poi]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>CrowdStrike ha recentemente rilasciato un aggiornamento che ha portato i sistemi Windows a bloccarsi con una schermata blu della morte (BSOD), causando notevoli disagi.</li>
+<li>Le soluzioni variano da più riavvii a soluzioni più complesse come il ripristino dei backup o l&#39;eliminazione manuale del driver problematico, con ulteriori passaggi necessari per i sistemi che utilizzano la crittografia BitLocker.</li>
+<li>È stato ritirato l&#39;aggiornamento e il CEO di CrowdStrike si è scusato, assicurando agli utenti che sono in corso sforzi per risolvere il problema.</li>
+</ul>
+]]></description>
+            <link
+      >https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZCrowdStrike risolve a partire da &quot;riavvia fino a 15 volte&quot;, diventa più complesso da lì in poi</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sendune – designer di email HTML open-source]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>SENDUNE ha introdotto un nuovo designer di email HTML open-source mirato a semplificare la creazione di email HTML, che tradizionalmente sono difficili da scrivere e mantenere.</li>
+<li>Il designer è leggero, utilizza puro HTML ed evita dipendenze ingombranti, permettendo agli utenti di salvare l&#39;output HTML come modello per qualsiasi fornitore di servizi email.</li>
+<li>Si incoraggiano gli utenti a fare un fork del repository, apportare miglioramenti e inviare pull request, promuovendo un ambiente di sviluppo collaborativo.</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41007403</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000ZSendune – designer di email HTML open-source</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Un uomo tedesco di 60 anni probabilmente è la settima persona a essere effettivamente guarita dall'HIV]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un uomo tedesco di 60 anni è probabilmente la settima persona effettivamente guarita dall&#39;HIV dopo un trapianto di cellule staminali, che ha anche trattato la sua leucemia aggressiva.</li>
+<li>Il paziente, indicato come il &quot;prossimo paziente di Berlino&quot;, ha smesso di assumere farmaci antiretrovirali alla fine del 2018 e rimane libero da HIV e cancro quasi sei anni dopo.</li>
+<li>Ricercatori sono cautamente ottimisti, notando che questo caso suggerisce che non tutte le mutazioni del gene CCR5 sono necessarie per un trattamento efficace dell&#39;HIV, offrendo speranza per strategie di cura dell&#39;HIV più ampie.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZUn uomo tedesco di 60 anni probabilmente è la settima persona a essere effettivamente guarita dall&apos;HIV</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interruzione IT globale di massa colpisce compagnie aeree, media e banche]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Crowdstrike, una società di cybersecurity con sede in Texas fondata nel 2011, è specializzata nella sicurezza degli endpoint per proteggere le reti aziendali e i dati cloud dalle minacce informatiche.</li>
+<li>Co-fondata da George Kurtz e Dmitri Alperovitch, l&#39;azienda è stata quotata in borsa al Nasdaq nel 2019.</li>
+<li>Crowdstrike è stata fondamentale nell&#39;indagare su importanti attacchi informatici, in particolare la violazione del 2016 della rete del Comitato Nazionale Democratico degli Stati Uniti.</li>
+</ul>
+]]></description>
+            <link>https://www.bbc.co.uk/news/live/cnk4jdwp49et</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZInterruzione IT globale di massa colpisce compagnie aeree, media e banche</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doppio problema: Gaia dell'ESA colpita da micrometeoroide e tempesta solare]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il veicolo spaziale Gaia dell&#39;ESA, lanciato nel dicembre 2013 per mappare oltre un miliardo di stelle nella Via Lattea, ha recentemente affrontato sfide significative a causa di un impatto con un micrometeoroide e di una tempesta solare.</li>
+<li>Il micrometeoroide ha danneggiato la copertura protettiva di Gaia e la tempesta solare ha causato un guasto in uno dei suoi dispositivi a trasferimento di carica (CCD), portando a migliaia di rilevamenti falsi di stelle.</li>
+<li>Ingegneri dell&#39;ESA e di Airbus Defence and Space hanno regolato con successo il software di Gaia, riducendo le false rilevazioni e riportando la navicella alle operazioni di routine, ora producendo alcuni dei suoi dati di migliore qualità.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZDoppio problema: Gaia dell&apos;ESA colpita da micrometeoroide e tempesta solare</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Che cosa c'è in C-00000291*.sys?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>CrowdStrike&#39;s C-00000291*.sys file ha causato crash di sistema a causa di una formattazione non valida, influenzando il driver di CrowdStrike.</li>
+<li>Gli utenti segnalano diverse versioni del file, con alcuni che ipotizzano la crittografia con chiavi specifiche per il cliente, mentre altri li hanno analizzati senza decrittazione.</li>
+<li>Il formato dei file è proprietario per gli aggiornamenti, non sono DLL o patch, sollevando preoccupazioni sulla sicurezza e l&#39;affidabilità del processo di aggiornamento di CrowdStrike.</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41004103</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000ZChe cosa c&apos;è in C-00000291*.sys?</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il rover Curiosity della NASA scopre una sorpresa in una roccia marziana]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il rover Curiosity della NASA ha scoperto per la prima volta zolfo elementare su Marte, un traguardo significativo nell&#39;esplorazione marziana.</li>
+<li>La scoperta è stata fatta in una regione ricca di solfati, con Curiosity che ha trovato un intero campo di rocce luminose composte di zolfo puro, intrigando gli scienziati.</li>
+<li>La missione di Curiosity, che include lo studio dell&#39;antico terreno marziano alla ricerca di segni di vita microbica, continua mentre ascende il Monte Sharp, perforando il suo 41º campione di roccia per ulteriori analisi.</li>
+</ul>
+]]></description>
+            <link>https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000ZIl rover Curiosity della NASA scopre una sorpresa in una roccia marziana</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perdita di ossigeno nei laghi e negli oceani]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Le ricerche del Rensselaer Polytechnic Institute evidenziano che la perdita di ossigeno nei laghi e negli oceani rappresenta una minaccia significativa per gli ecosistemi, la società e il pianeta.</li>
+<li>A causa della deossigenazione acquatica, legata ai cambiamenti climatici, all&#39;uso del suolo e all&#39;inquinamento, si è verificato un rapido calo dell&#39;ossigeno disciolto, con laghi e bacini che hanno perso il 5,5% e il 18,6% del loro ossigeno dal 1980, e gli oceani che hanno perso circa il 2% dal 1960.</li>
+<li>Questa deossigenazione impatta la fisiologia delle specie, le reti alimentari e i servizi ecosistemici, creando &quot;zone morte&quot; e fioriture algali nocive, rendendo necessaria un&#39;azione urgente per affrontare il riscaldamento globale e il deflusso.</li>
+</ul>
+]]></description>
+            <link>https://www.sciencedaily.com/releases/2024/07/240715135713.htm</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000ZPerdita di ossigeno nei laghi e negli oceani</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mia figlia (7 anni) ha usato HTML per creare un sito web]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://naya.lol</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZMia figlia (7 anni) ha usato HTML per creare un sito web</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mistral NeMo]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Mistral AI ha rilasciato Mistral NeMo, un modello da 12 miliardi sviluppato con NVIDIA, caratterizzato da una finestra di contesto di 128k token e che eccelle nel ragionamento, nella conoscenza del mondo e nella precisione della codifica.</li>
+<li>Mistral NeMo supporta l&#39;inferenza FP8 senza perdita di prestazioni, supera modelli come Gemma 2 9B e Llama 3 8B, ed è progettato per applicazioni multilingue.</li>
+<li>Il modello utilizza un nuovo tokenizer, Tekken, e ha subito un avanzato fine-tuning per migliorare il seguimento delle istruzioni, il ragionamento, le conversazioni multi-turno e la generazione di codice; i pesi sono disponibili su HuggingFace.</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-nemo/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZMistral NeMo</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il Kindle Direct Publishing di Amazon è un incubo distopico]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il autore descrive un&#39;esperienza frustrante con Kindle Direct Publishing (KDP) di Amazon, dove il loro eBook è stato bloccato per &quot;esperienza cliente fuorviante&quot; nonostante non ci fosse alcuna prova di un libro simile.</li>
+<li>Appelli ad Amazon hanno portato a risposte automatiche e vaghe, portando infine alla chiusura dell&#39;account dell&#39;autore senza una giustificazione chiara.</li>
+<li>Anche contattare le Relazioni con i Clienti Esecutivi di Amazon non ha risolto il problema, evidenziando potenziali difetti nei processi automatizzati di revisione e appello di Amazon.</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40992654</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZIl Kindle Direct Publishing di Amazon è un incubo distopico</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Com'è Prolog nel 2024?]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Uno studente di informatica ha scoperto Prolog e la programmazione logica, imparando le basi e lavorando su un sistema di comunicazione di agenti di base utilizzando SICStus Prolog.</li>
+<li>Lo studente è interessato a specializzarsi in Prolog e ontologie, cercando approfondimenti sullo stato attuale e sulle applicazioni di Prolog nel 2024.</li>
+<li>Il sondaggio mette in evidenza il desiderio di comprendere le potenzialità e gli usi contemporanei di Prolog nell&#39;industria tecnologica.</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40994552</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZCom&apos;è Prolog nel 2024?</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[SAPwned: le vulnerabilità dell'IA di SAP espongono gli ambienti cloud e i dati privati dei clienti]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il team di ricerca Wiz ha scoperto vulnerabilità nell&#39;isolamento dei tenant nei fornitori di servizi di intelligenza artificiale, ponendo rischi significativi man mano che l&#39;infrastruttura AI diventa essenziale per le aziende.</li>
+<li>Le loro ricerche sull&#39;offerta di intelligenza artificiale di SAP, &quot;SAP AI Core&quot;, hanno rivelato vulnerabilità che permettevano l&#39;accesso non autorizzato ai dati dei clienti e alle credenziali del cloud, che sono state successivamente risolte da SAP.</li>
+<li>Le principali scoperte includono l&#39;elusione delle restrizioni di rete, l&#39;esposizione dei token AWS, l&#39;accesso non autenticato alle condivisioni AWS EFS e la completa presa di controllo del cluster, evidenziando la necessità di migliorare gli standard di isolamento e sandboxing nei servizi di intelligenza artificiale.</li>
+</ul>
+]]></description>
+            <link>https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZSAPwned: le vulnerabilità dell&apos;IA di SAP espongono gli ambienti cloud e i dati privati dei clienti</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un emulatore DECstation 3000 basato su RP2040 che può eseguire DECWindows]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il DECstation 2040 è un emulatore per il DECstation 3000, costruito sul microcontrollore RP2040, capace di eseguire DECWindows.</li>
+<li>Le caratteristiche hardware principali includono un RP2040 a 1.8v/300 MHz, 32 MB di PSRAM, 8 MB di flash SPI e supporto Ethernet RMII PHY.</li>
+<li>Il progetto è iniziato il 23 marzo 2023, ispirato dalla LinuxCard di Dmitry, e ha comportato l&#39;apprendimento dell&#39;uso dei motori PIO RP2040 e del sottosistema DMA.</li>
+</ul>
+]]></description>
+            <link>https://github.com/rscott2049/DECstation2040</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZUn emulatore DECstation 3000 basato su RP2040 che può eseguire DECWindows</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gli oggetti della nostra vita (1983)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>In 1983, Steve Jobs parlò alla Conferenza Internazionale del Design ad Aspen, sottolineando l&#39;impatto futuro dei computer sulla società e l&#39;importanza di un buon design nell&#39;elettronica di consumo.</li>
+<li>Jobs introdusse il computer Lisa, dotato di mouse e interfaccia grafica, e predisse che entro il 1986 le vendite di PC avrebbero superato quelle delle automobili, esortando i designer a creare prodotti ben progettati.</li>
+<li>Ha evidenziato l&#39;integrazione delle arti liberali nella tecnologia e la responsabilità civica di creare prodotti utili e belli, concludendo il suo intervento con una sessione di domande e risposte su come rendere i computer intuitivi e accessibili.</li>
+</ul>
+]]></description>
+            <link>https://stevejobsarchive.com/exhibits/objects-of-our-life</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZGli oggetti della nostra vita (1983)</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Collezione di schemi oscuri e design non etici]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il catalogo fornisce una raccolta completa di dark patterns, che sono pratiche di design ingannevoli utilizzate nelle interfacce utente.</li>
+<li>Questi esempi sono organizzati sistematicamente per categoria, rendendo più facile per gli utenti comprendere e identificare i diversi tipi di design manipolativi.</li>
+<li>Il materiale mira a educare e sensibilizzare riguardo alle tattiche di design non etiche, aiutando gli utenti a riconoscerle e evitarle.</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/collection/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZCollezione di schemi oscuri e design non etici</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Product Hunt per la Musica]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>TrackList è una piattaforma per scoprire e condividere nuova musica, con aggiornamenti quotidiani su nuovi brani.</li>
+<li>Oggi i brani in evidenza includono &quot;Keep Your Cool&quot; di Off Trakk e &quot;Erasing&quot; di Raf Duran.</li>
+<li>Il portale mette in evidenza anche i brani dei giorni precedenti, offrendo un flusso continuo di nuova musica da esplorare per gli utenti.</li>
+</ul>
+]]></description>
+            <link>https://tracklist.it/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZProduct Hunt per la Musica</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La fiducia degli americani nell'istruzione superiore è crollata]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Un nuovo sondaggio Gallup rivela un significativo calo della fiducia degli americani nell&#39;istruzione superiore, con un terzo che esprime &quot;poca o nessuna fiducia&quot;, rispetto al 57% nel 2015.</li>
+<li>Fattori che contribuiscono a questo declino includono agende politiche, percepita irrilevanza delle competenze insegnate, alti costi e preoccupazioni riguardo all&#39;&quot;indottrinamento&quot; liberale, in particolare tra i conservatori.</li>
+<li>Nonostante il calo generale, la fiducia nei college comunitari e nei programmi biennali è in aumento, indicando un cambiamento di percezione verso opzioni educative più accessibili e pratiche.</li>
+</ul>
+]]></description>
+            <link>https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZLa fiducia degli americani nell&apos;istruzione superiore è crollata</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GPT-4o mini: avanzando l'intelligenza economica]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZGPT-4o mini: avanzando l&apos;intelligenza economica</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strumento di Benchmarking delle Transazioni SQLite]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il confronto si concentra sul ramo sperimentale <code>BEGIN CONCURRENT</code> di SQLite rispetto ai comportamenti di transazione standard <code>DEFERRED</code> e <code>IMMEDIATE</code>.</li>
+<li>Lo scopo è valutare le differenze di prestazioni in un ambiente server, fornendo approfondimenti su potenziali miglioramenti o compromessi.</li>
+<li>Per spiegazioni dettagliate e risultati, fare riferimento al post del blog collegato nel testo originale.</li>
+</ul>
+]]></description>
+            <link>https://github.com/seddonm1/sqlite-bench</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZStrumento di Benchmarking delle Transazioni SQLite</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pixel policromatici]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>MicroLED con lunghezze d&#39;onda regolabili sono pronti a rivoluzionare la tecnologia dei display, offrendo un&#39;efficienza e una risoluzione superiori rispetto agli attuali display a cristalli liquidi e a LED organici.</li>
+<li>Q-Pixel Inc. ha sviluppato un metodo per coltivare LED a lunghezza d&#39;onda regolabile su un singolo wafer, eliminando la necessità di sub-pixel separati rossi, verdi e blu, semplificando così la produzione e riducendo i costi.</li>
+<li>Questa innovazione ha raggiunto densità di pixel da record, il che è particolarmente vantaggioso per le applicazioni in realtà virtuale (VR) e realtà aumentata (AR), indicando un potenziale spostamento verso display microLED più economici e ad alta risoluzione.</li>
+</ul>
+]]></description>
+            <link>https://compoundsemiconductor.net/article/119170/Polychromatic_pixels</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000ZPixel policromatici</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[È impossibile una parametrizzazione in forma chiusa della lunghezza dell'arco per le curve di Bézier quadratiche]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Bézier curve sono fondamentali nella grafica vettoriale, definite utilizzando punti di controllo nella base di Bernstein.</li>
+<li>Le curve di Bézier quadratiche utilizzano tre punti di controllo e la loro lunghezza d&#39;arco può essere calcolata esattamente, ma la parametrizzazione manca di una soluzione in forma chiusa, assumendo la congettura di Schanuel.</li>
+<li>Cubic Bézier curves utilizzano quattro punti di controllo e la loro lunghezza d&#39;arco deve essere calcolata numericamente poiché manca una forma chiusa.</li>
+</ul>
+]]></description>
+            <link>https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZÈ impossibile una parametrizzazione in forma chiusa della lunghezza dell&apos;arco per le curve di Bézier quadratiche</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Passeri potrebbero essere il 'canarino nella miniera di carbone' per l'avvelenamento da piombo nei bambini: studio]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Uno studio pubblicato su Environmental Sciences &amp; Technology ha scoperto che i passeri domestici possono prevedere con precisione i livelli di piombo nei bambini, in particolare nelle città minerarie australiane di Broken Hill e Mount Isa.</li>
+<li>Sparrows potrebbero servire come uno strumento economico per identificare i punti caldi di contaminazione da piombo, offrendo un&#39;alternativa pratica ai test diretti sugli esseri umani, che sono spesso costosi e complessi.</li>
+<li>Lo studio evidenzia il problema persistente dell&#39;esposizione al piombo in Australia e suggerisce che i passeri potrebbero anche indicare l&#39;esposizione ad altri metalli pesanti e a &quot;sostanze chimiche eterne&quot;.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000ZPasseri potrebbero essere il &apos;canarino nella miniera di carbone&apos; per l&apos;avvelenamento da piombo nei bambini: studio</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Importa ed Esporta Markdown in Google Docs]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Google Docs ora supporta funzionalità Markdown avanzate, inclusa la conversione di Markdown in contenuto Docs durante l&#39;incolla, la copia del contenuto Docs come Markdown, l&#39;esportazione di un documento come Markdown e l&#39;importazione di Markdown come documento.</li>
+<li>Questo aggiornamento è vantaggioso per i redattori di contenuti tecnici, facilitando la conversione tra Docs e Markdown per la collaborazione e la documentazione.</li>
+<li>Il lancio inizia il 16 luglio 2024 per i domini Rapid Release e Scheduled Release, ed è disponibile per tutti i clienti di Google Workspace, gli abbonati a Workspace Individual e gli utenti con account Google personali.</li>
+</ul>
+]]></description>
+            <link>https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000ZImporta ed Esporta Markdown in Google Docs</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Panico nel mercato del lavoro]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il mercato del lavoro tecnologico è in subbuglio a causa dell&#39;aumento dei tassi di interesse, dei finanziamenti speculativi e delle pratiche di assunzione difettose.</li>
+<li>Higher interest rates lead companies to invest in safe government-backed accounts rather than risky ventures, causing job losses in the tech sector.</li>
+<li>Il processo di assunzione spesso si concentra su test di codifica irrilevanti e colloqui comportamentali, non riuscendo a valutare la vera esperienza e le capacità dei candidati.</li>
+</ul>
+]]></description>
+            <link>https://matt.sh/panic-at-the-job-market</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000ZPanico nel mercato del lavoro</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jailbreaking RabbitOS: Scoprire i log segreti e le violazioni della GPL]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>David Buchanan ha sviluppato un &quot;tethered jailbreak&quot; per il Rabbit R1, consentendo l&#39;accesso root senza sbloccare il bootloader o alterare la memoria interna.</li>
+<li>Il Rabbit R1, che utilizza un SoC MediaTek MT6765, è stato criticato per l&#39;ampio tracciamento dei dati degli utenti e le violazioni della GPL, che sono state parzialmente affrontate in un recente aggiornamento.</li>
+<li>Buchanan ha scoperto che RabbitOS è una versione pesantemente modificata di Android 13 AOSP, che impone principalmente una modalità chiosco a singola applicazione, e ha rilasciato uno strumento per facilitare ulteriori esplorazioni del dispositivo.</li>
+</ul>
+]]></description>
+            <link>https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZJailbreaking RabbitOS: Scoprire i log segreti e le violazioni della GPL</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il più grande trucco educativo: imparare la matematica in anticipo]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Imparare la matematica in anticipo può portare a voti migliori, protezione contro un insegnamento scadente e accesso a stage, progetti di ricerca e lettere di raccomandazione forti, che sono cruciali per le opportunità universitarie e professionali.</li>
+<li>Le materie avanzate di matematica oltre il calcolo, come l&#39;Algebra Lineare e le Equazioni Differenziali, sono essenziali per molti campi quantitativi e possono accelerare gli studenti verso settori specializzati, migliorando i risultati professionali.</li>
+<li>Le ricerche indicano che l&#39;accelerazione educativa non danneggia il benessere psicologico e porta a un maggiore successo accademico e professionale, nonostante le comuni idee sbagliate e le sfide logistiche.</li>
+</ul>
+]]></description>
+            <link>https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZIl più grande trucco educativo: imparare la matematica in anticipo</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Il periodo d'oro dei truffatori: phishing potenziato dall'IA]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Le IA generative permettono ai truffatori di inviare email di phishing altamente personalizzate e convincenti, superando le barriere linguistiche e automatizzando campagne di massa.</li>
+<li>Strumenti di intelligenza artificiale come WormGPT e FraudGPT aiutano a generare email di phishing e siti web di spoofing, riducendo significativamente il tempo necessario per creare attacchi efficaci.</li>
+<li>Le strategie di difesa includono l&#39;implementazione di DMARC (Domain-based Message Authentication, Reporting &amp; Conformance), il riconoscimento dei tentativi di phishing basati sull&#39;IA, l&#39;uso di una sicurezza a più livelli e il mantenimento di una forte reputazione del mittente.</li>
+</ul>
+]]></description>
+            <link>https://www.mailgun.com/blog/email/ai-phishing/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZIl periodo d&apos;oro dei truffatori: phishing potenziato dall&apos;IA</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TinyPod – Custodia per Apple Watch con rotella di scorrimento]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Presentiamo tinyPod, un dispositivo compatto che offre funzionalità essenziali come telefono, musica, messaggistica e altro, tutto alimentato dal tuo Apple Watch.</li>
+<li>Le caratteristiche principali includono una rotella di scorrimento tattile, ricarica magnetica rapida, durata della batteria di più giorni, Apple Pay e 32GB di memoria per i media.</li>
+<li>Disponibile in due modelli: tinyPod con una rotella di scorrimento a $79,99 e tinyPod lite senza rotella di scorrimento a $29,99, compatibile con varie serie di Apple Watch, in spedizione quest&#39;estate.</li>
+</ul>
+]]></description>
+            <link>https://thetinypod.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZTinyPod – Custodia per Apple Watch con rotella di scorrimento</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Jia Tan "JiaT75": Aggiunto testo di errore all'avviso durante l'estrazione con bsdtar (2021)]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Libarchive ha unito un commit per aggiungere testo di errore agli avvertimenti quando si utilizza bsdtar, affrontando il problema #1561, ma sono state sollevate preoccupazioni riguardo alla sostituzione di safe_fprintf con fprintf non sicuro.</li>
+<li>È stata implementata una correzione per tornare a safe_fprintf e utilizzare la gestione corretta di errno, con suggerimenti per ulteriori verifiche e un CVE (Common Vulnerabilities and Exposures) per il problema.</li>
+<li>Il dibattito ha sottolineato l&#39;importanza di revisioni del codice approfondite e del mantenimento della sicurezza nei progetti open-source, e la questione è stata risolta con la conversazione bloccata.</li>
+</ul>
+]]></description>
+            <link>https://github.com/libarchive/libarchive/pull/1609</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZJia Tan &quot;JiaT75&quot;: Aggiunto testo di errore all&apos;avviso durante l&apos;estrazione con bsdtar (2021)</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[Porto Rico presenta una causa da 1 miliardo di dollari contro le compagnie di combustibili fossili]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Porto Rico ha intentato una causa da 1 miliardo di dollari contro le principali compagnie di combustibili fossili, tra cui ExxonMobil, BP, Chevron, Shell e ConocoPhillips, per aver presumibilmente fuorviato il pubblico sul cambiamento climatico e ritardato la transizione verso l&#39;energia pulita.</li>
+<li>Il contenzioso, presentato a San Juan, sostiene che queste aziende hanno violato le leggi commerciali promuovendo i combustibili fossili senza adeguati avvertimenti sui loro pericoli, cercando risarcimenti per difendersi contro disastri climatici come l&#39;uragano Maria.</li>
+<li>Questa azione legale fa parte di una tendenza più ampia di cause simili contro l&#39;industria dei combustibili fossili, evidenziando gli sforzi crescenti di responsabilità per gli impatti legati al clima.</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZPorto Rico presenta una causa da 1 miliardo di dollari contro le compagnie di combustibili fossili</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gitlab esplora la vendita]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000ZGitlab esplora la vendita</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macchine di Darwin]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Il post discute la teoria di William Calvin tratta da &quot;The Cerebral Code&quot;, che suggerisce che il cervello utilizza processi evolutivi all&#39;interno delle minicolonne per elaborare gli input sensoriali e trovare i modelli più &quot;adatti&quot;.</li>
+<li>Secondo la teoria, la struttura del cervello, in particolare le colonne e le minicolonne della neocorteccia, consente una risoluzione dei problemi efficiente e un&#39;elaborazione parallela, che potrebbero essere applicate all&#39;IA e al machine learning (ML).</li>
+<li>Il autore sta sperimentando con reti neurali per imitare questo processo evolutivo e cerca consigli su ricerche e approfondimenti accademici in questo campo, evidenziando i potenziali progressi nelle capacità di pensiero profondo dell&#39;IA.</li>
+</ul>
+]]></description>
+            <link>https://vedgie.net/writing/darwin_machines.md</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000ZMacchine di Darwin</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magic-cli – Un copilota per la tua riga di comando]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://github.com/guywaldman/magic-cli</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000ZMagic-cli – Un copilota per la tua riga di comando</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google presenta un metodo per aggirare il blocco automatico del tag manager]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Google sta introducendo una funzionalità beta per il deployment dei tag in modalità first-party, migliorando le prestazioni dei tag e la privacy dei dati utilizzando il dominio del sito web per l&#39;hosting.</li>
+<li>Il setup prevede la riserva di un percorso unico sul dominio, l&#39;instradamento del traffico attraverso servizi come Google Cloud o Cloudflare, e l&#39;aggiornamento degli script del sito web per utilizzare il nuovo percorso di misurazione.</li>
+<li>Si incoraggiano gli utenti a testare la configurazione utilizzando Tag Assistant e a fornire feedback tramite un modulo di feedback designato o un&#39;email di contatto.</li>
+</ul>
+]]></description>
+            <link>https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZGoogle presenta un metodo per aggirare il blocco automatico del tag manager</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dopo 12 anni di recensioni di ristoranti, lascio il tavolo]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>Pete Wells, dopo 12 anni come critico gastronomico del The New York Times, si dimette a causa di problemi di salute, tra cui colesterolo alto, glicemia e ipertensione.</li>
+<li>Nonostante la natura gratificante del suo ruolo, il pedaggio fisico delle frequenti visite ai ristoranti è diventato insostenibile per Wells.</li>
+<li>Wells rimarrà al The Times ma non si occuperà più delle esigenze delle recensioni settimanali, scegliendo invece di concentrarsi sulla sua salute e su uno stile di vita più equilibrato.</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZDopo 12 anni di recensioni di ristoranti, lascio il tavolo</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduzione alla Scripting Bash]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>È stata rilasciata una guida/ebook open-source sulla programmazione Bash, rivolta all&#39;automazione dei compiti per sviluppatori, amministratori di sistema e ingegneri DevOps.</li>
+<li>Il libro elettronico copre una vasta gamma di argomenti, dalla struttura di base di Bash alle tecniche di scripting avanzate, inclusi il lavoro con le API e la generazione di password.</li>
+<li>Risorse aggiuntive includono un mini corso video, formazione interattiva tramite Katacoda e contributi dell&#39;ingegnere DevOps Linux, Bobby Iliev.</li>
+</ul>
+]]></description>
+            <link>https://github.com/bobbyiliev/introduction-to-bash-scripting</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000ZIntroduzione alla Scripting Bash</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le direttive per il ritorno in ufficio non valgono i rischi per il talento]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000ZLe direttive per il ritorno in ufficio non valgono i rischi per il talento</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

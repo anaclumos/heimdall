@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[海姆达尔]]></title>
+        <description><![CDATA[海姆达尔]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>海姆达尔</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/story/zh-Hans.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <language><![CDATA[zh-Hans]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[“瑞士一小镇禁止广告牌。苏黎世、伯尔尼可能很快跟进”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“瑞士一小镇禁止广告牌。苏黎世、伯尔尼可能很快跟进”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“AI爬虫需要更加尊重”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“由于AI产品对网站的滥用抓取显著增加，导致像Read the Docs这样的网站因过度带宽使用和成本问题而面临困境。”</li>
+<li>“例如，一个爬虫在2024年5月下载了73 TB的数据，花费超过5000美元，另一个在2024年6月使用Facebook的内容下载器下载了10 TB的数据。”</li>
+<li>“尽管基于IP的速率限制，这些爬虫使用多个IP地址，使其无效；采取的措施包括阻止已识别的AI爬虫和改进CDN缓存。”</li>
+</ul>
+]]></description>
+            <link>https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“AI爬虫需要更加尊重”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“用Python编写的Deluxe Paint II克隆版”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“PyDPainter 是一个使用 PyGame 用 Python 开发的像素艺术程序，灵感来自 1985 年由 Electronic Arts 推出的 Commodore Amiga 版本的 Deluxe Paint。”</li>
+<li>“该程序旨在通过新功能来现代化经典的Deluxe Paint工具，以迎合由于复古趋势而重新兴起的像素艺术兴趣。”</li>
+<li>“最新版本的PyDPainter已在GitHub上发布，并且根据GPLv3或更高版本授权。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/mriale/PyDPainter</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“用Python编写的Deluxe Paint II克隆版”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“创业者的财务 – 第一部分，会计 (2016)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章是关于创业公司财务的两部分系列文章的一部分，第一部分侧重于会计，第二部分侧重于战略财务。”</li>
+<li>“主要议题包括建立安全的银行账户结构、管理信用卡限额，以及随着客户群的增长，从Stripe过渡到纸质合同和发票。”</li>
+<li>“作者分享了他们在Segment的经验，Segment显著增长并筹集了4400万美元，强调了创业公司创始人了解基础会计的重要性。”</li>
+</ul>
+]]></description>
+            <link>https://rein.pk/startup-finance-for-founders-part-i-accounting</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“创业者的财务 – 第一部分，会计 (2016)”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“表格数据的应用机器学习”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“《应用机器学习：表格数据》由Max Kuhn和Kjell Johnson撰写，是一本关于从表格数据中开发预测模型的实用指南，计划于2024年6月出版。”</li>
+<li>“这本书涵盖了整个预测建模过程，包括特征工程和建模后的活动，并根据CC BY-NC-SA 4.0许可，允许非商业用途和改编。”</li>
+<li>“本书面向数据分析师、统计学家和数据科学家，提供练习和计算补充材料，主要使用R的tidymodels框架，并欢迎通过GitHub进行社区贡献。”</li>
+</ul>
+]]></description>
+            <link>https://aml4td.org/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“表格数据的应用机器学习”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Bcachefs，简介/探索”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Bcachefs 是一个新的文件系统，旨在克服现有文件系统的局限性，提供独特的功能和改进。”</li>
+<li>“它支持实验性的RAID级别(0、1、5、6)和纠删码，但有些尚不建议使用。”</li>
+<li>“Bcachefs 仍在开发中，需要持续改进和社区协助以实现多设备管理和系统集成。”</li>
+</ul>
+]]></description>
+            <link>http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“Bcachefs，简介/探索”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Zulip 9.0：为分布式团队组织的聊天工具”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Zulip Server 9.0 已经发布，包含数百项更新和错误修复，提升了其在远程和混合办公中的可用性。”</li>
+<li>“主要更新包括用户界面重新设计、改进的消息撰写、术语变更、增强的搜索功能和更好的用户引导。”</li>
+<li>“新的集成、对 Ubuntu 24.04 的支持以及使用 Flutter 构建的下一代移动应用程序是其中的重要改进。”</li>
+</ul>
+]]></description>
+            <link>https://blog.zulip.com/2024/07/25/zulip-9-0-released/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“Zulip 9.0：为分布式团队组织的聊天工具”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“瑞士要求政府机构使用开源软件”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“瑞士通过了一项法律，要求政府机构使用开源软件(OSS)并以开源许可证发布新的政府代码，该法律被称为《政府任务履行电子手段使用联邦法》(EMBAG)。”</li>
+<li>“该倡议旨在通过公开获取非个人、非安全敏感的政府数据来提高透明度、安全性和效率。”</li>
+<li>“瑞士的举措与类似的欧洲倡议保持一致，并可能进一步激发欧洲和美国对开源软件的采用。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“瑞士要求政府机构使用开源软件”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“美国国防部 – 识别敏捷废话 [pdf] (2018)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“美国国防部 – 识别敏捷废话 [pdf] (2018)”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“英特尔第13/14代CPU崩溃无解——损坏是永久性的”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“由于电压升高和制造缺陷，英特尔第13代和第14代CPU存在崩溃问题，如果损坏已经发生，则无法修复。”</li>
+<li>“预计在八月中旬会有一个补丁来防止未来的问题，但受损的CPU需要更换；英特尔不会召回或延长保修期。”</li>
+<li>“受影响的用户应更新他们的BIOS并联系英特尔客户支持，因为该问题可能影响任何消耗65W或更多功率的第13代或第14代桌面处理器。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“英特尔第13/14代CPU崩溃无解——损坏是永久性的”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Stripe收购Lemon Squeezy”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Stripe已收购Lemon Squeezy，这个平台于2021年推出，旨在简化全球数字产品的销售。”</li>
+<li>“Lemon Squeezy在推出后的九个月内实现了超过100万美元的年度经常性收入(ARR)。”</li>
+<li>“此次收购旨在通过整合Stripe的支付功能来提升Lemon Squeezy的服务，承诺提供更好的客户体验和可靠性。”</li>
+</ul>
+]]></description>
+            <link>https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“Stripe收购Lemon Squeezy”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“法国高速铁路交通因奥运会仪式上的‘恶意行为’而中断”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“由于“恶意行为”如纵火，法国的高速铁路网络，包括TGV，在巴黎奥运会前夕面临重大中断。”</li>
+<li>“袭击破坏了对列车安全至关重要的光纤电缆，影响了80万名乘客，并导致大范围的取消和延误，预计维修工作将持续整个周末。”</li>
+<li>“法国官员谴责这些袭击为‘犯罪行为’，并展开调查，可能面临最高20年的监禁和巨额罚款。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“法国高速铁路交通因奥运会仪式上的‘恶意行为’而中断”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“巴黎奥运会前法国铁路网络遭遇‘恶意行为’”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“巴黎奥运会前法国铁路网络遭遇‘恶意行为’”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“所有获得资助的初创公司数据库”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z“所有获得资助的初创公司数据库”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Node.js 增加了对 TypeScript 的实验性支持”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Node.js 引入了一项新功能，可以使用 <code>--experimental-strip-types</code> 标志执行 TypeScript 文件，该标志在不进行类型检查的情况下将 TypeScript 转译为 JavaScript。”</li>
+<li>“此功能利用 <code>@swc/wasm-typescript</code> 进行高效且简单的转译，旨在减少运行 TypeScript 文件时对外部依赖的需求。”</li>
+<li>“该功能是实验性的，并在每夜版本中可用，目前正在讨论其他增强功能，例如支持无扩展名的导入。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/nodejs/node/pull/53725</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“Node.js 增加了对 TypeScript 的实验性支持”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“每家公司都应该由其员工拥有”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“中央州制造公司是员工持股的典范，由于股票持有，其蓝领工人中有47人成为百万富翁。”</li>
+<li>“员工持股计划(ESOPs)在美国正在扩展，有6,533家公司和1,470万名员工受益于这种模式。”</li>
+<li>“员工持股计划(ESOPs)提供税收优惠，提升公司业绩，并通过培养员工的主人翁意识来提高员工保留率。”</li>
+</ul>
+]]></description>
+            <link>https://www.elysian.press/p/employee-ownership</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“每家公司都应该由其员工拥有”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“调查腐败的Winamp皮肤”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“在浏览Winamp皮肤博物馆收藏时，作者发现了一些损坏的皮肤，并决定进行调查，结果发现了一些令人惊讶的发现。”</li>
+<li>“调查揭示了各种隐藏物品，包括加密文件、私人信件、电子邮件密码、切特·贝克的秘密传记、神秘的音频文件以及一个名为worm.exe的游戏可执行文件。”</li>
+<li>“作者在其他皮肤中发现了127个皮肤，其中54个是博物馆的新添加物，展示了一段由对Winamp和发现物品的热爱驱动的迷人而奇特的冒险。”</li>
+</ul>
+]]></description>
+            <link>https://jordaneldredge.com/notes/corrupted-skins/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“调查腐败的Winamp皮肤”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“AI以银牌水平解决国际数学奥林匹克竞赛问题”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“研究AI系统AlphaProof和AlphaGeometry 2在2024年国际数学奥林匹克竞赛(IMO)中解决了六个问题中的四个，达到了银牌标准。”</li>
+<li>“AlphaProof使用强化学习和形式语言Lean，解决了两个代数问题和一个数论问题，其中包括竞赛中最难的问题。”</li>
+<li>“AlphaGeometry 2，一个神经符号混合系统，在19秒内解决了一个几何问题，为综合AI系统的42分中的28分做出了贡献。”</li>
+</ul>
+]]></description>
+            <link>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“AI以银牌水平解决国际数学奥林匹克竞赛问题”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“苹果地图网页版测试版上线”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“苹果地图现在在网络上提供公开测试版，用户可以在全球范围内通过浏览器访问地图。”</li>
+<li>“功能包括驾车和步行路线、地点照片、营业时间、评分、评论、订餐和精选指南，环视功能即将推出。”</li>
+<li>“目前支持Mac和iPad上的Safari和Chrome，以及Windows PC上的Chrome和Edge，未来将增加更多语言、浏览器和平台。”</li>
+</ul>
+]]></description>
+            <link>https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“苹果地图网页版测试版上线”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“龙与地下城教会了我如何编写替代文本”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“玩《龙与地下城》(D&amp;D)帮助作者培养了宝贵的技能，包括为图像编写有效的替代文本。”</li>
+<li>“D&amp;D中的‘心灵剧场’方法依赖于口头讲述，这教会了作者优先考虑清晰和引人入胜的描述。”</li>
+<li>“编写替代文本类似于D&amp;D叙述，需要首先强调重要细节，并添加上下文和情感，Web无障碍倡议和BBC GEL等资源有助于技能提升。”</li>
+</ul>
+]]></description>
+            <link>https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“龙与地下城教会了我如何编写替代文本”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“根据OVH的先例，CrowdStrike将在法国承担损害赔偿责任。”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“CrowdStrike 可能在法国面临损害赔偿责任，这与 OVH 的先例相似，当时一场火灾导致对 OVH 的成功诉讼。”</li>
+<li>“最近，CrowdStrike的一次更新导致850万台计算机无法使用，造成超过54亿美元的损失，并扰乱了关键行业。”</li>
+<li>“该事件突显了由于缺乏分阶段推出和测试而导致的疏忽，尽管客户提出了要求，这可能会导致大量损害赔偿和合同终止。”</li>
+</ul>
+]]></description>
+            <link
+      >https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z“根据OVH的先例，CrowdStrike将在法国承担损害赔偿责任。”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“欧盟议会议员被以色列Candiru间谍软件攻击”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“欧洲议会议员丹尼尔·弗罗因德因其对匈牙利的批评而成为间谍软件攻击的目标，这次攻击很可能涉及以色列公司Candiru。”</li>
+<li>“匈牙利与波兰、希腊、塞浦路斯和西班牙一样，有非法监视其公民的历史，这引发了人们对这些国家隐私和监控问题的担忧。”</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/moo9000/status/1816352054425829420</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“欧盟议会议员被以色列Candiru间谍软件攻击”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“一个包含一万亿个标记的多模态数据集”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“ MINT-1T 是一个开源数据集，包含一万亿个文本标记和34亿张图像，相较于现有数据集增加了约10倍。”</li>
+<li>“数据集包括新的来源，如PDF和ArXiv论文，并且所有子集都已发布，包括来自各种CommonCrawl快照的HTML和PDF数据。”</li>
+<li>“2024年7月24日，MINT-1T数据集正式开源，并于2024年6月17日发布了技术报告。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/mlfoundations/MINT-1T</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“一个包含一万亿个标记的多模态数据集”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“逆向工程人人可学”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章介绍了一套全面的逆向工程课程，涵盖x86、x64、ARM-32和ARM-64架构，面向初学者。”</li>
+<li>“课程包括关于汇编语言、调试、黑客技术和基本计算机架构概念的详细模块。”</li>
+<li>“该教程集可下载为PDF或MOBI格式，便于离线学习。”</li>
+</ul>
+]]></description>
+            <link>https://0xinfection.github.io/reversing/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“逆向工程人人可学”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“X 将水枪表情符号重新设计为枪支”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“X(前称Twitter)已重新设计其🔫水枪表情符号，使其显示为一把枪，逆转了2016-2018年间改为水枪的变化。”</li>
+<li>“此次更新于2024年7月18日开始推送，目前可通过X的网页客户端获取，并计划很快更新移动端渲染。”</li>
+<li>“这一变化标志着自去年七月以来，X的Twemoji表情集首次更新，偏离了最初由苹果在2016年引领的跨供应商设计转变。”</li>
+</ul>
+]]></description>
+            <link>https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“X 将水枪表情符号重新设计为枪支”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我最喜欢的算法：线性时间中位数查找(2018)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章讨论了中位数的中位数算法，该算法在确定性线性时间内找到中位数，使其在理论上是高效的。”</li>
+<li>“它将此与Quickselect算法进行对比，后者通常能在平均线性时间内找到中位数，但在最坏情况下可能不太可靠。”</li>
+<li>“中位数的中位数算法确保了快速选择算法中良好的枢轴选择，提升了其效率，尽管在实际操作中它通常比随机枢轴选择等简单方法更慢。”</li>
+</ul>
+]]></description>
+            <link>https://rcoh.me/posts/linear-time-median-finding/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“我最喜欢的算法：线性时间中位数查找(2018)”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“OpenAI宣布SearchGPT”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“SearchGPT 是一种新搜索功能的原型，使用 AI 模型提供快速答案并附有明确来源。”</li>
+<li>“该服务提供来自相关来源的实时信息、可视化结果，并允许进行自然的对话式后续提问。”</li>
+<li>“用户可以注册候补名单以试用SearchGPT，反馈将用于将最佳功能整合到ChatGPT中。”</li>
+</ul>
+]]></description>
+            <link>https://chatgpt.com/search</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“OpenAI宣布SearchGPT”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“生成数独以娱乐而非盈利”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“汤姆·尼克开发了一款免费、开源的数独应用程序sudoku.tn1ck.com，最初是为他的祖母设计的，这促使他探索数独生成和难度评级。”</li>
+<li>“各种算法，包括暴力破解、最小剩余值和弧一致性(AC3)，被用来解决和生成数独，其难度通过求解器迭代次数来衡量。”</li>
+<li>“该应用程序通过填充随机数字、调整已填充的单元格，并在未达到所需难度时重新开始，生成特定难度级别的数独，确保用户体验既有趣又具有挑战性。”</li>
+</ul>
+]]></description>
+            <link>https://tn1ck.com/blog/how-to-generate-sudokus</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“生成数独以娱乐而非盈利”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Google 搜索：Roboto Mono”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Roboto Mono 是 Roboto 字体家族中的一种等宽字体，经过优化以提高屏幕可读性，并可免费下载。”</li>
+<li>“该字体系列提供从100到700的多种字重，包括斜体变体，并且可以通过NPM自托管。”</li>
+<li>“Roboto Mono 可以通过 Google Fonts、Adobe Fonts 和各种免费字体库广泛获取。”</li>
+</ul>
+]]></description>
+            <link>https://www.google.com/search?q=roboto+mono+font</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z“Google 搜索：Roboto Mono”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“黄石国家公园的热液爆炸”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“森林服务正在努力关闭迈克·哈里斯步道系统的部分区域。”</li>
+<li>“由于一名男子在沟槽中死亡，MD苗圃被罚款超过28,000美元。”</li>
+<li>“黄石公园饼干盆地发生水热爆炸，导致游客逃离。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“黄石国家公园的热液爆炸”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“足够大 – Mistral AI”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Mistral AI发布了Mistral Large 2模型，具有128k上下文窗口，支持超过80种编程语言，并针对单节点推理进行了优化，拥有1230亿参数。”</li>
+<li>“该模型在MMLU上达到了84.0%的准确率，超越了之前的模型和竞争对手如GPT-4o和Llama 3 405B，并具备增强的能力以减少‘幻觉’并改善推理。”</li>
+<li>“米斯特拉尔大2号在不同的许可证下可用于非商业和商业用途，其权重托管在HuggingFace上，并扩展了云服务合作伙伴关系，包括Google Cloud Platform和Azure AI Studio。”</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-large-2407/</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“足够大 – Mistral AI”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“将我的糖尿病治疗掌握在自己手中”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个1型糖尿病患者开发了一个带有OxyPlot图表的Windows Forms应用程序，以更好地可视化和管理胰岛素和碳水化合物的摄入。”</li>
+<li>“该个人使用GeneticSharp(一种遗传算法库)来优化胰岛素剂量，成功稳定了血糖水平。”</li>
+<li>“这种方法在个性化糖尿病管理方面显示出希望，尽管还需要进一步的模拟和对长效胰岛素的调整。”</li>
+</ul>
+]]></description>
+            <link>https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“将我的糖尿病治疗掌握在自己手中”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“由于人工智能协议，现在谷歌是唯一能在Reddit上使用的搜索引擎。”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“谷歌现在是唯一一个可以显示最近Reddit结果的搜索引擎，使Reddit内容成为谷歌的独家内容。”</li>
+<li>“其他搜索引擎如Bing、DuckDuckGo和Qwant无法显示最近的Reddit结果，其中DuckDuckGo仅提供有限的链接且没有描述。”</li>
+<li>“这种情况突显了谷歌在搜索领域的近乎垄断地位，影响了竞争并引发了对搜索质量的批评，同时有传言称谷歌通过一笔数百万美元的交易获取Reddit的数据用于AI训练。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z“由于人工智能协议，现在谷歌是唯一能在Reddit上使用的搜索引擎。”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“您可以选择不进行机场面部扫描”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“旅客可以通过站在摄像头外、出示身份证并声明‘我选择退出生物识别’来选择不使用机场面部识别。”</li>
+<li>“算法正义联盟的‘自由飞行者’活动旨在提高人们对这一权利的认识，特别是在美国运输安全管理局计划将面部识别技术扩展到所有美国机场之际。”</li>
+<li>“面部识别带来了数据泄露、误识别、人工智能偏见和监控常态化等风险，并且在生物识别数据的保留和使用方面存在重大隐私问题。”</li>
+</ul>
+]]></description>
+            <link>https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“您可以选择不进行机场面部扫描”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“CrowdStrike提供10美元的道歉礼品卡，以表示对停机的歉意”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“CrowdStrike，一家网络安全公司，于7月19日因一次故障更新导致全球范围的宕机，影响了数百万台计算机，并引发了重大干扰，如机场延误和手术中断。”</li>
+<li>“作为道歉，公司向其合作伙伴提供了10美元的Uber Eats礼品卡，但一些接收者报告称这些代金券无效。”</li>
+<li>“CrowdStrike的首席执行官和首席安全官发表了公开道歉，承认事件的严重性，并承诺透明和未来的预防措施。”</li>
+</ul>
+]]></description>
+            <link
+      >https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z“CrowdStrike提供10美元的道歉礼品卡，以表示对停机的歉意”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“对于美国缉毒局(DEA)和运输安全管理局(TSA)来说，“同意”是什么样子的”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“美国缉毒局和运输安全管理局一直在合作，通过使用线人和运输安全管理局的检查站来识别携带大量现金的旅客，并声称他们‘同意’接受搜查，从而没收旅客的钱款。”</li>
+<li>“这种做法在美国海关和边境保护局的帮助下延伸到美铁列车，涉及‘民事没收’，即在没有搜查令的情况下没收金钱，通常无视乘客拒绝同意的意愿。”</li>
+<li>“正在进行的一项集体诉讼强调了这些非法搜查的频率，原告认为记录的数量表明这是一个系统性问题，尽管美国缉毒局和运输安全管理局拒绝披露这些记录。”</li>
+</ul>
+]]></description>
+            <link>https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z“对于美国缉毒局(DEA)和运输安全管理局(TSA)来说，“同意”是什么样子的”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Llama 3.1 用C语言”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个新的基于C语言的实现已发布，用于在Llama 2和Llama 3/3.1 Transformer模型上进行推理，具有int8量化的前向传递功能。”</li>
+<li>“该代码支持多种环境，例如 Linux 内核、Unikraft Unikernel 和通过 Zip Archive 的嵌入式模型。”</li>
+<li>“用户可以通过命令行参数自定义温度、top-p 采样和模型版本等参数，从而增强不同使用场景的灵活性。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/trholding/llama2.c/blob/master/runq.c</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“Llama 3.1 用C语言”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Emacs的起源于1976年”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“EMACS，一个文本编辑器，于1976年在麻省理工学院人工智能实验室开发，到那年年底，理查德·斯托曼(RMS)成为主要开发者。”</li>
+<li>“RMS命名了“E”和“EMACS”，并在将TECO宏转变为强大的编辑器方面发挥了关键作用，最初得到了Guy Steele、David Moon和John Kulp的帮助。”</li>
+<li>“早期用户社区，包括Moon，在键绑定和命令名称方面做出了贡献，这突显了EMACS开发的协作性和社区驱动的性质。”</li>
+</ul>
+]]></description>
+            <link>https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“Emacs的起源于1976年”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Scrapscript：一种功能性、内容可寻址的编程语言”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Scrapscript是一种编程语言，其解释器可用于Python 3.8+和Cosmopolitan，并且支持Docker进行容器化执行。”</li>
+<li>“Scrapscript 的语法即将更新，用户可以参考 <code>scrapscript.py</code> 及其测试来了解该语言。”</li>
+<li>“一个实验性的编译器现已可用，能够生成ELF、Cosmopolitan和Wasm格式的输出，并为每种格式提供了特定的命令。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/tekknolagi/scrapscript</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“Scrapscript：一种功能性、内容可寻址的编程语言”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“你得到了一个无效结果。会有人发表它吗？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“研究人员在发表无显著变量关系的无效结果时面临挑战，这导致了对正面发现的偏向。”</li>
+<li>“这种发表偏倚扭曲了科学记录并浪费资源，正如进化生物学家娜塔莉·皮拉库塔在冰岛温泉中对鱼类偏好的研究中所见到的那样，这项研究没有得出结论。”</li>
+<li>“应对这一问题的努力包括期刊鼓励预注册报告，但缓慢的采用速度和认为无效结果表明研究有缺陷的看法仍然是重大障碍。”</li>
+</ul>
+]]></description>
+            <link>https://www.nature.com/articles/d41586-024-02383-9</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“你得到了一个无效结果。会有人发表它吗？”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我们制作了 glhf.chat——几乎可以运行任何开源的LLM，包括405B”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个新网站，<a href="https://glhf.chat/%EF%BC%8C%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E5%9C%A8%E5%AE%9A%E4%BB%B7%E7%A1%AE%E5%AE%9A%E9%98%B6%E6%AE%B5%E5%85%8D%E8%B4%B9%E5%9C%A8%E8%87%AA%E5%8A%A8%E6%89%A9%E5%B1%95%E7%9A%84GPU%E9%9B%86%E7%BE%A4%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%87%A0%E4%B9%8E%E4%BB%BB%E4%BD%95%E5%BC%80%E6%BA%90%E7%9A%84LLM(%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)%E3%80%82%E2%80%9D">https://glhf.chat/，允许用户在定价确定阶段免费在自动扩展的GPU集群上运行几乎任何开源的LLM(大型语言模型)。”</a></li>
+<li>“该服务支持与开源vLLM项目兼容的任何模型，提供高达约640GB的VRAM，并通过多租户运行模型，旨在比其他GPU服务更具成本效益。”</li>
+<li>“该平台在Llama-3.1-405B发布日上线，支持像Llama-3-70b微调这样的高效模型，并计划改进对更大模型的支持以及解决当前的限制。”</li>
+</ul>
+]]></description>
+            <link>https://glhf.chat/landing/home</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z“我们制作了 glhf.chat——几乎可以运行任何开源的LLM，包括405B”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Pnut：一个你可以信赖的 C 到 POSIX shell 编译器”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Pnut 是一个 C 到 POSIX shell 的转译器，它将 C 程序转换成人类可读的 shell 脚本，确保在符合 POSIX 标准的 shell 中具有高度的可移植性。”</li>
+<li>“它允许开发人员使用C语言编写脚本，而无需学习一种新语言，并且输出易于检查、调试和维护。”</li>
+<li>“Pnut 运行在所有主要操作系统上，包括 Linux、macOS 和 Windows，并且根据 BSD-2 条款许可证授权。”</li>
+</ul>
+]]></description>
+            <link>https://pnut.sh</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“Pnut：一个你可以信赖的 C 到 POSIX shell 编译器”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“MPPP——第一个‘设计师药物’灾难(2023)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“MPPP(1-甲基-4-苯基-4-丙酰氧基哌啶)是一种首次于1947年报道的设计师药物，最初被用作止痛药，但发现其效果并不优于现有的选择。”</li>
+<li>“1976年，巴里·基德斯顿合成了MPPP，并因一种杂质MPTP而出现了类似帕金森病的症状，这种杂质选择性地杀死了对运动控制至关重要的细胞。”</li>
+<li>“1982年，由于MPTP污染的合成海洛因引发的帕金森症状爆发，带来了对帕金森病的重要科学见解，并突显了业余药物合成的危险性。”</li>
+</ul>
+]]></description>
+            <link>https://www.chm.bris.ac.uk/motm/mppp/mppph.htm</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“MPPP——第一个‘设计师药物’灾难(2023)”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“微鼠”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“微鼠是一项机器人竞赛，小型自主机器人在16×16的迷宫中解谜。该竞赛起源于20世纪70年代末，在包括英国、美国和日本在内的多个国家广受欢迎。”</li>
+<li>“机器人使用贝尔曼洪水填充、迪杰斯特拉和A*等算法进行导航，最高速度超过每秒三米；目前的世界纪录是黄明杰创下的3.921秒。”</li>
+<li>“最近的进展包括使用风扇增加下压力，使加速度超过2.5g，还有一种称为半尺寸微鼠的变体使用32×32迷宫，尺寸更小。”</li>
+</ul>
+]]></description>
+            <link>https://en.wikipedia.org/wiki/Micromouse</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z“微鼠”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“开源人工智能是前进的道路”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“开源的 Linux 因其可修改性、经济性和高级功能，成为云计算和移动设备的行业标准，这与 AI 的预期发展轨迹相似。”</li>
+<li>“Meta发布了Llama 3.1 405B，这是第一个前沿级开源AI模型，同时还改进了70B和8B模型，强调了更好的成本/性能和适合微调。”</li>
+<li>“Meta与亚马逊、Databricks和NVIDIA等公司合作，支持开发者，旨在使开源AI成为行业标准，促进透明性、安全性和经济增长。”</li>
+</ul>
+]]></description>
+            <link>https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“开源人工智能是前进的道路”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“可爱 – 钥匙链大小的任天堂Wii”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://bitbuilt.net/forums/index.php?threads/kawaii.6474/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“可爱 – 钥匙链大小的任天堂Wii”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Timeshift：Linux系统还原工具”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Timeshift for Linux 是一个系统备份工具，类似于 Windows 系统还原和 Mac OS 时间机器，专注于系统文件和设置。”</li>
+<li>“它支持两种模式：RSYNC(使用rsync和硬链接)和BTRFS(使用BTRFS文件系统功能)，后者需要特定的子卷布局。”</li>
+<li>“由Tony George开发，现在是Linux Mint的Xapp项目的一部分，Timeshift提供了多级快照、跨发行版恢复和恢复后钩子等功能，并且为各种Linux发行版提供了安装说明。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/linuxmint/timeshift</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“Timeshift：Linux系统还原工具”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“2024年7月关于英特尔第13/14代桌面CPU不稳定报告的更新”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“英特尔已发现其第13代和第14代台式机处理器因微代码算法导致的操作电压升高而出现不稳定现象。”</li>
+<li>“预计将在八月中旬发布一个微代码补丁来解决这个问题，英特尔建议受影响的客户联系支持部门以获取帮助。”</li>
+<li>“用户表达了对潜在的长期CPU损坏的担忧，提到了需要进行BIOS更新，并报告了在寻求指导以管理不稳定性直到补丁发布期间遇到的RMA(退货授权)问题。”</li>
+</ul>
+]]></description>
+            <link
+      >https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z“2024年7月关于英特尔第13/14代桌面CPU不稳定报告的更新”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Google 日历的数据库设计：教程”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Alexey Makhotkin 的教程提供了一个全面的指南，讲解如何为 Google 日历克隆设计数据库表，遵循即将出版的《使用最小建模进行数据库设计》一书中的方法。”</li>
+<li>“它广泛涵盖了逻辑模型，详细说明了如何处理基本的全天事件、基于时间的事件和重复事件，然后过渡到创建物理SQL表。”</li>
+<li>“本教程面向对数据库有一般了解的读者，帮助他们从概念性想法转向完整的数据库表定义，并包括实施设计的实际步骤。”</li>
+</ul>
+]]></description>
+            <link>https://kb.databasedesignbook.com/posts/google-calendar/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“Google 日历的数据库设计：教程”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“ASCII表的优雅”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“ASCII表于1963年标准化，为128个可能的7位二进制代码中的100个分配了含义，并且在今天仍然具有相关性，特别是因为UTF-8编码向后兼容。”</li>
+<li>“该表包括控制代码、可打印字符，并遵循特定的二进制模式，其中空格字符是用于排序的第一个可打印字符。”</li>
+<li>“ASCII 的设计既合乎逻辑又美观，使其易于人类学习和理解，反映了其历史意义和精妙的逻辑。”</li>
+</ul>
+]]></description>
+            <link>https://danq.me/2024/07/21/ascii/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“ASCII表的优雅”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“有可能在不在FAANG工作的情况下获得FAANG的薪水吗？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“FAANG(Facebook、Amazon、Apple、Netflix、Google)公司与非FAANG公司之间的薪资差距很大，FAANG工程师的薪酬待遇显著更高。”</li>
+<li>“在一家典型的初创公司，一名高级工程师的基本工资可能是25万美元，加上10-20%的奖金，而在FAANG公司，一名高级工程师可能会获得类似的基本工资，加上四年内价值100万美元的股票。”</li>
+<li>“这篇文章质疑是否在FAANG和大银行/高频交易(HFT)公司之外的个人能赚取相当的金额，并试图确定他们是谁以及他们的角色。”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41042123</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“有可能在不在FAANG工作的情况下获得FAANG的薪水吗？”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“骆驼 3.1”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Llama 3.1 是一个开源的 AI 模型，有三个版本：8B、70B 和 405B，以满足不同的性能和成本需求。”</li>
+<li>“它支持高级用例，包括编码助手、多语言代理和复杂推理，具备实时和批量推理、微调和合成数据生成的能力。”</li>
+<li>“该模型已在超过150个数据集上进行了评估，显示出在通用、代码、数学、推理、工具使用和多语言基准测试中的高性能。”</li>
+</ul>
+]]></description>
+            <link>https://llama.meta.com/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“骆驼 3.1”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“纽扣窃贼”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Button Stealer 是一个 Chrome 扩展程序，可以自动删除您访问的每个网站上的按钮。”</li>
+<li>“这个扩展程序旨在提供乐趣，并且免费使用，没有实际用途。”</li>
+<li>“它通过在用户设备上本地运行来确保用户数据隐私。”</li>
+</ul>
+]]></description>
+            <link>https://anatolyzenkov.com/stolen-buttons/button-stealer</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“纽扣窃贼”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“关于：现实生活中的人知道你有博客吗？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“作者讨论了尽管现实生活中的人们漠不关心，但他仍然坚持写博客近二十年的个人意义。”</li>
+<li>“博客作为一种自我表达和自由的形式，与社交媒体和大科技公司的压力形成对比。”</li>
+<li>“读者的回应突显了各种观点，包括博客对个人清晰度的好处、对人工智能剥削的担忧以及鼓励在没有分析的情况下写作。”</li>
+</ul>
+]]></description>
+            <link>https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“关于：现实生活中的人知道你有博客吗？”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Wiz放弃了与谷歌的230亿美元交易”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Wiz 已决定放弃与谷歌的 230 亿美元收购交易，并将改为进行首次公开募股(IPO)，正如首席执行官 Assaf Rappaport 所宣布的那样。”</li>
+<li>“该决定受到反垄断和投资者担忧的影响，Wiz的目标是实现每年10亿美元的经常性收入。”</li>
+<li>“成立于2020年的Wiz迅速发展，去年实现了3.5亿美元的年度经常性收入，并提供云安全产品。”</li>
+</ul>
+]]></description>
+            <link>https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“Wiz放弃了与谷歌的230亿美元交易”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“终止OCSP服务的意图”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Let’s Encrypt 因隐私风险和资源效率问题，将停止支持在线证书状态协议(OCSP)，转而支持证书吊销列表(CRLs)。”</li>
+<li>“此更改不会影响网站或访问者，但可能会影响某些非浏览器软件；建议用户确保其软件在没有OCSP URL的情况下正常运行。”</li>
+<li>“CA/浏览器论坛的决定使OCSP对公开信任的证书颁发机构(CAs)来说是可选的，微软是唯一的例外；一旦微软也将其设为可选，将宣布关闭OCSP服务的时间表。”</li>
+</ul>
+]]></description>
+            <link>https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“终止OCSP服务的意图”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Linux音频栈揭秘(及更多)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章全面概述了Linux音频栈，解释了声音基础知识、人类声音感知和数字音频处理。”</li>
+<li>“Linux音频栈的关键组件包括用于低级硬件控制的ALSA、用于低延迟实时音频的JACK和用于高级音频管理的PulseAudio，而PipeWire则作为一个统一的解决方案正在兴起。”</li>
+<li>“PipeWire 被强调为一个多功能的选项，它集成了 JACK 和 PulseAudio 的功能，可能在未来的 Linux 发行版中取代它们。”</li>
+</ul>
+]]></description>
+            <link>https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“Linux音频栈揭秘(及更多)”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“美国公布核弹头数量；恢复核透明度”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“美国科学家联合会(FAS)赞扬美国解密其核弹头数量，增强了核透明度。”</li>
+<li>“截至2023年9月，美国拥有3,748枚核弹头，去年仅拆除69枚，为1994年以来的最低数量。”</li>
+<li>“拜登政府的披露恢复了特朗普政府暂停的透明度，FAS鼓励其他核国家采取类似的透明措施，以防止不信任和错误信息。”</li>
+</ul>
+]]></description>
+            <link
+      >https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“美国公布核弹头数量；恢复核透明度”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“C#中的Lisp”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Sharpl 是一个用 C# 编写的自定义 Lisp 解释器，代码量约为 4,000 行且没有外部依赖，因此易于嵌入。”</li>
+<li>“主要特性包括对、数组、映射、方法组合、可变参数、统一的迭代器协议和定点小数类型等。”</li>
+<li>“它支持词法和动态绑定，尾调用优化以防止堆栈溢出，并提供带有行号的详细错误报告。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/codr7/sharpl</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z“C#中的Lisp”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Jellyfin：我们真的很好”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Jellyfin的预算超过24,000美元，涵盖了40个月的开支，并且正在请求用户将捐款转向他们使用的客户端的作者。”</li>
+<li>“此请求符合Jellyfin的‘无付费开发’政策，因为捐款是自愿的，并且如果资金减少到12个月的运行时间，项目将重新评估。”</li>
+<li>“社区成员反应积极，计划支持客户作者，并询问关于特定客户支持(如WebOS)的情况。”</li>
+</ul>
+]]></description>
+            <link>https://forum.jellyfin.org/t-we-re-good-seriously</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“Jellyfin：我们真的很好”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“针”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Pin 类型和固定的概念是 Rust 异步生态系统中至关重要但常常被误解的组成部分。”</li>
+<li>“引入 Pin 是为了支持 async Rust 中的自引用类型，确保对象在包含自引用后不会移动，不像 Mojo，它本质上处理对象身份。”</li>
+<li>“尽管它是必要的，但由于缺乏语法糖和支持，Pin 给用户带来了显著的复杂性，导致了诸如重新借用、固定投影和与 Drop 特性交互等问题。”</li>
+</ul>
+]]></description>
+            <link>https://without.boats/blog/pin/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“针”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Jiff：Rust 的日期时间库”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Jiff 是一个新的 Rust 日期时间库，专注于易用性和性能，灵感来自 JavaScript 的 Temporal 提案。”</li>
+<li>“它提供了高级日期时间原语、无缝的时区数据库集成、支持夏令时的算术运算、格式化、解析和可选的Serde支持等功能。”</li>
+<li>“Jiff 采用 MIT 或 UNLICENSE 双重许可，支持 Unix 和 Windows，且需要 Rust 1.70.0 或更新版本。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/BurntSushi/jiff</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“Jiff：Rust 的日期时间库”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“没有更多的蓝色星期五”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“7月19日，由于内核驱动程序更新导致的重大故障引发了全球Windows系统崩溃，突显了更安全更新机制的必要性。”</li>
+<li>“eBPF(扩展伯克利数据包过滤器)，已经在 Linux 中使用，是一种安全的内核执行环境，可以防止此类崩溃，并且很快将在 Windows 上得到支持。”</li>
+<li>“eBPF 程序经过安全检查和沙箱处理，提供了增强的安全性和更低的资源使用率等好处，已被思科、谷歌和 Meta 等公司用于安全性和可观察性。”</li>
+</ul>
+]]></description>
+            <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“没有更多的蓝色星期五”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“解析，不要验证 (2019)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章强调了“解析，不要验证”的原则，提倡通过解析数据来在类型系统中保留信息，而不是通过验证丢弃信息。”</li>
+<li>“它解释了在像 Haskell 这样的语言中，类型驱动设计如何通过加强参数类型将部分函数转化为全函数，并以 <code>NonEmpty</code> 列表为例。”</li>
+<li>“实用建议包括使用精确的数据结构、重构以将证明负担向上推，以及避免非规范化的数据表示，以提高程序的可靠性和安全性。”</li>
+</ul>
+]]></description>
+            <link>https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“解析，不要验证 (2019)”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“当ChatGPT进行总结时，它并没有真正进行总结。”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“作者一直在探索和讨论ChatGPT及其他生成式人工智能的基础，旨在提供对抗当前炒作的现实观点。”</li>
+<li>“一个关键的见解是，ChatGPT并不真正总结内容，而只是缩短它，通常会遗漏重要的细节和建议，这一点在与人类生成的50页论文摘要的比较中得到了证明。”</li>
+<li>“这种限制的产生是因为总结需要理解，而ChatGPT缺乏这种能力，这导致人们对LLM(大型语言模型)在实际商业应用中的可靠性产生怀疑。”</li>
+</ul>
+]]></description>
+            <link>https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“当ChatGPT进行总结时，它并没有真正进行总结。”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“瑞安航空在美国法院裁决中赢得了针对Booking.com的屏幕抓取案件”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“美国法院裁定，Booking.com 违反了《计算机欺诈和滥用法》，未经许可访问了瑞安航空的网站，支持瑞安航空反对未经授权的屏幕抓取的立场。”</li>
+<li>“特拉华州地区法院的陪审团裁定Booking.com因意图欺诈而进行未经授权的访问有罪，并驳回了Booking.com关于诽谤和不正当竞争的反诉。”</li>
+<li>“瑞安航空首席执行官迈克尔·奥利里希望该裁决能减少非法屏幕抓取和过度收费，而Booking.com计划上诉，认为票价比较有利于消费者选择。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z“瑞安航空在美国法院裁决中赢得了针对Booking.com的屏幕抓取案件”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“没有人期望年轻人做任何事情，他们也就什么都不做(2022)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Rob Henderson的文章讨论了社会对年轻男性缺乏期望及其负面后果，包括失业率和监禁率的增加。”</li>
+<li>“他提到凯瑟琳·埃丁和玛丽亚·凯法拉斯的《我能守住的承诺》，该书探讨了为什么低收入女性往往优先考虑母亲身份而非婚姻，并将其归因于年轻男性的不良行为。”</li>
+<li>“亨德森批评上层阶级破坏家庭稳定规范，同时确保他们自己的孩子受益于稳定的家庭环境，认为年轻人需要高期望才能茁壮成长。”</li>
+</ul>
+]]></description>
+            <link>https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z“没有人期望年轻人做任何事情，他们也就什么都不做(2022)”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“《国家的视角》一书的作者詹姆斯·C·斯科特去世了”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nitter.poast.org/GerardoMunck/status/1815059432382067053</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“《国家的视角》一书的作者詹姆斯·C·斯科特去世了”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Eza：一个现代化、维护良好的 ls 替代品”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“eza 是 Unix 和 Linux 中 ls 命令的现代替代品，提供了增强的功能和更好的默认设置。”</li>
+<li>“主要功能包括颜色编码的文件类型、符号链接支持、扩展属性、Git 集成和人类可读的日期。”</li>
+<li>“eza 旨在更加用户友好和功能丰富，提供对超链接、挂载点详细信息、SELinux 上下文和亮色终端颜色的额外支持。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/eza-community/eza</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“Eza：一个现代化、维护良好的 ls 替代品”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我们能为明显愚蠢的初创公司筹集多少钱？”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://www.smbc-comics.com/comic/investment-2</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“我们能为明显愚蠢的初创公司筹集多少钱？”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我花了18个月构建的一个源代码可用的计费系统”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“该平台与Stripe深度集成，能够全面控制账单、税务管理和自动化工作流程。”</li>
+<li>“功能包括管理各级税率、创建自定义订阅计划以及与Slack和电子邮件提供商等工具集成。”</li>
+<li>“该系统支持可扩展性、自托管，并提供详细的业务洞察，例如订阅流失率和客户终身价值。”</li>
+</ul>
+]]></description>
+            <link>https://billabear.com/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“我花了18个月构建的一个源代码可用的计费系统”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“工人们已经表态：他们要待在家里”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“戴尔要求在办公室出勤才能获得晋升的政策基本上被忽视，许多员工选择待在家里。”</li>
+<li>“Gartner的一份报告显示，48%的员工认为公司规定更倾向于领导的偏好，而不是他们自己的需求。”</li>
+<li>“远程工作因其诸多好处而越来越受欢迎，包括无需通勤、更好的工作与生活平衡、成本节约和灵活性，高绩效员工也在寻找远程工作的机会。”</li>
+</ul>
+]]></description>
+            <link>https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z“工人们已经表态：他们要待在家里”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“阿波罗DN10000：1988年的四核CPU/128Mb RAM工作站 [pdf]”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z“阿波罗DN10000：1988年的四核CPU/128Mb RAM工作站 [pdf]”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“CrowdStrike的Falcon传感器也与Linux内核恐慌和崩溃有关”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“CrowdStrike的Falcon Sensor软件导致了Windows和Linux系统的崩溃，包括Red Hat Enterprise Linux 9.4、Debian和Rocky Linux。”</li>
+<li>“暂时禁用Falcon传感器可以稳定受影响的系统，CrowdStrike正在测试一种快速恢复工具来解决这个问题。”</li>
+<li>“这次中断已经产生了重大的全球影响，包括航班取消和医疗延误，微软估计有850万台Windows机器受到影响。”</li>
+</ul>
+]]></description>
+            <link>https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z“CrowdStrike的Falcon传感器也与Linux内核恐慌和崩溃有关”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“对使用你软件的用户表示同理心”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“开发用于亲密用途的技术，如肛塞应用程序，需要对用户的独特需求和情境进行同理心和考虑，包括在性兴奋期间的可用性和硬件断连问题。”</li>
+<li>“在像GitHub这样的平台上分享性技术代码可以帮助建立最佳实践，但开发者应对显性媒体保持谨慎，并考虑自托管敏感材料。”</li>
+<li>“Buttplug项目强调安全、自主和人权，在其使命声明中鼓励负责任的行为和教育。”</li>
+</ul>
+]]></description>
+            <link>https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“对使用你软件的用户表示同理心”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“关于为什么CrowdStrike的CSAgent.sys崩溃的初步细节”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“CrowdStrike 的 CSAgent.sys 因涉及无效内存地址的错误指令而崩溃。”</li>
+<li>“问题是由指针数组中的一个未映射地址引起的，导致在访问内存时发生崩溃。”</li>
+<li>“具体的故障指令是“mov r9d, [r8]”，其中R8持有无效地址。”</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/patrickwardle/status/1814343502886477857</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“关于为什么CrowdStrike的CSAgent.sys崩溃的初步细节”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“罗马数字末尾的字符“j”有什么意义？(2013)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“罗马数字末尾的字符“j”有什么意义？(2013)”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“民兵导弹通信”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“作者计划更换托管平台，这将增加更多费用，并通过捐款寻求读者支持，为支持者提供独家内容和新YouTube视频的提前观看权。”</li>
+<li>“美国空军的第90、第91和第341导弹联队管理着400枚民兵III型洲际弹道导弹，每十个发射设施由一个导弹警戒设施监控。”</li>
+<li>“民兵通讯包括外部系统，如LF、HF、UHF和SHF天线，以及内部系统，如加固的站间电缆系统(HICS)，未来还计划在哨兵计划下进行升级。”</li>
+</ul>
+]]></description>
+            <link>https://computer.rip/2024-07-20-minuteman-missile-communications.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“民兵导弹通信”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“所以你认为你了解盒子阴影？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章探讨了在CSS中使用盒子阴影的创意和非常规方法，超越了典型的用户界面增强。”</li>
+<li>“作者尝试使用盒子阴影进行极简艺术、动画、3D效果，甚至光线追踪，展示了这一CSS功能的多样性。”</li>
+<li>“这些实验突显了现代硬件的性能能力，例如 M1 笔记本电脑在处理使用盒阴影的复杂视觉效果方面的表现。”</li>
+</ul>
+]]></description>
+            <link>https://dgerrells.com/blog/how-not-to-use-box-shadows</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“所以你认为你了解盒子阴影？”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“X.com在启用Firefox严格跟踪保护时拒绝打开”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://x.com/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“X.com在启用Firefox严格跟踪保护时拒绝打开”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“用户在被禁100,000小时后返回，继续导致他们被禁的对话”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个名叫Etherwind的用户在被禁11年、100,000小时后，回到了Something Awful论坛，继续他在2013年因桌面游戏辩论而被禁的讨论。”</li>
+<li>“Etherwind最初因开玩笑地诅咒一位作者而被禁言，他的回归引起了其他论坛用户的幽默和敬畏。”</li>
+<li>“尽管禁令时间很长，Etherwind 还是将他的回归视为一个喜剧机会，并在重新开始辩论后最终放弃了该账户。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z“用户在被禁100,000小时后返回，继续导致他们被禁的对话”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“rr – C/C++ 的记录和重放调试器”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“rr 是一个用于 Linux 上 C/C++ 的调试工具，通过允许确定性重放和高效的反向执行来增强 gdb。”</li>
+<li>“它支持记录和重放各种应用程序，处理多进程工作负载，并与gdb脚本和IDE集成。”</li>
+<li>“rr 的显著特点是其低开销、在标准 Linux 内核上的可部署性，以及能够更轻松、更快速地调试间歇性错误。”</li>
+</ul>
+]]></description>
+            <link>https://rr-project.org/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“rr – C/C++ 的记录和重放调试器”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“英特尔 vs. 三星 vs. 台积电”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“随着传统平面缩放效益的减少，英特尔、三星和台积电正在加剧代工市场的竞争，重点关注3D晶体管、芯粒和先进封装技术。”</li>
+<li>“每家公司都在利用像UCIe(通用小芯片互连标准)和BoW(线桥)这样的标准进行小芯片连接，英特尔使用EMIB(嵌入式多芯片互连桥)，而三星和台积电则在探索2.5D和3D-IC(集成电路)方法。”</li>
+<li>“铸造厂正在向埃米级工艺节点推进，并在背面电源传输和玻璃基板等领域进行创新，旨在高效地提供定制的高性能解决方案。”</li>
+</ul>
+]]></description>
+            <link>https://semiengineering.com/intel-vs-samsung-vs-tsmc/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“英特尔 vs. 三星 vs. 台积电”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“乔·拜登不再担任民主党候选人”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/JoeBiden/status/1815080881981190320</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“乔·拜登不再担任民主党候选人”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Google 分布式云隔离设备”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Google分布式云隔离设备将于2024年7月17日推出，为灾区和偏远研究站等战术边缘环境带来云和AI能力。”</li>
+<li>“该设备支持实时本地数据处理，用于物体检测和医学影像分析等人工智能应用，并与公共互联网完全隔离，以确保安全和合规。”</li>
+<li>“它提供国防部影响等级5认证，使其适用于灾难响应、工业自动化、交通运输、物流以及受限的联邦和国防工作负载。”</li>
+</ul>
+]]></description>
+            <link
+      >https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“Google 分布式云隔离设备”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“任何足够糟糕的软件更新都与网络攻击无异”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/leighhoneywell/status/1814278230704111792</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“任何足够糟糕的软件更新都与网络攻击无异”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“假冒Mac应用商店评论泛滥”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Jeff Johnson 报告称，在2024年6月11日至7月19日期间，美国Mac应用商店的热门付费应用中出现了大量虚假评论，影响了前40名付费应用中的8个。”</li>
+<li>“这些虚假评论通常是五星好评，内容泛泛或无意义，可能是为了提升应用程序的评分，有人怀疑是某个开发者为了掩盖自己应用程序的虚假评论而为之。”</li>
+<li>“尽管向苹果报告了该问题，但问题仍未得到解决，BetterSnapTool和Vinegar的开发者已承认并向苹果报告了该问题。”</li>
+</ul>
+]]></description>
+            <link>https://lapcatsoftware.com/articles/2024/7/1.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“假冒Mac应用商店评论泛滥”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“在过去的十年里，沟槽坍塌已经导致美国数百名工人死亡”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“在过去的十年里，沟槽坍塌导致美国超过250名工人死亡，其中许多事故本可以通过遵守基本安全规定来预防。”</li>
+<li>“尽管有职业安全与健康管理局(OSHA)的规定和罚款，许多公司仍继续违反安全标准，几乎没有受到什么后果，因为刑事指控很少见，罚款也经常被减少或忽视。”</li>
+<li>“由NPR、德克萨斯公共广播电台和1A进行的调查强调了加强执法和问责制以防止未来悲剧的紧迫需求。”</li>
+</ul>
+]]></description>
+            <link>https://text.npr.org/g-s1-9028</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z“在过去的十年里，沟槽坍塌已经导致美国数百名工人死亡”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“在ResEdit中管理经典Mac OS资源”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Macintosh 文件系统具有两个分叉：数据分叉和资源分叉，后者存储结构化数据，如图标、对话框和代码块。”</li>
+<li>“Apple的ResEdit是一个资源编辑器，最后一次更新是在1994年。它允许用户自定义系统文件、对话框和键盘布局，但由于恶意软件经常利用资源分支，它也带来了安全风险。”</li>
+<li>“随着 Mac OS X 的推出，资源分叉过渡到扩展属性，应用资源现在被组织成捆绑包，现代应用程序通过签名进行锁定，防止了曾经通过 ResEdit 进行的大量自定义。”</li>
+</ul>
+]]></description>
+            <link>https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z“在ResEdit中管理经典Mac OS资源”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我绘制了21世纪几乎所有美国交通死亡事件的地图”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“全国零愿景地图是一项新的倡议，旨在消除道路上的交通死亡和重伤。”</li>
+<li>“这张地图提供了全国交通安全数据的全面概览，有助于识别高风险区域并实施有针对性的安全措施。”</li>
+<li>“该倡议是更广泛的零愿景战略的一部分，该战略已被多个城市和国家采用，通过数据驱动的方法和社区参与来提高道路安全。”</li>
+</ul>
+]]></description>
+            <link>https://roadway.report</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“我绘制了21世纪几乎所有美国交通死亡事件的地图”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“研究人员发现a16z网站存在漏洞，暴露了一些公司数据”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“安全研究人员发现了a16z crypto子域中的一个漏洞，暴露了AWS密钥和数据库内容等敏感信息。”</li>
+<li>“暴露的凭证包括对AWS、Salesforce、Mailgun以及包含个人身份信息(PII)的数据库的访问权限。”</li>
+<li>“研究人员由于未能找到私人联系方法而公开披露信息，因此未能获得漏洞赏金，他们认为这不公平。”</li>
+</ul>
+]]></description>
+            <link>https://www.kibty.town/blog/a16z/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“研究人员发现a16z网站存在漏洞，暴露了一些公司数据”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“车库：开源分布式对象存储”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Garage 是一个开源的分布式对象存储服务，专为自托管设计，通过在三个区域之间复制数据来提供冗余。”</li>
+<li>“主要特点包括轻量高效的部署、跨多个数据中心的多功能性以及对网络和硬件故障的弹性。”</li>
+<li>“它支持异构硬件，实现了与Amazon S3 API的兼容性，并由NGI POINTER、NLnet / NGI0 Entrust和欧盟的Horizon 2021研究与创新计划资助。”</li>
+</ul>
+]]></description>
+            <link>https://garagehq.deuxfleurs.fr/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“车库：开源分布式对象存储”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“多卫星数据显示井喷事件导致创纪录的甲烷泄漏”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“多卫星数据显示井喷事件导致创纪录的甲烷泄漏”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Typst：一种易于学习的LaTex替代品”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Typst 是一个新型的、用户友好的基于标记的排版系统，旨在与 LaTeX 一样强大，具有内置标记、灵活的功能、集成脚本和快速编译时间。”</li>
+<li>“Typst 编译器和 CLI(命令行界面)可用于本地文档编译，目前有一个免费的在线编辑器处于公开测试阶段，以提供更好的体验。”</li>
+<li>“用户可以加入Typst社区的Discord频道，以获得支持和访问社区构建的资源，并有机会通过报告错误或建议功能来做出贡献。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/typst/typst</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“Typst：一种易于学习的LaTex替代品”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“由广告支付的人工智能——GPT-4o 小型拐点”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“OpenAI 已经推出了 GPT-4o 迷你模型，定价为每 100 万个输入标记 $0.15 和每 100 万个输出标记 $0.60，使其比 GPT-3.5 Turbo 更加实惠和智能。”</li>
+<li>“GPT-4o mini的低成本使得可以创建完全由广告收入支持的AI生成内容，这可能会改变在线内容创作。”</li>
+<li>“例如，使用GPT-4o mini生成一篇博客文章的成本为$0.00051525，而每次页面浏览的广告收入约为$0.0026，最终每次页面浏览的净利润约为$0.002。”</li>
+</ul>
+]]></description>
+            <link>https://batchmon.com/blog/ai-cheaper-than-ads/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“由广告支付的人工智能——GPT-4o 小型拐点”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“无正常运行时间托管(2006)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nouptime.com/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“无正常运行时间托管(2006)”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“永远不要更新任何东西”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章提出了一个有争议的观点，反对频繁的软件更新，强调了它们造成的干扰和资源消耗。”</li>
+<li>“它建议采用一种更稳定的方法，使用像Lazarus IDE和FreeBSD的稳定包这样的例子，以减少对不断更新的需求。”</li>
+<li>“作者提倡放慢更新的步伐，专注于长期稳定性和非破坏性更改，以简化维护并减少开发人员的认知负担。”</li>
+</ul>
+]]></description>
+            <link>https://blog.kronis.dev/articles/never-update-anything</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“永远不要更新任何东西”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“公共厕所正在消失，这是一个市政灾难”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“公共厕所正在消失，导致了一场市民危机，特别影响到有健康问题的个人和边缘化群体。”</li>
+<li>“心理学研究员Guido Corradi强调了富裕西方国家公共厕所状况不佳的问题，指出其对公共健康和人类尊严的影响。”</li>
+<li>“研究表明，贫困、受教育程度较低的个人和女性在使用公共厕所时经历更多负面遭遇，这强调了改善设施和开展公众意识宣传活动的必要性。”</li>
+</ul>
+]]></description>
+            <link>https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“公共厕所正在消失，这是一个市政灾难”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Playdate上的毁灭战士”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个早期版本的《毁灭战士》已成功移植到掌上游戏机Playdate上。”</li>
+<li>“开发人员在处理makefile、编译器和链接器问题时面临重大挑战，特别是libc中的缺失引用问题，这些问题通过调整链接器选项和修改Playdate SDK得以解决。”</li>
+<li>“该游戏现在可以在模拟器和实际硬件上运行，使开发人员能够专注于游戏控制、呈现和优化。”</li>
+</ul>
+]]></description>
+            <link>https://devforum.play.date/t/doom-on-playdate/852</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“Playdate上的毁灭战士”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“欧盟必须继续资助自由软件”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pad.public.cat/lettre-NCP-NGI</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“欧盟必须继续资助自由软件”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“CrowdStrike的惨败为对手提供了美国脆弱性的路线图”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个软件更新漏洞在周五引发了数字崩溃，影响了机场、医院和电视台，突显了互联网络的脆弱性。”</li>
+<li>“该事件是由于人为错误引起的，而不是国家级攻击，并涉及CrowdStrike的软件，该软件旨在消除网络攻击。”</li>
+<li>“这一事件突显了提高数字韧性的必要性，尽管美国政府和私营部门一直在努力增强网络安全。”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“CrowdStrike的惨败为对手提供了美国脆弱性的路线图”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“谷歌的短链接将于明年停止工作”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“谷歌的缩短链接(goo.gl)将在2025年8月25日之后停止工作，所有此类链接将导致404错误。”</li>
+<li>“从2024年8月23日开始，goo.gl链接将显示一个中间页面，警告用户即将关闭。”</li>
+<li>“谷歌建议开发者更新受影响的链接以避免中断，并指出goo.gl服务最初于2019年关闭，建议切换到Firebase动态链接，但该服务也已被弃用。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“谷歌的短链接将于明年停止工作”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“学术界震惊，T&F将其研究访问权限出售给微软AI”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“学术界震惊，T&amp;F将其研究访问权限出售给微软AI”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“今天停电的技术细节”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“2024年7月19日，CrowdStrike发布了一个针对Windows系统的传感器配置更新，由于逻辑错误导致系统崩溃和蓝屏(BSOD)，该问题在大约1.5小时内得到修复。”</li>
+<li>“该问题影响了使用Windows版本7.11及以上的Falcon传感器的客户，这些客户在04:09 UTC至05:27 UTC之间在线，问题源于用于评估命名管道执行的有问题的通道文件291。”</li>
+<li>“运行Linux或macOS的系统未受影响，根本原因分析正在进行中，以防止未来出现问题。”</li>
+</ul>
+]]></description>
+            <link>https://www.crowdstrike.com/blog/technical-details-on-todays-outage/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z“今天停电的技术细节”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Crowdstrike 更新：Windows 蓝屏和启动循环”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“多个工作场所的用户遇到了Windows蓝屏和启动循环的问题，这可能与最近的Crowd Strike应用程序更新有关。”</li>
+<li>“IT部门注意到一些服务器离线，当地一家广播电台报告了类似的笔记本电脑问题和电话系统故障。”</li>
+<li>“这些事件发生在澳大利亚，但尚未有新闻报道。”</li>
+</ul>
+]]></description>
+            <link>https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“Crowdstrike 更新：Windows 蓝屏和启动循环”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Crowdstrike宕机导致广泛问题”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“全球IT中断是由网络安全公司CrowdStrike Holdings的一个有缺陷的软件更新引发的，影响了众多Microsoft Windows系统。”</li>
+<li>“微软和CrowdStrike都已发布修复程序来解决这个问题，但预计完全恢复还需要一些时间。”</li>
+<li>“情况有所好转，但失败的更新带来的影响仍在全球范围内感受到。”</li>
+</ul>
+]]></description>
+            <link>https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“Crowdstrike宕机导致广泛问题”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“FCC投票限制监狱电信收费”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“美国联邦通信委员会(FCC)已投票决定大幅降低监狱和拘留所的电话和视频通话费率，将每分钟费率上限削减一半以上，并禁止所有费用，包括存款费用。”</li>
+<li>“这一变化影响了83%的被监禁人员，每年为家庭节省至少5亿美元，并提升了被监禁人员的福祉和重返社会的成功率。”</li>
+<li>“预计像Aventiv和ViaPath这样的监狱电信公司将遭受重大收入损失，而马萨诸塞州、明尼苏达州和科罗拉多州等州已经开始实施免费监狱通话政策。”</li>
+</ul>
+]]></description>
+            <link
+      >https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“FCC投票限制监狱电信收费”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Foliate：时尚阅读电子书，轻松导航”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Foliate 是一个开源的电子书阅读器，支持多种格式，如 EPUB、Mobipocket、Kindle、FB2、CBZ 和 PDF，并且具有可自定义的阅读设置。”</li>
+<li>“它提供触控板和触摸屏导航、书签、注释以及与维基词典和谷歌翻译等工具的集成功能。”</li>
+<li>“Foliate 支持从右到左的文本、竖排书写和固定布局，并且可以在多个 Linux 发行版上使用，或者通过源代码克隆进行安装。”</li>
+</ul>
+]]></description>
+            <link>https://johnfactotum.github.io/foliate/</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“Foliate：时尚阅读电子书，轻松导航”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“由于微软Azure宕机，多家航空公司受到影响”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“边疆航空因微软Azure重大故障停飞约35分钟，影响了预订、值机和登机牌获取。”</li>
+<li>“停电从下午5:56开始，也中断了Allegiant和Sun Country Airlines的系统，影响了美国中部的多个系统。”</li>
+<li>“边疆航空公司运营着超过100架飞机，是至少三家受服务中断影响的航空公司之一。”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“由于微软Azure宕机，多家航空公司受到影响”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“要重建贝尔实验室需要什么？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“AT&amp;T通过贝尔实验室在发展美国电话基础设施方面起到了关键作用，并且发明了晶体管、硅太阳能光伏电池和UNIX操作系统等重要技术。”</li>
+<li>“贝尔实验室的成功部分归功于AT&amp;T的垄断，这支持了长期的研究项目，带来了众多荣誉，包括10项诺贝尔奖。”</li>
+<li>“AT&amp;T的分拆导致了贝尔实验室的分裂和衰落，由于曾经存在的独特历史和技术条件，今天很难再创造出这样的机构。”</li>
+</ul>
+]]></description>
+            <link>https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“要重建贝尔实验室需要什么？”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“瑞安航空——每一页都是黑暗模式”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“瑞安航空以使用“黑暗模式”而闻名，这是一种操纵性的设计技术，用于在预订过程中增加利润。”</li>
+<li>“策略包括“隐私扎克”，即默认将客户加入促销活动，以及“误导”，即使用显眼的按钮和弹出窗口来推销服务。”</li>
+<li>“这些欺骗性设计在瑞安航空的网站上无处不在，因此用户必须保持警惕，以避免意外购买或分享超出预期的信息。”</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“瑞安航空——每一页都是黑暗模式”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“CrowdStrike修复从“重启最多15次”开始，然后变得更加复杂”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“CrowdStrike最近的更新导致Windows系统崩溃并出现蓝屏死机(BSOD)，引起了重大干扰。”</li>
+<li>“修复方法从多次重启到更复杂的解决方案，如恢复备份或手动删除有问题的驱动程序，对于使用BitLocker加密的系统还需要额外的步骤。”</li>
+<li>“更新已被撤回，CrowdStrike的首席执行官已道歉，并向用户保证正在努力解决该问题。”</li>
+</ul>
+]]></description>
+            <link
+      >https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z“CrowdStrike修复从“重启最多15次”开始，然后变得更加复杂”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Sendune – 开源HTML邮件设计器”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“SENDUNE推出了一款新的开源HTML邮件设计器，旨在简化HTML邮件的创建，这些邮件传统上很难编写和维护。”</li>
+<li>“设计器轻量化，使用纯HTML，并避免繁琐的依赖项，使用户能够将HTML输出保存为任何电子邮件服务提供商的模板。”</li>
+<li>“鼓励用户分叉该存储库，进行改进，并提交拉取请求，从而促进协作开发环境。”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41007403</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“Sendune – 开源HTML邮件设计器”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“60岁德国男子可能成为第七位被有效治愈的艾滋病患者”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个60岁的德国男子在接受干细胞移植后，可能成为第七位有效治愈艾滋病毒的患者，这次移植还治疗了他的侵袭性白血病。”</li>
+<li>“这位被称为‘下一个柏林病人’的患者在2018年底停止服用抗逆转录病毒药物，近六年后仍然没有HIV和癌症。”</li>
+<li>“研究人员持谨慎乐观态度，指出这一案例表明并非所有CCR5基因突变都是成功治疗HIV所必需的，这为更广泛的HIV治愈策略带来了希望。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“60岁德国男子可能成为第七位被有效治愈的艾滋病患者”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“全球大规模IT故障影响航空公司、媒体和银行”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Crowdstrike是一家成立于2011年的德克萨斯州网络安全公司，专门从事端点安全，以保护企业网络和云数据免受网络威胁。”</li>
+<li>“由乔治·库尔茨和德米特里·阿尔佩罗维奇共同创立的公司于2019年在纳斯达克上市。”</li>
+<li>“Crowdstrike在调查重大网络攻击事件中发挥了关键作用，特别是2016年美国民主党全国委员会网络被入侵事件。”</li>
+</ul>
+]]></description>
+            <link>https://www.bbc.co.uk/news/live/cnk4jdwp49et</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“全球大规模IT故障影响航空公司、媒体和银行”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“双重麻烦：欧洲航天局的盖亚探测器遭遇微流星体和太阳风暴”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“欧洲航天局的盖亚探测器于2013年12月发射，旨在绘制超过十亿颗银河系恒星的地图，最近遭遇了微陨石撞击和太阳风暴的重大挑战。”</li>
+<li>“微陨石损坏了盖亚的保护罩，太阳风暴导致其一个电荷耦合器件(CCD)故障，导致成千上万的错误星体检测。”</li>
+<li>“来自欧洲航天局和空中客车防务与航天公司的工程师成功调整了盖亚的软件，减少了误报，并使航天器恢复到常规操作，现在正在生成一些质量最好的数据。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z“双重麻烦：欧洲航天局的盖亚探测器遭遇微流星体和太阳风暴”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“C-00000291*.sys 文件中有什么？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“CrowdStrike 的 C-00000291*.sys 文件由于格式无效导致系统崩溃，影响了 CrowdStrike 驱动程序。”</li>
+<li>“用户报告了不同版本的文件，有些人推测使用了客户特定的密钥进行加密，尽管其他人没有解密就解析了这些文件。”</li>
+<li>“这些文件是专有的更新格式，而不是DLL或补丁，这引发了对CrowdStrike更新过程的安全性和可靠性的担忧。”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41004103</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“C-00000291*.sys 文件中有什么？”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“NASA的好奇号探测车在火星岩石中发现惊喜”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“NASA的好奇号探测器首次在火星上发现了元素硫，这是火星探索中的一个重要里程碑。”</li>
+<li>“这一发现是在一个富含硫酸盐的地区进行的，‘好奇号’发现了一整片由纯硫组成的明亮岩石，令科学家们感到好奇。”</li>
+<li>“好奇号的任务包括研究火星古老地形以寻找微生物生命的迹象，目前它正在攀登夏普山，并钻取了第41个岩石样本以供进一步分析。”</li>
+</ul>
+]]></description>
+            <link>https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“NASA的好奇号探测车在火星岩石中发现惊喜”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“湖泊和海洋中的氧气流失”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“伦斯勒理工学院的研究指出，湖泊和海洋中的氧气流失对生态系统、社会和地球构成了重大威胁。”</li>
+<li>“与气候变化、土地使用和污染相关的水体脱氧，导致溶解氧迅速下降，自1980年以来，湖泊和水库的氧气含量分别减少了5.5%和18.6%，而自1960年以来，海洋的氧气含量减少了约2%。”</li>
+<li>“这种脱氧现象影响了物种的生理、食物网和生态系统服务，造成了“死区”和有害藻华，迫切需要采取行动应对全球变暖和径流问题。”</li>
+</ul>
+]]></description>
+            <link>https://www.sciencedaily.com/releases/2024/07/240715135713.htm</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z“湖泊和海洋中的氧气流失”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我的女儿(7岁)用HTML制作了一个网站”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://naya.lol</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“我的女儿(7岁)用HTML制作了一个网站”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“米斯特拉尔NeMo”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Mistral AI 发布了 Mistral NeMo，这是一款与 NVIDIA 合作开发的 12B 模型，具有 128k 令牌上下文窗口，并在推理、世界知识和编码准确性方面表现出色。”</li>
+<li>“米斯特拉尔 NeMo 支持 FP8 推理且无性能损失，性能优于 Gemma 2 9B 和 Llama 3 8B 等模型，并专为多语言应用设计。”</li>
+<li>“该模型使用了一个新的分词器Tekken，并进行了高级微调，以更好地遵循指令、推理、多轮对话和代码生成；权重可在HuggingFace上获取。”</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-nemo/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“米斯特拉尔NeMo”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“亚马逊的Kindle直接出版是一场反乌托邦的噩梦”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“作者描述了在使用亚马逊的Kindle Direct Publishing (KDP)时遇到的令人沮丧的经历，他们的电子书因“误导客户体验”而被屏蔽，尽管没有类似书籍的证据。”</li>
+<li>“向亚马逊提出的申诉得到了自动化和模糊的回复，最终导致作者的账户在没有明确理由的情况下被终止。”</li>
+<li>“即使联系了亚马逊的执行客户关系部门也未能解决问题，这突显了亚马逊自动化审核和申诉流程中的潜在缺陷。”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40992654</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“亚马逊的Kindle直接出版是一场反乌托邦的噩梦”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“2024年的Prolog是什么样的？”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个计算机科学学生发现了Prolog和逻辑编程，学习了基础知识，并使用SICStus Prolog开发了一个基本的代理通信系统。”</li>
+<li>“这名学生对专攻Prolog和本体论感兴趣，正在寻求关于2024年Prolog的现状和应用的见解。”</li>
+<li>“调查突显了对了解Prolog在科技行业中的潜力和当代用途的渴望。”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40994552</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“2024年的Prolog是什么样的？”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“SAPwned：SAP AI漏洞暴露客户的云环境和隐私”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Wiz研究团队发现了AI服务提供商中的租户隔离漏洞，随着AI基础设施对企业变得至关重要，这些漏洞带来了重大风险。”</li>
+<li>“他们对SAP的AI产品‘SAP AI Core’的研究揭示了漏洞，这些漏洞允许未经授权访问客户数据和云凭证，SAP已经修复了这些漏洞。”</li>
+<li>“关键发现包括绕过网络限制、暴露AWS令牌、未经身份验证访问AWS EFS共享以及完全接管集群，这突显了在AI服务中改进隔离和沙箱标准的必要性。”</li>
+</ul>
+]]></description>
+            <link>https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“SAPwned：SAP AI漏洞暴露客户的云环境和隐私”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“基于RP2040的DECstation 3000模拟器，可以运行DECWindows”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“DECstation 2040 是一个用于 DECstation 3000 的仿真器，基于 RP2040 微控制器构建，能够运行 DECWindows。”</li>
+<li>“主要硬件特性包括1.8v/300 MHz RP2040、32 MB PSRAM、8 MB SPI闪存和以太网RMII PHY支持。”</li>
+<li>“该项目于2023年3月23日开始，灵感来自Dmitry的LinuxCard，并涉及学习使用RP2040 PIO引擎和DMA子系统。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/rscott2049/DECstation2040</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z“基于RP2040的DECstation 3000模拟器，可以运行DECWindows”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“我们生活的目标 (1983)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“1983年，史蒂夫·乔布斯在阿斯彭国际设计会议上发表演讲，强调了计算机对社会未来的影响以及良好设计在消费电子产品中的重要性。”</li>
+<li>“乔布斯推出了Lisa电脑，该电脑配备鼠标和图形用户界面，并预测到1986年，个人电脑的销量将超过汽车销量，敦促设计师们创造设计精良的产品。”</li>
+<li>“他强调了将人文艺术融入科技的重要性以及制作有用、美观产品的社会责任，并以关于如何使计算机直观且易于使用的问答环节结束了他的演讲。”</li>
+</ul>
+]]></description>
+            <link>https://stevejobsarchive.com/exhibits/objects-of-our-life</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“我们生活的目标 (1983)”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“黑暗模式和不道德设计的集合”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“目录提供了全面的黑暗模式集合，这些是用户界面中使用的欺骗性设计实践。”</li>
+<li>“这些示例按类别系统地组织起来，使用户更容易理解和识别不同类型的操纵性设计。”</li>
+<li>“该资源旨在教育和提高人们对不道德设计策略的认识，帮助用户识别并避免这些策略。”</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/collection/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“黑暗模式和不道德设计的集合”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“音乐产品猎人”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“TrackList是一个发现和分享新音乐的平台，提供每日新曲更新。”</li>
+<li>“今天的精选曲目包括Off Trakk的《Keep Your Cool》和Raf Duran的《Erasing》。”</li>
+<li>“该平台还会突出显示前几天的曲目，为用户提供源源不断的新音乐供其探索。”</li>
+</ul>
+]]></description>
+            <link>https://tracklist.it/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“音乐产品猎人”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“美国人对高等教育的信心大幅下降”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“最新的盖洛普民意调查显示，美国人对高等教育的信心显著下降，三分之一的人表示“几乎没有信心”，相比之下，2015年这一比例为57%。”</li>
+<li>“导致这一下降的因素包括政治议程、所教授技能的被认为不相关、高昂的成本以及对自由主义‘灌输’的担忧，尤其是在保守派中。”</li>
+<li>“尽管整体上有所下降，但对社区学院和两年制课程的信心正在增加，这表明人们对更实惠和实用的教育选项的看法正在转变。”</li>
+</ul>
+]]></description>
+            <link>https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“美国人对高等教育的信心大幅下降”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“GPT-4o mini：推进高效智能”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“GPT-4o mini：推进高效智能”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“SQLite事务基准测试工具”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“评估重点在于比较SQLite的实验性<code>BEGIN CONCURRENT</code>分支与标准的<code>DEFERRED</code>和<code>IMMEDIATE</code>事务行为。”</li>
+<li>“目标是评估服务器环境中的性能差异，提供潜在改进或权衡的见解。”</li>
+<li>“有关详细的解释和结果，请参阅原文中链接的博客文章。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/seddonm1/sqlite-bench</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“SQLite事务基准测试工具”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“多色像素”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“可调波长的MicroLEDs有望彻底改变显示技术，提供比当前液晶和有机LED显示器更高的效率和分辨率。”</li>
+<li>“Q-Pixel公司开发了一种在单个晶圆上生长可调波长LED的方法，消除了对单独的红、绿、蓝子像素的需求，从而简化了制造过程并降低了成本。”</li>
+<li>“这一创新实现了创纪录的像素密度，这对于虚拟现实(VR)和增强现实(AR)应用特别有利，表明可能会向更具成本效益和高分辨率的微型LED显示器转变。”</li>
+</ul>
+]]></description>
+            <link>https://compoundsemiconductor.net/article/119170/Polychromatic_pixels</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“多色像素”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“对于二次贝塞尔曲线，封闭形式的弧长参数化是不可能的”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“贝塞尔曲线在矢量图形中是基本的，使用伯恩斯坦基函数中的控制点来定义。”</li>
+<li>“二次贝塞尔曲线使用三个控制点，它们的弧长可以精确计算，但假设 Schanuel 猜想成立，其参数化缺乏封闭形式的解。”</li>
+<li>“Cubic Bézier 曲线使用四个控制点，它们的弧长必须通过数值方法计算，因为它没有封闭形式。”</li>
+</ul>
+]]></description>
+            <link>https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z“对于二次贝塞尔曲线，封闭形式的弧长参数化是不可能的”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“麻雀可能是儿童铅中毒的‘煤矿中的金丝雀’：研究”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“《环境科学与技术》发表的一项研究发现，家麻雀可以准确预测儿童体内的铅含量，特别是在澳大利亚的采矿城镇布罗肯希尔和芒特艾萨。”</li>
+<li>“麻雀可以作为识别铅污染热点的经济有效工具，提供了一种比直接进行人类测试更实用的替代方案，因为后者通常成本高且复杂。”</li>
+<li>“研究强调了澳大利亚持续存在的铅暴露问题，并建议麻雀可能也表明暴露于其他重金属和‘永久化学品’。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z“麻雀可能是儿童铅中毒的‘煤矿中的金丝雀’：研究”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“在 Google 文档中导入和导出 Markdown”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Google Docs 现在支持增强的 Markdown 功能，包括在粘贴时将 Markdown 转换为 Docs 内容、将 Docs 内容复制为 Markdown、将文档导出为 Markdown 以及将 Markdown 导入为文档。”</li>
+<li>“此更新对技术内容撰写者有利，便于在文档和Markdown之间进行更轻松的转换，以便协作和文档编制。”</li>
+<li>“推出将于2024年7月16日开始，适用于快速发布和计划发布域，并向所有Google Workspace客户、Workspace个人订阅者和个人Google账户用户开放。”</li>
+</ul>
+]]></description>
+            <link>https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“在 Google 文档中导入和导出 Markdown”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“就业市场恐慌”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“由于利率上升、投机性资金和不完善的招聘实践，科技就业市场陷入混乱。”</li>
+<li>“较高的利率导致公司投资于安全的政府支持账户，而不是冒险的项目，从而导致科技行业的失业。”</li>
+<li>“招聘过程通常集中在无关的编码测试和行为面试上，未能评估候选人的真实经验和能力。”</li>
+</ul>
+]]></description>
+            <link>https://matt.sh/panic-at-the-job-market</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“就业市场恐慌”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越狱RabbitOS：揭示秘密日志和GPL违规行为”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“David Buchanan开发了一种适用于Rabbit R1的“有线越狱”，无需解锁引导程序或更改内部存储即可获得root权限。”</li>
+<li>“兔子R1使用联发科MT6765 SoC，因广泛的用户数据记录和GPL违规行为而受到批评，最近的更新部分解决了这些问题。”</li>
+<li>“布坎南的研究结果显示，RabbitOS 是一个经过大量修改的 Android 13 AOSP，主要强制执行单应用程序的自助服务模式，他还发布了一款工具以帮助进一步探索该设备。”</li>
+</ul>
+]]></description>
+            <link>https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“越狱RabbitOS：揭示秘密日志和GPL违规行为”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“最伟大的教育生活技巧：提前学习数学”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“提前学习数学可以带来更好的成绩，防止糟糕的教学，并获得实习、研究项目和强有力的推荐信，这些对于大学和职业机会至关重要。”</li>
+<li>“微积分以外的高级数学课程，如线性代数和微分方程，对于许多定量领域至关重要，并且可以加速学生进入专业领域，提升职业成就。”</li>
+<li>“研究表明，尽管存在常见的误解和后勤挑战，教育加速并不会损害心理健康，反而会带来更大的学术和职业成功。”</li>
+</ul>
+]]></description>
+            <link>https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“最伟大的教育生活技巧：提前学习数学”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“骗子的黄金时代：人工智能驱动的网络钓鱼”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“生成式人工智能使得诈骗者能够发送高度个性化且令人信服的网络钓鱼邮件，克服语言障碍并自动化大规模活动。”</li>
+<li>“像WormGPT和FraudGPT这样的AI工具有助于生成网络钓鱼邮件和伪造网站，大大减少了创建有效攻击所需的时间。”</li>
+<li>“防御策略包括实施DMARC(基于域的消息身份验证、报告和一致性)，识别AI钓鱼尝试，使用多层安全措施，并保持强大的发件人信誉。”</li>
+</ul>
+]]></description>
+            <link>https://www.mailgun.com/blog/email/ai-phishing/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“骗子的黄金时代：人工智能驱动的网络钓鱼”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“TinyPod – 带有滚轮的Apple Watch保护壳”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“介绍tinyPod，这是一款紧凑型设备，提供电话、音乐、消息等基本功能，全部由您的Apple Watch驱动。”</li>
+<li>“主要特点包括触感滚轮、快速磁吸充电、多天电池续航、Apple Pay 和 32GB 媒体存储。”</li>
+<li>“有两种型号可供选择：带滚轮的tinyPod售价$79.99和不带滚轮的tinyPod lite售价$29.99，兼容各种Apple Watch系列，将于今年夏天发货。”</li>
+</ul>
+]]></description>
+            <link>https://thetinypod.com/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“TinyPod – 带有滚轮的Apple Watch保护壳”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“贾谭 "JiaT75"：在使用bsdtar解压时添加了错误文本到警告中(2021)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Libarchive合并了一次提交，添加了在使用bsdtar时的警告错误文本，解决了问题#1561，但有人对用不安全的fprintf替换safe_fprintf表示担忧。”</li>
+<li>“已实施修复措施，恢复使用safe_fprintf并正确处理errno，同时建议进行进一步审计，并为该问题申请CVE(公共漏洞和暴露)。”</li>
+<li>“讨论强调了彻底代码审查和维护开源项目安全的重要性，问题在对话被锁定后得到解决。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/libarchive/libarchive/pull/1609</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z“贾谭 &quot;JiaT75&quot;：在使用bsdtar解压时添加了错误文本到警告中(2021)”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“波多黎各对化石燃料公司提起10亿美元诉讼”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“波多黎各已对包括埃克森美孚、英国石油公司、雪佛龙、壳牌和康菲石油在内的主要化石燃料公司提起10亿美元的诉讼，指控它们涉嫌误导公众关于气候变化的信息，并延缓向清洁能源的过渡。”</li>
+<li>“这起在圣胡安提起的诉讼声称，这些公司在推广化石燃料时没有充分警告其危险性，违反了贸易法，寻求赔偿以应对像玛丽亚飓风这样的气候灾害。”</li>
+<li>“这项法律行动是针对化石燃料行业类似诉讼的更广泛趋势的一部分，突显了对气候相关影响日益增长的问责努力。”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“波多黎各对化石燃料公司提起10亿美元诉讼”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Gitlab 探索出售”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“Gitlab 探索出售”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“达尔文机器”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“这篇文章讨论了威廉·卡尔文在《大脑密码》中的理论，该理论提出大脑在微柱内使用进化过程来处理感官输入并找到最‘适合’的模式。”</li>
+<li>“该理论认为，大脑的结构，特别是新皮质的柱状体和小柱体，能够实现高效的问题解决和并行处理，这些特性可以应用于人工智能和机器学习(ML)。”</li>
+<li>“作者正在尝试使用神经网络来模拟这一进化过程，并寻求在该领域的研究和学术见解，强调人工智能深度思维能力的潜在进展。”</li>
+</ul>
+]]></description>
+            <link>https://vedgie.net/writing/darwin_machines.md</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“达尔文机器”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Magic-cli – 您命令行的副驾驶”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://github.com/guywaldman/magic-cli</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“Magic-cli – 您命令行的副驾驶”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“谷歌提出绕过标签管理器自动屏蔽的方法”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“Google 正在推出一个用于以第一方模式部署标签的测试功能，通过使用网站的域名进行托管来提升标签性能和数据隐私。”</li>
+<li>“设置过程包括在域上保留一个唯一路径，通过 Google Cloud 或 Cloudflare 等服务路由流量，并更新网站脚本以使用新的测量路径。”</li>
+<li>“鼓励用户使用Tag Assistant测试设置，并通过指定的反馈表或联系电子邮件提供反馈。”</li>
+</ul>
+]]></description>
+            <link>https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“谷歌提出绕过标签管理器自动屏蔽的方法”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“在审查餐馆12年后，我将离开这个岗位”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“皮特·威尔斯在担任《纽约时报》餐厅评论员12年后，由于健康问题，包括高胆固醇、血糖和高血压，决定辞职。”</li>
+<li>“尽管他的角色具有回报性，但频繁的餐馆访问对身体的负担已变得难以承受。”</li>
+<li>“威尔斯将继续留在《泰晤士报》，但将不再处理每周评论的需求，而是选择专注于他的健康和更平衡的生活方式。”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“在审查餐馆12年后，我将离开这个岗位”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Bash 脚本编写简介”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>“一个关于Bash脚本编写的开源指南/电子书已经发布，旨在为开发人员、系统管理员和DevOps工程师自动化任务。”</li>
+<li>“这本电子书涵盖了从基本的Bash结构到高级脚本技术的广泛主题，包括与API的交互和生成密码。”</li>
+<li>“额外资源包括一个迷你视频课程，通过Katacoda进行的互动培训，以及来自Linux DevOps工程师Bobby Iliev的贡献。”</li>
+</ul>
+]]></description>
+            <link>https://github.com/bobbyiliev/introduction-to-bash-scripting</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“Bash 脚本编写简介”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“重返办公室的强制要求不值得冒人才流失的风险”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z“重返办公室的强制要求不值得冒人才流失的风险”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

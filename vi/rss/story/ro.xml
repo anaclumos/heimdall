@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[Heimdall]]></title>
+        <description><![CDATA[Heimdall]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>Heimdall</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/story/ro.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <language><![CDATA[ro]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title
+      ><![CDATA[„Un oraș elvețian a interzis panourile publicitare. Zurich și Berna ar putea urma în curând”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Un oraș elvețian a interzis panourile publicitare. Zurich și Berna ar putea urma în curând”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Crawler-ele AI trebuie să fie mai respectuoase”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A existat o creștere semnificativă a accesărilor abuzive ale site-urilor de către produse AI, cauzând probleme pentru site-uri precum Read the Docs din cauza utilizării excesive a lățimii de bandă și a costurilor.”</li>
+<li>„Exemplele includ un crawler care a descărcat 73 TB de date în mai 2024, costând peste 5.000 de dolari, și un altul care a folosit downloader-ul de conținut al Facebook pentru a descărca 10 TB în iunie 2024.”</li>
+<li>„În ciuda limitării ratei bazate pe IP, acești crawlere folosesc multiple adrese IP, făcând-o ineficientă; acțiunile întreprinse includ blocarea crawlerelor AI identificate și îmbunătățirea cache-ului CDN.”</li>
+</ul>
+]]></description>
+            <link>https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Crawler-ele AI trebuie să fie mai respectuoase”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Un clon al Deluxe Paint II scris în Python”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„PyDPainter este un program de artă pixel dezvoltat în Python folosind PyGame, inspirat de versiunea din 1985 pentru Commodore Amiga a Deluxe Paint de la Electronic Arts.”</li>
+<li>„Programul își propune să modernizeze clasicul instrument Deluxe Paint cu funcții noi, răspunzând interesului reînviat pentru arta pixelilor datorită tendinței retro.”</li>
+<li>„Ultima versiune a PyDPainter este disponibilă pe GitHub și este licențiată sub GPLv3 sau o versiune ulterioară.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/mriale/PyDPainter</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Un clon al Deluxe Paint II scris în Python”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Finanțarea startup-urilor pentru fondatori – Partea I, Contabilitate (2016)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Articolul face parte dintr-o serie în două părți despre finanțele startup-urilor, concentrându-se pe contabilitate în Partea I și pe finanțele strategice în Partea a II-a.”</li>
+<li>„Subiectele cheie abordate includ configurarea unei structuri sigure pentru conturile bancare, gestionarea limitelor cardurilor de credit și trecerea de la Stripe la contracte și facturi pe hârtie pe măsură ce baza de clienți a crescut.”</li>
+<li>„Autorul împărtășește perspective practice din experiența lor la Segment, care a crescut semnificativ și a strâns 44 de milioane de dolari, subliniind importanța înțelegerii contabilității de bază pentru fondatorii de startup-uri.”</li>
+</ul>
+]]></description>
+            <link>https://rein.pk/startup-finance-for-founders-part-i-accounting</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Finanțarea startup-urilor pentru fondatori – Partea I, Contabilitate (2016)”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Învățare automată aplicată pentru date tabelare”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„„Applied Machine Learning for Tabular Data” de Max Kuhn și Kjell Johnson este un ghid practic pentru dezvoltarea de modele predictive din date tabelare, care urmează să fie publicat în iunie 2024.”</li>
+<li>„Cartea acoperă întregul proces de modelare predictivă, inclusiv ingineria caracteristicilor și activitățile post-modelare, și este licențiată sub CC BY-NC-SA 4.0, permițând utilizarea și adaptarea necomercială.”</li>
+<li>„Destinată analiștilor de date, statisticienilor și oamenilor de știință în domeniul datelor, cartea oferă exerciții și suplimente de calcul, utilizând în principal cadrul tidymodels al R, și încurajează contribuțiile comunității prin GitHub.”</li>
+</ul>
+]]></description>
+            <link>https://aml4td.org/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Învățare automată aplicată pentru date tabelare”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Bcachefs, o Introducere/Explorare”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Bcachefs este un nou sistem de fișiere conceput pentru a depăși limitările sistemelor de fișiere existente, oferind caracteristici și îmbunătățiri unice.”</li>
+<li>„Suportă niveluri RAID experimentale (0, 1, 5, 6) și codare de ștergere, deși unele nu sunt încă recomandate pentru utilizare.”</li>
+<li>„Bcachefs este încă în dezvoltare, cu îmbunătățiri continue și asistență din partea comunității necesară pentru gestionarea multi-dispozitivelor și integrarea sistemului.”</li>
+</ul>
+]]></description>
+            <link>http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Bcachefs, o Introducere/Explorare”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Zulip 9.0: Chat organizat pentru echipe distribuite”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Zulip Server 9.0 a fost lansat, având sute de actualizări și corecturi de erori, îmbunătățindu-i utilizabilitatea pentru munca la distanță și hibridă.”</li>
+<li>„Actualizările cheie includ o reproiectare a interfeței utilizatorului, îmbunătățirea compunerii mesajelor, schimbări de terminologie, căutare îmbunătățită și o mai bună integrare a utilizatorilor noi.”</li>
+<li>„Noi integrări, suport pentru Ubuntu 24.04 și aplicații mobile de nouă generație construite cu Flutter se numără printre îmbunătățirile semnificative.”</li>
+</ul>
+]]></description>
+            <link>https://blog.zulip.com/2024/07/25/zulip-9-0-released/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Zulip 9.0: Chat organizat pentru echipe distribuite”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Elveția impune agențiilor guvernamentale să utilizeze software open-source”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Elveția a adoptat o lege care obligă agențiile guvernamentale să utilizeze software open-source (OSS) și să publice noul cod guvernamental sub licențe open-source, cunoscută sub denumirea de „Legea federală privind utilizarea mijloacelor electronice pentru îndeplinirea sarcinilor guvernamentale” (EMBAG).”</li>
+<li>„Această inițiativă are ca scop îmbunătățirea transparenței, securității și eficienței prin punerea la dispoziția publicului a datelor guvernamentale care nu sunt personale și nu sunt sensibile din punct de vedere al securității.”</li>
+<li>„Mișcarea Elveției se aliniază cu inițiative europene similare și ar putea inspira adoptarea suplimentară a OSS în Europa și SUA.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Elveția impune agențiilor guvernamentale să utilizeze software open-source”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Departamentul Apărării al SUA – Detectarea BS-ului Agile [pdf] (2018)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Departamentul Apărării al SUA – Detectarea BS-ului Agile [pdf] (2018)”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Nu există nicio soluție pentru prăbușirea procesoarelor Intel din generațiile 13 și 14 – deteriorarea este permanentă”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Procesoarele Intel din generațiile 13 și 14 au o problemă de blocare din cauza tensiunilor ridicate și a defectelor de fabricație, care nu poate fi remediată dacă daunele au apărut deja.”</li>
+<li>„Un patch pentru a preveni problemele viitoare este așteptat la mijlocul lunii august, dar procesoarele deteriorate vor trebui înlocuite; Intel nu va rechema sau extinde garanțiile.”</li>
+<li>„Utilizatorii afectați ar trebui să își actualizeze BIOS-ul și să contacteze Suportul pentru Clienți Intel, deoarece problema poate afecta orice procesor desktop din generația a 13-a sau a 14-a care consumă 65W sau mai mult.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Nu există nicio soluție pentru prăbușirea procesoarelor Intel din generațiile 13 și 14 – deteriorarea este permanentă”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Stripe achiziționează Lemon Squeezy”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Stripe a achiziționat Lemon Squeezy, o platformă lansată în 2021 pentru a simplifica vânzarea produselor digitale la nivel global.”</li>
+<li>„Lemon Squeezy a atins peste 1 milion de dolari în venituri anuale recurente în decurs de nouă luni de la lansare.”</li>
+<li>„Achiziția are ca scop îmbunătățirea ofertelor Lemon Squeezy cu capacitățile de plată ale Stripe, promițând o experiență mai bună pentru clienți și fiabilitate.”</li>
+</ul>
+]]></description>
+            <link>https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Stripe achiziționează Lemon Squeezy”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Traficul feroviar de mare viteză din Franța perturbat de 'acte răuvoitoare' la ceremonia olimpică”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Rețeaua feroviară de mare viteză a Franței, inclusiv TGV-ul, a întâmpinat perturbări semnificative din cauza unor „acte răuvoitoare” precum incendierea, chiar înainte de Jocurile Olimpice de la Paris.”</li>
+<li>„Atacurile au deteriorat cablurile de fibră optică esențiale pentru siguranța trenurilor, afectând 800.000 de pasageri și provocând anulări și întârzieri pe scară largă, cu reparații care se așteaptă să dureze tot weekendul.”</li>
+<li>„Oficialii francezi au condamnat atacurile drept „acțiuni criminale” și au lansat o investigație, cu pedepse potențiale de până la 20 de ani de închisoare și amenzi substanțiale.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Traficul feroviar de mare viteză din Franța perturbat de &apos;acte răuvoitoare&apos; la ceremonia olimpică”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Rețeaua feroviară franceză afectată de 'acte răuvoitoare' înaintea Jocurilor Olimpice de la Paris”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-26T00:00:00.000Z„Rețeaua feroviară franceză afectată de &apos;acte răuvoitoare&apos; înaintea Jocurilor Olimpice de la Paris”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Baza de date a tuturor startup-urilor finanțate”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z„Baza de date a tuturor startup-urilor finanțate”</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Node.js adaugă suport experimental pentru TypeScript”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Node.js a introdus o nouă funcție pentru a executa fișiere TypeScript folosind flag-ul <code>--experimental-strip-types</code>, care transpilează TypeScript în JavaScript fără verificarea tipurilor.”</li>
+<li>„Această funcție utilizează <code>@swc/wasm-typescript</code> pentru o transpilație eficientă și simplă, având ca scop reducerea necesității dependențelor externe atunci când se rulează fișiere TypeScript.”</li>
+<li>„Funcționalitatea este experimentală și disponibilă în versiunea nightly, cu discuții în desfășurare despre îmbunătățiri suplimentare, cum ar fi suportul pentru importuri fără extensii.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/nodejs/node/pull/53725</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Node.js adaugă suport experimental pentru TypeScript”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Fiecare companie ar trebui să fie deținută de angajații săi”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Central States Manufacturing exemplifică proprietatea angajaților, având 47 de milionari printre muncitorii săi datorită deținerii de acțiuni.”</li>
+<li>„Planurile de Proprietate a Acțiunilor pentru Angajați (ESOP) se extind în SUA, cu 6.533 de companii și 14,7 milioane de angajați beneficiind de acest model.”</li>
+<li>„Planurile de acțiuni pentru angajați (ESOP) oferă avantaje fiscale, îmbunătățesc performanța companiei și cresc retenția angajaților prin cultivarea unui sentiment de proprietate.”</li>
+</ul>
+]]></description>
+            <link>https://www.elysian.press/p/employee-ownership</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Fiecare companie ar trebui să fie deținută de angajații săi”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Investigarea skin-urilor corupte pentru Winamp”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„În timp ce explora colecția Muzeului de Skin-uri Winamp, autorul a descoperit skin-uri corupte și a decis să investigheze, ceea ce a dus la descoperiri surprinzătoare.”</li>
+<li>„Investigația a dezvăluit diverse obiecte ascunse, inclusiv fișiere criptate, scrisori personale, parole de e-mail, o biografie secretă a lui Chet Baker, fișiere audio criptice și un executabil de joc numit worm.exe.”</li>
+<li>„Autorul a găsit 127 de piei în alte piei, dintre care 54 erau noi adăugiri la muzeu, prezentând o aventură fascinantă și ciudată, alimentată de dragostea pentru Winamp și obiectele găsite.”</li>
+</ul>
+]]></description>
+            <link>https://jordaneldredge.com/notes/corrupted-skins/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Investigarea skin-urilor corupte pentru Winamp”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Inteligența artificială rezolvă problemele Olimpiadei Internaționale de Matematică la nivel de medalie de argint”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Sistemele de inteligență artificială AlphaProof și AlphaGeometry 2 au atins un standard de medalie de argint, rezolvând patru din cele șase probleme la Olimpiada Internațională de Matematică (IMO) din 2024.”</li>
+<li>„AlphaProof, folosind învățarea prin întărire și limbajul formal Lean, a rezolvat două probleme de algebră și o problemă de teoria numerelor, inclusiv cea mai dificilă problemă din competiție.”</li>
+<li>„AlphaGeometry 2, un sistem hibrid neuro-simbolic, a rezolvat o problemă de geometrie în 19 secunde, contribuind la scorul de 28 din 42 de puncte al sistemului AI combinat.”</li>
+</ul>
+]]></description>
+            <link>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Inteligența artificială rezolvă problemele Olimpiadei Internaționale de Matematică la nivel de medalie de argint”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Apple Maps pe web se lansează în versiune beta”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Apple Maps este acum disponibil în versiune beta publică pe web, permițând utilizatorilor să acceseze Hărți din browserele lor la nivel global.”</li>
+<li>„Caracteristicile includ indicații de conducere și mers pe jos, fotografii ale locurilor, ore de funcționare, evaluări, recenzii, comenzi de mâncare și Ghiduri curate, cu Look Around care va fi disponibil în curând.”</li>
+<li>„În prezent, suportă Safari și Chrome pe Mac și iPad, și Chrome și Edge pe PC-uri cu Windows, urmând să fie adăugate mai multe limbi, browsere și platforme în timp.”</li>
+</ul>
+]]></description>
+            <link>https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Apple Maps pe web se lansează în versiune beta”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Dungeons and Dragons m-a învățat cum să scriu text alternativ”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Jocul Dungeons &amp; Dragons (D&amp;D) a ajutat autorul să dezvolte abilități valoroase, inclusiv scrierea de text alternativ eficient pentru imagini.”</li>
+<li>„Metoda „teatrului minții” în D&amp;D, care se bazează pe povestirea verbală, l-a învățat pe autor să prioritizeze descrierile clare și captivante.”</li>
+<li>„Scrierea textului alternativ, similară cu narațiunea D&amp;D, necesită accentuarea detaliilor importante mai întâi și adăugarea contextului și emoției, cu resurse precum Inițiativa pentru Accesibilitate Web și BBC GEL care ajută la îmbunătățirea abilităților.”</li>
+</ul>
+]]></description>
+            <link>https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Dungeons and Dragons m-a învățat cum să scriu text alternativ”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„CrowdStrike va fi răspunzătoare pentru daune în Franța, pe baza precedentului OVH”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„CrowdStrike ar putea fi responsabilă pentru daune în Franța, trăgând paralele cu precedentul OVH, unde un incendiu a dus la procese de succes împotriva OVH.”</li>
+<li>„O actualizare recentă de la CrowdStrike a dezactivat 8,5 milioane de computere, cauzând daune de peste 5,4 miliarde de dolari și perturbând industrii critice.”</li>
+<li>„Incidentul subliniază neglijența din cauza lipsei de lansări etapizate și testări, în ciuda solicitărilor clienților, ceea ce ar putea duce la numeroase cereri de despăgubire și rezilieri de contracte.”</li>
+</ul>
+]]></description>
+            <link
+      >https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„CrowdStrike va fi răspunzătoare pentru daune în Franța, pe baza precedentului OVH”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Membru al parlamentului UE lovit de spyware-ul Candiru israelian”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Europarlamentarul Daniel Freund, cunoscut pentru criticile sale la adresa Ungariei, a fost ținta unui atac cu spyware, probabil implicând compania israeliană Candiru.”</li>
+<li>„Ungaria, împreună cu Polonia, Grecia, Cipru și Spania, are o istorie de spionaj ilegal asupra cetățenilor săi, ridicând îngrijorări cu privire la confidențialitate și supraveghere în aceste țări.”</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/moo9000/status/1816352054425829420</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Membru al parlamentului UE lovit de spyware-ul Candiru israelian”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Un set de date multimodal cu un trilion de tokenuri”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„MINT-1T este un set de date open-source care conține un trilion de tokeni de text și 3,4 miliarde de imagini, reprezentând o creștere de aproximativ 10 ori față de seturile de date existente.”</li>
+<li>„Setul de date include surse noi, cum ar fi PDF-uri și lucrări ArXiv, și toate subseturile sunt lansate, inclusiv date HTML și PDF din diverse instantanee CommonCrawl.”</li>
+<li>„Setul de date MINT-1T a fost lansat oficial ca sursă deschisă pe 24 iulie 2024, cu un raport tehnic publicat pe 17 iunie 2024.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/mlfoundations/MINT-1T</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Un set de date multimodal cu un trilion de tokenuri”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Inginerie inversă pentru toată lumea”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Postarea introduce un set cuprinzător de cursuri de inginerie inversă care acoperă arhitecturile x86, x64, ARM-32 și ARM-64, destinat începătorilor.”</li>
+<li>„Cursurile includ module detaliate despre limbajul de asamblare, depanare, hacking și concepte fundamentale de arhitectură a calculatoarelor.”</li>
+<li>„Setul de tutoriale este disponibil pentru descărcare în format PDF sau MOBI, făcându-l accesibil pentru studiu offline.”</li>
+</ul>
+]]></description>
+            <link>https://0xinfection.github.io/reversing/</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Inginerie inversă pentru toată lumea”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„X redesenează emoji-ul pistolului cu apă înapoi într-o armă de foc”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„X (fostul Twitter) și-a redesenat emoji-ul 🔫 Pistol cu apă pentru a fi afișat ca o armă de foc, inversând schimbarea din perioada 2016-2018 către un pistol cu apă.”</li>
+<li>„Această actualizare a început să fie lansată pe 18 iulie 2024 și este disponibilă în prezent prin clientul web X, cu planuri de a actualiza redarea pe mobil în curând.”</li>
+<li>„Schimbarea marchează prima actualizare a setului Twemoji de la X de anul trecut din iulie, divergenți de la schimbarea inițială a designului între furnizori, condusă de Apple în 2016.”</li>
+</ul>
+]]></description>
+            <link>https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„X redesenează emoji-ul pistolului cu apă înapoi într-o armă de foc”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Algoritmul meu preferat: Găsirea medianei în timp liniar (2018)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Postarea discută algoritmul medianei-medianelor, care găsește mediana în timp liniar determinist, făcându-l teoretic eficient.”</li>
+<li>„Acesta contrastează cu Quickselect, un algoritm care de obicei găsește mediana în timp liniar mediu, dar poate fi mai puțin fiabil în scenarii de cazuri extreme.”</li>
+<li>„Algoritmul medianei medianelor asigură o selecție bună a pivotului pentru Quickselect, îmbunătățindu-i eficiența, deși în practică este adesea mai lent comparativ cu metodele mai simple, cum ar fi selecția pivotului aleatoriu.”</li>
+</ul>
+]]></description>
+            <link>https://rcoh.me/posts/linear-time-median-finding/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Algoritmul meu preferat: Găsirea medianei în timp liniar (2018)”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„OpenAI anunță SearchGPT”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„SearchGPT este un prototip de noi funcții de căutare care utilizează modele AI pentru a oferi răspunsuri rapide cu surse clare.”</li>
+<li>„Serviciul oferă informații în timp real din surse relevante, rezultate vizuale și permite întrebări de urmărire naturale, conversaționale.”</li>
+<li>„Utilizatorii se pot înscrie pe lista de așteptare pentru a încerca SearchGPT, iar feedback-ul va fi folosit pentru a integra cele mai bune funcții în ChatGPT.”</li>
+</ul>
+]]></description>
+            <link>https://chatgpt.com/search</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„OpenAI anunță SearchGPT”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Generarea de sudoku-uri pentru distracție și fără profit”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Tom Nick a dezvoltat o aplicație Sudoku gratuită și open-source, sudoku.tn1ck.com, inițial pentru bunica sa, ceea ce a dus la explorarea generării Sudoku și evaluării dificultății.”</li>
+<li>„Diferite algoritmi, inclusiv Forța Brută, Valoarea Minimă Rămasă și Consistența Arcelor (AC3), sunt folosiți pentru a rezolva și genera Sudoku-uri, cu dificultatea măsurată prin numărul de iterații ale solverului.”</li>
+<li>„Aplicația generează Sudoku-uri de niveluri de dificultate specifice prin completarea grilelor cu numere aleatorii, ajustarea celulelor completate și repornirea dacă nu se atinge dificultatea dorită, asigurând o experiență de utilizare distractivă și provocatoare.”</li>
+</ul>
+]]></description>
+            <link>https://tn1ck.com/blog/how-to-generate-sudokus</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-25T00:00:00.000Z„Generarea de sudoku-uri pentru distracție și fără profit”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Google Search: Roboto Mono”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Roboto Mono este un font monospat din familia de tipuri Roboto, optimizat pentru lizibilitatea pe ecran și disponibil pentru descărcare gratuită.”</li>
+<li>„Familia de fonturi oferă o gamă de greutăți de la 100 la 700, inclusiv variante cursive, și poate fi găzduită autonom prin NPM.”</li>
+<li>„Roboto Mono este larg accesibil prin platforme precum Google Fonts, Adobe Fonts și diverse depozite gratuite de fonturi.”</li>
+</ul>
+]]></description>
+            <link>https://www.google.com/search?q=roboto+mono+font</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z„Google Search: Roboto Mono”</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Explozie hidrotermală în Parcul Național Yellowstone”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Serviciul Forestier lucrează pentru a închide părți ale sistemului de trasee Mike Harris.”</li>
+<li>„Pepiniera MD a fost amendată cu peste 28.000 de dolari din cauza morții unui bărbat într-un șanț.”</li>
+<li>„O explozie hidrotermală în Biscuit Basin din Yellowstone a determinat turiștii să fugă.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Explozie hidrotermală în Parcul Național Yellowstone”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Suficient de mare – Mistral AI”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Mistral AI a lansat modelul Mistral Large 2, care dispune de o fereastră de context de 128k și suport pentru peste 80 de limbaje de programare, optimizat pentru inferență pe un singur nod cu 123 de miliarde de parametri.”</li>
+<li>„Modelul atinge o acuratețe de 84,0% pe MMLU, depășind modelele anterioare și rivalii precum GPT-4o și Llama 3 405B, cu capacități îmbunătățite pentru a minimiza „halucinațiile” și a îmbunătăți raționamentul.”</li>
+<li>„Mistral Large 2 este disponibil sub diferite licențe pentru utilizare necomercială și comercială, cu greutăți găzduite pe HuggingFace și parteneriate extinse de servicii cloud, inclusiv Google Cloud Platform și Azure AI Studio.”</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-large-2407/</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Suficient de mare – Mistral AI”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Preluând tratamentul diabetului în propriile mele mâini”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un diabetic de tip 1 a dezvoltat o aplicație Windows Forms cu grafice OxyPlot pentru a vizualiza și gestiona mai bine aportul de insulină și carbohidrați.”</li>
+<li>„Individul a folosit GeneticSharp, o bibliotecă de algoritmi genetici, pentru a optimiza dozele de insulină, stabilizând cu succes nivelurile de glucoză.”</li>
+<li>„Abordarea arată promisiuni pentru gestionarea personalizată a diabetului, deși sunt necesare simulări suplimentare și ajustări pentru insulina cu acțiune îndelungată.”</li>
+</ul>
+]]></description>
+            <link>https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Preluând tratamentul diabetului în propriile mele mâini”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Google este singurul motor de căutare care funcționează acum pe Reddit, datorită unui acord cu AI”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Google este acum singurul motor de căutare care poate afișa rezultate recente de pe Reddit, făcând conținutul Reddit exclusiv pentru Google.”</li>
+<li>„Alte motoare de căutare precum Bing, DuckDuckGo și Qwant nu pot afișa rezultate recente de pe Reddit, DuckDuckGo oferind linkuri limitate fără descrieri.”</li>
+<li>„Această situație subliniază aproape monopolul Google asupra căutărilor, afectând concurența și atrăgând critici asupra calității căutărilor, cu speculații despre un acord de milioane de dolari care permite Google să extragă date de pe Reddit pentru antrenarea inteligenței artificiale.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Google este singurul motor de căutare care funcționează acum pe Reddit, datorită unui acord cu AI”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Puteți renunța la scanările faciale din aeroport”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Călătorii pot renunța la recunoașterea facială în aeroport stând departe de cameră, prezentându-și actul de identitate și declarând: „Renunț la biometrie.””</li>
+<li>„Campania „Freedom Flyers” a Ligii pentru Justiție Algoritmică își propune să crească gradul de conștientizare cu privire la acest drept, mai ales în contextul în care TSA intenționează să extindă recunoașterea facială în toate aeroporturile din SUA.”</li>
+<li>„Recunoașterea facială prezintă riscuri precum încălcări ale datelor, identificare greșită, prejudecăți ale inteligenței artificiale și normalizarea supravegherii, cu preocupări semnificative legate de confidențialitatea privind păstrarea și utilizarea datelor biometrice.”</li>
+</ul>
+]]></description>
+            <link>https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Puteți renunța la scanările faciale din aeroport”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„CrowdStrike oferă un card cadou de 10 dolari ca scuză pentru întrerupere”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„CrowdStrike, o firmă de securitate cibernetică, a cauzat o întrerupere globală pe 19 iulie din cauza unei actualizări defectuoase, afectând milioane de computere și ducând la perturbări semnificative, cum ar fi întârzieri în aeroporturi și oprirea intervențiilor chirurgicale.”</li>
+<li>„Ca scuză, compania a oferit carduri cadou Uber Eats de 10 dolari partenerilor săi, dar unii destinatari au raportat că voucherele erau invalide.”</li>
+<li>„CEO-ul și ofițerul șef de securitate al CrowdStrike și-au cerut scuze publice, recunoscând gravitatea incidentului și angajându-se la transparență și măsuri de prevenire viitoare.”</li>
+</ul>
+]]></description>
+            <link
+      >https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„CrowdStrike oferă un card cadou de 10 dolari ca scuză pentru întrerupere”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Cum arată „consimțământul” pentru DEA și TSA”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„DEA și TSA au colaborat pentru a confisca banii călătorilor, vizând persoanele care transportă sume mari de numerar, folosind informatori și puncte de control TSA pentru a identifica indivizii și susținând că aceștia „consimt” la percheziții.”</li>
+<li>„Această practică, care se extinde la trenurile Amtrak cu ajutorul Vămilor și Protecției Frontierei din SUA, implică „confiscarea civilă” în care banii sunt confiscați fără mandat, adesea ignorând refuzul pasagerilor de a consimți.”</li>
+<li>„Un proces colectiv aflat în desfășurare evidențiază frecvența acestor percheziții ilegale, reclamanții argumentând că volumul înregistrărilor indică o problemă sistemică, în ciuda rezistenței DEA și TSA de a dezvălui aceste înregistrări.”</li>
+</ul>
+]]></description>
+            <link>https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Cum arată „consimțământul” pentru DEA și TSA”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Llama 3.1 în C”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„A fost lansată o nouă implementare bazată pe C pentru inferența pe modelele Transformer Llama 2 și Llama 3/3.1, care include trecerea înainte cuantificată în int8.”</li>
+<li>„Codul include suport pentru diverse medii, cum ar fi Linux Kernel, Unikraft Unikernel și modele încorporate prin intermediul arhivei Zip.”</li>
+<li>„Utilizatorii pot personaliza parametri precum temperatura, eșantionarea top-p și versiunea modelului prin argumente din linia de comandă, sporind flexibilitatea pentru diferite cazuri de utilizare.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/trholding/llama2.c/blob/master/runq.c</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Llama 3.1 în C”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Originea Emacs în 1976”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„EMACS, un editor de text, a fost dezvoltat la MIT AI Lab în 1976, Richard Stallman (RMS) devenind principalul dezvoltator până la sfârșitul acelui an.”</li>
+<li>„RMS a numit „E” și „EMACS” și a jucat un rol crucial în transformarea macrocomenzilor TECO într-un editor puternic, cu ajutorul inițial al lui Guy Steele, David Moon și John Kulp.”</li>
+<li>„Comunitatea timpurie de utilizatori, inclusiv Moon, a contribuit la legăturile de taste și la denumirile comenzilor, evidențiind natura colaborativă și orientată spre comunitate a dezvoltării EMACS.”</li>
+</ul>
+]]></description>
+            <link>https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Originea Emacs în 1976”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Scrapscript: Un limbaj de programare funcțional, adresabil prin conținut”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Scrapscript este un limbaj de programare cu un interpret disponibil pentru Python 3.8+ și Cosmopolitan, și suportă Docker pentru execuție containerizată.”</li>
+<li>„Sintaxa Scrapscript urmează să fie actualizată în curând, iar utilizatorii pot consulta <code>scrapscript.py</code> și testele acestuia pentru a înțelege limbajul.”</li>
+<li>„Un compilator experimental este disponibil, capabil să producă ieșiri în formatele ELF, Cosmopolitan și Wasm, cu comenzi specifice furnizate pentru fiecare.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/tekknolagi/scrapscript</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Scrapscript: Un limbaj de programare funcțional, adresabil prin conținut”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Ai obținut un rezultat nul. Va publica cineva acest lucru?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Cercetătorii se confruntă cu provocări în publicarea rezultatelor nule, care nu arată nicio relație semnificativă între variabile, ceea ce duce la o tendință de favorizare a constatărilor pozitive.”</li>
+<li>„Această părtinire a publicațiilor distorsionează înregistrările științifice și irosește resursele, așa cum se vede în studiul neconcludent al biologului evoluționist Natalie Pilakouta despre preferințele peștilor în izvoarele termale din Islanda.”</li>
+<li>„Eforturile de a aborda această problemă includ reviste care încurajează rapoartele pre-înregistrate, dar adoptarea lentă și percepția că rezultatele nule indică cercetări defectuoase rămân obstacole semnificative.”</li>
+</ul>
+]]></description>
+            <link>https://www.nature.com/articles/d41586-024-02383-9</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Ai obținut un rezultat nul. Va publica cineva acest lucru?”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Am creat glhf.chat – rulează aproape orice LLM open-source, inclusiv 405B”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un nou site web, <a href="https://glhf.chat/">https://glhf.chat/</a>, permite utilizatorilor să ruleze aproape orice LLM (Model de Limbaj de Mari Dimensiuni) open-source pe clustere GPU cu scalare automată gratuit în timpul fazei de determinare a prețurilor.”</li>
+<li>„Serviciul suportă orice model compatibil cu proiectul open-source vLLM, oferind până la ~640GB de VRAM și își propune să fie mai rentabil decât alte servicii GPU prin rularea modelelor în regim multi-tenant.”</li>
+<li>„Platforma a fost lansată în ziua de lansare Llama-3.1-405B și suportă modele eficiente precum Llama-3-70b finetunes, cu planuri de a îmbunătăți suportul pentru modele mai mari și de a aborda limitările actuale.”</li>
+</ul>
+]]></description>
+            <link>https://glhf.chat/landing/home</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Am creat glhf.chat – rulează aproape orice LLM open-source, inclusiv 405B”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pnut: Un compilator C către shell POSIX în care poți avea încredere”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Pnut este un transpiler de la C la shell POSIX care convertește programele C în scripturi shell ușor de citit de către oameni, asigurând o portabilitate ridicată între shell-urile compatibile POSIX.”</li>
+<li>„Le permite dezvoltatorilor să scrie scripturi în C fără a fi nevoie să învețe o limbă nouă, iar rezultatul este ușor de inspectat, depanat și întreținut.”</li>
+<li>„Pnut funcționează pe toate sistemele de operare majore, inclusiv Linux, macOS și Windows, și este licențiat sub Licența BSD-2 Clause.”</li>
+</ul>
+]]></description>
+            <link>https://pnut.sh</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„Pnut: Un compilator C către shell POSIX în care poți avea încredere”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„MPPP – Primul dezastru al 'drogurilor de designer' (2023)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„MPPP (1-metil-4-fenil-4-propionoxipiperidină) este un drog de sinteză raportat pentru prima dată în 1947, destinat ca analgezic, dar s-a constatat că nu este mai bun decât opțiunile existente.”</li>
+<li>„În 1976, Barry Kidston a sintetizat MPPP și a dezvoltat simptome asemănătoare Parkinsonului din cauza unei impurități, MPTP, care ucide selectiv celulele cruciale pentru controlul motor.”</li>
+<li>„Epidemia din 1982 de simptome ale bolii Parkinson legate de heroina sintetică contaminată cu MPTP a condus la descoperiri științifice semnificative despre boala Parkinson și a evidențiat pericolele sintezei de droguri realizate de amatori.”</li>
+</ul>
+]]></description>
+            <link>https://www.chm.bris.ac.uk/motm/mppp/mppph.htm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-24T00:00:00.000Z„MPPP – Primul dezastru al &apos;drogurilor de designer&apos; (2023)”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Micromouse”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Micromouse este o competiție de robotică în care mici roboți autonomi rezolvă un labirint de 16×16, apărută la sfârșitul anilor 1970 și populară în mai multe țări, inclusiv în Marea Britanie, SUA și Japonia.”</li>
+<li>„Roboții folosesc algoritmi precum Bellman flood-fill, Dijkstra și A* pentru navigare, cu viteze maxime care depășesc trei metri pe secundă; recordul mondial actual este de 3,921 secunde, deținut de Ng Beng Kiat.”</li>
+<li>„Progresele recente includ utilizarea ventilatoarelor pentru forță suplimentară de apăsare, permițând accelerări de peste 2,5g, iar o variantă numită Half-Size Micromouse folosește un labirint de 32×32 cu dimensiuni mai mici.”</li>
+</ul>
+]]></description>
+            <link>https://en.wikipedia.org/wiki/Micromouse</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z„Micromouse”</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Inteligența artificială open source este calea de urmat”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Linux-ul open-source a devenit standardul industriei pentru cloud computing și dispozitive mobile datorită capacității sale de a fi modificat, accesibilității și caracteristicilor avansate, similar cu traiectoria așteptată a inteligenței artificiale.”</li>
+<li>„Meta a lansat Llama 3.1 405B, primul model AI open-source de nivel frontieră, împreună cu modele îmbunătățite de 70B și 8B, subliniind un raport mai bun cost/performanță și adecvarea pentru ajustări fine.”</li>
+<li>„Meta colaborează cu companii precum Amazon, Databricks și NVIDIA pentru a sprijini dezvoltatorii, având ca scop transformarea AI open-source în standardul industriei, promovând transparența, securitatea și creșterea economică.”</li>
+</ul>
+]]></description>
+            <link>https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Inteligența artificială open source este calea de urmat”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Kawaii – Un Nintendo Wii de dimensiunea unui breloc”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://bitbuilt.net/forums/index.php?threads/kawaii.6474/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Kawaii – Un Nintendo Wii de dimensiunea unui breloc”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Timeshift: Instrument de Restaurare a Sistemului pentru Linux”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Timeshift pentru Linux este un instrument de backup al sistemului similar cu Windows System Restore și Mac OS Time Machine, concentrându-se pe fișierele și setările sistemului.”</li>
+<li>„Suportă două moduri: RSYNC (folosind rsync și hard-link-uri) și BTRFS (folosind caracteristicile sistemului de fișiere BTRFS), acesta din urmă necesitând un aranjament specific al subvolumelor.”</li>
+<li>„Dezvoltat de Tony George și acum parte a proiectului Xapp de către Linux Mint, Timeshift oferă funcții precum niveluri multiple de snapshot, restaurări între distribuții și hook-uri post-restaurare, cu instrucțiuni de instalare disponibile pentru diverse distribuții Linux.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/linuxmint/timeshift</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Timeshift: Instrument de Restaurare a Sistemului pentru Linux”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Actualizare din iulie 2024 privind rapoartele de instabilitate ale procesoarelor desktop Intel Core din generațiile 13 și 14”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Intel a identificat instabilitate în procesoarele sale desktop din generațiile 13 și 14, cauzată de o tensiune de operare ridicată dintr-un algoritm de microcod.”</li>
+<li>„Un patch de microcod pentru a rezolva această problemă este așteptat până la mijlocul lunii august, iar Intel sfătuiește clienții afectați să contacteze asistența pentru ajutor.”</li>
+<li>„Utilizatorii și-au exprimat îngrijorările cu privire la posibilele daune pe termen lung ale procesorului, necesitatea actualizărilor BIOS și au raportat probleme legate de RMA (Return Merchandise Authorization) în timp ce căutau îndrumări pentru gestionarea instabilității până la lansarea patch-ului.”</li>
+</ul>
+]]></description>
+            <link
+      >https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Actualizare din iulie 2024 privind rapoartele de instabilitate ale procesoarelor desktop Intel Core din generațiile 13 și 14”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Proiectarea bazei de date pentru Google Calendar: Un tutorial”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Tutorialul realizat de Alexey Makhotkin oferă un ghid cuprinzător pentru proiectarea tabelelor de baze de date pentru un clon Google Calendar, urmând abordarea din viitoarea carte „Database Design using Minimal Modeling.””</li>
+<li>„Acoperă modelul logic în detaliu, explicând cum să gestionezi evenimentele de o zi întreagă, evenimentele bazate pe timp și evenimentele repetate, apoi trece la crearea tabelelor SQL fizice.”</li>
+<li>„Tutorialul este destinat cititorilor cu o înțelegere generală a bazelor de date, ajutându-i să treacă de la idei conceptuale la definiții complete ale tabelelor de baze de date și include pași practici pentru implementarea designului.”</li>
+</ul>
+]]></description>
+            <link>https://kb.databasedesignbook.com/posts/google-calendar/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Proiectarea bazei de date pentru Google Calendar: Un tutorial”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Eleganța tabelului ASCII”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Tabelul ASCII, standardizat în 1963, atribuie semnificații pentru 100 din cele 128 de puncte de cod binar posibile pe 7 biți și rămâne relevant și astăzi, în special datorită compatibilității retroactive a codificării UTF-8.”</li>
+<li>„Tabelul include coduri de control, caractere tipăribile și urmează modele binare specifice, caracterul spațiu fiind primul caracter tipăribil în scopuri de sortare.”</li>
+<li>„Designul ASCII este logic și plăcut din punct de vedere estetic, făcându-l coerent pentru oameni să învețe și să înțeleagă, reflectând semnificația sa istorică și logica rafinată.”</li>
+</ul>
+]]></description>
+            <link>https://danq.me/2024/07/21/ascii/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Eleganța tabelului ASCII”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Este posibil să obții salarii de tip FAANG fără să lucrezi acolo?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Diferența de salariu între companiile FAANG (Facebook, Amazon, Apple, Netflix, Google) și companiile non-FAANG este considerabilă, inginerii FAANG primind pachete de compensare semnificativ mai mari.”</li>
+<li>„Un inginer principal la o startup tipică ar putea câștiga un salariu de bază de 250.000 de dolari plus un bonus de 10-20%, în timp ce un inginer principal la o companie FAANG ar putea primi un salariu de bază similar plus 1 milion de dolari în acțiuni pe parcursul a patru ani.”</li>
+<li>„Postarea întreabă dacă persoanele din afara FAANG și a marilor bănci/firme de tranzacționare de înaltă frecvență (HFT) câștigă sume comparabile și încearcă să identifice cine sunt acestea și ce roluri au.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41042123</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Este posibil să obții salarii de tip FAANG fără să lucrezi acolo?”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Llama 3.1”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Llama 3.1 este un model AI open-source disponibil în trei versiuni: 8B, 70B și 405B, care răspund diferitelor nevoi de performanță și cost.”</li>
+<li>„Suportă cazuri de utilizare avansate, inclusiv asistenți pentru codare, agenți multilingvi și raționamente complexe, cu capabilități pentru inferență în timp real și în loturi, ajustare fină și generare de date sintetice.”</li>
+<li>„Modelul a fost evaluat pe peste 150 de seturi de date, arătând performanțe ridicate în general, cod, matematică, raționament, utilizarea instrumentelor și repere multilingve.”</li>
+</ul>
+]]></description>
+            <link>https://llama.meta.com/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Llama 3.1”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Hoțul de nasturi”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Button Stealer este o extensie Chrome care elimină automat un buton de pe fiecare site web pe care îl vizitați.”</li>
+<li>„Extensia este concepută pentru a fi distractivă și este gratuită, fără utilitate practică.”</li>
+<li>„Asigură confidențialitatea datelor utilizatorului prin operarea locală pe dispozitivul utilizatorului.”</li>
+</ul>
+]]></description>
+            <link>https://anatolyzenkov.com/stolen-buttons/button-stealer</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Hoțul de nasturi”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Re: Știu oamenii din viața reală că ai un blog?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Autorul discută despre semnificația personală a menținerii unui blog timp de aproape douăzeci de ani, în ciuda indiferenței din partea oamenilor din viața reală (IRL).”</li>
+<li>„Blogul servește ca o formă de auto-exprimare și libertate, în contrast cu presiunile rețelelor sociale și ale marilor companii de tehnologie.”</li>
+<li>„Răspunsurile cititorilor evidențiază diverse perspective, inclusiv beneficiile bloggingului pentru claritatea personală, îngrijorările legate de exploatarea inteligenței artificiale și încurajarea de a scrie fără analize.”</li>
+</ul>
+]]></description>
+            <link>https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Re: Știu oamenii din viața reală că ai un blog?”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Wiz renunță la afacerea de 23 de miliarde de dolari cu Google”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Wiz a decis să renunțe la o tranzacție de achiziție de 23 de miliarde de dolari cu Google și va urmări în schimb o Ofertă Publică Inițială (IPO), așa cum a anunțat CEO-ul Assaf Rappaport.”</li>
+<li>„Decizia a fost influențată de preocupările legate de antitrust și de investitori, Wiz având ca obiectiv atingerea unui venit anual recurent de 1 miliard de dolari.”</li>
+<li>„Fondată în 2020, Wiz a crescut rapid, atingând anul trecut venituri recurente anuale de 350 de milioane de dolari și oferă produse de securitate în cloud.”</li>
+</ul>
+]]></description>
+            <link>https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Wiz renunță la afacerea de 23 de miliarde de dolari cu Google”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Intenția de a încheia serviciul OCSP”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Let’s Encrypt renunță la suportul pentru Protocolul de Stare a Certificatului Online (OCSP) în favoarea Listelor de Revocare a Certificatelor (CRL) din cauza riscurilor de confidențialitate și a eficienței resurselor.”</li>
+<li>„Această schimbare nu va afecta site-urile web sau vizitatorii, dar poate avea un impact asupra unor programe software non-browser; utilizatorii sunt sfătuiți să se asigure că software-ul lor funcționează fără un URL OCSP.”</li>
+<li>„Decizia Forumului CA/Browser face ca OCSP să fie opțional pentru Autoritățile de Certificare (CA) de încredere publică, cu Microsoft fiind singura excepție; un calendar pentru închiderea serviciilor OCSP va fi anunțat odată ce și Microsoft îl va face opțional.”</li>
+</ul>
+]]></description>
+            <link>https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Intenția de a încheia serviciul OCSP”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Stiva audio Linux demistificată (și altele)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Articolul oferă o prezentare cuprinzătoare a stivei audio Linux, explicând elementele de bază ale sunetului, percepția umană a sunetului și procesarea audio digitală.”</li>
+<li>„Componentele cheie ale stivei audio Linux includ ALSA pentru controlul hardware de nivel scăzut, JACK pentru audio în timp real cu latență redusă și PulseAudio pentru gestionarea audio de nivel superior, PipeWire emergând ca o soluție unificatoare.”</li>
+<li>„PipeWire este evidențiat ca o opțiune versatilă care integrează caracteristicile atât ale JACK, cât și ale PulseAudio, având potențialul de a le înlocui în viitoarele distribuții Linux.”</li>
+</ul>
+]]></description>
+            <link>https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Stiva audio Linux demistificată (și altele)”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Statele Unite dezvăluie numărul de focoase nucleare; restabilește transparența nucleară”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Federația Oamenilor de Știință Americani (FAS) laudă SUA pentru declasificarea numărului de focoase nucleare, sporind transparența nucleară.”</li>
+<li>„Începând cu septembrie 2023, SUA deține 3.748 de focoase nucleare, cu doar 69 dezafectate anul trecut, cel mai mic număr din 1994.”</li>
+<li>„Dezvăluirea administrației Biden restabilește transparența întreruptă de administrația Trump, iar FAS încurajează alte state nucleare să adopte o transparență similară pentru a preveni neîncrederea și dezinformarea.”</li>
+</ul>
+]]></description>
+            <link
+      >https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-23T00:00:00.000Z„Statele Unite dezvăluie numărul de focoase nucleare; restabilește transparența nucleară”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Lisp în C#”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Sharpl este un interpretator Lisp personalizat scris în C# cu aproximativ 4.000 de linii de cod și fără dependențe externe, ceea ce îl face ușor de integrat.”</li>
+<li>„Caracteristicile cheie includ perechi, tablouri, hărți, compoziții de metode, varargs, un protocol unificat de iterare și un tip decimal fix, printre altele.”</li>
+<li>„Suportă legături lexicale și dinamice, optimizarea apelurilor de coadă pentru a preveni depășirea stivei și oferă raportare detaliată a erorilor cu numere de linie.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/codr7/sharpl</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z„Lisp în C#”</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Jellyfin: Suntem buni, serios”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Jellyfin are un buget de peste 24.000 de dolari, acoperind 40 de luni de cheltuieli, și le cere utilizatorilor să redirecționeze donațiile către autorii Clienților pe care îi folosesc.”</li>
+<li>„Această solicitare se aliniază cu politica Jellyfin de „fără dezvoltare plătită”, deoarece donațiile sunt voluntare, iar proiectul va reevalua dacă fondurile scad la 12 luni de funcționare.”</li>
+<li>„Membrii comunității răspund pozitiv, cu planuri de a sprijini autorii Client și întrebări despre suportul specific pentru clienți, cum ar fi WebOS.”</li>
+</ul>
+]]></description>
+            <link>https://forum.jellyfin.org/t-we-re-good-seriously</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Jellyfin: Suntem buni, serios”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Piuneză”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Tipul Pin și conceptul de fixare sunt componente esențiale, dar adesea neînțelese, ale ecosistemului asincron al Rust.”</li>
+<li>„Pin a fost introdus pentru a susține tipurile auto-referențiale în Rust asincron, asigurându-se că obiectele nu se mută odată ce conțin auto-referințe, spre deosebire de Mojo, care gestionează în mod inerent identitatea obiectelor.”</li>
+<li>„În ciuda necesității sale, Pin introduce o complexitate semnificativă pentru utilizatori din cauza lipsei de sintaxă simplificată și suport, ceea ce duce la probleme precum reîmprumutarea, proiecțiile fixate și interacțiunile cu trăsătura Drop.”</li>
+</ul>
+]]></description>
+            <link>https://without.boats/blog/pin/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Piuneză”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Jiff: Biblioteca Datetime pentru Rust”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Jiff este o nouă bibliotecă de date și ore pentru Rust, axată pe ușurința în utilizare și performanță, inspirată de propunerea Temporal a JavaScript.”</li>
+<li>„Oferă funcții precum primitive de dată și oră de nivel înalt, integrare fără cusur cu baza de date a fusurilor orare, aritmetică conștientă de ora de vară, formatare, analizare și suport opțional pentru Serde.”</li>
+<li>„Jiff este licențiat dual sub MIT sau UNLICENSE, suportă Unix și Windows și necesită Rust 1.70.0 sau mai nou.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/BurntSushi/jiff</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Jiff: Biblioteca Datetime pentru Rust”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Fără mai multe vineri triste”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„O pană majoră pe 19 iulie cauzată de o actualizare a driverului kernel a dus la prăbușirea globală a sistemelor Windows, subliniind necesitatea unor mecanisme de actualizare mai sigure.”</li>
+<li>„eBPF (extended Berkeley Packet Filter), deja utilizat în Linux, este un mediu de execuție securizat al nucleului care poate preveni astfel de căderi și va fi în curând suportat de Windows.”</li>
+<li>„Programele eBPF sunt verificate pentru siguranță și izolate, oferind beneficii precum securitate sporită și utilizare redusă a resurselor, fiind adoptate de companii precum Cisco, Google și Meta pentru securitate și observabilitate.”</li>
+</ul>
+]]></description>
+            <link>https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Fără mai multe vineri triste”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Parsează, nu valida (2019)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Postarea subliniază principiul „Parsează, nu valida,” susținând parsearea datelor pentru a păstra informațiile în sistemul de tipuri, în loc să le elimine prin validare.”</li>
+<li>„Explică modul în care designul bazat pe tipuri în limbaje precum Haskell poate transforma funcțiile parțiale în funcții totale prin întărirea tipurilor de argumente, folosind listele <code>NonEmpty</code> ca exemplu.”</li>
+<li>„Sfaturile practice includ utilizarea structurilor de date precise, refactorizarea pentru a împinge sarcinile de verificare în sus și evitarea reprezentărilor de date denormalizate pentru a îmbunătăți fiabilitatea și siguranța programului.”</li>
+</ul>
+]]></description>
+            <link>https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Parsează, nu valida (2019)”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Când ChatGPT rezumă, nu face nimic de genul acesta”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Autorul a explorat și discutat fundamentele ChatGPT și ale altor inteligențe artificiale generative, având ca scop oferirea unor perspective realiste în contrast cu entuziasmul predominant.”</li>
+<li>„Un aspect esențial este că ChatGPT nu rezumă cu adevărat conținutul, ci doar îl scurtează, adesea omisând detalii și propuneri esențiale, așa cum reiese dintr-o comparație cu un rezumat generat de un om al unei lucrări de 50 de pagini.”</li>
+<li>„Această limitare apare deoarece rezumarea necesită înțelegere, pe care ChatGPT nu o are, ceea ce duce la scepticism cu privire la fiabilitatea LLM-urilor (Modele de Limbaj de Mari Dimensiuni) pentru aplicații practice în afaceri.”</li>
+</ul>
+]]></description>
+            <link>https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Când ChatGPT rezumă, nu face nimic de genul acesta”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Ryanair câștigă procesul privind screen scraping împotriva Booking.com într-o hotărâre a instanței din SUA”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„O instanță din SUA a decis că Booking.com a încălcat Legea privind Frauda și Abuzul Informatic prin accesarea site-ului Ryanair fără permisiune, susținând poziția Ryanair împotriva extragerii neautorizate de date.”</li>
+<li>„Juriul Curții Districtuale din Delaware a găsit Booking.com vinovat de acces neautorizat cu intenția de a frauda și a respins cererile reconvenționale ale Booking.com de defăimare și concurență neloială.”</li>
+<li>„CEO-ul Ryanair, Michael O&#39;Leary, speră că decizia va reduce screen scraping-ul ilegal și suprataxarea, în timp ce Booking.com intenționează să facă apel, argumentând că compararea tarifelor beneficiază alegerea consumatorilor.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Ryanair câștigă procesul privind screen scraping împotriva Booking.com într-o hotărâre a instanței din SUA”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Nimeni nu se așteaptă ca tinerii să facă ceva și ei răspund prin a nu face nimic (2022)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Postarea lui Rob Henderson discută lipsa așteptărilor societale pentru tinerii bărbați și consecințele negative ale acesteia, inclusiv creșterea ratei șomajului și a încarcerării.”</li>
+<li>„El face referire la „Promises I Can Keep” de Kathryn Edin și Maria Kefalas, care examinează de ce femeile cu venituri mici prioritizează adesea maternitatea în detrimentul căsătoriei, atribuind acest lucru comportamentului necorespunzător al tinerilor bărbați.”</li>
+<li>„Henderson critică clasa superioară pentru subminarea normelor de stabilitate familială în timp ce se asigură că propriii lor copii beneficiază de case stabile, argumentând că tinerii au nevoie de așteptări ridicate pentru a prospera.”</li>
+</ul>
+]]></description>
+            <link>https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Nimeni nu se așteaptă ca tinerii să facă ceva și ei răspund prin a nu face nimic (2022)”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„James C. Scott, autorul cărții Seeing Like a State, a murit”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nitter.poast.org/GerardoMunck/status/1815059432382067053</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„James C. Scott, autorul cărții Seeing Like a State, a murit”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Eza: Un înlocuitor modern și întreținut pentru ls”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„eza este un înlocuitor modern pentru comanda ls în Unix și Linux, oferind funcții îmbunătățite și setări implicite mai bune.”</li>
+<li>„Caracteristicile cheie includ tipuri de fișiere codificate pe culori, suport pentru symlink, atribute extinse, integrare Git și date ușor de citit.”</li>
+<li>„eza își propune să fie mai prietenos cu utilizatorul și mai bogat în funcții, oferind suport suplimentar pentru hyperlinkuri, detalii despre punctele de montare, context SELinux și culori strălucitoare pentru terminal.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/eza-community/eza</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Eza: Un înlocuitor modern și întreținut pentru ls”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Câți bani putem strânge pentru startup-uri transparent idioate?”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://www.smbc-comics.com/comic/investment-2</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Câți bani putem strânge pentru startup-uri transparent idioate?”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Un sistem de facturare cu sursă disponibilă pe care l-am construit în 18 luni”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Platforma oferă o integrare profundă cu Stripe, permițând un control cuprinzător asupra facturării, gestionării taxelor și fluxurilor de lucru automatizate.”</li>
+<li>„Caracteristicile includ gestionarea ratelor de impozitare la diferite niveluri, crearea de planuri de abonament personalizate și integrarea cu instrumente precum Slack și furnizorii de e-mail.”</li>
+<li>„Sistemul suportă scalabilitatea, auto-găzduirea și oferă informații detaliate despre afaceri, cum ar fi rata de renunțare la abonament și valoarea pe durata de viață.”</li>
+</ul>
+]]></description>
+            <link>https://billabear.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Un sistem de facturare cu sursă disponibilă pe care l-am construit în 18 luni”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Muncitorii au vorbit: Rămân acasă”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Politica Dell care impunea prezența la birou pentru promovări a fost în mare parte ignorată, mulți angajați alegând să rămână acasă.”</li>
+<li>„Un raport Gartner indică faptul că 48% dintre angajați consideră că mandatele companiei favorizează preferințele liderilor în detrimentul propriilor nevoi.”</li>
+<li>„Munca la distanță este din ce în ce mai preferată pentru beneficiile sale, inclusiv lipsa navetei, un echilibru mai bun între viața profesională și cea personală, economii de costuri și flexibilitate, cu performeri de top care caută oportunități la distanță.”</li>
+</ul>
+]]></description>
+            <link>https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z„Muncitorii au vorbit: Rămân acasă”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Apollo DN10000: Stație de lucru cu patru procesoare și 128Mb RAM din 1988 [pdf]”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Apollo DN10000: Stație de lucru cu patru procesoare și 128Mb RAM din 1988 [pdf]”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Senzorul Falcon de la CrowdStrike este, de asemenea, legat de panicile și blocările nucleului Linux”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Software-ul Falcon Sensor de la CrowdStrike a cauzat blocări ale sistemului atât pe Windows, cât și pe Linux, inclusiv pe Red Hat Enterprise Linux 9.4, Debian și Rocky Linux.”</li>
+<li>„Dezactivarea temporară a Falcon Sensor stabilizează sistemele afectate, iar CrowdStrike testează un instrument de recuperare rapidă pentru a rezolva problema.”</li>
+<li>„Perturbarea a avut impacturi globale semnificative, inclusiv anulări de zboruri și întârzieri în domeniul sănătății, Microsoft estimând că 8,5 milioane de calculatoare Windows au fost afectate.”</li>
+</ul>
+]]></description>
+            <link>https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-22T00:00:00.000Z„Senzorul Falcon de la CrowdStrike este, de asemenea, legat de panicile și blocările nucleului Linux”</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Empatie pentru utilizatorul care folosește software-ul dvs. în timpul actului sexual”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Dezvoltarea tehnologiei pentru utilizare intimă, cum ar fi aplicațiile Buttplug, necesită empatie și luarea în considerare a nevoilor și contextelor unice ale utilizatorilor, inclusiv utilizabilitatea în timpul excitării și deconectările hardware.”</li>
+<li>„Distribuirea codului pentru tehnologia sexuală pe platforme precum GitHub poate ajuta la stabilirea celor mai bune practici, dar dezvoltatorii ar trebui să fie precauți cu materialele explicite și să ia în considerare găzduirea proprie a materialelor sensibile.”</li>
+<li>„Proiectul Buttplug pune accent pe siguranță, autonomie și drepturile omului, încurajând comportamentul responsabil și educația în declarația sa de misiune.”</li>
+</ul>
+]]></description>
+            <link>https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Empatie pentru utilizatorul care folosește software-ul dvs. în timpul actului sexual”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Detalii inițiale despre motivul pentru care CSAgent.sys de la CrowdStrike s-a prăbușit”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„CSAgent.sys de la CrowdStrike s-a prăbușit din cauza unei instrucțiuni defectuoase implicând o adresă de memorie nevalidă.”</li>
+<li>„Problema a fost cauzată de o adresă nemapată dintr-un șir de pointeri, ceea ce a dus la o cădere atunci când s-a accesat memoria.”</li>
+<li>„Instrucțiunea specifică de eroare a fost &quot;mov r9d, [r8],&quot; unde R8 deținea adresa invalidă.”</li>
+</ul>
+]]></description>
+            <link>https://twitter.com/patrickwardle/status/1814343502886477857</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Detalii inițiale despre motivul pentru care CSAgent.sys de la CrowdStrike s-a prăbușit”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Care este semnificația caracterului „j” la sfârșitul unui numeral roman? (2013)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Care este semnificația caracterului „j” la sfârșitul unui numeral roman? (2013)”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Comunicări ale rachetelor Minuteman”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Autorul plănuiește să schimbe platformele de găzduire, ceea ce va implica mai multe cheltuieli, și caută sprijinul cititorilor prin donații, oferind conținut exclusiv și acces anticipat la noile videoclipuri de pe YouTube pentru susținători.”</li>
+<li>„Statele Unite mențin 400 de rachete balistice intercontinentale Minuteman III, gestionate de Aripile de Rachete 90, 91 și 341 ale Forțelor Aeriene, fiecare grup de zece facilități de lansare fiind monitorizat de o singură Facilitate de Alertă pentru Rachete.”</li>
+<li>„Comunicările Minuteman includ sisteme externe precum antenele LF, HF, UHF și SHF, și sisteme interne precum Sistemul de Cablu Interstatal Întărit (HICS), cu modernizări viitoare planificate în cadrul programului Sentinel.”</li>
+</ul>
+]]></description>
+            <link>https://computer.rip/2024-07-20-minuteman-missile-communications.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Comunicări ale rachetelor Minuteman”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Deci crezi că știi umbrele casetelor?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Postarea explorează utilizări creative și neconvenționale ale umbrelor de casetă în CSS, dincolo de îmbunătățirile tipice ale interfeței utilizatorului.”</li>
+<li>„Autorul a experimentat cu umbrele casetelor pentru artă minimală, animații, efecte 3D și chiar ray tracing, demonstrând versatilitatea acestei funcții CSS.”</li>
+<li>„Experimentele evidențiază capacitățile de performanță ale hardware-ului modern, cum ar fi laptopul M1, în gestionarea efectelor vizuale complexe folosind umbre de tip cutie.”</li>
+</ul>
+]]></description>
+            <link>https://dgerrells.com/blog/how-not-to-use-box-shadows</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Deci crezi că știi umbrele casetelor?”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„X.com refuză să se deschidă cu protecția strictă de urmărire activată în Firefox”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://x.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„X.com refuză să se deschidă cu protecția strictă de urmărire activată în Firefox”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Utilizatorul revine după o interdicție de 100.000 de ore pentru a continua conversația care i-a adus interdicția”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un utilizator pe nume Etherwind s-a întors pe forumurile Something Awful după o interdicție de 11 ani, de 100.000 de ore, pentru a continua o dezbatere despre jocuri de masă care a dus la interdicția sa în 2013.”</li>
+<li>„Etherwind a fost inițial interzis pentru că a glumit dorindu-i moartea unui autor, iar revenirea sa a fost întâmpinată cu umor și uimire de ceilalți utilizatori ai forumului.”</li>
+<li>„În ciuda interdicției îndelungate, Etherwind a văzut revenirea sa ca pe o oportunitate comică și, în cele din urmă, a renunțat la cont după reluarea dezbaterii.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Utilizatorul revine după o interdicție de 100.000 de ore pentru a continua conversația care i-a adus interdicția”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„rr – depanator de înregistrare și redare pentru C/C++”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„rr este un instrument de depanare pentru C/C++ pe Linux, care îmbunătățește gdb prin permiterea redării deterministe și a execuției inverse eficiente.”</li>
+<li>„Suportă înregistrarea și redarea diferitelor aplicații, gestionează sarcini de lucru cu mai multe procese și se integrează cu scripturile gdb și IDE-urile.”</li>
+<li>„rr este remarcabil pentru costurile sale reduse, capacitatea de a fi implementat pe kerneluri Linux standard și abilitatea de a face depanarea erorilor intermitente mai ușoară și mai rapidă.”</li>
+</ul>
+]]></description>
+            <link>https://rr-project.org/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„rr – depanator de înregistrare și redare pentru C/C++”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Intel vs. Samsung vs. TSMC”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Intel, Samsung și TSMC intensifică competiția pe piața de turnătorie pe măsură ce beneficiile scalării planare tradiționale se diminuează, concentrându-se pe tranzistori 3D, chiplet-uri și tehnologii avansate de ambalare.”</li>
+<li>„Fiecare companie utilizează standarde precum UCIe (Universal Chiplet Interconnect Express) și BoW (Bridge of Wires) pentru conectivitatea chiplet-urilor, Intel folosind EMIB (Embedded Multi-die Interconnect Bridge), iar Samsung și TSMC explorând abordări 2.5D și 3D-IC (Integrated Circuit).”</li>
+<li>„Turnătoriile avansează către scara angstrom în nodurile de proces și inovează în domenii precum livrarea de energie pe partea din spate și substraturile de sticlă, având ca scop furnizarea de soluții personalizate și de înaltă performanță în mod eficient.”</li>
+</ul>
+]]></description>
+            <link>https://semiengineering.com/intel-vs-samsung-vs-tsmc/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Intel vs. Samsung vs. TSMC”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Joe Biden se retrage din cursa pentru candidatul democrat”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/JoeBiden/status/1815080881981190320</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Joe Biden se retrage din cursa pentru candidatul democrat”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Aparat izolat Google Distributed Cloud”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Google Distributed Cloud air-gapped appliance, lansat pe 17 iulie 2024, aduce capabilități de cloud și AI în medii tactice de la marginea rețelei, cum ar fi zonele de dezastru și stațiile de cercetare izolate.”</li>
+<li>„Aparatul suportă procesarea locală în timp real a datelor pentru cazuri de utilizare AI, cum ar fi detectarea obiectelor și analiza imagisticii medicale, cu izolare completă de internetul public pentru securitate și conformitate.”</li>
+<li>„Oferă acreditare la Nivelul 5 de Impact al Departamentului Apărării, ceea ce îl face potrivit pentru răspunsul la dezastre, automatizarea industrială, transport, logistică și sarcini federale și de apărare restricționate.”</li>
+</ul>
+]]></description>
+            <link
+      >https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Aparat izolat Google Distributed Cloud”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Orice actualizare de software suficient de proastă este indistinctă de un atac cibernetic”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://twitter.com/leighhoneywell/status/1814278230704111792</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Orice actualizare de software suficient de proastă este indistinctă de un atac cibernetic”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Potop de recenzii false în Mac App Store”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Jeff Johnson a raportat o creștere a recenziilor false pentru aplicațiile plătite de top din Mac App Store din SUA, afectând 8 din primele 40 de aplicații plătite între 11 iunie și 19 iulie 2024.”</li>
+<li>„Recenziile false, adesea de 5 stele cu text generic sau fără sens, erau probabil menite să crească evaluările aplicației, existând suspiciuni că un singur dezvoltator ar putea fi în spatele lor pentru a ascunde recenziile false ale propriei aplicații.”</li>
+<li>„În ciuda rapoartelor către Apple, problema rămâne nerezolvată, dezvoltatorii BetterSnapTool și Vinegar recunoscând și raportând problema către Apple.”</li>
+</ul>
+]]></description>
+            <link>https://lapcatsoftware.com/articles/2024/7/1.html</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Potop de recenzii false în Mac App Store”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Prăbușirile de șanțuri au ucis sute de muncitori în SUA în ultimul deceniu”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„În ultimul deceniu, prăbușirile de șanțuri au dus la peste 250 de decese ale muncitorilor în SUA, multe dintre acestea putând fi prevenite prin respectarea reglementărilor de bază privind siguranța.”</li>
+<li>„În ciuda reglementărilor și amenzilor impuse de OSHA (Administrația pentru Securitate și Sănătate în Muncă), multe companii continuă să încalce standardele de siguranță cu consecințe minime, deoarece acuzațiile penale sunt rare, iar amenzile sunt adesea reduse sau ignorate.”</li>
+<li>„O investigație realizată de NPR, Texas Public Radio și 1A subliniază necesitatea urgentă de aplicare mai strictă a legii și responsabilitate pentru a preveni tragediile viitoare.”</li>
+</ul>
+]]></description>
+            <link>https://text.npr.org/g-s1-9028</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-21T00:00:00.000Z„Prăbușirile de șanțuri au ucis sute de muncitori în SUA în ultimul deceniu”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Gestionarea resurselor Classic Mac OS în ResEdit”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Sistemul de fișiere Macintosh avea două ramuri: o ramură de date și o ramură de resurse, cea din urmă stocând date structurate precum pictograme, dialoguri și fragmente de cod.”</li>
+<li>„ResEdit de la Apple, un editor de resurse actualizat ultima dată în 1994, le permitea utilizatorilor să personalizeze fișierele de sistem, dialogurile și configurațiile tastaturii, dar prezenta riscuri de securitate deoarece malware-ul exploata adesea resursele ascunse.”</li>
+<li>„Cu Mac OS X, bifurcațiile de resurse au fost transformate în atribute extinse, iar resursele aplicațiilor sunt acum organizate în pachete, aplicațiile moderne fiind securizate prin semnături, prevenind personalizările extinse care erau posibile odată cu ResEdit.”</li>
+</ul>
+]]></description>
+            <link>https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z„Gestionarea resurselor Classic Mac OS în ResEdit”</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Am cartografiat aproape fiecare deces din trafic din SUA în secolul 21”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Harta Națională Vision-Zero este o nouă inițiativă menită să elimine decesele și rănile grave cauzate de accidentele rutiere.”</li>
+<li>„Această hartă oferă o imagine de ansamblu cuprinzătoare a datelor privind siguranța traficului la nivel național, ajutând la identificarea zonelor cu risc ridicat și la implementarea măsurilor de siguranță țintite.”</li>
+<li>„Inițiativa face parte dintr-o strategie mai amplă Vision-Zero, care a fost adoptată de diverse orașe și țări pentru a îmbunătăți siguranța rutieră prin abordări bazate pe date și implicarea comunității.”</li>
+</ul>
+]]></description>
+            <link>https://roadway.report</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Am cartografiat aproape fiecare deces din trafic din SUA în secolul 21”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Un cercetător descoperă o vulnerabilitate pe site-ul a16z care a expus unele date ale companiei”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un cercetător în securitate a descoperit o vulnerabilitate în subdomeniul a16z crypto, dezvăluind informații sensibile precum chei AWS și conținutul bazei de date.”</li>
+<li>„Acreditările expuse includeau acces la AWS, Salesforce, Mailgun și o bază de date care conținea Informații de Identificare Personală (PII).”</li>
+<li>„Cercetătorul nu a primit o recompensă pentru descoperirea erorilor din cauza dezvăluirii publice după ce nu a reușit să găsească o metodă de contact privată, ceea ce a considerat nedrept.”</li>
+</ul>
+]]></description>
+            <link>https://www.kibty.town/blog/a16z/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Un cercetător descoperă o vulnerabilitate pe site-ul a16z care a expus unele date ale companiei”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Garage: Stocare Distribuită de Obiecte Open-Source”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Garage este un serviciu de stocare distribuită a obiectelor, open-source, conceput pentru auto-găzduire, oferind redundanță prin replicarea datelor în trei zone.”</li>
+<li>„Caracteristicile cheie includ implementarea ușoară și eficientă, versatilitatea în mai multe centre de date și reziliența la defecțiuni de rețea și hardware.”</li>
+<li>„Suportă hardware eterogen, implementează API-ul Amazon S3 pentru compatibilitate și este finanțat de NGI POINTER, NLnet / NGI0 Entrust și programul de cercetare și inovare Horizon 2021 al Uniunii Europene.”</li>
+</ul>
+]]></description>
+            <link>https://garagehq.deuxfleurs.fr/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Garage: Stocare Distribuită de Obiecte Open-Source”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Datele multisatelit arată o scurgere record de metan dintr-o explozie a unui puț”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Datele multisatelit arată o scurgere record de metan dintr-o explozie a unui puț”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Typst: O alternativă ușor de învățat pentru LaTex”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Typst este un nou sistem de tipărire bazat pe markup, ușor de utilizat, conceput pentru a fi la fel de puternic ca LaTeX, având markup încorporat, funcții flexibile, scripting integrat și timpi de compilare rapizi.”</li>
+<li>„Compilatorul și CLI (Interfața de Linie de Comandă) Typst sunt disponibile pentru compilarea locală a documentelor, cu un editor online gratuit în versiune beta publică pentru o experiență îmbunătățită.”</li>
+<li>„Utilizatorii se pot alătura comunității Typst pe Discord pentru suport și acces la resurse create de comunitate, având oportunități de a contribui prin raportarea erorilor sau sugerarea de funcționalități.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/typst/typst</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Typst: O alternativă ușor de învățat pentru LaTex”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Inteligența artificială finanțată de reclame – punctul de inflexiune mini GPT-4o”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„OpenAI a lansat modelul GPT-4o mini, cu un preț de 0,15 USD pentru 1 milion de tokeni de intrare și 0,60 USD pentru 1 milion de tokeni de ieșire, făcându-l mai accesibil și mai inteligent decât GPT-3.5 Turbo.”</li>
+<li>„Costul redus al GPT-4o mini permite crearea de conținut generat de AI care poate fi susținut în întregime prin venituri din publicitate, transformând potențial crearea de conținut online.”</li>
+<li>„De exemplu, generarea unui articol de blog cu GPT-4o mini costă $0.00051525, în timp ce venitul din publicitate per vizualizare a paginii poate fi în jur de $0.0026, rezultând un profit net de aproximativ $0.002 per vizualizare a paginii.”</li>
+</ul>
+]]></description>
+            <link>https://batchmon.com/blog/ai-cheaper-than-ads/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Inteligența artificială finanțată de reclame – punctul de inflexiune mini GPT-4o”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„No Uptime Hosting (2006)”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://nouptime.com/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„No Uptime Hosting (2006)”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Nu actualizați niciodată nimic”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Articolul prezintă o opinie controversată împotriva actualizărilor frecvente de software, subliniind perturbările și consumul de resurse pe care le provoacă.”</li>
+<li>„Sugerează o abordare mai stabilă, folosind exemple precum Lazarus IDE și pachetele stabile FreeBSD, pentru a reduce necesitatea actualizărilor constante.”</li>
+<li>„Autorul pledează pentru încetinirea ritmului actualizărilor, concentrându-se pe stabilitatea pe termen lung și pe schimbări care nu afectează compatibilitatea, pentru a ușura întreținerea și a reduce sarcina cognitivă a dezvoltatorilor.”</li>
+</ul>
+]]></description>
+            <link>https://blog.kronis.dev/articles/never-update-anything</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Nu actualizați niciodată nimic”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Toaletele publice dispar și asta este o catastrofă civică”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Toaletele publice dispar, ducând la o criză civică, afectând în special persoanele cu probleme de sănătate și grupurile marginalizate.”</li>
+<li>„Guido Corradi, un cercetător în psihologie, subliniază starea precară a toaletelor publice din națiunile occidentale bogate, evidențiind impactul acestora asupra sănătății publice și demnității umane.”</li>
+<li>„Studiile indică faptul că persoanele sărace, mai puțin educate și femeile au parte de experiențe mai negative în toaletele publice, subliniind necesitatea îmbunătățirii facilităților și a campaniilor de conștientizare publică.”</li>
+</ul>
+]]></description>
+            <link>https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Toaletele publice dispar și asta este o catastrofă civică”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Doom pe Playdate”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„O versiune timpurie a jocului Doom a fost portată cu succes pe Playdate, o consolă de jocuri portabilă.”</li>
+<li>„Dezvoltatorul s-a confruntat cu provocări semnificative legate de makefile-uri, compilatoare și probleme de linker, în special referințe lipsă în libc, care au fost rezolvate prin ajustarea opțiunilor de linker și modificarea SDK-ului Playdate.”</li>
+<li>„Jocul rulează acum atât pe simulator, cât și pe hardware-ul real, permițând dezvoltatorului să se concentreze pe controlul jocului, prezentare și optimizare.”</li>
+</ul>
+]]></description>
+            <link>https://devforum.play.date/t/doom-on-playdate/852</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Doom pe Playdate”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Uniunea Europeană trebuie să continue finanțarea software-ului liber”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://pad.public.cat/lettre-NCP-NGI</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Uniunea Europeană trebuie să continue finanțarea software-ului liber”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Debaclul CrowdStrike oferă o hartă a vulnerabilităților americane pentru adversari”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„O eroare de actualizare a software-ului a provocat vineri o prăbușire digitală, afectând aeroporturi, spitale și posturi de televiziune, evidențiind fragilitatea rețelelor interconectate.”</li>
+<li>„Incidentul a fost cauzat de o eroare umană, nu de un atac al unui stat național, și a implicat software-ul CrowdStrike, care este destinat să neutralizeze atacurile cibernetice.”</li>
+<li>„Acest eveniment subliniază necesitatea îmbunătățirii rezilienței digitale, în ciuda eforturilor continue ale guvernului SUA și ale sectorului privat de a spori securitatea cibernetică.”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Debaclul CrowdStrike oferă o hartă a vulnerabilităților americane pentru adversari”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Linkurile scurtate de Google vor înceta să funcționeze anul viitor”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Linkurile scurtate de Google (goo.gl) vor înceta să funcționeze după 25 august 2025, rezultând într-o eroare 404 pentru toate aceste linkuri.”</li>
+<li>„Începând cu 23 august 2024, linkurile goo.gl vor afișa o pagină interstițială care va avertiza utilizatorii despre închiderea iminentă.”</li>
+<li>„Google sfătuiește dezvoltatorii să actualizeze linkurile afectate pentru a evita întreruperile, menționând că serviciul goo.gl a fost inițial închis în 2019 cu recomandarea de a trece la Firebase Dynamic Links, care a fost de asemenea întrerupt.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Linkurile scurtate de Google vor înceta să funcționeze anul viitor”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Academicienii șocați după ce T&F vinde accesul la cercetările lor către Microsoft AI”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-20T00:00:00.000Z„Academicienii șocați după ce T&amp;F vinde accesul la cercetările lor către Microsoft AI”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Detalii tehnice despre întreruperea de astăzi”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Pe 19 iulie 2024, CrowdStrike a lansat o actualizare de configurare a senzorilor pentru sistemele Windows, cauzând blocări ale sistemului și ecrane albastre (BSOD) din cauza unei erori logice, care a fost remediată în aproximativ 1,5 ore.”</li>
+<li>„Problema a afectat clienții care foloseau senzorul Falcon pentru Windows versiunea 7.11 și mai sus, care erau online între 04:09 UTC și 05:27 UTC, din cauza unui fișier de canal problematic 291 conceput pentru a evalua execuția conductei numite.”</li>
+<li>„Sistemele care rulează Linux sau macOS nu au fost afectate, iar o analiză a cauzei principale este în curs pentru a preveni problemele viitoare.”</li>
+</ul>
+]]></description>
+            <link>https://www.crowdstrike.com/blog/technical-details-on-todays-outage/</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z„Detalii tehnice despre întreruperea de astăzi”</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Actualizare Crowdstrike: Ecran albastru Windows și bucle de pornire”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Mai mulți utilizatori la locul de muncă întâmpină ecrane albastre Windows și bucle de pornire, posibil legate de o actualizare recentă a aplicației Crowd Strike.”</li>
+<li>„Departamentul IT a observat că unele servere au ieșit din funcțiune, iar un post de radio local a raportat probleme similare cu laptopurile și un sistem telefonic căzut.”</li>
+<li>„Aceste incidente au loc în Australia, dar nu au fost încă acoperite de știri.”</li>
+</ul>
+]]></description>
+            <link>https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Actualizare Crowdstrike: Ecran albastru Windows și bucle de pornire”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pană Crowdstrike cauzând probleme răspândite”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„O perturbare globală a IT-ului a fost declanșată de o actualizare de software defectuoasă de la firma de securitate cibernetică CrowdStrike Holdings, afectând numeroase sisteme Microsoft Windows.”</li>
+<li>„Atât Microsoft, cât și CrowdStrike au lansat soluții pentru a rezolva problema, dar recuperarea completă este de așteptat să dureze ceva timp.”</li>
+<li>„Situația s-a îmbunătățit ușor, dar impactul actualizării eșuate se resimte încă la nivel mondial.”</li>
+</ul>
+]]></description>
+            <link>https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Pană Crowdstrike cauzând probleme răspândite”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„FCC votează pentru a limita taxele telecomunicațiilor din închisori”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„FCC a votat pentru reducerea semnificativă a tarifelor pentru apelurile telefonice și video în închisori și penitenciare, reducând plafoanele tarifare pe minut cu mai mult de jumătate și interzicând toate taxele, inclusiv taxele de depunere.”</li>
+<li>„Această schimbare afectează 83% dintre persoanele încarcerate, economisind familiilor cel puțin 500 de milioane de dolari anual și îmbunătățind bunăstarea și succesul reintegrării persoanelor încarcerate.”</li>
+<li>„Se așteaptă pierderi majore de venituri pentru companiile de telecomunicații din închisori, precum Aventiv și ViaPath, în timp ce state precum Massachusetts, Minnesota și Colorado au făcut deja apelurile din închisori gratuite.”</li>
+</ul>
+]]></description>
+            <link
+      >https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„FCC votează pentru a limita taxele telecomunicațiilor din închisori”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Foliate: Citiți e-book-uri cu stil, navigați cu ușurință”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Foliate este un cititor de cărți electronice open-source care suportă diverse formate precum EPUB, Mobipocket, Kindle, FB2, CBZ și PDF, cu setări de citire personalizabile.”</li>
+<li>„Oferă funcții precum navigare prin touchpad și touchscreen, semne de carte, adnotări și integrare cu instrumente precum Wiktionary și Google Translate.”</li>
+<li>„Foliate suportă textul de la dreapta la stânga, scrierea verticală și layout-urile fixe, și este disponibil pentru multiple distribuții Linux sau prin clonarea codului sursă.”</li>
+</ul>
+]]></description>
+            <link>https://johnfactotum.github.io/foliate/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Foliate: Citiți e-book-uri cu stil, navigați cu ușurință”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Mai multe companii aeriene perturbate din cauza unei întreruperi Microsoft Azure”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Frontier Airlines a suspendat toate zborurile timp de aproximativ 35 de minute din cauza unei întreruperi majore a Microsoft Azure, afectând rezervările, check-in-ul și accesul la cartelele de îmbarcare.”</li>
+<li>„Pana de curent, care a început la ora 17:56, a perturbat de asemenea sistemele pentru Allegiant și Sun Country Airlines, afectând multiple sisteme în centrul Statelor Unite.”</li>
+<li>„Frontier, operând cu peste 100 de avioane, a fost una dintre cel puțin trei companii aeriene afectate de întreruperile de servicii.”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Mai multe companii aeriene perturbate din cauza unei întreruperi Microsoft Azure”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Ce ar fi necesar pentru a recrea Bell Labs?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„AT&amp;T, prin Bell Labs, a fost esențială în dezvoltarea infrastructurii telefonice a Americii și a produs invenții semnificative precum tranzistorul, celula fotovoltaică din siliciu și sistemul de operare UNIX.”</li>
+<li>„Succesul Bell Labs s-a datorat parțial monopolului AT&amp;T, care a susținut proiecte de cercetare pe termen lung, rezultând în numeroase distincții, inclusiv 10 Premii Nobel.”</li>
+<li>„Destrămarea AT&amp;T a dus la divizarea și declinul Bell Labs, făcând dificilă recrearea unei astfel de instituții astăzi din cauza condițiilor istorice și tehnologice unice care au existat odată.”</li>
+</ul>
+]]></description>
+            <link>https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Ce ar fi necesar pentru a recrea Bell Labs?”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Ryanair – când fiecare pagină este un model înșelător”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Ryanair este cunoscută pentru utilizarea „dark patterns”, tehnici de design manipulative, pentru a crește profiturile în timpul procesului de rezervare.”</li>
+<li>„Tacticile includ „privacy zuckering”, unde clienții sunt înscriși implicit la promoții, și „misdirection”, care folosește butoane și ferestre pop-up proeminente pentru a vinde servicii suplimentare.”</li>
+<li>„Aceste designuri înșelătoare sunt omniprezente pe site-ul Ryanair, făcând esențial ca utilizatorii să fie vigilenți pentru a evita achizițiile accidentale sau partajarea mai multor informații decât intenționau.”</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Ryanair – când fiecare pagină este un model înșelător”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„CrowdStrike începe cu „repornire de până la 15 ori”, devine mai complex de acolo”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Actualizarea recentă a CrowdStrike a dus la prăbușirea sistemelor Windows cu un ecran albastru al morții (BSOD), provocând perturbări semnificative.”</li>
+<li>„Reparațiile variază de la multiple reporniri la soluții mai complexe, cum ar fi restaurarea backup-urilor sau ștergerea manuală a driverului problematic, cu pași suplimentari necesari pentru sistemele care utilizează criptarea BitLocker.”</li>
+<li>„Actualizarea a fost retrasă, iar CEO-ul CrowdStrike și-a cerut scuze, asigurând utilizatorii că se depun eforturi pentru a rezolva problema.”</li>
+</ul>
+]]></description>
+            <link
+      >https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„CrowdStrike începe cu „repornire de până la 15 ori”, devine mai complex de acolo”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Sendune – designer de emailuri HTML open-source”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„SENDUNE a introdus un nou designer de emailuri HTML open-source, destinat să simplifice crearea emailurilor HTML, care sunt în mod tradițional dificil de scris și întreținut.”</li>
+<li>„Designerul este ușor, folosește HTML pur și evită dependențele greoaie, permițând utilizatorilor să salveze rezultatul HTML ca șablon pentru orice furnizor de servicii de e-mail.”</li>
+<li>„Utilizatorii sunt încurajați să facă fork la depozit, să aducă îmbunătățiri și să trimită cereri de pull, promovând un mediu de dezvoltare colaborativ.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41007403</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Sendune – designer de emailuri HTML open-source”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Un bărbat german de 60 de ani este probabil a șaptea persoană vindecată eficient de HIV”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un bărbat german în vârstă de 60 de ani este probabil a șaptea persoană vindecată efectiv de HIV în urma unui transplant de celule stem, care a tratat și leucemia sa agresivă.”</li>
+<li>„Pacientul, denumit „următorul pacient din Berlin”, a încetat să mai ia medicamente antiretrovirale la sfârșitul anului 2018 și rămâne fără HIV și cancer aproape șase ani mai târziu.”</li>
+<li>„Cercetătorii sunt precaut optimiști, menționând că acest caz sugerează că nu toate mutațiile genei CCR5 sunt necesare pentru un tratament de succes al HIV, oferind speranță pentru strategii mai largi de vindecare a HIV.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Un bărbat german de 60 de ani este probabil a șaptea persoană vindecată eficient de HIV”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pana globală de IT afectează companiile aeriene, mass-media și băncile”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Crowdstrike, o companie de securitate cibernetică din Texas, fondată în 2011, este specializată în securitatea terminalelor pentru a proteja rețelele corporative și datele din cloud de amenințările cibernetice.”</li>
+<li>„Co-fondată de George Kurtz și Dmitri Alperovitch, compania a devenit publică pe Nasdaq în 2019.”</li>
+<li>„Crowdstrike a jucat un rol esențial în investigarea atacurilor cibernetice majore, în special în cazul breșei din 2016 a rețelei Comitetului Național Democrat din SUA.”</li>
+</ul>
+]]></description>
+            <link>https://www.bbc.co.uk/news/live/cnk4jdwp49et</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Pana globală de IT afectează companiile aeriene, mass-media și băncile”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Probleme duble: Gaia de la ESA lovită de un micrometeoroid și o furtună solară”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Nava spațială Gaia a ESA, lansată în decembrie 2013 pentru a cartografia peste un miliard de stele din Calea Lactee, s-a confruntat recent cu provocări semnificative din cauza unui impact cu un micrometeoroid și a unei furtuni solare.”</li>
+<li>„Micrometeoritul a deteriorat capacul de protecție al Gaia, iar furtuna solară a cauzat o defecțiune la unul dintre dispozitivele sale cuplaj de sarcină (CCD-uri), ducând la mii de detecții false de stele.”</li>
+<li>„Inginerii de la ESA și Airbus Defence and Space au ajustat cu succes software-ul Gaia, reducând detecțiile false și readucând nava spațială la operațiuni de rutină, producând acum unele dintre cele mai bune date de calitate.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Probleme duble: Gaia de la ESA lovită de un micrometeoroid și o furtună solară”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Ce se află în C-00000291*.sys?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Fișierul C-00000291*.sys de la CrowdStrike a cauzat blocări ale sistemului din cauza formatării invalide, afectând driverul CrowdStrike.”</li>
+<li>„Utilizatorii raportează versiuni diferite ale fișierului, unii speculând că este criptat cu chei specifice clienților, deși alții le-au analizat fără decriptare.”</li>
+<li>„Fișierele sunt formate de actualizare proprietare, nu DLL-uri sau patch-uri, ceea ce ridică îngrijorări cu privire la securitatea și fiabilitatea procesului de actualizare al CrowdStrike.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=41004103</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Ce se află în C-00000291*.sys?”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Roverul Curiosity al NASA descoperă o surpriză într-o rocă marțiană”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Roverul Curiosity al NASA a descoperit pentru prima dată sulf elementar pe Marte, un reper semnificativ în explorarea planetei Marte.”</li>
+<li>„Descoperirea a fost făcută într-o regiune bogată în sulfați, unde Curiosity a găsit un întreg câmp de roci strălucitoare compuse din sulf pur, intrigând oamenii de știință.”</li>
+<li>„Misiunea Curiosity, care include studierea terenului antic al planetei Marte pentru semne de viață microbiană, continuă pe măsură ce urcă Muntele Sharp, forând al 41-lea eșantion de rocă pentru analize suplimentare.”</li>
+</ul>
+]]></description>
+            <link>https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-19T00:00:00.000Z„Roverul Curiosity al NASA descoperă o surpriză într-o rocă marțiană”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pierderea de oxigen în lacuri și oceane”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Cercetările de la Institutul Politehnic Rensselaer subliniază că pierderea de oxigen în lacuri și oceane reprezintă o amenințare semnificativă pentru ecosisteme, societate și planetă.”</li>
+<li>„Deoxigenarea acvatică, legată de schimbările climatice, utilizarea terenurilor și poluare, a dus la o scădere rapidă a oxigenului dizolvat, lacurile și rezervoarele pierzând 5,5% și 18,6% din oxigenul lor din 1980, iar oceanele pierzând aproximativ 2% din 1960.”</li>
+<li>„Această deoxigenare afectează fiziologia speciilor, rețelele trofice și serviciile ecosistemice, creând „zone moarte” și înfloriri algale dăunătoare, necesitând acțiuni urgente pentru a aborda încălzirea globală și scurgerile.”</li>
+</ul>
+]]></description>
+            <link>https://www.sciencedaily.com/releases/2024/07/240715135713.htm</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z„Pierderea de oxigen în lacuri și oceane”</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Fiica mea (7 ani) a folosit HTML pentru a crea un site web”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://naya.lol</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Fiica mea (7 ani) a folosit HTML pentru a crea un site web”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mistral NeMo”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Mistral AI a lansat Mistral NeMo, un model de 12 miliarde de parametri dezvoltat împreună cu NVIDIA, având o fereastră de context de 128k tokeni și excelând în raționament, cunoștințe generale și acuratețea codării.”</li>
+<li>„Mistral NeMo suportă inferența FP8 fără pierderi de performanță, depășește modele precum Gemma 2 9B și Llama 3 8B și este conceput pentru aplicații multilingve.”</li>
+<li>„Modelul folosește un nou tokenizer, Tekken, și a trecut printr-un fine-tuning avansat pentru o mai bună urmărire a instrucțiunilor, raționament, conversații multi-turn și generare de cod; greutățile sunt disponibile pe HuggingFace.”</li>
+</ul>
+]]></description>
+            <link>https://mistral.ai/news/mistral-nemo/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Mistral NeMo”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Publicarea directă pe Kindle de la Amazon este un coșmar distopic”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Autorul descrie o experiență frustrantă cu Kindle Direct Publishing (KDP) de la Amazon, unde eBook-ul lor a fost blocat pentru „experiență înșelătoare a clienților” în ciuda lipsei de dovezi ale unei cărți similare.”</li>
+<li>„Apelurile către Amazon au dus la răspunsuri automate și vagi, ceea ce a dus în cele din urmă la închiderea contului autorului fără o justificare clară.”</li>
+<li>„Chiar și contactarea Relațiilor cu Clienții Executivi de la Amazon nu a rezolvat problema, evidențiind posibile deficiențe în procesele automate de revizuire și apel ale Amazon.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40992654</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Publicarea directă pe Kindle de la Amazon este un coșmar distopic”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Cum este Prolog în 2024?”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un student la informatică a descoperit Prolog și programarea logică, învățând elementele de bază și lucrând la un sistem de comunicare de bază pentru agenți folosind SICStus Prolog.”</li>
+<li>„Studentul este interesat să se specializeze în Prolog și ontologii, căutând informații despre starea actuală și aplicațiile Prolog în 2024.”</li>
+<li>„Ancheta evidențiază dorința de a înțelege potențialul și utilizările contemporane ale Prolog în industria tehnologică.”</li>
+</ul>
+]]></description>
+            <link>https://news.ycombinator.com/item?id=40994552</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Cum este Prolog în 2024?”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„SAPwned: vulnerabilitățile AI ale SAP expun mediile cloud și datele private ale clienților”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Echipa de cercetare Wiz a descoperit vulnerabilități în izolarea chiriașilor la furnizorii de servicii AI, prezentând riscuri semnificative pe măsură ce infrastructura AI devine esențială pentru afaceri.”</li>
+<li>„Cercetarea lor asupra ofertei de inteligență artificială a SAP, „SAP AI Core”, a dezvăluit vulnerabilități care permiteau accesul neautorizat la datele clienților și la acreditările cloud, care au fost ulterior remediate de SAP.”</li>
+<li>„Constatările cheie includ ocolirea restricțiilor de rețea, expunerea tokenurilor AWS, accesul neautentificat la partajările AWS EFS și preluarea completă a clusterului, subliniind necesitatea îmbunătățirii standardelor de izolare și sandboxing în serviciile AI.”</li>
+</ul>
+]]></description>
+            <link>https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„SAPwned: vulnerabilitățile AI ale SAP expun mediile cloud și datele private ale clienților”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Un emulator DECstation 3000 bazat pe RP2040 care poate rula DECWindows”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„DECstation 2040 este un emulator pentru DECstation 3000, construit pe microcontrolerul RP2040, capabil să ruleze DECWindows.”</li>
+<li>„Caracteristicile hardware cheie includ un RP2040 de 1,8v/300 MHz, 32 MB PSRAM, 8 MB SPI flash și suport Ethernet RMII PHY.”</li>
+<li>„Proiectul a început pe 23 martie 2023, inspirat de LinuxCard-ul lui Dmitry, și a implicat învățarea utilizării motoarelor PIO RP2040 și a subsistemului DMA.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/rscott2049/DECstation2040</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Un emulator DECstation 3000 bazat pe RP2040 care poate rula DECWindows”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Obiectele vieții noastre (1983)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„În 1983, Steve Jobs a vorbit la Conferința Internațională de Design din Aspen, subliniind impactul viitor al calculatoarelor asupra societății și importanța unui design bun în electronicele de consum.”</li>
+<li>„Jobs a introdus computerul Lisa, care includea un mouse și o interfață grafică, și a prezis că până în 1986, vânzările de PC-uri vor depăși vânzările de mașini, îndemnând designerii să creeze produse bine concepute.”</li>
+<li>„El a subliniat integrarea artelor liberale în tehnologie și responsabilitatea civică de a crea produse utile și frumoase, încheind discursul său cu o sesiune de întrebări și răspunsuri despre cum să facă computerele intuitive și accesibile.”</li>
+</ul>
+]]></description>
+            <link>https://stevejobsarchive.com/exhibits/objects-of-our-life</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Obiectele vieții noastre (1983)”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Colecție de modele întunecate și designuri neetice”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Catalogul oferă o colecție cuprinzătoare de modele întunecate, care sunt practici de design înșelătoare utilizate în interfețele utilizatorilor.”</li>
+<li>„Aceste exemple sunt organizate sistematic pe categorii, facilitând înțelegerea și identificarea diferitelor tipuri de design manipulator de către utilizatori.”</li>
+<li>„Resursa își propune să educe și să crească gradul de conștientizare cu privire la tacticile de design neetice, ajutând utilizatorii să le recunoască și să le evite.”</li>
+</ul>
+]]></description>
+            <link>https://hallofshame.design/collection/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Colecție de modele întunecate și designuri neetice”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Product Hunt pentru muzică”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„TrackList este o platformă pentru descoperirea și partajarea de muzică nouă, oferind actualizări zilnice despre noile piese.”</li>
+<li>„Piesele prezentate astăzi includ „Keep Your Cool” de Off Trakk și „Erasing” de Raf Duran.”</li>
+<li>„Platforma evidențiază, de asemenea, piese din zilele anterioare, oferind un flux continuu de muzică nouă pentru utilizatori de explorat.”</li>
+</ul>
+]]></description>
+            <link>https://tracklist.it/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Product Hunt pentru muzică”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Încrederea americanilor în învățământul superior a scăzut drastic”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un nou sondaj Gallup relevă o scădere semnificativă a încrederii americanilor în învățământul superior, o treime exprimând „puțină sau deloc încredere”, comparativ cu 57% în 2015.”</li>
+<li>„Factorii care contribuie la acest declin includ agendele politice, percepția asupra irelevanței competențelor predate, costurile ridicate și îngrijorările legate de „îndoctrinarea” liberală, în special în rândul conservatorilor.”</li>
+<li>„În ciuda declinului general, încrederea în colegiile comunitare și programele de doi ani este în creștere, indicând o schimbare de percepție către opțiuni educaționale mai accesibile și practice.”</li>
+</ul>
+]]></description>
+            <link>https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Încrederea americanilor în învățământul superior a scăzut drastic”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„GPT-4o mini: avansând inteligența rentabilă”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„GPT-4o mini: avansând inteligența rentabilă”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Instrument de evaluare a performanței tranzacțiilor SQLite”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Evaluarea se concentrează pe compararea ramurii experimentale <code>BEGIN CONCURRENT</code> a SQLite cu comportamentele tranzacțiilor standard <code>DEFERRED</code> și <code>IMMEDIATE</code>.”</li>
+<li>„Scopul este de a evalua diferențele de performanță într-un mediu de server, oferind informații despre posibile îmbunătățiri sau compromisuri.”</li>
+<li>„Pentru explicații detaliate și rezultate, consultați postarea de pe blog menționată în textul original.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/seddonm1/sqlite-bench</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Instrument de evaluare a performanței tranzacțiilor SQLite”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Pixeli policromatici”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„MicroLED-urile cu lungimi de undă ajustabile sunt pregătite să revoluționeze tehnologia afișajelor, oferind o eficiență și o rezoluție superioare în comparație cu afișajele actuale cu cristale lichide și LED-uri organice.”</li>
+<li>„Q-Pixel Inc. a dezvoltat o metodă de a crește LED-uri cu lungime de undă reglabilă pe un singur wafer, eliminând necesitatea sub-pixelilor separați roșii, verzi și albaștri, simplificând astfel producția și reducând costurile.”</li>
+<li>„Această inovație a atins densități de pixeli record, ceea ce este deosebit de benefic pentru aplicațiile în realitatea virtuală (VR) și realitatea augmentată (AR), indicând o posibilă schimbare către afișaje microLED mai rentabile și cu rezoluție înaltă.”</li>
+</ul>
+]]></description>
+            <link>https://compoundsemiconductor.net/article/119170/Polychromatic_pixels</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z„Pixeli policromatici”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Parametrizarea lungimii arcului în formă închisă este imposibilă pentru curbele Bézier de ordinul doi”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Curbele Bézier sunt fundamentale în grafica vectorială, fiind definite folosind puncte de control în baza Bernstein.”</li>
+<li>„Curbele Bézier de ordinul doi folosesc trei puncte de control, iar lungimea arcului lor poate fi calculată exact, dar parametrizarea nu are o soluție în formă închisă, presupunând conjectura lui Schanuel.”</li>
+<li>„Curbele Bézier cubice folosesc patru puncte de control, iar lungimea arcului lor trebuie calculată numeric, deoarece nu are o formă închisă.”</li>
+</ul>
+]]></description>
+            <link>https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Parametrizarea lungimii arcului în formă închisă este imposibilă pentru curbele Bézier de ordinul doi”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Vrăbiile ar putea fi 'canarul din mina de cărbune' pentru otrăvirea cu plumb la copii: studiu”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un studiu publicat în Environmental Sciences &amp; Technology a constatat că vrăbiile de casă pot prezice cu exactitate nivelurile de plumb la copii, în special în orașele miniere australiene Broken Hill și Mount Isa.”</li>
+<li>„Vrabii ar putea servi ca un instrument rentabil pentru identificarea zonelor cu contaminare cu plumb, oferind o alternativă practică la testarea directă pe oameni, care este adesea costisitoare și complexă.”</li>
+<li>„Cercetarea evidențiază problema continuă a expunerii la plumb în Australia și sugerează că vrăbiile ar putea indica, de asemenea, expunerea la alte metale grele și „chimicale eterne”.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-18T00:00:00.000Z„Vrăbiile ar putea fi &apos;canarul din mina de cărbune&apos; pentru otrăvirea cu plumb la copii: studiu”</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Importați și exportați Markdown în Google Docs”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Google Docs acceptă acum funcții Markdown îmbunătățite, inclusiv conversia Markdown în conținut Docs la lipire, copierea conținutului Docs ca Markdown, exportarea unui document ca Markdown și importarea Markdown ca document.”</li>
+<li>„Această actualizare este benefică pentru scriitorii de conținut tehnic, facilitând conversia mai ușoară între Docs și Markdown pentru colaborare și documentare.”</li>
+<li>„Implementarea începe pe 16 iulie 2024 pentru domeniile Rapid Release și Scheduled Release și este disponibilă pentru toți clienții Google Workspace, abonații Workspace Individual și utilizatorii de conturi Google personale.”</li>
+</ul>
+]]></description>
+            <link>https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Importați și exportați Markdown în Google Docs”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Panică pe piața muncii”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Piața locurilor de muncă în domeniul tehnologiei este în haos din cauza creșterii ratelor dobânzilor, finanțării speculative și practicilor de angajare defectuoase.”</li>
+<li>„Ratele mai mari ale dobânzilor determină companiile să investească în conturi sigure garantate de guvern, mai degrabă decât în proiecte riscante, ceea ce duce la pierderi de locuri de muncă în sectorul tehnologic.”</li>
+<li>„Procesul de angajare se concentrează adesea pe teste de codare irelevante și interviuri comportamentale, nereușind să evalueze adevărata experiență și capacitățile candidaților.”</li>
+</ul>
+]]></description>
+            <link>https://matt.sh/panic-at-the-job-market</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Panică pe piața muncii”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Jailbreaking RabbitOS: Descoperirea jurnalelor secrete și încălcările GPL”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„David Buchanan a dezvoltat un „jailbreak tethered” pentru Rabbit R1, permițând accesul root fără deblocarea bootloader-ului sau modificarea stocării interne.”</li>
+<li>„Rabbit R1, folosind un SoC MediaTek MT6765, a fost criticat pentru înregistrarea extensivă a datelor utilizatorilor și încălcări ale GPL, care au fost parțial rezolvate într-o actualizare recentă.”</li>
+<li>„Descoperirile lui Buchanan dezvăluie că RabbitOS este un Android 13 AOSP puternic modificat, care impune în principal un mod kiosk cu o singură aplicație, și a lansat un instrument pentru a ajuta la explorarea suplimentară a dispozitivului.”</li>
+</ul>
+]]></description>
+            <link>https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Jailbreaking RabbitOS: Descoperirea jurnalelor secrete și încălcările GPL”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Cel mai mare truc educațional: Învățarea matematicii în avans”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Învățarea matematicii în avans poate duce la note mai bune, protecție împotriva predării slabe și acces la stagii, proiecte de cercetare și scrisori de recomandare puternice, care sunt esențiale pentru oportunitățile de colegiu și carieră.”</li>
+<li>„Cursurile avansate de matematică dincolo de calcul, cum ar fi Algebra Liniară și Ecuațiile Diferențiale, sunt esențiale pentru multe domenii cantitative și pot accelera integrarea studenților în domenii specializate, îmbunătățindu-le realizările profesionale.”</li>
+<li>„Cercetările indică faptul că accelerarea educațională nu dăunează bunăstării psihologice și conduce la un succes academic și profesional mai mare, în ciuda concepțiilor greșite comune și a provocărilor logistice.”</li>
+</ul>
+]]></description>
+            <link>https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Cel mai mare truc educațional: Învățarea matematicii în avans”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Epoca de aur a escrocilor: phishing-ul alimentat de inteligența artificială”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Inteligența artificială generativă permite escrocilor să trimită e-mailuri de phishing extrem de personalizate și convingătoare, depășind barierele lingvistice și automatizând campaniile de masă.”</li>
+<li>„Instrumentele AI precum WormGPT și FraudGPT ajută la generarea de emailuri de phishing și la falsificarea site-urilor web, reducând semnificativ timpul necesar pentru a crea atacuri eficiente.”</li>
+<li>„Strategiile de apărare includ implementarea DMARC (Autentificare, Raportare și Conformitate bazată pe Domeniu), recunoașterea tentativelor de phishing AI, utilizarea securității pe mai multe niveluri și menținerea unei reputații puternice a expeditorului.”</li>
+</ul>
+]]></description>
+            <link>https://www.mailgun.com/blog/email/ai-phishing/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Epoca de aur a escrocilor: phishing-ul alimentat de inteligența artificială”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„TinyPod – Carcasă Apple Watch cu rotiță de derulare”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Prezentăm tinyPod, un dispozitiv compact care oferă funcții esențiale precum telefon, muzică, mesagerie și altele, toate alimentate de Apple Watch-ul tău.”</li>
+<li>„Caracteristicile cheie includ o rotiță de derulare tactilă, încărcare magnetică rapidă, autonomie a bateriei de mai multe zile, Apple Pay și 32GB de stocare pentru media.”</li>
+<li>„Disponibil în două modele: tinyPod cu o rotiță de derulare pentru 79,99 USD și tinyPod lite fără rotiță de derulare pentru 29,99 USD, compatibil cu diverse serii Apple Watch, livrare în această vară.”</li>
+</ul>
+]]></description>
+            <link>https://thetinypod.com/</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„TinyPod – Carcasă Apple Watch cu rotiță de derulare”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Jia Tan "JiaT75": A adăugat text de eroare la avertismentul când se dezarhivează cu bsdtar (2021)”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Libarchive a fuzionat un commit pentru a adăuga text de eroare la avertismentele atunci când se utilizează bsdtar, abordând problema #1561, dar au fost ridicate preocupări cu privire la înlocuirea safe_fprintf cu unsafe fprintf.”</li>
+<li>„A fost implementată o soluție pentru a reveni la safe_fprintf și a utiliza corect gestionarea errno, cu sugestii pentru audituri suplimentare și un CVE (Common Vulnerabilities and Exposures) pentru problemă.”</li>
+<li>„Discuția a subliniat importanța revizuirilor amănunțite ale codului și menținerea securității în proiectele open-source, iar problema a fost rezolvată cu conversația blocată.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/libarchive/libarchive/pull/1609</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Jia Tan &quot;JiaT75&quot;: A adăugat text de eroare la avertismentul când se dezarhivează cu bsdtar (2021)”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Puerto Rico depune un proces de 1 miliard de dolari împotriva companiilor de combustibili fosili”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Puerto Rico a intentat un proces de 1 miliard de dolari împotriva marilor companii de combustibili fosili, inclusiv ExxonMobil, BP, Chevron, Shell și ConocoPhillips, pentru presupusa inducere în eroare a publicului cu privire la schimbările climatice și întârzierea tranziției către energie curată.”</li>
+<li>„Procesul, intentat în San Juan, susține că aceste companii au încălcat legile comerciale prin promovarea combustibililor fosili fără avertismente adecvate despre pericolele acestora, solicitând despăgubiri pentru a se apăra împotriva dezastrelor climatice precum Uraganul Maria.”</li>
+<li>„Această acțiune legală face parte dintr-o tendință mai largă de procese similare împotriva industriei combustibililor fosili, evidențiind eforturile tot mai mari de responsabilizare pentru impacturile legate de climă.”</li>
+</ul>
+]]></description>
+            <link
+      >https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Puerto Rico depune un proces de 1 miliard de dolari împotriva companiilor de combustibili fosili”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Gitlab explorează vânzarea”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Gitlab explorează vânzarea”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mașinile Darwin”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Postarea discută teoria lui William Calvin din „The Cerebral Code”, care sugerează că creierul folosește procese evolutive în cadrul minicolumnelor pentru a procesa intrările senzoriale și a găsi cele mai „potrivite” tipare.”</li>
+<li>„Teoria susține că structura creierului, în special coloanele și minicoloanele neocortexului, permite rezolvarea eficientă a problemelor și procesarea paralelă, ceea ce ar putea fi aplicat în inteligența artificială și învățarea automată (ML).”</li>
+<li>„Autorul experimentează cu rețele neuronale pentru a imita acest proces evolutiv și caută sfaturi privind cercetarea și perspectivele academice în acest domeniu, subliniind posibilele progrese în capacitățile de gândire profundă ale inteligenței artificiale.”</li>
+</ul>
+]]></description>
+            <link>https://vedgie.net/writing/darwin_machines.md</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Mașinile Darwin”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Magic-cli – Un copilot pentru linia ta de comandă”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link>https://github.com/guywaldman/magic-cli</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Magic-cli – Un copilot pentru linia ta de comandă”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title
+      ><![CDATA[„Google prezintă o metodă pentru a ocoli blocarea automată a managerului de etichete”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Google introduce o funcție beta pentru implementarea etichetelor în modul first-party, îmbunătățind performanța etichetelor și confidențialitatea datelor prin utilizarea domeniului site-ului web pentru găzduire.”</li>
+<li>„Configurarea implică rezervarea unei căi unice pe domeniu, direcționarea traficului prin servicii precum Google Cloud sau Cloudflare și actualizarea scripturilor site-ului web pentru a utiliza noua cale de măsurare.”</li>
+<li>„Utilizatorii sunt încurajați să testeze configurarea folosind Tag Assistant și să ofere feedback printr-un formular de feedback desemnat sau printr-un e-mail de contact.”</li>
+</ul>
+]]></description>
+            <link>https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Google prezintă o metodă pentru a ocoli blocarea automată a managerului de etichete”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„După 12 ani de recenzii ale restaurantelor, părăsesc masa”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Pete Wells, după 12 ani ca critic de restaurante la The New York Times, se retrage din cauza unor probleme de sănătate, inclusiv colesterol ridicat, glicemie și hipertensiune.”</li>
+<li>„În ciuda naturii satisfăcătoare a rolului său, efortul fizic al vizitelor frecvente la restaurante a devenit nesustenabil pentru Wells.”</li>
+<li>„Wells va rămâne la The Times, dar nu se va mai ocupa de cerințele recenziilor săptămânale, alegând în schimb să se concentreze pe sănătatea sa și pe un stil de viață mai echilibrat.”</li>
+</ul>
+]]></description>
+            <link>https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„După 12 ani de recenzii ale restaurantelor, părăsesc masa”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Introducere în scripting Bash”]]></title>
+            <description
+      ><![CDATA[<ul>
+<li>„Un ghid/ebook open-source despre scripting Bash a fost lansat, având ca scop automatizarea sarcinilor pentru dezvoltatori, administratori de sistem și ingineri DevOps.”</li>
+<li>„Ebook-ul acoperă o gamă largă de subiecte, de la structura de bază Bash până la tehnici avansate de scripting, inclusiv lucrul cu API-uri și generarea de parole.”</li>
+<li>„Resursele suplimentare includ un mini curs video, instruire interactivă prin Katacoda și contribuții de la inginerul Linux DevOps, Bobby Iliev.”</li>
+</ul>
+]]></description>
+            <link>https://github.com/bobbyiliev/introduction-to-bash-scripting</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z„Introducere în scripting Bash”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[„Mandatele de revenire la birou nu merită riscurile legate de talent”]]></title>
+            <description><![CDATA[<p>- </p>
+]]></description>
+            <link
+      >https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks</link>
+            <guid
+        isPermaLink="false"
+      >2024-07-17T00:00:00.000Z„Mandatele de revenire la birou nu merită riscurile legate de talent”</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

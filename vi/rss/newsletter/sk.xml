@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[Heimdall]]></title>
+        <description><![CDATA[Heimdall]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>Heimdall</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/newsletter/sk.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <copyright><![CDATA[2023 Sunghyun Cho]]></copyright>
+        <language><![CDATA[sk]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2024-07-26]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/26&#39;</h2>
+<h1>2024-07-26</h1>
+<h2><a href="https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution">„Švajčiarske mesto zakázalo billboardy. Zürich a Bern môžu čoskoro nasledovať“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41075766">Reakcie</a></h3>
+<ul>
+<li>„Švajčiarske mesto zakázalo billboardy, pričom Zürich a Bern zvažujú podobné opatrenia, po úspešnom zákaze v Krakove, Poľsko, pred dvoma rokmi.“</li>
+<li>„Vermont a Havaj majú dlhodobé zákazy billboardov, čo prispieva k ich vizuálne príjemnému prostrediu.“</li>
+<li>„Diskusia zdôrazňuje pozitívny vplyv zníženia vizuálneho neporiadku na mestskú estetiku a potenciálne výhody podpory verejnej dopravy.“</li>
+</ul>
+<h2><a href="https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/">„AI prehľadávače musia byť ohľaduplnejšie“</a></h2>
+<ul>
+<li>„Došlo k výraznému nárastu zneužívajúceho prehľadávania stránok produktmi AI, čo spôsobuje problémy pre stránky ako Read the Docs kvôli nadmernému využívaniu šírky pásma a nákladom.“</li>
+<li>„Príklady zahŕňajú jedného robota, ktorý v máji 2024 stiahol 73 TB dát, čo stálo viac ako 5 000 dolárov, a ďalšieho, ktorý v júni 2024 pomocou sťahovača obsahu z Facebooku stiahol 10 TB.“</li>
+<li>„Napriek obmedzovaniu rýchlosti na základe IP adresy tieto prehľadávače používajú viacero IP adries, čo ho robí neúčinným; prijaté opatrenia zahŕňajú blokovanie identifikovaných AI prehľadávačov a zlepšenie CDN cache.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072549">Reakcie</a></h3>
+<ul>
+<li>„AI prehľadávače boli kritizované za prílišnú agresivitu, pričom v jednom prípade prehľadávač stiahol 73TB zbalených HTML súborov z ReadTheDocs za mesiac, čo spôsobilo značné náklady na šírku pásma.“</li>
+<li>„Nadmerné získavanie údajov viedlo k poplatkom za šírku pásma vo výške viac ako 5 000 dolárov pre ReadTheDocs, čo poukazuje na potrebu rešpektnejších a regulovaných praktík prehľadávania.“</li>
+<li>„Incident vyvoláva otázky o možnosti považovať takéto správanie za bezohľadné podľa zákona o počítačových podvodoch a zneužívaní (CFAA) a naznačuje, že vládne pokuty by mohli byť vhodné pre spoločnosti zodpovedné za takéto činy.“</li>
+</ul>
+<h2><a href="https://github.com/mriale/PyDPainter">„Klon Deluxe Paint II napísaný v Pythone“</a></h2>
+<ul>
+<li>„PyDPainter je program na tvorbu pixel artu vyvinutý v Pythone pomocou PyGame, inšpirovaný verziou Deluxe Paint od Electronic Arts z roku 1985 pre Commodore Amiga.“</li>
+<li>„Program má za cieľ modernizovať klasický nástroj Deluxe Paint s novými funkciami, aby vyhovoval obnovenému záujmu o pixelovú grafiku vďaka retro trendu.“</li>
+<li>„Najnovšia verzia PyDPainter je dostupná na GitHube a je licencovaná pod GPLv3 alebo neskôr.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41073264">Reakcie</a></h3>
+<ul>
+<li>„Na GitHube bol vydaný Python klon Deluxe Paint II, ktorý predstavuje pôsobivé funkcie ako cyklovanie palety a animácie.“</li>
+<li>„Používatelia spomínajú na Deluxe Paint a ďalšie retro grafické programy, pričom vyzdvihujú prácu umelca Marka Ferrariho.“</li>
+<li>„Diskusie zahŕňajú porovnania s inými nástrojmi ako DPaint.js a Aseprite, a technické výzvy pri vytváraní softvéru na pixelovú grafiku.“</li>
+</ul>
+<h2><a href="https://rein.pk/startup-finance-for-founders-part-i-accounting">„Financie pre zakladateľov startupov – Časť I, Účtovníctvo (2016)“</a></h2>
+<ul>
+<li>„Článok je súčasťou dvojdielnej série o financovaní startupov, pričom prvá časť sa zameriava na účtovníctvo a druhá časť na strategické financie.“</li>
+<li>„Kľúčové témy zahŕňajú nastavenie bezpečnej štruktúry bankového účtu, správu limitov kreditných kariet a prechod zo Stripe na papierové zmluvy a faktúry, keď sa zákaznícka základňa rozrastala.“</li>
+<li>„Autor sa delí o praktické poznatky zo svojej skúsenosti v spoločnosti Segment, ktorá výrazne rástla a získala 44 miliónov dolárov, pričom zdôrazňuje dôležitosť porozumenia základom účtovníctva pre zakladateľov startupov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41074002">Reakcie</a></h3>
+<ul>
+<li>„Článok „Startup Finance for Founders – Part I, Accounting“ pojednáva o základných účtovných princípoch pre zakladateľov startupov, hoci mu chýbajú podrobné účtovné informácie.“</li>
+<li>„Významným bodom, ktorý bol zdôraznený, je stratégia vyjednávania úverových liniek počas investičných rozhovorov namiesto postupného zvyšovania limitov kreditných kariet.“</li>
+<li>„Diskusia sa tiež dotýka obmedzení a rizík spojených s používaním debetných kariet na transakcie, ako je prenájom áut, najmä v USA v porovnaní s Európou.“</li>
+</ul>
+<h2><a href="https://aml4td.org/">„Aplikované strojové učenie pre tabuľkové dáta“</a></h2>
+<ul>
+<li>„„Applied Machine Learning for Tabular Data“ od Maxa Kuhna a Kjella Johnsona je praktickým sprievodcom pre vývoj prediktívnych modelov z tabuľkových dát, ktorý má byť vydaný v júni 2024.“</li>
+<li>„Kniha pokrýva celý proces prediktívneho modelovania, vrátane tvorby vlastností a činností po modelovaní, a je licencovaná pod CC BY-NC-SA 4.0, čo umožňuje nekomerčné použitie a adaptáciu.“</li>
+<li>„Zameraná na dátových analytikov, štatistikov a dátových vedcov, kniha poskytuje cvičenia a výpočtové doplnky, primárne využívajúce framework tidymodels v R, a víta príspevky komunity prostredníctvom GitHubu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072616">Reakcie</a></h3>
+<ul>
+<li>„Diskusia o aplikovanom strojovom učení (ML) pre tabuľkové dáta, zdôrazňujúca bežné výzvy ako únik dát, inteligentné delenie dát a výber modelu.“</li>
+<li>„Dôraz na používanie XGBoost pre špičkové výsledky, pričom niektorí odborníci odporúčajú alternatívy ako LightGBM, CatBoost a Random Forests.“</li>
+<li>„Zmienenie nového praktického učebného textu od autora O&#39;Reilly, zameraného na budovanie ML systémov s úložiskom funkcií a praktickými projektmi.“</li>
+</ul>
+<h2><a href="http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/">„Bcachefs, úvod/prieskum“</a></h2>
+<ul>
+<li>„Bcachefs je nový súborový systém navrhnutý na prekonanie obmedzení existujúcich súborových systémov, ponúkajúci jedinečné funkcie a vylepšenia.“</li>
+<li>„Podporuje experimentálne úrovne RAID (0, 1, 5, 6) a kódovanie vymazania, hoci niektoré z nich sa zatiaľ neodporúčajú používať.“</li>
+<li>„Bcachefs je stále vo vývoji, s prebiehajúcimi vylepšeniami a potrebnou pomocou komunity pre správu viacerých zariadení a integráciu systému.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41076190">Reakcie</a></h3>
+<ul>
+<li>„Bcachefs, nový súborový systém, sa diskutuje pre svoje schopnosti spracovania chýb, konkrétne pre svoju funkciu samoliečenia pri chybách čítania IO/kontrolného súčtu, ktorá bude implementovaná v Linuxe 6.11.“</li>
+<li>„Existuje diskusia o potenciálnych rizikách samoliečenia, ako je možnosť poškodenia dobrých dát, ak sú systémové komponenty, ako napríklad RAM, chybné.“</li>
+<li>„Porovnania sa robia medzi Bcachefs a inými súborovými systémami ako ZFS a btrfs, pričom používatelia zdieľajú svoje skúsenosti a obavy týkajúce sa spoľahlivosti a integrity dát.“</li>
+</ul>
+<h2><a href="https://blog.zulip.com/2024/07/25/zulip-9-0-released/">„Zulip 9.0: Organizovaný chat pre distribuované tímy“</a></h2>
+<ul>
+<li>„Zulip Server 9.0 bol vydaný, prinášajúc stovky aktualizácií a opráv chýb, čím zvyšuje jeho použiteľnosť pre prácu na diaľku a hybridnú prácu.“</li>
+<li>„Kľúčové aktualizácie zahŕňajú redizajn používateľského rozhrania, vylepšenie tvorby správ, zmeny terminológie, vylepšené vyhľadávanie a lepšie zaškolenie používateľov.“</li>
+<li>„Nové integrácie, podpora pre Ubuntu 24.04 a mobilné aplikácie novej generácie vytvorené pomocou Flutteru patria medzi významné vylepšenia.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41075934">Reakcie</a></h3>
+<ul>
+<li>„Zulip 9.0 bol vydaný, obsahuje nový menej hustý predvolený rozloženie a plány na väčšiu prispôsobiteľnosť.“</li>
+<li>„Organizované priestory a intuitívny dizajn Zulipu sú chválené za zvyšovanie produktivity, najmä pre distribuované tímy.“</li>
+<li>„Nová mobilná aplikácia je postavená na Flutteri, open-source frameworku známom pre svoj výkon a rýchlosť iterácie.“</li>
+</ul>
+<h2><a href="https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software">„Švajčiarsko nariaďuje vládnym agentúram používať softvér s otvoreným zdrojovým kódom“</a></h2>
+<ul>
+<li>„Švajčiarsko prijalo zákon, ktorý vyžaduje, aby vládne agentúry používali softvér s otvoreným zdrojovým kódom (OSS) a zverejňovali nový vládny kód pod licenciami s otvoreným zdrojovým kódom, známy ako „Federálny zákon o používaní elektronických prostriedkov na plnenie vládnych úloh“ (EMBAG).“</li>
+<li>„Táto iniciatíva si kladie za cieľ zlepšiť transparentnosť, bezpečnosť a efektívnosť tým, že sprístupní verejnosti neosobné a bezpečnostne necitlivé údaje vlády.“</li>
+<li>„Švajčiarsky krok je v súlade s podobnými európskymi iniciatívami a mohol by potenciálne inšpirovať ďalšie prijatie OSS v Európe a USA.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072795">Reakcie</a></h3>
+<ul>
+<li>„Švajčiarsko nariaďuje, aby vládne agentúry používali softvér s otvoreným zdrojovým kódom, s cieľom zvýšiť transparentnosť a znížiť závislosť od vlastníckych dodávateľov.“</li>
+<li>„Open-source softvér umožňuje vládam upravovať a kontrolovať kód, čo môže viesť k lepšej bezpečnosti a úsporám nákladov tým, že sa vyhnú závislosti na dodávateľoch.“</li>
+<li>„Tento krok je vnímaný ako investícia do miestnych schopností a krok smerom k systematickej, dlhodobej digitalizácii, napriek potenciálnym krátkodobým nákladom.“</li>
+</ul>
+<h2><a href="https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF">„Ministerstvo obrany USA – Detekcia agilného BS [pdf] (2018)“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41073688">Reakcie</a></h3>
+<ul>
+<li>„Dokument Ministerstva obrany USA z roku 2018 sa zaoberá neefektívnosťou v agilnom vývoji softvéru, pričom poukazuje na problémy ako nedostatok interakcie s koncovými používateľmi a nesprávne hospodárenie s finančnými prostriedkami zo strany sprostredkovateľov.“</li>
+<li>„Dokument naznačuje, že agilné praktiky sú často nesprávne aplikované, čo vedie k plytvaniu zdrojmi a neschopnosti dodať kvalitný softvér včas.“</li>
+<li>„Zdôrazňuje potrebu lepšieho zosúladenia medzi vývojovými tímami a koncovými používateľmi a varuje pred nadmernou závislosťou na nástrojoch a procesoch.“</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a">„Neexistuje žiadna oprava pre zlyhávajúce procesory Intel 13. a 14. generácie – poškodenie je trvalé“</a></h2>
+<ul>
+<li>„Procesory Intel 13. a 14. generácie majú problém s padaním systému kvôli zvýšeným napätiam a výrobným chybám, ktoré nemožno opraviť, ak už došlo k poškodeniu.“</li>
+<li>„Očakáva sa, že záplata na predchádzanie budúcim problémom bude dostupná v polovici augusta, ale poškodené procesory bude potrebné vymeniť; Intel nebude vykonávať stiahnutie z trhu ani predlžovať záruky.“</li>
+<li>„Postihnutí používatelia by mali aktualizovať svoj BIOS a kontaktovať zákaznícku podporu spoločnosti Intel, pretože problém potenciálne ovplyvňuje akýkoľvek 13. alebo 14. generácie desktopový procesor spotrebujúci 65W alebo viac energie.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41079901">Reakcie</a></h3>
+<ul>
+<li>„Procesory Intel 13. a 14. generácie majú trvalý problém s pádom systému bez aktuálneho riešenia, ktorý ovplyvňuje procesory s odberom 65W alebo viac.“</li>
+<li>„MicroCenter prestal zahrňovať tieto procesory do svojich balíkov a aktualizácia mikrokódu očakávaná v polovici augusta môže znížiť výkon.“</li>
+<li>„Napriek problému akcie spoločnosti Intel výrazne neklesli a spoločnosť nepozastavila predaj ani neplánuje stiahnutie produktov, namiesto toho sa zameriava na opravy mikrokódu.“</li>
+</ul>
+<h2><a href="https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy">„Stripe získava Lemon Squeezy“</a></h2>
+<ul>
+<li>„Stripe získal Lemon Squeezy, platformu spustenú v roku 2021 na zjednodušenie predaja digitálnych produktov po celom svete.“</li>
+<li>„Lemon Squeezy dosiahol viac ako 1 milión dolárov v ročnom opakujúcom sa príjme (ARR) do deviatich mesiacov od svojho spustenia.“</li>
+<li>„Akvizícia má za cieľ vylepšiť ponuku Lemon Squeezy pomocou platobných schopností Stripe, čo sľubuje zlepšenie zákazníckej skúsenosti a spoľahlivosti.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41080018">Reakcie</a></h3>
+<ul>
+<li>„Stripe získal Lemon Squeezy, platformu známu svojou funkciou Merchant of Record (MoR), ktorá zjednodušuje odvádzanie DPH.“</li>
+<li>„Používatelia sa obávajú možných zmien poplatkov a budúcnosti funkcie MoR, čo vedie k zmiešaným pocitom ohľadom akvizície.“</li>
+<li>„Niektorí považujú akvizíciu za zníženie konkurencie v oblasti platieb, zatiaľ čo iní dúfajú v lepšiu integráciu spracovania daní.“</li>
+</ul>
+<h2><a href="https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html">„Francúzska vysokorýchlostná železničná doprava narušená &#39;záškodníckymi činmi&#39; počas olympijského ceremoniálu“</a></h2>
+<ul>
+<li>„Francúzska vysokorýchlostná železničná sieť, vrátane TGV, čelila významným narušeniam kvôli „zámerným činom“ ako je podpaľačstvo, tesne pred olympijskými hrami v Paríži.“</li>
+<li>„Útoky poškodili optické káble nevyhnutné pre bezpečnosť vlakov, čo ovplyvnilo 800 000 cestujúcich a spôsobilo rozsiahle zrušenia a meškania, pričom opravy sa očakávajú počas celého víkendu.“</li>
+<li>„Francúzski predstavitelia odsúdili útoky ako „kriminálne činy“ a začali vyšetrovanie, pričom hrozia tresty až do 20 rokov väzenia a značné pokuty.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41076831">Reakcie</a></h3>
+<ul>
+<li>„Vysokorýchlostná železničná doprava vo Francúzsku bola narušená „záškodníckymi činmi“ počas olympijského ceremoniálu, čo poukazuje na zraniteľnosti verejných dopravných systémov voči sabotážam.“</li>
+<li>„Špekulácie naznačujú možnú účasť zahraničných aktérov, vrátane Ruska, pričom sa robia paralely s podobnými incidentmi v Nemecku a iných častiach Európy.“</li>
+<li>„Incident vyvolal debaty o odolnosti dopravných prostriedkov, dôsledkoch pre národnú bezpečnosť a potrebe opatrení na ochranu kritickej infraštruktúry.“</li>
+</ul>
+<h2><a href="https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony">„Francúzska železničná sieť zasiahnutá &#39;záškodníckymi činmi&#39; pred olympijskými hrami v Paríži“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41077798">Reakcie</a></h3>
+<ul>
+<li>„Francúzska železničná sieť sa stala terčom &#39;záškodníckych činov&#39; tesne pred olympijskými hrami v Paríži, čo vyvoláva obavy o bezpečnosť a odolnosť infraštruktúry.“</li>
+<li>„Načasovanie týchto činov je obzvlášť významné, keďže sa Francúzsko pripravuje na usporiadanie veľkého medzinárodného podujatia, čo poukazuje na možné zraniteľnosti.“</li>
+<li>„Diskusie a ďalšie podrobnosti prebiehajú na rôznych fórach, čo odráža vysokú úroveň záujmu verejnosti a médií o tento incident.“</li>
+</ul>
+<h2><a href="https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/">„Databáza všetkých financovaných startupov“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41076252">Reakcie</a></h3>
+<ul>
+<li>„Databáza všetkých financovaných startupov bola zdieľaná na Reddite, kde získala značnú pozornosť s 81 bodmi.“</li>
+<li>„Príspevok vyvolal diskusie, pričom niektorí používatelia spochybňujú frekvenciu jeho opätovného zverejňovania.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Švajčiarske mesto zakázalo billboardy. Zürich a Bern môžu čoskoro nasledovať“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9E%C5%A0vaj%C4%8Diarske%20mesto%20zak%C3%A1zalo%20billboardy.%20Z%C3%BCrich%20a%20Bern%20m%C3%B4%C5%BEu%20%C4%8Doskoro%20nasledova%C5%A5%E2%80%9C&subheading=piatok%2026.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/26</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-25]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/25&#39;</h2>
+<h1>2024-07-25</h1>
+<h2><a href="https://github.com/nodejs/node/pull/53725">„Node.js pridáva experimentálnu podporu pre TypeScript“</a></h2>
+<ul>
+<li>„Node.js zaviedol novú funkciu na spúšťanie súborov TypeScript pomocou príznaku <code>--experimental-strip-types</code>, ktorý transpiluje TypeScript do JavaScriptu bez kontroly typov.“</li>
+<li>„Táto funkcia využíva <code>@swc/wasm-typescript</code> na efektívnu a jednoduchú transpiráciu, s cieľom znížiť potrebu externých závislostí pri spúšťaní súborov TypeScript.“</li>
+<li>„Funkcia je experimentálna a dostupná v nočnej verzii, pričom prebiehajú diskusie o ďalších vylepšeniach, ako je podpora importov bez prípon.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064351">Reakcie</a></h3>
+<ul>
+<li>„Node.js zaviedol experimentálnu podporu pre priame spúšťanie súborov TypeScript, čím sa eliminuje potreba predchádzajúcej kompilácie do JavaScriptu.“</li>
+<li>„Táto funkcia, podobne ako to, čo ponúka Deno, má za cieľ zjednodušiť vývojový proces pre používateľov TypeScriptu.“</li>
+<li>„Zváženia zahŕňajú udržiavanie kompatibility medzi verziami Node.js a TypeScript a posúdenie potenciálneho dopadu na ekosystém NPM.“</li>
+</ul>
+<h2><a href="https://www.elysian.press/p/employee-ownership">„Každá spoločnosť by mala byť vlastnená svojimi zamestnancami“</a></h2>
+<ul>
+<li>„Central States Manufacturing je príkladom vlastníctva zamestnancov, pričom medzi svojimi robotníkmi má 47 milionárov vďaka vlastníctvu akcií.“</li>
+<li>„Plány vlastníctva akcií zamestnancov (ESOP) sa v USA rozširujú, pričom z tohto modelu profituje 6 533 spoločností a 14,7 milióna zamestnancov.“</li>
+<li>„ESOPy poskytujú daňové výhody, zlepšujú výkonnosť spoločnosti a zvyšujú udržanie zamestnancov tým, že podporujú pocit vlastníctva.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065227">Reakcie</a></h3>
+<ul>
+<li>„Plány vlastníctva akcií zamestnancov (ESOP) ponúkajú spôsob, ako môžu zamestnanci vlastniť časť spoločnosti prostredníctvom akciových opcií, ale počas ťažkých časov môžu byť demotivujúce.“</li>
+<li>„Vlastníctvo zamestnancov je rizikové, najmä ak spoločnosť zlyhá, a hoci je bežné v technológiách, nie je rozšírené vo všetkých odvetviach.“</li>
+<li>„Optimalizácia spokojnosti pracovníkov nad ziskom môže byť prospešná, ale môže ovplyvniť konkurencieschopnosť na globálnom trhu.“</li>
+</ul>
+<h2><a href="https://jordaneldredge.com/notes/corrupted-skins/">„Vyšetrovanie skorumpovaných skinov pre Winamp“</a></h2>
+<ul>
+<li>„Pri skúmaní zbierky Winamp Skin Museum autor objavil poškodené skiny a rozhodol sa ich preskúmať, čo viedlo k prekvapivým zisteniam.“</li>
+<li>„Vyšetrovanie odhalilo rôzne skryté predmety, vrátane šifrovaných súborov, osobných listov, hesiel k e-mailom, tajnej biografie Cheta Bakera, záhadných zvukových súborov a herného spustiteľného súboru s názvom worm.exe.“</li>
+<li>„Autor našiel 127 skinov v rámci iných skinov, pričom 54 z nich bolo novými prírastkami do múzea, čo predstavuje fascinujúce a zvláštne dobrodružstvo poháňané láskou k Winampu a nájdeným predmetom.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064645">Reakcie</a></h3>
+<ul>
+<li>„Jordan Eldredge vytvoril významné projekty WinAmp, ako sú WebAmp a WASM (WebAssembly) engine pre vizualizáciu hudby, ktoré možno nájsť na jeho webovej stránke.“</li>
+<li>„Používatelia spomínajú na svoje skúsenosti s WinAmpom, diskutujú o prispôsobení softvéru a vyjadrujú nostalgiu za softvérom z začiatku 2000-tych rokov.“</li>
+<li>„Rozhovor zdôrazňuje pocit straty v súvislosti s prispôsobením používateľov v modernom softvéri a preferenciu pre viac komunitne orientovaný internet z minulosti.“</li>
+</ul>
+<h2><a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/">„AI rieši problémy Medzinárodnej matematickej olympiády na úrovni striebornej medaily“</a></h2>
+<ul>
+<li>„Výskumné AI systémy AlphaProof a AlphaGeometry 2 dosiahli strieborný medailový štandard vyriešením štyroch zo šiestich úloh na Medzinárodnej matematickej olympiáde (IMO) v roku 2024.“</li>
+<li>„AlphaProof, pomocou posilňovaného učenia a formálneho jazyka Lean, vyriešil dve algebraické úlohy a jednu úlohu z teórie čísel, vrátane najťažšej úlohy v súťaži.“</li>
+<li>„AlphaGeometry 2, neuro-symbolický hybridný systém, vyriešil geometrický problém za 19 sekúnd, čím prispel k skóre kombinovaného AI systému 28 z 42 bodov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41069829">Reakcie</a></h3>
+<ul>
+<li>„AI od DeepMind dosiahla riešenie problémov Medzinárodnej matematickej olympiády (IMO) na úrovni striebornej medaily, čo ukazuje významné pokroky v schopnostiach AI riešiť problémy.“</li>
+<li>„AI systém s názvom AlphaProof kombinuje predtrénované jazykové modely s algoritmami posilňovacieho učenia, využívajúc formálne matematické jazyky ako Lean na generovanie a overovanie riešení.“</li>
+<li>„Tento vývoj zdôrazňuje potenciál umelej inteligencie pri riešení zložitých matematických problémov, ktoré tradične vyžadujú značnú ľudskú intuíciu a odborné znalosti, čo predstavuje významný míľnik vo výskume a aplikácii umelej inteligencie.“</li>
+</ul>
+<h2><a href="https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/">„Apple Maps na webe spúšťa beta verziu“</a></h2>
+<ul>
+<li>„Apple Maps je teraz dostupný vo verejnej beta verzii na webe, čo umožňuje používateľom prístup k Mapám z ich prehliadačov po celom svete.“</li>
+<li>„Funkcie zahŕňajú pokyny na jazdu a chôdzu, fotografie miest, otváracie hodiny, hodnotenia, recenzie, objednávanie jedla a kurátorské sprievodcov, pričom funkcia Look Around čoskoro pribudne.“</li>
+<li>„Momentálne podporuje Safari a Chrome na Mac a iPad, a Chrome a Edge na Windows PC, pričom časom budú pridané ďalšie jazyky, prehliadače a platformy.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065326">Reakcie</a></h3>
+<ul>
+<li>„Apple Maps predstavili beta verziu pre web, ktorá je však momentálne kompatibilná iba so Safari a Chrome na macOS a Windows.“</li>
+<li>„Používatelia sú frustrovaní z nedostatku podpory pre Firefox a Linux, ako aj z problémov s presnosťou údajov a použiteľnosťou v porovnaní s Google Maps.“</li>
+<li>„Napriek týmto výzvam existuje optimizmus, že Apple Maps sa zlepší a potenciálne sa stane silným konkurentom Google Maps.“</li>
+</ul>
+<h2><a href="https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/">„Dungeons and Dragons ma naučili, ako písať alternatívny text“</a></h2>
+<ul>
+<li>„Hranie Dungeons &amp; Dragons (D&amp;D) pomohlo autorovi rozvinúť cenné zručnosti, vrátane písania efektívneho alternatívneho textu pre obrázky.“</li>
+<li>„Metóda „divadlo mysle“ v D&amp;D, ktorá sa spolieha na slovné rozprávanie, naučila autora uprednostňovať jasné a pútavé opisy.“</li>
+<li>„Písanie alternatívneho textu, podobne ako rozprávanie v D&amp;D, vyžaduje zdôraznenie dôležitých detailov ako prvých a pridanie kontextu a emócií, pričom zdroje ako Web Accessibility Initiative a BBC GEL pomáhajú zlepšiť zručnosti.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41061755">Reakcie</a></h3>
+<ul>
+<li>„Príspevok pojednáva o tom, ako hranie Dungeons and Dragons (D&amp;D) pomohlo autorovi naučiť sa písať efektívny alternatívny text, čo je text používaný na opis obrázkov pre čítačky obrazovky.“</li>
+<li>„Kľúčovým bodom je dôležitosť opisovania vecí podľa ich dôležitosti, podobne ako štruktúra obrátenej pyramídy v žurnalistike, aby bol obsah prístupný a užitočný pre používateľov čítačiek obrazovky.“</li>
+<li>„Diskusia zdôrazňuje, ako možno naratívne techniky D&amp;D aplikovať na profesionálnu komunikáciu, pričom sa kladie dôraz na jasnosť a priorizáciu informácií.“</li>
+</ul>
+<h2><a href="https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/">„CrowdStrike bude zodpovedný za škody vo Francúzsku na základe precedensu OVH“</a></h2>
+<ul>
+<li>„CrowdStrike môže čeliť zodpovednosti za škody vo Francúzsku, pričom sa dá nájsť paralela s precedensom OVH, kde požiar viedol k úspešným žalobám proti OVH.“</li>
+<li>„Nedávna aktualizácia od CrowdStrike vyradila z prevádzky 8,5 milióna počítačov, čo spôsobilo škody vo výške viac ako 5,4 miliardy dolárov a narušilo kritické odvetvia.“</li>
+<li>„Incident zdôrazňuje nedbanlivosť kvôli nedostatku postupných nasadení a testovania, napriek požiadavkám zákazníkov, čo môže viesť k početným nárokom na náhradu škody a ukončeniam zmlúv.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41066811">Reakcie</a></h3>
+<ul>
+<li>„CrowdStrike môže čeliť zodpovednosti za škody vo Francúzsku, pričom sa to prirovnáva k incidentu OVH, ktorý zahŕňal významnú stratu dát a dopady na podnikanie.“</li>
+<li>„Nedávne problémy, vrátane veľkého výpadku, vyvolali obavy o zodpovednosť CrowdStrike, najmä v kritických sektoroch, ako je zdravotníctvo.“</li>
+<li>„Širšie diskusie sa objavujú o zodpovednosti za softvér a povinnostiach technologických spoločností v rôznych jurisdikciách.“</li>
+</ul>
+<h2><a href="https://twitter.com/moo9000/status/1816352054425829420">„Člena Európskeho parlamentu zasiahol izraelský spyware Candiru“</a></h2>
+<ul>
+<li>„Člen Európskeho parlamentu Daniel Freund, známy svojou kritikou Maďarska, sa stal terčom špionážneho útoku, pravdepodobne za účasti izraelskej spoločnosti Candiru.“</li>
+<li>„Maďarsko spolu s Poľskom, Gréckom, Cyprom a Španielskom má históriu nelegálneho špehovania svojich občanov, čo vyvoláva obavy o súkromie a sledovanie v týchto krajinách.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065156">Reakcie</a></h3>
+<ul>
+<li>„Člen Európskeho parlamentu bol cieľom izraelského spyware Candiru prostredníctvom spear-phishingového pokusu, kde už len otvorenie odkazu mohlo kompromitovať telefón.“</li>
+<li>„Incident vyvoláva významné obavy o bezpečnosť vysoko postavených osôb a dôsledky štátom podporovanej kybernetickej špionáže.“</li>
+<li>„Širší problém používania špionážneho softvéru rôznymi krajinami na politické účely a etické úvahy o takýchto technológiách je zdôraznený.“</li>
+</ul>
+<h2><a href="https://github.com/mlfoundations/MINT-1T">„Multimodálny dataset s jedným biliónom tokenov“</a></h2>
+<ul>
+<li>„MINT-1T je open-source dataset obsahujúci jeden bilión textových tokenov a 3,4 miliardy obrázkov, čo predstavuje približne 10-násobné zvýšenie oproti existujúcim datasetom.“</li>
+<li>„Súbor údajov zahŕňa nové zdroje, ako sú PDF a ArXiv články, a všetky podmnožiny sú uvoľnené, vrátane HTML a PDF údajov z rôznych snímok CommonCrawl.“</li>
+<li>„Dataset MINT-1T bol oficiálne sprístupnený ako open-source 24. júla 2024, s technickou správou vydanou 17. júna 2024.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41061390">Reakcie</a></h3>
+<ul>
+<li>„Bol vydaný nový multimodálny dataset obsahujúci jeden bilión tokenov, ktorý zahŕňa text a obrázky.“</li>
+<li>„Súbor údajov je licencovaný pod CC-BY-4.0, čo znamená, že používatelia musia zabezpečiť legálne použitie v komerčných prostrediach.“</li>
+<li>„Za týmto vydaním stojí Salesforce, čo ukazuje ich rastúce zapojenie do výskumu umelej inteligencie nad rámec ich hlavných CRM produktov.“</li>
+</ul>
+<h2><a href="https://0xinfection.github.io/reversing/">„Reverzné inžinierstvo pre každého“</a></h2>
+<ul>
+<li>„Príspevok predstavuje komplexnú sadu kurzov reverzného inžinierstva pokrývajúcich architektúry x86, x64, ARM-32 a ARM-64, určených pre začiatočníkov.“</li>
+<li>„Kurzy zahŕňajú podrobné moduly o strojovom jazyku, ladení, hackingu a základných konceptoch počítačovej architektúry.“</li>
+<li>„Sada tutoriálov je k dispozícii na stiahnutie vo formáte PDF alebo MOBI, čo umožňuje prístup k offline štúdiu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41069256">Reakcie</a></h3>
+<ul>
+<li>„Reverzné inžinierstvo môže byť vykonané bez priameho prístupu k cieľu, ako to ukázala práca Andrewa Tridgella na protokole SMB od Microsoftu a BitKeeperi, čo nakoniec viedlo k vytvoreniu Git.“</li>
+<li>„Praktické skúsenosti a zvedavosť sú kľúčové pre učenie sa reverzného inžinierstva, pričom nástroje ako Cheat Engine, IDA a radare2 sú nevyhnutné pre analýzu a modifikáciu softvéru.“</li>
+<li>„K dispozícii je prehľad na vysokej úrovni a podrobnejšie zdroje pre začiatočníkov, ako napríklad tutoriál na GitHub od mytechnotalent a séria blogov od boricj.“</li>
+</ul>
+<h2><a href="https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/">„X prepracováva emoji vodnej pištole späť na strelnú zbraň“</a></h2>
+<ul>
+<li>„X (predtým Twitter) prepracoval svoj emoji 🔫 vodnej pištole tak, aby zobrazoval strelnú zbraň, čím zvrátil posun z rokov 2016-2018 k vodnej pištoli.“</li>
+<li>„Táto aktualizácia sa začala zavádzať 18. júla 2024 a momentálne je dostupná prostredníctvom webového klienta X, pričom sa plánuje čoskoro aktualizovať aj mobilné zobrazenie.“</li>
+<li>„Táto zmena predstavuje prvú aktualizáciu sady Twemoji od X od júla minulého roka, čím sa odkláňa od zmeny dizajnu naprieč dodávateľmi, ktorú pôvodne viedla spoločnosť Apple v roku 2016.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41060813">Reakcie</a></h3>
+<ul>
+<li>„X (predtým Twitter) zmenil emoji vodnej pištole späť na strelnú zbraň, čo vyvolalo debaty o politických dôsledkoch zmien dizajnu emoji.“</li>
+<li>„Počiatočná zmena zo zbrane na vodnú pištoľ bola vnímaná ako politický krok a jej návrat je tiež považovaný za politicky motivovaný, čo spôsobuje zmätok a debaty medzi používateľmi.“</li>
+<li>„Nekonzistentnosť v zobrazení emoji naprieč platformami môže viesť k nedorozumeniam, čo poukazuje na výzvy pri štandardizácii vizuálnych symbolov v digitálnej komunikácii.“</li>
+</ul>
+<h2><a href="https://rcoh.me/posts/linear-time-median-finding/">„Môj obľúbený algoritmus: Nájsť medián v lineárnom čase (2018)“</a></h2>
+<ul>
+<li>„Príspevok sa zaoberá algoritmom median-of-medians, ktorý nájde medián v deterministickom lineárnom čase, čo ho robí teoreticky efektívnym.“</li>
+<li>„Porovnáva to s algoritmom Quickselect, ktorý zvyčajne nájde medián v priemernom lineárnom čase, ale v najhorších prípadoch môže byť menej spoľahlivý.“</li>
+<li>„Algoritmus mediánov z mediánov zabezpečuje dobrý výber pivotu pre Quickselect, čím zvyšuje jeho efektívnosť, hoci je v praxi často pomalší v porovnaní s jednoduchšími metódami, ako je náhodný výber pivotu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41066536">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá rôznymi metódami na nájdenie mediánu vo veľkých dátových súboroch, so zameraním na algoritmy s lineárnym časom a ich praktické aplikácie.“</li>
+<li>„Pozoruhodným príkladom je použitie MapReduce a bucket sort na efektívne nájdenie mediánu v jednom prechode, čo zdôrazňuje dôležitosť presnosti a rozsahu údajov.“</li>
+<li>„Rozhovor sa tiež dotýka rôznych algoritmov ako Quickselect, Median-of-Medians a streamingové algoritmy, porovnávajúc ich efektívnosť a vhodnosť pre rôzne scenáre.“</li>
+</ul>
+<h2><a href="https://chatgpt.com/search">„OpenAI oznamuje SearchGPT“</a></h2>
+<ul>
+<li>„SearchGPT je prototyp nových vyhľadávacích funkcií využívajúcich AI modely na poskytovanie rýchlych odpovedí s jasnými zdrojmi.“</li>
+<li>„Služba ponúka informácie v reálnom čase z relevantných zdrojov, vizuálne výsledky a umožňuje prirodzené, konverzačné následné otázky.“</li>
+<li>„Používatelia sa môžu prihlásiť na čakaciu listinu, aby vyskúšali SearchGPT, pričom spätná väzba bude použitá na integráciu najlepších funkcií do ChatGPT.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41071639">Reakcie</a></h3>
+<ul>
+<li>„OpenAI oznámila SearchGPT, nový nástroj na vyhľadávanie poháňaný umelou inteligenciou, ktorý vyvolal značnú diskusiu a záujem v technologickej komunite.“</li>
+<li>„SearchGPT si kladie za cieľ poskytovať priame odpovede bez presmerovania návštevnosti na webové stránky, čo vyvoláva obavy o jeho vplyv na webovú návštevnosť a zarábanie stránok.“</li>
+<li>„Oznámenie viedlo k debatám o budúcnosti SEO (optimalizácie pre vyhľadávače) a o tom, ako by nástroje na vyhľadávanie pomocou umelej inteligencie mohli zmeniť prostredie online vyhľadávania informácií a reklamy.“</li>
+</ul>
+<h2><a href="https://tn1ck.com/blog/how-to-generate-sudokus">„Generovanie sudoku pre zábavu a bez zisku“</a></h2>
+<ul>
+<li>„Tom Nick vyvinul bezplatnú, open-source Sudoku aplikáciu, sudoku.tn1ck.com, pôvodne pre svoju babičku, čo ho viedlo k skúmaniu generovania Sudoku a hodnotenia obtiažnosti.“</li>
+<li>„Rôzne algoritmy, vrátane Brute Force, Minimum Remaining Value a Arc Consistency (AC3), sa používajú na riešenie a generovanie Sudoku, pričom obtiažnosť sa meria počtom iterácií riešiteľa.“</li>
+<li>„Aplikácia generuje Sudoku rôznych úrovní obtiažnosti tým, že vypĺňa mriežky náhodnými číslami, upravuje vyplnené bunky a reštartuje, ak sa nedosiahne požadovaná obtiažnosť, čím zaručuje zábavný a náročný zážitok pre používateľa.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41062072">Reakcie</a></h3>
+<ul>
+<li>„Blogový príspevok od TN1ck sa zaoberá generovaním Sudoku hádaniek pre zábavu a bez zisku, obsahuje interaktívne príklady a používateľsky prívetivú webovú stránku.“</li>
+<li>„Príspevok získal pozitívnu spätnú väzbu od komunity, pričom používatelia zdieľajú svoje vlastné skúsenosti a nástroje na riešenie a generovanie Sudoku hádaniek.“</li>
+<li>„Webová stránka TN1ck je open source, postavená pomocou Next.js a React, a nedávno bola zverejnená na GitHub pre ďalšiu spoluprácu a vylepšenie.“</li>
+</ul>
+<h2><a href="https://www.google.com/search?q=roboto+mono+font">„Google Search: Roboto Mono“</a></h2>
+<ul>
+<li>„Roboto Mono je neproporcionálne písmo z rodiny písiem Roboto, optimalizované pre čitateľnosť na obrazovke a dostupné na bezplatné stiahnutie.“</li>
+<li>„Rodina písiem ponúka škálu hrúbok od 100 do 700, vrátane kurzívnych variantov, a môže byť samostatne hostovaná cez NPM.“</li>
+<li>„Roboto Mono je široko dostupné prostredníctvom platforiem ako Google Fonts, Adobe Fonts a rôznych bezplatných úložísk fontov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064950">Reakcie</a></h3>
+<ul>
+<li>„Google predstavil novú veľkonočnú vajíčko súvisiacu s vyhľadávaním fontov, konkrétne pre &quot;Comic Sans&quot; a ďalšie fonty.“</li>
+<li>„Používatelia zdieľajú rôzne zábavné a skryté funkcie, ktoré objavili, ako napríklad vyhľadávanie &quot;do a barrel roll&quot; alebo &quot;minecraft&quot; na Google.“</li>
+<li>„Komunita tieto veľkonočné vajíčka oceňuje, hoci niektorí vyjadrujú obavy o zdroje vynaložené na ich udržiavanie.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Node.js pridáva experimentálnu podporu pre TypeScript“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9ENode.js%20prid%C3%A1va%20experiment%C3%A1lnu%20podporu%20pre%20TypeScript%E2%80%9C&subheading=%C5%A1tvrtok%2025.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/25</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-24]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/24&#39;</h2>
+<h1>2024-07-24</h1>
+<h2><a href="https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html">„Hydrotermálna explózia v Národnom parku Yellowstone“</a></h2>
+<ul>
+<li>„Lesná služba pracuje na uzavretí častí systému chodníkov Mike Harris.“</li>
+<li>„MD Nursery bola pokutovaná sumou viac ako 28 000 dolárov kvôli smrti muža v zákopu.“</li>
+<li>„Hydrotermálna explózia v Biscuit Basin v Yellowstone spôsobila, že turisti utekali.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41050055">Reakcie</a></h3>
+<ul>
+<li>„V termálnej oblasti Biscuit Basin v národnom parku Yellowstone došlo k hydrotermálnej explózii, ktorá poškodila chodník, ale nespôsobila žiadne zranenia.“</li>
+<li>„Výbuch vznikol v blízkosti Black Diamond Pool a bol zaznamenaný návštevníkmi, čo viedlo k dočasnému uzavretiu oblasti z bezpečnostných dôvodov.“</li>
+<li>„Odborníci zdôrazňujú, že takéto lokálne hydrotermálne udalosti nie sú indikátorom aktivity vo väčšej kaldere Yellowstone (supervulkán).“</li>
+</ul>
+<h2><a href="https://mistral.ai/news/mistral-large-2407/">„Dostatočne veľký – Mistral AI“</a></h2>
+<ul>
+<li>„Mistral AI vydal model Mistral Large 2, ktorý obsahuje 128k kontextové okno a podporu pre viac ako 80 programovacích jazykov, optimalizovaný pre inferenciu na jednom uzle so 123 miliardami parametrov.“</li>
+<li>„Model dosahuje 84,0% presnosť na MMLU, čím prekonáva predchádzajúce modely a rivalov ako GPT-4o a Llama 3 405B, s vylepšenými schopnosťami minimalizovať „halucinácie“ a zlepšiť uvažovanie.“</li>
+<li>„Mistral Large 2 je dostupný pod rôznymi licenciami pre nekomerčné a komerčné použitie, s váhami hostovanými na HuggingFace a rozšírenými partnerskými službami v cloude, vrátane Google Cloud Platform a Azure AI Studio.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41058107">Reakcie</a></h3>
+<ul>
+<li>„Nový model Mistral AI, Large 2, a Meta&#39;s Llama 3.1 405B boli testované a zistilo sa, že sú porovnateľné, bez jasného víťaza.“</li>
+<li>„Používatelia zdôraznili, že Claude zostáva silnou voľbou, ale vyjadrili túžbu po vylepšeniach, ako sú inteligentnejšie odpovede, dlhšie kontextové okná a rýchlejšie reakcie.“</li>
+<li>„Napriek tomu, že niektoré modely majú problémy s jednoduchými úlohami kvôli problémom s tokenizáciou, rýchly vývoj a konkurencia v oblasti AI modelov zostávajú vzrušujúce, pričom mnohí používatelia prechádzajú na modely ako Claude Sonnet 3.5 pre lepší výkon v kódovaní a iných úlohách.“</li>
+</ul>
+<h2><a href="https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html">„Prevzatie liečby cukrovky do vlastných rúk“</a></h2>
+<ul>
+<li>„Diabetik 1. typu vyvinul aplikáciu Windows Forms s grafmi OxyPlot na lepšiu vizualizáciu a správu príjmu inzulínu a sacharidov.“</li>
+<li>„Jednotlivec použil GeneticSharp, knižnicu genetických algoritmov, na optimalizáciu dávok inzulínu, čím úspešne stabilizoval hladiny glukózy.“</li>
+<li>„Prístup ukazuje sľub pre personalizované riadenie cukrovky, hoci sú potrebné ďalšie simulácie a úpravy pre dlhodobo pôsobiaci inzulín.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052365">Reakcie</a></h3>
+<ul>
+<li>„Jednotlivci s cukrovkou zdieľajú osobné skúsenosti a stratégie na zvládanie svojho stavu, pričom zdôrazňujú dôležitosť sebakontroly a zaznamenávania údajov.“</li>
+<li>„Rôzne diskutované metódy zahŕňajú zmeny v stravovaní, kontinuálne monitorovanie glukózy (CGM) a personalizované sledovanie vplyvu jedla a cvičenia na hladinu cukru v krvi.“</li>
+<li>„Rozhovor poukazuje na bežný pocit sebestačnosti v dôsledku vnímaných nedostatkov v riadení diabetu v zdravotníckom systéme.“</li>
+</ul>
+<h2><a href="https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/">„Google je jediný vyhľadávač, ktorý teraz funguje na Reddite, vďaka dohode o umelej inteligencii“</a></h2>
+<ul>
+<li>„Google je teraz jediným vyhľadávačom, ktorý dokáže zobrazovať nedávne výsledky z Redditu, čím sa obsah Redditu stáva exkluzívnym pre Google.“</li>
+<li>„Iné vyhľadávače ako Bing, DuckDuckGo a Qwant nemôžu zobrazovať nedávne výsledky z Redditu, pričom DuckDuckGo poskytuje obmedzené odkazy bez popisov.“</li>
+<li>„Táto situácia zdôrazňuje takmer monopolné postavenie Googlu v oblasti vyhľadávania, čo ovplyvňuje konkurenciu a vyvoláva kritiku ohľadom kvality vyhľadávania, pričom sa špekuluje o multi-miliónovej dohode, ktorá umožňuje Googlu získavať dáta z Redditu na tréning AI.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41057033">Reakcie</a></h3>
+<ul>
+<li>„Google sa stal exkluzívnym vyhľadávačom pre Reddit vďaka novej dohode o umelej inteligencii, pričom súbor robots.txt na Reddite blokuje ostatné vyhľadávače v indexovaní jeho obsahu.“</li>
+<li>„Toto rozhodnutie vyvolalo debaty o jeho vplyvoch na konkurenciu medzi vyhľadávačmi a princípoch otvoreného internetu.“</li>
+<li>„Boli vyjadrené obavy o protisúťažnú povahu dohody a jej potenciálny nepriaznivý vplyv na používateľskú skúsenosť a prístupnosť obsahu.“</li>
+</ul>
+<h2><a href="https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan">„Môžete sa odhlásiť z letiskových skenov tváre“</a></h2>
+<ul>
+<li>„Cestujúci sa môžu vyhnúť rozpoznávaniu tváre na letisku tým, že sa postavia mimo kamery, predložia svoj preukaz totožnosti a povedia: „Odmietam biometriku.““</li>
+<li>„Kampaň „Freedom Flyers“ Ligy za algoritmickú spravodlivosť si kladie za cieľ zvýšiť povedomie o tomto práve, najmä keď TSA plánuje rozšíriť rozpoznávanie tváre na všetky americké letiská.“</li>
+<li>„Rozpoznávanie tváre predstavuje riziká, ako sú úniky dát, nesprávna identifikácia, zaujatosti AI a normalizácia sledovania, pričom významné obavy o súkromie vyvoláva uchovávanie a používanie biometrických údajov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41051327">Reakcie</a></h3>
+<ul>
+<li>„Skúsenosti s odmietnutím skenovania tváre na letisku sa výrazne líšia, pričom niektorí používatelia čelia odporu a iní sa nestretávajú so žiadnymi problémami.“</li>
+<li>„Pokročilé kamery na letiskách zachytávajú 3D snímky pre vysokú presnosť rozpoznávania tváre, čo vyvoláva obavy o uchovávanie údajov o tvárach a všadeprítomný dohľad.“</li>
+<li>„Debata pokračuje o tom, či je nevyhnutné odhlásiť sa, aby sme odolali normalizácii sledovacích praktík, alebo či je to zbytočné kvôli všadeprítomnosti takýchto technológií.“</li>
+</ul>
+<h2><a href="https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/">„CrowdStrike ponúka ospravedlňujúcu darčekovú kartu v hodnote 10 dolárov ako ospravedlnenie za výpadok“</a></h2>
+<ul>
+<li>„CrowdStrike, firma zaoberajúca sa kybernetickou bezpečnosťou, spôsobila 19. júla globálny výpadok kvôli chybnému aktualizácii, čo ovplyvnilo milióny počítačov a viedlo k významným narušeniam, ako sú meškania na letiskách a zastavené operácie.“</li>
+<li>„Ako ospravedlnenie spoločnosť ponúkla svojim partnerom darčekové karty Uber Eats v hodnote 10 dolárov, ale niektorí príjemcovia uviedli, že poukazy boli neplatné.“</li>
+<li>„Generálny riaditeľ a hlavný bezpečnostný dôstojník spoločnosti CrowdStrike vydali verejné ospravedlnenia, uznávajúc závažnosť incidentu a zaväzujúc sa k transparentnosti a budúcim preventívnym opatreniam.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41058261">Reakcie</a></h3>
+<ul>
+<li>„CrowdStrike vydal darčekové karty Uber Eats v hodnote 10 dolárov ako ospravedlnenie za výpadok, ale mnohí používatelia zistili, že poukazy sú neplatné, čo viedlo ku kritike a špekuláciám o kompetentnosti spoločnosti.“</li>
+<li>„Niektorí používatelia podozrievali, že problém s darčekovou kartou môže byť pokus o phishing alebo hack, čo ďalej poškodilo reputáciu CrowdStrike.“</li>
+<li>„Gest bol vnímaný ako nedostatočný a urážlivý, najmä vzhľadom na významný dopad výpadku na kritické služby ako letecké spoločnosti a nemocnice, čo vyvolalo diskusie o možných právnych zodpovednostiach.“</li>
+</ul>
+<h2><a href="https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/">„Ako vyzerá &quot;súhlas&quot; pre DEA a TSA“</a></h2>
+<ul>
+<li>„DEA a TSA spolupracujú na zabavovaní peňazí cestujúcich tým, že sa zameriavajú na tých, ktorí majú pri sebe veľké sumy hotovosti, využívajú informátorov a kontrolné body TSA na identifikáciu jednotlivcov a tvrdia, že títo ľudia &quot;súhlasia&quot; s prehliadkami.“</li>
+<li>„Táto prax, ktorá sa rozširuje na vlaky Amtrak s pomocou amerických colných a hraničných ochranných služieb, zahŕňa „občianske prepadnutie“, pri ktorom sa peniaze zhabú bez príkazu, často ignorujúc nesúhlas cestujúcich.“</li>
+<li>„Prebiehajúca hromadná žaloba poukazuje na frekvenciu týchto nelegálnych prehliadok, pričom žalobcovia tvrdia, že objem záznamov naznačuje systémový problém, napriek odporu DEA a TSA zverejniť tieto záznamy.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053329">Reakcie</a></h3>
+<ul>
+<li>„Svadbu prerušila blesková povodeň, ktorá si vyžiadala záchrannú operáciu, hoci nedošlo k vážnym zraneniam.“</li>
+<li>„Polícia zadržala účastníkov v autobusoch s psami vycvičenými na vyhľadávanie drog, predtým než ich presunula do úkrytu na strednej škole, čím zvýšila ich stres.“</li>
+<li>„Incident vyvolal diskusiu o zneužívaní moci zo strany orgánov činných v trestnom konaní, konfiškácii majetku a vojne proti drogám, čím poukázal na potrebu reforiem a ich vplyv na dôveru verejnosti a bezpečnosť.“</li>
+</ul>
+<h2><a href="https://github.com/trholding/llama2.c/blob/master/runq.c">„Llama 3.1 v C“</a></h2>
+<ul>
+<li>„Bola vydaná nová implementácia založená na jazyku C pre inferenciu na modeloch Transformer Llama 2 a Llama 3/3.1, ktorá obsahuje kvantizovaný int8 forward pass.“</li>
+<li>„Kód zahŕňa podporu pre rôzne prostredia, ako sú Linux Kernel, Unikraft Unikernel a vstavané modely prostredníctvom Zip Archívu.“</li>
+<li>„Používatelia môžu prispôsobiť parametre ako teplota, top-p sampling a verzia modelu prostredníctvom príkazového riadku, čím sa zvyšuje flexibilita pre rôzne použitia.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053201">Reakcie</a></h3>
+<ul>
+<li>„Modely Llama 3.1 od Meta dokážu generovať viacjazyčný text, ale súčasná implementácia v jazyku C je stále chybná a vyžaduje ďalšie vylepšenia.“</li>
+<li>„Projekt zahŕňa kvantizáciu modelu na 8-bit, čo môže zhoršiť kvalitu výstupu, humorne označované ako &quot;poškodenie mozgu.&quot;“</li>
+<li>„Komunita aktívne prispieva k zlepšovaniu implementácie, s diskusiami o optimálnych kvantizačných metódach a rozširovaní dĺžky kontextu pomocou nových škálovacích techník.“</li>
+</ul>
+<h2><a href="https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html">„Pôvod Emacsu v roku 1976“</a></h2>
+<ul>
+<li>„EMACS, textový editor, bol vyvinutý v MIT AI Lab v roku 1976, pričom Richard Stallman (RMS) sa stal hlavným vývojárom do konca toho roku.“</li>
+<li>„RMS pomenoval &quot;E&quot; a &quot;EMACS&quot; a zohral kľúčovú úlohu pri transformácii TECO makier na výkonný editor, s počiatočnou pomocou od Guya Steelea, Davida Moona a Johna Kulpa.“</li>
+<li>„Raní používatelia, vrátane Moona, prispeli k vytváraniu kľúčových väzieb a názvov príkazov, čo zdôrazňuje spoluprácu a komunitný charakter vývoja EMACS.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052593">Reakcie</a></h3>
+<ul>
+<li>„V roku 1976 používal MIT-AI namiesto symbolu @ slovo &quot;at&quot; pre emailové adresy kvôli absencii DNS (Domain Name System).“</li>
+<li>„Skorí počítačoví vedci uprednostňovali jasné formáty dátumov ako &quot;dd MON yy&quot; a diskutovali o skorých sieťových súborových systémoch a protokoloch, ako sú MLDEV a SUPDUP.“</li>
+<li>„Emacs, textový editor pôvodne napísaný v TECO, sa vyvíjal s príspevkami vývojárov ako James Gosling, ktorý v roku 1981 vytvoril verziu pre Unix.“</li>
+</ul>
+<h2><a href="https://github.com/tekknolagi/scrapscript">„Scrapscript: Funkcionálny, obsahovo adresovateľný programovací jazyk“</a></h2>
+<ul>
+<li>„Scrapscript je programovací jazyk s interpretom dostupným pre Python 3.8+ a Cosmopolitan, a podporuje Docker pre kontajnerizované spúšťanie.“</li>
+<li>„Syntax jazyka Scrapscript bude čoskoro aktualizovaná a používatelia môžu odkazovať na <code>scrapscript.py</code> a jeho testy, aby porozumeli jazyku.“</li>
+<li>„Je k dispozícii experimentálny kompilátor, ktorý je schopný produkovať výstupy vo formátoch ELF, Cosmopolitan a Wasm, s konkrétnymi príkazmi pre každý z nich.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052371">Reakcie</a></h3>
+<ul>
+<li>„Scrapscript je nový funkcionálny, obsahovo adresovateľný programovací jazyk navrhnutý na riešenie problémov so zdieľaním softvéru pomocou typov podobných JSON, funkcií a hašovaných odkazov.“</li>
+<li>„Na rozdiel od Unison, ktorý používa paradigmu založenú na gite, Scrapscript je ambicióznejší a zameriava sa na IPFS (InterPlanetary File System) pre identifikáciu a serializáciu kódu.“</li>
+<li>„Jazyk získal pozornosť vďaka svojmu verejnému vývoju a osobnej ceste jeho tvorcu, ktorý prekonal alkoholizmus počas práce na projekte.“</li>
+</ul>
+<h2><a href="https://www.nature.com/articles/d41586-024-02383-9">„Dostali ste nulový výsledok. Bude to niekto publikovať?“</a></h2>
+<ul>
+<li>„Výskumníci čelia výzvam pri publikovaní nulových výsledkov, ktoré neukazujú žiadny významný vzťah medzi premennými, čo vedie k zaujatosti v prospech pozitívnych zistení.“</li>
+<li>„Tento publikačný skreslenie deformuje vedecký záznam a plytvá zdrojmi, ako je vidieť v nepresvedčivej štúdii evolučnej biologičky Natalie Pilakouta o preferenciách rýb v islandských horúcich prameňoch.“</li>
+<li>„Snaha riešiť tento problém zahŕňa časopisy, ktoré podporujú predregistrované správy, ale pomalé prijatie a vnímanie, že nulové výsledky naznačujú chybný výskum, zostávajú významnými prekážkami.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41056387">Reakcie</a></h3>
+<ul>
+<li>„Diskusia poukazuje na výzvy a nedostatok stimulov pre publikovanie nulových výsledkov vo vedeckom výskume, napriek ich potenciálnej hodnote.“</li>
+<li>„Významná časť vedcov je ochotná publikovať nulové výsledky, ale len veľmi málo z nich to dokáže kvôli systémovým prekážkam a nedostatku dopytu zo strany prestížnych časopisov.“</li>
+<li>„Návrhy zahŕňajú vytvorenie špeciálnych časopisov pre nulové výsledky, integráciu nulových výsledkov ako príloh k hlavným publikáciám a zlepšenie procesu recenzného posudzovania vrátane predregistrácie metód.“</li>
+</ul>
+<h2><a href="https://glhf.chat/landing/home">„Vytvorili sme glhf.chat – spustite takmer akýkoľvek open-source LLM, vrátane 405B“</a></h2>
+<ul>
+<li>„Nová webová stránka, <a href="https://glhf.chat/">https://glhf.chat/</a>, umožňuje používateľom spúšťať takmer akýkoľvek open-source LLM (Large Language Model) na autoskalovateľných GPU klastroch zadarmo počas fázy určovania cien.“</li>
+<li>„Služba podporuje akýkoľvek model kompatibilný s open-source projektom vLLM, ponúka až ~640GB VRAM a jej cieľom je byť nákladovo efektívnejšia ako iné GPU služby tým, že prevádzkuje modely v režime multi-tenant.“</li>
+<li>„Platforma bola spustená na Llama-3.1-405B Launch Day a podporuje efektívne modely ako Llama-3-70b finetunes, s plánmi na zlepšenie podpory pre väčšie modely a riešenie súčasných obmedzení.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052934">Reakcie</a></h3>
+<ul>
+<li>„glhf.chat umožňuje používateľom spúšťať takmer akýkoľvek open-source LLM (Large Language Model) na autoskalovateľných GPU klastroch, momentálne zadarmo, kým určia ceny.“</li>
+<li>„Služba podporuje akýkoľvek model kompatibilný s open-source projektom vLLM, vrátane populárnych modelov ako Llama-3-70b finetunes, s určitými obmedzeniami kvôli problémom s NVLink.“</li>
+<li>„Spustená na Llama-3.1-405B Launch Day, platforma si kladie za cieľ byť nákladovo efektívna prevádzkovaním modelov v prostredí s viacerými nájomníkmi a víta spätnú väzbu od používateľov.“</li>
+</ul>
+<h2><a href="https://pnut.sh">„Pnut: Kompilátor POSIX shellu, ktorému môžete dôverovať“</a></h2>
+<ul>
+<li>„Pnut je transpiler z jazyka C do POSIX shellu, ktorý prevádza programy v jazyku C do ľahko čitateľných shell skriptov, čím zabezpečuje vysokú prenosnosť medzi POSIX-kompatibilnými shellmi.“</li>
+<li>„Umožňuje vývojárom písať skripty v jazyku C bez potreby učiť sa nový jazyk a výstup je ľahko kontrolovateľný, ladiaci a udržiavateľný.“</li>
+<li>„Pnut beží na všetkých hlavných operačných systémoch, vrátane Linuxu, macOS a Windows, a je licencovaný pod licenciou BSD-2 Clause.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052446">Reakcie</a></h3>
+<ul>
+<li>„Pnut je kompilátor z jazyka C do POSIX shellu, ktorý môže byť distribuovaný ako ľudsky čitateľný shell skript, čo umožňuje reprodukovateľné zostavenia zo zdrojových súborov.“</li>
+<li>„Môže sa skompilovať samo a s úsilím aj Tiny C Compiler (TCC), ktorý potom môže bootstrapovať GNU Compiler Collection (GCC), čím sa vytvorí kompletný nástrojový reťazec na zostavovanie.“</li>
+<li>„Hoci je Pnut chválený za svoju inováciu, čelí kritike týkajúcej sa praktických obmedzení, ako je spracovanie binárneho vstupu/výstupu a niektorých konštruktov v jazyku C, a rôznym názorom na jeho dôveryhodnosť a úplnosť.“</li>
+</ul>
+<h2><a href="https://www.chm.bris.ac.uk/motm/mppp/mppph.htm">„MPPP – Prvá katastrofa s &#39;dizajnérskou drogou&#39; (2023)“</a></h2>
+<ul>
+<li>„MPPP (1-metyl-4-fenyl-4-propionoxypiperidín) je dizajnérska droga prvýkrát hlásená v roku 1947, určená ako analgetikum, ale zistené, že nie je lepšia ako existujúce možnosti.“</li>
+<li>„V roku 1976 Barry Kidston syntetizoval MPPP a vyvinuli sa u neho príznaky podobné Parkinsonovej chorobe v dôsledku nečistoty MPTP, ktorá selektívne ničí bunky dôležité pre motorickú kontrolu.“</li>
+<li>„Epidémia príznakov Parkinsonovej choroby v roku 1982 spojená so syntetickým heroínom kontaminovaným MPTP viedla k významným vedeckým poznatkom o Parkinsonovej chorobe a poukázala na nebezpečenstvá amatérskej syntézy drog.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053383">Reakcie</a></h3>
+<ul>
+<li>„Diskusia sa sústreďuje na nebezpečenstvá dizajnérskych drog, najmä MPPP a jeho vedľajšieho produktu MPTP, ktoré boli spojené s príznakmi podobnými Parkinsonovej chorobe u užívateľov.“</li>
+<li>„Dôraz sa kladie na riziká spojené so syntetickými drogami, dôležitosť čistoty drog a potenciálne výhody legalizácie a regulácie drog na zabezpečenie bezpečnosti.“</li>
+<li>„Používatelia zdieľajú osobné skúsenosti a zdôrazňujú potrebu opatrnosti a správneho testovania, pričom sa tiež zaoberajú širšími dôsledkami zákazu drog a výzvami zabezpečenia bezpečnej konzumácie.“</li>
+</ul>
+<h2><a href="https://en.wikipedia.org/wiki/Micromouse">„Micromouse“</a></h2>
+<ul>
+<li>„Micromouse je robotická súťaž, kde malé autonómne roboty riešia bludisko s rozmermi 16×16, ktorá vznikla koncom 70. rokov a je populárna v niekoľkých krajinách vrátane Spojeného kráľovstva, USA a Japonska.“</li>
+<li>„Roboty používajú algoritmy ako Bellmanov flood-fill, Dijkstrov a A* na navigáciu, pričom dosahujú maximálne rýchlosti presahujúce tri metre za sekundu; súčasný svetový rekord je 3,921 sekundy, ktorý dosiahol Ng Beng Kiat.“</li>
+<li>„Nedávne pokroky zahŕňajú použitie ventilátorov na dodatočný prítlak, čo umožňuje zrýchlenie nad 2,5g, a variant nazývaný Half-Size Micromouse používa bludisko 32×32 s menšími rozmermi.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41055230">Reakcie</a></h3>
+<ul>
+<li>„Micromouse je robotická súťaž, kde malé roboty navigujú bludisko, pričom nedávne video od Veritasium túto tému zdôrazňuje.“</li>
+<li>„Súťaž zahŕňa fázu prieskumu na zmapovanie bludiska a používajú sa rôzne stratégie ako sledovanie steny a mapovanie bludiska.“</li>
+<li>„Podujatie zapája mladých ľudí do programovania a inžinierstva, s kategóriami ako LEGO roboty a pokročilejšie roboty, čím demonštruje vývoj technológie počas desaťročí.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Hydrotermálna explózia v Národnom parku Yellowstone“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EHydroterm%C3%A1lna%20expl%C3%B3zia%20v%20N%C3%A1rodnom%20parku%20Yellowstone%E2%80%9C&subheading=streda%2024.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/24</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-23]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/23&#39;</h2>
+<h1>2024-07-23</h1>
+<h2><a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/">„Open source AI je cesta vpred“</a></h2>
+<ul>
+<li>„Open-source Linux sa stal priemyselným štandardom pre cloud computing a mobilné zariadenia vďaka svojej modifikovateľnosti, cenovej dostupnosti a pokročilým funkciám, podobne ako sa očakáva u AI.“</li>
+<li>„Meta vydala Llama 3.1 405B, prvý open-source AI model na úrovni frontier, spolu s vylepšenými modelmi 70B a 8B, pričom zdôrazňuje lepší pomer nákladov a výkonu a vhodnosť na doladenie.“</li>
+<li>„Meta spolupracuje so spoločnosťami ako Amazon, Databricks a NVIDIA na podpore vývojárov s cieľom urobiť z open-source AI priemyselný štandard, podporovať transparentnosť, bezpečnosť a hospodársky rast.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046773">Reakcie</a></h3>
+<ul>
+<li>„Meta spustila Llama 3.1, open-source AI model, ktorý zahŕňa model s 405 miliardami parametrov a vylepšené modely so 70 miliardami a 8 miliardami parametrov.“</li>
+<li>„Toto vydanie je vnímané ako strategický krok na výzvu konkurentom ako OpenAI, Google a Microsoft tým, že ponúka pokročilé AI modely zadarmo, s obmedzeniami pre spoločnosti, ktoré prekračujú 700 miliónov používateľov.“</li>
+<li>„Kritici tvrdia, že bez prístupu k tréningovým dátam a infraštruktúre sú tieto modely viac podobné freeware než skutočne open-source, čo vyvoláva debatu o skutočných zámeroch Meta a širších dôsledkoch.“</li>
+</ul>
+<h2><a href="https://bitbuilt.net/forums/index.php?threads/kawaii.6474/">„Kawaii – Nintendo Wii vo veľkosti prívesku na kľúče“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41038552">Reakcie</a></h3>
+<ul>
+<li>„Projekt „Thundervolt“ zahŕňa úpravu konzoly Nintendo Wii zmenšením jej PCB (tlačeného spoja) tak, aby zostali len nevyhnutné komponenty ako DRAM (dynamická pamäť s priamym prístupom) a procesory, a pridaním externej DCDC (jednosmerný prúd na jednosmerný prúd) dosky pre napájanie.“</li>
+<li>„Projekt si kladie za cieľ vytvoriť kľúčenku veľkú Wii, nazvanú &quot;Kawaii,&quot; ktorá je menšia ako iné miniaturizované verzie ako GC Nano, ale stále vyžaduje dok pre plnú funkčnosť, vrátane napájania a pripojenia ovládačov.“</li>
+<li>„Tento projekt zdôrazňuje pretrvávajúci záujem a inovácie v oblasti retro hier a miniaturizácie konzol, pričom ukazuje oddanosť komunity k zachovaniu a vylepšovaniu klasického herného hardvéru.“</li>
+</ul>
+<h2><a href="https://github.com/linuxmint/timeshift">„Timeshift: Nástroj na obnovenie systému pre Linux“</a></h2>
+<ul>
+<li>„Timeshift pre Linux je nástroj na zálohovanie systému podobný Windows System Restore a Mac OS Time Machine, zameraný na systémové súbory a nastavenia.“</li>
+<li>„Podporuje dva režimy: RSYNC (používajúci rsync a hard-linky) a BTRFS (využívajúci funkcie súborového systému BTRFS), pričom druhý z nich vyžaduje špecifické rozloženie podzväzkov.“</li>
+<li>„Vyvinutý Tonym Georgeom a teraz súčasťou projektu Xapp od Linux Mint, Timeshift ponúka funkcie ako viacúrovňové snímky, obnovy medzi distribúciami a post-obnovovacie háky, s inštalačnými pokynmi dostupnými pre rôzne distribúcie Linuxu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41039967">Reakcie</a></h3>
+<ul>
+<li>„Timeshift je nástroj na obnovenie systému pre Linux, podobný Time Machine v macOS a Obnoveniu systému vo Windows, ktorý umožňuje používateľom vytvárať snímky súborového systému pomocou rsync a pevných odkazov.“</li>
+<li>„Používatelia diskutujú o rôznych záložných riešeniach a konfiguráciách, vrátane restic, rclone, ZFS, BTRFS a LVM snapshotov, pričom zdôrazňujú dôležitosť atómových snapshotov pre konzistenciu databáz a spoľahlivé zálohy.“</li>
+<li>„Rozhovor zdôrazňuje potrebu robustných záložných stratégií, porovnáva nástroje ako restic, Borg a kopia a diskutuje o výhodách a nevýhodách rôznych súborových systémov a metód snímok.“</li>
+</ul>
+<h2><a href="https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792">„Aktualizácia z júla 2024 o správach o nestabilite na stolných procesoroch Intel Core 13. a 14. generácie“</a></h2>
+<ul>
+<li>„Intel identifikoval nestabilitu vo svojich 13. a 14. generácii desktopových procesorov spôsobenú zvýšeným prevádzkovým napätím z mikrocode algoritmu.“</li>
+<li>„Očakáva sa, že mikrokódová záplata na riešenie tohto problému bude k dispozícii do polovice augusta, a Intel odporúča postihnutým zákazníkom, aby kontaktovali podporu pre pomoc.“</li>
+<li>„Používatelia vyjadrili obavy o potenciálne dlhodobé poškodenie CPU, potrebu aktualizácií BIOSu a hlásili problémy s RMA (autorizácia vrátenia tovaru) pri hľadaní rád, ako zvládnuť nestabilitu, kým nebude vydaná oprava.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41039708">Reakcie</a></h3>
+<ul>
+<li>„Júlová aktualizácia od Intelu z roku 2024 naznačuje problém s mikrokódom v 13. a 14. generácii desktopových procesorov, ktorý spôsobuje nesprávne požiadavky na napätie, hoci niektorí používatelia podozrievajú hardvérovú chybu.“</li>
+<li>„Obavy vznikajú kvôli oneskoreniu Intelu pri riešení problému a správam o dodávkach neporušených procesorov bez aktualizovaného mikrokódu, čo môže potenciálne viesť k dlhodobému zhoršovaniu procesorov.“</li>
+<li>„Intel plánuje vydať mikrokódovú záplatu, ale jej účinnosť a vplyv na výkon sú neisté, pričom používatelia hlásia rôzne skúsenosti týkajúce sa stability CPU.“</li>
+</ul>
+<h2><a href="https://kb.databasedesignbook.com/posts/google-calendar/">„Návrh databázy pre Google Kalendár: Návod“</a></h2>
+<ul>
+<li>„Návod od Alexeya Makhotkina poskytuje komplexný sprievodca navrhovaním databázových tabuliek pre klon Google Kalendára, podľa prístupu z pripravovanej knihy „Návrh databáz pomocou minimálneho modelovania.““</li>
+<li>„Podrobne sa zaoberá logickým modelom, popisuje, ako riešiť základné celodenné udalosti, časovo založené udalosti a opakované udalosti, a potom prechádza k vytváraniu fyzických SQL tabuliek.“</li>
+<li>„Návod je určený čitateľom so všeobecným porozumením databáz, pomáha im prejsť od konceptuálnych myšlienok k úplným definíciám databázových tabuliek a zahŕňa praktické kroky na implementáciu návrhu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41043371">Reakcie</a></h3>
+<ul>
+<li>„Diskusia o návrhu databázy Google Kalendára naznačuje optimalizáciu iCalendar parsera pre rýchle skenovanie udalostí namiesto vytvárania zložitej schémy.“</li>
+<li>„Boli vyjadrené obavy ohľadom potreby SQL-ako rozsahových vyhľadávaní a používateľsky špecifických dopytov, ktoré tradičné databázy zvládajú dobre.“</li>
+<li>„Debata zahŕňala výzvy ako časové pásma, letný čas a opakujúce sa udalosti, pričom sa dospelo k zhode, že schopnosť SQL spravovať vzťahy a dotazy ho robí vhodným pre kalendárové aplikácie.“</li>
+</ul>
+<h2><a href="https://danq.me/2024/07/21/ascii/">„Elegancia ASCII tabuľky“</a></h2>
+<ul>
+<li>„ASCII tabuľka, štandardizovaná v roku 1963, priraďuje významy 100 zo 128 možných 7-bitových binárnych kódových bodov a zostáva relevantná aj dnes, najmä preto, že kódovanie UTF-8 je spätne kompatibilné.“</li>
+<li>„Tabuľka obsahuje riadiace kódy, tlačiteľné znaky a nasleduje špecifické binárne vzory, pričom medzera je prvým tlačiteľným znakom na účely triedenia.“</li>
+<li>„Dizajn ASCII je logický a esteticky príjemný, čo ho robí zrozumiteľným pre ľudí na učenie a pochopenie, odrážajúc jeho historický význam a prepracovanú logiku.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41040543">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá eleganciou a užitočnosťou ASCII tabuľky, štandardu kódovania znakov používaného v informatike.“</li>
+<li>„Zdôrazňuje, ako môžu používatelia pristupovať k ASCII tabuľke na systémoch Linux pomocou príkazu <code>man ascii</code>, čo je užitočné pre shell escape kódy a regulárne výrazy (regex).“</li>
+<li>„Rozhovor zahŕňa historický kontext a osobné anekdoty o učení sa rôznych technológií prostredníctvom manuálových stránok, pričom zdôrazňuje dlhodobú relevantnosť ASCII tabuľky v informatike.“</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41042123">„Je možné získať platy ako v FAANG bez toho, aby ste tam pracovali?“</a></h2>
+<ul>
+<li>„Platová medzera medzi spoločnosťami FAANG (Facebook, Amazon, Apple, Netflix, Google) a ne-FAANG spoločnosťami je značná, pričom inžinieri v spoločnostiach FAANG dostávajú výrazne vyššie kompenzačné balíky.“</li>
+<li>„Personálový inžinier v typickom startupe môže zarobiť základný plat 250 tisíc dolárov plus bonus 10-20%, zatiaľ čo personálový inžinier v spoločnosti FAANG môže dostať podobný základný plat plus 1 milión dolárov v akciách počas štyroch rokov.“</li>
+<li>„Príspevok sa pýta, či jednotlivci mimo FAANG a veľkých bánk/firiem s vysokofrekvenčným obchodovaním (HFT) zarábajú porovnateľné sumy, a snaží sa zistiť, kto sú a aké sú ich úlohy.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042123">Reakcie</a></h3>
+<ul>
+<li>„Zarábanie platov na úrovni FAANG mimo spoločností FAANG je možné, ale zriedkavé, často zahŕňajúce špecializované alebo vysoko stresujúce úlohy.“</li>
+<li>„Vysoko platené alternatívy zahŕňajú hedžové fondy, firmy zaoberajúce sa vysokofrekvenčným obchodovaním, špecializované poradenstvo, softvérové spoločnosti zamerané na špecifické oblasti, odborné znalosti v oblasti starších systémov a podnikanie.“</li>
+<li>„Tieto úlohy sú zvyčajne spojené s vysokým stresom, intenzívnou konkurenciou alebo významným rizikom a úsilím, čo ich robí menej bežnými a priamočiarymi v porovnaní s prácami vo FAANG.“</li>
+</ul>
+<h2><a href="https://llama.meta.com/">„Llama 3.1“</a></h2>
+<ul>
+<li>„Llama 3.1 je open-source AI model dostupný v troch verziách: 8B, 70B a 405B, ktoré vyhovujú rôznym potrebám výkonu a nákladov.“</li>
+<li>„Podporuje pokročilé prípady použitia, vrátane asistentov pre kódovanie, viacjazyčných agentov a komplexného uvažovania, s možnosťami pre inferenciu v reálnom čase a dávkovú inferenciu, doladenie a generovanie syntetických dát.“</li>
+<li>„Model bol vyhodnotený na viac ako 150 dátových súboroch, pričom vykazoval vysoký výkon v oblastiach ako všeobecné úlohy, kódovanie, matematika, logické uvažovanie, používanie nástrojov a viacjazyčné hodnotenia.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046540">Reakcie</a></h3>
+<ul>
+<li>„Llama 3.1, open-source AI model od Meta, vykazuje konkurenčný výkon v porovnaní s uzavretými modelmi ako GPT-4.“</li>
+<li>„Model 405B vykazuje významné zlepšenia v benchmarkoch, ale je nepraktický na domáce použitie bez podpory cloudu, čo poukazuje na výzvy pri spúšťaní veľkých modelov lokálne.“</li>
+<li>„Vydanie výkonných otvorených modelov od spoločnosti Meta má za cieľ narušiť konkurenčné prostredie, vzbudiť záujem o hardvérové požiadavky, kvantizačné riešenia a širšie dôsledky pre vývoj a prístupnosť umelej inteligencie.“</li>
+</ul>
+<h2><a href="https://anatolyzenkov.com/stolen-buttons/button-stealer">„Zlodej gombíkov“</a></h2>
+<ul>
+<li>„Button Stealer je rozšírenie pre Chrome, ktoré automaticky odstraňuje tlačidlo z každej webovej stránky, ktorú navštívite.“</li>
+<li>„Rozšírenie je navrhnuté tak, aby bolo zábavné a je bezplatné na používanie, bez praktického využitia.“</li>
+<li>„Zabezpečuje súkromie údajov používateľa tým, že funguje lokálne na zariadení používateľa.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042294">Reakcie</a></h3>
+<ul>
+<li>„Button Stealer, rozšírenie pre Chrome, vyvoláva obavy o bezpečnosť kvôli svojim širokým povoleniam, ktoré by mu mohli umožniť zbierať údaje z akejkoľvek webovej stránky.“</li>
+<li>„Používatelia navrhujú skontrolovať kód na GitHube a nainštalovať ho lokálne, aby sa predišlo potenciálnym škodlivým aktualizáciám, zatiaľ čo iní tvrdia, že takéto rizikové rozšírenia by nemali byť v obchode Chrome.“</li>
+<li>„Diskusia zdôrazňuje potrebu konkrétnejších povolení a zlepšených bezpečnostných postupov pre rozšírenia prehliadača.“</li>
+</ul>
+<h2><a href="https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/">„Vedia ľudia v reálnom živote, že máte blog?“</a></h2>
+<ul>
+<li>„Autor rozoberá osobný význam udržiavania blogu takmer dvadsať rokov, napriek ľahostajnosti ľudí v reálnom živote (IRL).“</li>
+<li>„Blog slúži ako forma sebavyjadrenia a slobody, na rozdiel od tlakov sociálnych médií a veľkých technologických spoločností.“</li>
+<li>„Reakcie čitateľov poukazujú na rôzne perspektívy, vrátane výhod blogovania pre osobnú jasnosť, obáv z využívania umelej inteligencie a povzbudenia písať bez analytiky.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41041537">Reakcie</a></h3>
+<ul>
+<li>„Osobné webové stránky ponúkajú flexibilitu a vylepšenie bez tlaku pravidelných aktualizácií, na rozdiel od blogov, ktoré môžu pôsobiť lenivo a nehostinne.“</li>
+<li>„Blogy môžu byť užitočné pre historikov a zdieľanie myšlienok, ale osobné stránky sú uprednostňované pre ich organizáciu a tvorivý potenciál.“</li>
+<li>„Niektorí jednotlivci používajú pseudonymy na osobných webových stránkach, aby sa vyhli profesionálnym následkom, čím zdôrazňujú osobný charakter týchto platforiem.“</li>
+</ul>
+<h2><a href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html">„Wiz odstupuje od dohody s Google v hodnote 23 miliárd dolárov“</a></h2>
+<ul>
+<li>„Wiz sa rozhodol zrušiť akvizičnú dohodu s Googlom v hodnote 23 miliárd dolárov a namiesto toho sa bude usilovať o počiatočnú verejnú ponuku (IPO), ako oznámil generálny riaditeľ Assaf Rappaport.“</li>
+<li>„Rozhodnutie bolo ovplyvnené obavami z protimonopolných opatrení a záujmami investorov, pričom cieľom spoločnosti Wiz je dosiahnuť ročný opakujúci sa príjem vo výške 1 miliardy dolárov.“</li>
+<li>„Spoločnosť Wiz, založená v roku 2020, rýchlo rástla a minulý rok dosiahla ročný opakujúci sa príjem vo výške 350 miliónov dolárov a ponúka produkty na zabezpečenie cloudu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042034">Reakcie</a></h3>
+<ul>
+<li>„Wiz odstúpil od dohody s Googlom v hodnote 23 miliárd dolárov, pravdepodobne kvôli tomu, že Google po internom prehodnotení údajov prehodnotil dohodu.“</li>
+<li>„Wiz tvrdí, že odišli, pretože veria, že ich ohodnotenie je vyššie, hoci existuje skepticizmus ohľadom ich vysokého ohodnotenia, údajne viac ako 60-násobku ich ročného opakujúceho sa príjmu (ARR).“</li>
+<li>„Krach dohody vyvoláva otázky o skutočnej hodnote a budúcnosti spoločnosti Wiz, napriek ich rýchlemu rastu na 100 miliónov ARR od ich založenia v roku 2020.“</li>
+</ul>
+<h2><a href="https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html">„Zámer ukončiť službu OCSP“</a></h2>
+<ul>
+<li>„Let&#39;s Encrypt ukončuje podporu pre Online Certificate Status Protocol (OCSP) v prospech zoznamov odvolaných certifikátov (CRL) kvôli rizikám pre súkromie a efektívnosti zdrojov.“</li>
+<li>„Táto zmena neovplyvní webové stránky ani návštevníkov, ale môže mať vplyv na niektoré softvéry mimo prehliadača; používateľom sa odporúča zabezpečiť, aby ich softvér fungoval bez OCSP URL.“</li>
+<li>„Rozhodnutie fóra CA/Browser robí OCSP voliteľným pre verejne dôveryhodné certifikačné autority (CAs), pričom Microsoft je jedinou výnimkou; časový plán na vypnutie služieb OCSP bude oznámený, keď to Microsoft tiež urobí voliteľným.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046956">Reakcie</a></h3>
+<ul>
+<li>„Let&#39;s Encrypt plánuje ukončiť svoju službu OCSP (Online Certificate Status Protocol) kvôli problémom so zoznamami odvolaných certifikátov (CRL) a zložitosti systémov OCSP.“</li>
+<li>„Návrhy zahŕňajú použitie binárneho formátu pre CRL na zlepšenie efektívnosti a povinné OCSP stapling na riešenie problémov s ochranou súkromia, hoci to môže narušiť mnoho webových stránok.“</li>
+<li>„Posun od OCSP môže ovplyvniť neprehliadačové aplikácie a zabudované zariadenia, ale používatelia štandardných webových serverov ako Nginx alebo Caddy by nemali potrebovať okamžité zmeny.“</li>
+</ul>
+<h2><a href="https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/">„Linuxový zvukový stack demystifikovaný (a viac)“</a></h2>
+<ul>
+<li>„Článok poskytuje komplexný prehľad o Linux audio stacku, vysvetľuje základy zvuku, ľudské vnímanie zvuku a digitálne spracovanie zvuku.“</li>
+<li>„Kľúčové komponenty zvukového stacku Linuxu zahŕňajú ALSA pre nízkoúrovňové ovládanie hardvéru, JACK pre nízkolatenčné reálne časové audio a PulseAudio pre vyššiu úroveň správy zvuku, pričom PipeWire sa objavuje ako zjednocujúce riešenie.“</li>
+<li>„PipeWire je vyzdvihovaný ako všestranná možnosť, ktorá integruje funkcie JACK a PulseAudio, a potenciálne ich môže v budúcnosti nahradiť v distribúciách Linuxu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042753">Reakcie</a></h3>
+<ul>
+<li>„Zvuková vrstva Linuxu, hoci je zložitá, podporuje rôzny hardvér a funkcie, vrátane multiplexovania a sieťových funkcií.“</li>
+<li>„Pipewire si kladie za cieľ zjednotiť zvukový stack Linuxu, podporovať rôzne API a vylepšiť PulseAudio, pričom ponúka zvýšenú všestrannosť a stabilitu.“</li>
+<li>„Zatiaľ čo niektorí používatelia čelia výzvam s pokročilými nastaveniami, mnohí oceňujú vylepšenia a flexibilitu, ktorú Pipewire prináša do Linux audia.“</li>
+</ul>
+<h2><a href="https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/">„Spojené štáty zverejňujú počty jadrových hlavíc; obnovujú jadrovú transparentnosť“</a></h2>
+<ul>
+<li>„Federácia amerických vedcov (FAS) chváli USA za odtajnenie počtu svojich jadrových hlavíc, čím zvyšujú jadrovú transparentnosť.“</li>
+<li>„Od septembra 2023 má USA 3 748 jadrových hlavíc, pričom minulý rok bolo demontovaných iba 69, čo je najmenej od roku 1994.“</li>
+<li>„Zverejnenie administratívy Bidena obnovuje transparentnosť, ktorú pozastavila administratíva Trumpa, a FAS povzbudzuje ostatné jadrové štáty, aby prijali podobnú transparentnosť na zabránenie nedôvery a dezinformácií.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41040417">Reakcie</a></h3>
+<ul>
+<li>„Spojené štáty odhalili svoje počty jadrových hlavíc, čím obnovili jadrovú transparentnosť a vyvolali diskusie o výrobnej kapacite a strategickom význame.“</li>
+<li>„Kľúčové témy zahŕňajú rýchlosť potenciálneho zvýšenia výroby, vplyv veľkosti zásob na globálnu bezpečnosť a geopolitiku a údržbárske výzvy ako starnutie plutónia a výmena trícia.“</li>
+<li>„Zverejnenie má za cieľ upokojiť spojencov a odradiť protivníkov tým, že ukáže významné jadrové kapacity USA.“</li>
+</ul>
+<h2><a href="https://github.com/codr7/sharpl">„Lisp v C#“</a></h2>
+<ul>
+<li>„Sharpl je vlastný Lisp interpret napísaný v C# s približne 4 000 riadkami kódu a bez externých závislostí, čo ho robí ľahko vložiteľným.“</li>
+<li>„Kľúčové vlastnosti zahŕňajú páry, polia, mapy, kompozície metód, varargs, jednotný protokol iterátora a fixný desatinný typ, medzi inými.“</li>
+<li>„Podporuje lexikálne a dynamické viazania, optimalizáciu koncových volaní na zabránenie pretečeniu zásobníka a poskytuje podrobné hlásenia o chybách s číslami riadkov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41041575">Reakcie</a></h3>
+<ul>
+<li>„Vývojár menom codr7 pracuje na implementácii Lisp v C# a hľadá pomoc s optimalizáciou od komunity.“</li>
+<li>„Významné zlepšenia výkonu boli dosiahnuté vďaka návrhom komunity, ako je zmena spôsobu prístupu k ArrayStack a používanie Span a ReadOnlySpan na delenie dát.“</li>
+<li>„Projekt nemá za cieľ dodržiavať štandardy, ale skôr sa zameriava na praktický výkon a použiteľnosť, pričom prebiehajú diskusie o integrácii funkcií ako makrá a Fexprs (funkčné výrazy).“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Open source AI je cesta vpred“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EOpen%20source%20AI%20je%20cesta%20vpred%E2%80%9C&subheading=utorok%2023.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/23</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-22]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/22&#39;</h2>
+<h1>2024-07-22</h1>
+<h2><a href="https://forum.jellyfin.org/t-we-re-good-seriously">„Jellyfin: Sme dobrí, vážne“</a></h2>
+<ul>
+<li>„Jellyfin má rozpočet viac ako 24 000 dolárov, ktorý pokrýva 40 mesiacov výdavkov, a žiada používateľov, aby presmerovali dary autorom Klientov, ktorých používajú.“</li>
+<li>„Táto požiadavka je v súlade s politikou Jellyfinu „žiadny platený vývoj“, keďže dary sú dobrovoľné a projekt prehodnotí situáciu, ak finančné prostriedky klesnú na 12 mesiacov prevádzky.“</li>
+<li>„Členovia komunity reagujú pozitívne, s plánmi podporovať autorov klientov a otázkami týkajúcimi sa konkrétnej podpory klientov, ako je WebOS.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031998">Reakcie</a></h3>
+<ul>
+<li>„Jellyfin, projekt open-source mediálneho servera, oznámil, že má dostatok finančných prostriedkov a navrhol darcom, aby podporili iné projekty v ekosystéme.“</li>
+<li>„Komunita je v tomto prístupe rozdelená; niektorí veria, že finančné prostriedky by mali byť rozdelené medzi vývojárov ekosystému, zatiaľ čo iní súhlasia s rozhodnutím Jellyfinu vyhnúť sa ďalším administratívnym záťažiam.“</li>
+<li>„Diskusia poukazuje na zložitosť a potenciálne problémy pri spravovaní darov v rámci open-source projektov, vrátane transparentnosti, administratívnej záťaže a udržania zamerania na jadrový vývoj.“</li>
+</ul>
+<h2><a href="https://without.boats/blog/pin/">„Špendlík“</a></h2>
+<ul>
+<li>„Typ Pin a koncept pripínania sú nevyhnutné, ale často nepochopené súčasti asynchrónneho ekosystému Rustu.“</li>
+<li>„Pin bol zavedený na podporu samoreferenčných typov v async Rust, čím sa zabezpečuje, že objekty sa nepohnú, keď obsahujú samoreferencie, na rozdiel od Mojo, ktorý inherentne rieši identitu objektov.“</li>
+<li>„Napriek svojej nevyhnutnosti Pin prináša používateľom značnú zložitosť kvôli nedostatku syntaktického cukru a podpory, čo vedie k problémom ako opätovné požičiavanie, pripnuté projekcie a interakcie s vlastnosťou Drop.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41029287">Reakcie</a></h3>
+<ul>
+<li>„Diskusia sa točí okolo typu <code>Pin</code> v programovacom jazyku Rust, ktorý je často nepochopený kvôli nejasnej dokumentácii.“</li>
+<li>„<code>Pin</code> zabezpečuje, že určité objekty nemôžu byť presunuté v pamäti, čo je kľúčové pre štruktúry s vlastným odkazom, ale tento koncept nie je dobre vysvetlený v oficiálnej dokumentácii.“</li>
+<li>„Rozhovor zdôrazňuje potrebu lepšej dokumentácie a analógií, aby sa koncepty <code>Pin</code> a <code>Unpin</code> stali prístupnejšími pre vývojárov v jazyku Rust, najmä pre tých, ktorí sú v tomto jazyku noví.“</li>
+</ul>
+<h2><a href="https://github.com/BurntSushi/jiff">„Jiff: Knižnica pre prácu s dátumom a časom pre Rust“</a></h2>
+<ul>
+<li>„Jiff je nová knižnica pre prácu s dátumami a časmi v jazyku Rust, zameraná na jednoduchosť použitia a výkon, inšpirovaná návrhom Temporal z JavaScriptu.“</li>
+<li>„Ponúka funkcie ako vysokoúrovňové primitívy pre dátum a čas, bezproblémovú integráciu s databázou časových pásiem, aritmetiku s ohľadom na letný čas, formátovanie, parsovanie a voliteľnú podporu Serde.“</li>
+<li>„Jiff je duálne licencovaný pod MIT alebo UNLICENSE, podporuje Unix a Windows a vyžaduje Rust 1.70.0 alebo novší.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031037">Reakcie</a></h3>
+<ul>
+<li>„Jiff je nová knižnica pre prácu s dátumom a časom pre Rust, vyvinutá BurntSushi, známym tvorcom vysoko kvalitných nástrojov ako ripgrep.“</li>
+<li>„Knižnica si kladie za cieľ riešiť zložitosti pri práci s dátumami a časmi, ako je aritmetika letného času (DST), výpočty s ohľadom na časové pásma a detekcia retrospektívnych konfliktov časových pásiem.“</li>
+<li>„Jiff ponúka používateľsky prívetivejšie a flexibilnejšie API v porovnaní s existujúcim štandardom Chrono, pričom si zachováva správnosť a schopnosť pri operáciách s dátumom a časom.“</li>
+</ul>
+<h2><a href="https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html">„Žiadne viac modré piatky“</a></h2>
+<ul>
+<li>„Veľký výpadok 19. júla spôsobený aktualizáciou ovládača jadra viedol k celosvetovým pádom systémov Windows, čo poukazuje na potrebu bezpečnejších mechanizmov aktualizácie.“</li>
+<li>„eBPF (extended Berkeley Packet Filter), už používaný v Linuxe, je bezpečné prostredie na vykonávanie jadra, ktoré môže zabrániť takýmto pádom a čoskoro bude podporované aj Windowsom.“</li>
+<li>„Programy eBPF sú kontrolované z hľadiska bezpečnosti a izolované, čo prináša výhody ako zvýšenú bezpečnosť a nižšiu spotrebu zdrojov, pričom ich prijali spoločnosti ako Cisco, Google a Meta na účely bezpečnosti a sledovateľnosti.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41033579">Reakcie</a></h3>
+<ul>
+<li>„Podpora eBPF (Extended Berkeley Packet Filter) od Microsoftu pre Windows je v súčasnosti obmedzená na filtrovanie paketov, na rozdiel od komplexných ovládačov na monitorovanie jadra od Crowdstrike.“</li>
+<li>„Integrácia eBPF do existujúcich rámcov Windows je náročná a nie je isté, či Microsoft plánuje urobiť z neho štandard.“</li>
+<li>„eBPF by mohol zvýšiť bezpečnosť izolovaním kódu jadra, ale nie je to úplné riešenie, ako ukázal nedávny incident Crowdstrike, ktorý zdôrazňuje potrebu zlepšených postupov nasadzovania a bezpečnostných opatrení.“</li>
+</ul>
+<h2><a href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/">„Analyzujte, nevalidujte (2019)“</a></h2>
+<ul>
+<li>„Príspevok zdôrazňuje princíp „Analyzujte, nevalidujte“, ktorý podporuje analýzu údajov na zachovanie informácií v type systému namiesto ich zahadzovania prostredníctvom validácie.“</li>
+<li>„Vysvetľuje, ako môže návrh riadený typmi v jazykoch ako Haskell premeniť čiastočné funkcie na úplné funkcie posilnením typov argumentov, pričom ako príklad používa zoznamy <code>NonEmpty</code>.“</li>
+<li>„Praktické rady zahŕňajú používanie presných dátových štruktúr, refaktoring na presunutie dôkazných bremien nahor a vyhýbanie sa denormalizovaným dátovým reprezentáciám na zlepšenie spoľahlivosti a bezpečnosti programu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031585">Reakcie</a></h3>
+<ul>
+<li>„Článok &quot;Parse, Don&#39;t Validate&quot; zdôrazňuje dôležitosť parsovania dát na zabezpečenie správnosti namiesto ich opakovaného overovania počas celého programu.“</li>
+<li>„Tento prístup, zakorenený v konceptoch ako Design by Contract a Domain-Driven Design (DDD), využíva silné typové systémy na zabezpečenie záruk a zníženie chýb, čím uľahčuje pochopenie a údržbu kódu.“</li>
+<li>„Diskusia zdôrazňuje praktické príklady a výhody, ako napríklad použitie rôznych typov pre rôzne fázy validácie a zabezpečenie, že údaje sú vždy v platnom stave, čo môže zjednodušiť zložité aplikácie a zlepšiť spoľahlivosť.“</li>
+</ul>
+<h2><a href="https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/">„Keď ChatGPT sumarizuje, nerobí nič také.“</a></h2>
+<ul>
+<li>„Autor skúma a diskutuje o základoch ChatGPT a iných generatívnych AI, s cieľom poskytnúť realistické pohľady proti prevládajúcemu humbuku.“</li>
+<li>„Kľúčovým poznatkom je, že ChatGPT v skutočnosti nezhŕňa obsah, ale ho iba skracuje, často vynechávajúc podstatné detaily a návrhy, ako to dokazuje porovnanie s ľudským zhrnutím 50-stranového dokumentu.“</li>
+<li>„Táto obmedzenosť vzniká preto, že sumarizovanie vyžaduje porozumenie, ktoré ChatGPT nemá, čo vedie k skepticizmu ohľadom spoľahlivosti veľkých jazykových modelov (LLM) pre praktické obchodné aplikácie.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41027658">Reakcie</a></h3>
+<ul>
+<li>„Autor tvrdí, že sumarizácia textu pomocou ChatGPT postráda skutočné porozumenie, čo vedie k neúplným a niekedy zavádzajúcim zhrnutiam.“</li>
+<li>„Kritika poukazuje na absenciu podrobností o modeli GPT, výzve a počte pokusov v pôvodnej analýze.“</li>
+<li>„Skúsenosti a názory používateľov sa líšia, pričom niektorí považujú ChatGPT a iné LLM za užitočné, zatiaľ čo iní poukazujú na ich obmedzenia a potrebu zlepšenia promptingu a správy kontextu.“</li>
+</ul>
+<h2><a href="https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/">„Ryanair vyhráva prípad screen scrapingu proti Booking.com v rozhodnutí amerického súdu“</a></h2>
+<ul>
+<li>„Americký súd rozhodol, že Booking.com porušil zákon o počítačových podvodoch a zneužívaní tým, že bez povolenia pristupoval na webovú stránku Ryanairu, čím podporil postoj Ryanairu proti neoprávnenému sťahovaniu údajov.“</li>
+<li>„Porota Okresného súdu v Delaware uznala Booking.com vinným z neoprávneného prístupu s úmyslom podviesť a zamietla protinároky Booking.com za ohováranie a nekalú súťaž.“</li>
+<li>„Generálny riaditeľ Ryanair Michael O&#39;Leary dúfa, že rozhodnutie zníži nelegálne sťahovanie obrazoviek a nadmerné účtovanie, zatiaľ čo Booking.com plánuje odvolanie, argumentujúc, že porovnávanie cien leteniek prospieva výberu spotrebiteľov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031960">Reakcie</a></h3>
+<ul>
+<li>„Ryanair vyhral súdny spor proti Booking.com na americkom súde za neoprávnený prístup na ďalší predaj lístkov, čím porušil zákon o počítačových podvodoch a zneužívaní.“</li>
+<li>„Rozsudok by mohol ovplyvniť aj ďalších online cestovných agentov používajúcich podobné praktiky, čím by sa zdôraznili zložitosti zákonov o webovom scrappingu.“</li>
+<li>„Existujú špekulácie, že rozhodnutie môže byť zrušené kvôli protichodným právnym precedensom.“</li>
+</ul>
+<h2><a href="https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything">„Nikto neočakáva, že mladí muži niečo urobia, a oni na to reagujú tým, že nerobia nič (2022)“</a></h2>
+<ul>
+<li>„Príspevok Roba Hendersona sa zaoberá nedostatkom spoločenských očakávaní voči mladým mužom a jeho negatívnymi dôsledkami, vrátane zvýšenej nezamestnanosti a miery uväznenia.“</li>
+<li>„Odkazuje na knihu „Promises I Can Keep“ od Kathryn Edin a Maria Kefalas, ktorá skúma, prečo ženy s nízkymi príjmami často uprednostňujú materstvo pred manželstvom, pričom to pripisuje zlému správaniu mladých mužov.“</li>
+<li>„Henderson kritizuje vyššiu triedu za podkopávanie noriem rodinnej stability, zatiaľ čo zabezpečujú, aby ich vlastné deti mali prospech zo stabilných domovov, a tvrdí, že mladí muži potrebujú vysoké očakávania, aby prosperovali.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41032918">Reakcie</a></h3>
+<ul>
+<li>„Článok pripisuje fenomén „mladých mužov bez práce“ nerovnosti v bohatstve a koncentrácii bohatstva medzi staršími elitami, čo zvyšuje ceny základných potrieb a dusí dopyt po nových podnikoch.“</li>
+<li>„Diskutuje tiež o nestabilite rodinných štruktúr, pričom poznamenáva, že spoločenské zmeny a ekonomické tlaky zmenili tradičnú rodinnú dynamiku.“</li>
+<li>„Komentáre k článku diskutujú o vplyve neprítomných otcov, úlohe žien v stabilite rodiny a širších spoločenských a ekonomických faktoroch prispievajúcich k týmto problémom.“</li>
+</ul>
+<h2><a href="https://nitter.poast.org/GerardoMunck/status/1815059432382067053">„James C. Scott, autor knihy Seeing Like a State, zomrel“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41028887">Reakcie</a></h3>
+<ul>
+<li>„James C. Scott, autor knihy &quot;Seeing Like a State,&quot; zomrel, čo vyvolalo úvahy o jeho vplyvných myšlienkach v technologickej komunite.“</li>
+<li>„Scottova práca zdôrazňuje, ako môžu štáty a technológie presadzovať jednotnosť, čo ovplyvňuje oblasti ako medicína, vzdelávanie a sociálne zapojenie tým, že znižujú rozmanitosť.“</li>
+<li>„Diskusie na Hacker News skúmajú Scottove koncepty, najmä rovnováhu medzi bezpečnosťou a flexibilitou v softvéri a širšie dôsledky technologickej homogenity.“</li>
+</ul>
+<h2><a href="https://github.com/eza-community/eza">„Eza: Moderná, udržiavaná náhrada za ls“</a></h2>
+<ul>
+<li>„eza je moderná náhrada za príkaz ls v Unixe a Linuxe, ponúkajúca vylepšené funkcie a lepšie predvolené nastavenia.“</li>
+<li>„Kľúčové vlastnosti zahŕňajú farebne odlíšené typy súborov, podporu symlinkov, rozšírené atribúty, integráciu s Gitom a dátumy čitateľné pre ľudí.“</li>
+<li>„eza sa snaží byť užívateľsky prívetivejšia a bohatšia na funkcie, s dodatočnou podporou pre hypertextové odkazy, detaily montážnych bodov, kontext SELinux a jasné farby terminálu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031112">Reakcie</a></h3>
+<ul>
+<li>„Eza je predstavená ako moderná a aktívne udržiavaná náhrada za tradičný príkaz <code>ls</code>, ktorý zobrazuje obsah adresára v Unix-like operačných systémoch.“</li>
+<li>„Diskusia poukazuje na frustrácie používateľov s „ľahko čitateľnými dátumami“ v zoznamoch adresárov, pričom sa zasadzujú za presné časové pečiatky namiesto relatívnych časových formátov ako „pred 1 dňom“.“</li>
+<li>„Príspevok tiež spomína ďalšie moderné nástroje príkazového riadku, ktoré používatelia uprednostňujú pred tradičnými, ako napríklad <code>bat</code> (náhrada za <code>cat</code> so zvýrazňovaním syntaxe) a <code>rg</code> (ripgrep, rýchlejšia alternatíva k <code>grep</code>).“</li>
+</ul>
+<h2><a href="https://www.smbc-comics.com/comic/investment-2">„Koľko peňazí môžeme získať pre transparentne idiotské startupy?“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41036844">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá fenoménom získavania finančných prostriedkov pre startupy so zdanlivo nezmyselnými nápadmi, pričom zdôrazňuje, aké ľahké je získať kapitál pre takéto podniky.“</li>
+<li>„Kritizuje startupový ekosystém, naznačujúc, že funguje ako schéma „pump and dump“, prechádzajúc z jedného módneho odvetvia do druhého, často plytvajúc zdrojmi.“</li>
+<li>„Konverzácia zahŕňa príklady úspešných startupov a debatuje o hodnote a vplyve fokusových skupín a MVP (Minimálne životaschopných produktov) v rozvoji produktov.“</li>
+</ul>
+<h2><a href="https://billabear.com/">„Systém fakturácie s dostupným zdrojovým kódom, na ktorom som pracoval 18 mesiacov“</a></h2>
+<ul>
+<li>„Platforma ponúka hlbokú integráciu so Stripe, čo umožňuje komplexnú kontrolu nad fakturáciou, správou daní a automatizovanými pracovnými postupmi.“</li>
+<li>„Funkcie zahŕňajú správu daňových sadzieb na rôznych úrovniach, vytváranie vlastných predplatných plánov a integráciu s nástrojmi ako Slack a poskytovatelia e-mailov.“</li>
+<li>„Systém podporuje škálovateľnosť, samohostovanie a poskytuje podrobné obchodné prehľady, ako sú odliv predplatiteľov a celoživotná hodnota.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031975">Reakcie</a></h3>
+<ul>
+<li>„Po 18 mesiacoch vývoja bol spustený nový fakturačný systém s dostupným zdrojovým kódom, Billabear, ktorý ponúka funkcie podobné Stripe, ale so zdrojovým kódom dostupným pod licenciou Fair Source License (FSL).“</li>
+<li>„FSL umožňuje používateľom prístup k zdrojovému kódu, ktorý po dvoch rokoch prechádza na licenciu Apache 2.0, čo poskytuje väčšiu flexibilitu a kontrolu v porovnaní s uzavretým modelom Stripe.“</li>
+<li>„Diskusie zdôrazňujú dôležitosť dostupnosti zdrojov pre niektorých používateľov, potrebu lepšej lokalizácie v rôznych jazykoch a obavy týkajúce sa riešenia štátnej dane z predaja v USA a dodržiavania GDPR.“</li>
+</ul>
+<h2><a href="https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html">„Pracovníci prehovorili: Zostávajú doma“</a></h2>
+<ul>
+<li>„Politika spoločnosti Dell, ktorá vyžadovala prítomnosť v kancelárii pre povýšenia, bola do veľkej miery ignorovaná, pričom mnohí zamestnanci sa rozhodli zostať doma.“</li>
+<li>„Správa spoločnosti Gartner naznačuje, že 48 % zamestnancov verí, že nariadenia spoločnosti uprednostňujú preferencie vedúcich pracovníkov pred ich vlastnými potrebami.“</li>
+<li>„Práca na diaľku je čoraz viac preferovaná pre svoje výhody, vrátane absencie dochádzania, lepšej rovnováhy medzi pracovným a súkromným životom, úspor nákladov a flexibility, pričom vysokovýkonní pracovníci hľadajú príležitosti na prácu na diaľku.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41037097">Reakcie</a></h3>
+<ul>
+<li>„Pracovníci sú neochotní vrátiť sa do kancelárií kvôli zlému prostrediu, nedostatku stálych stolov a problémom s produktivitou v otvorených priestoroch.“</li>
+<li>„Mnoho zamestnancov považuje prácu na diaľku za efektívnejšiu a sú odolní voči návratu do suboptimálnych kancelárskych podmienok, pričom dochádzanie je významným faktorom.“</li>
+<li>„Niektoré spoločnosti používajú nariadenia o návrate do kancelárie ako stratégiu na zníženie počtu zamestnancov bez toho, aby sa uchýlili k prepúšťaniu, čo podnecuje prebiehajúcu diskusiu o optimálnych pracovných usporiadaniach.“</li>
+</ul>
+<h2><a href="https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf">„Apollo DN10000: Štvorjadrová CPU/128Mb RAM pracovná stanica z roku 1988 [pdf]“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41029987">Reakcie</a></h3>
+<ul>
+<li>„Apollo DN10000, štvorjadrová pracovná stanica s 128MB RAM z roku 1988, je nostalgicky diskutovaná pre svoj historický význam a technické schopnosti.“</li>
+<li>„Používatelia si spomínajú na jeho použitie v univerzitných laboratóriách a jeho úlohu v ranom grafickom programovaní, napriek jeho zložitému prostrediu Unix a výzvam pri konfigurácii.“</li>
+<li>„Vysoké náklady na stroj, až do 250 000 dolárov v 80. rokoch (čo je dnes ekvivalent približne 660 000 dolárov), poukazujú na jeho prémiový status a významné technologické pokroky od tej doby.“</li>
+</ul>
+<h2><a href="https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/">„Falcon Sensor od CrowdStrike je tiež spájaný s panikami a pádmi jadra Linuxu“</a></h2>
+<ul>
+<li>„Softvér Falcon Sensor od CrowdStrike spôsobil pády systémov na Windows aj Linux, vrátane Red Hat Enterprise Linux 9.4, Debian a Rocky Linux.“</li>
+<li>„Dočasné vypnutie senzora Falcon stabilizuje postihnuté systémy a CrowdStrike testuje nástroj na rýchle obnovenie, aby tento problém vyriešil.“</li>
+<li>„Narušenie malo významné globálne dopady, vrátane zrušenia letov a oneskorení v zdravotnej starostlivosti, pričom Microsoft odhaduje, že bolo postihnutých 8,5 milióna zariadení s Windows.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41030352">Reakcie</a></h3>
+<ul>
+<li>„Senzor Falcon od CrowdStrike bol spájaný s panikou jadra Linuxu a pádmi systému, čo je odlišné od problémov s BSOD (modrá obrazovka smrti) vo Windows.“</li>
+<li>„Paniky jadra Linuxu sú pravdepodobne spôsobené chybou v implementácii eBPF (Extended Berkeley Packet Filter) v jadre, potenciálne z Red Hat-špecifickej záplaty, čo naznačuje chybu v jadre skôr než problém s dodávateľom.“</li>
+<li>„Diskusia poukazuje na výzvy podpory viacerých verzií operačných systémov a na zložitosť testovania modulov jadra, pričom zdôrazňuje rozdiely v spoľahlivosti inžinierstva jadra medzi Linuxom a Windows.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Jellyfin: Sme dobrí, vážne“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EJellyfin%3A%20Sme%20dobr%C3%AD%2C%20v%C3%A1%C5%BEne%E2%80%9C&subheading=pondelok%2022.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/22</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-21]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/21&#39;</h2>
+<h1>2024-07-21</h1>
+<h2><a href="https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/">„Empatia pre používateľa, ktorý má sex s vaším softvérom“</a></h2>
+<ul>
+<li>„Vývoj technológie pre intímne použitie, ako sú aplikácie Buttplug, vyžaduje empatiu a zohľadnenie jedinečných potrieb a kontextov používateľov, vrátane použiteľnosti počas vzrušenia a odpojenia hardvéru.“</li>
+<li>„Zdieľanie kódu pre sex tech na platformách ako GitHub môže pomôcť stanoviť osvedčené postupy, ale vývojári by mali byť opatrní s explicitnými médiami a zvážiť samostatné hosťovanie citlivých materiálov.“</li>
+<li>„Projekt Buttplug kladie dôraz na bezpečnosť, autonómiu a ľudské práva, pričom vo svojom poslaní podporuje zodpovedné správanie a vzdelávanie.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021029">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá buttplug.io, softvérovou knižnicou na ovládanie sexuálnych hračiek, pričom zdôrazňuje jej rozsiahlu podporu zariadení a etické úvahy.“</li>
+<li>„Zakladateľ qdot sa delí o poznatky týkajúce sa vývojových výziev, vrátane správy Bluetooth knižníc a dôležitosti empatie voči používateľom pri návrhu softvéru.“</li>
+<li>„Konverzácia zahŕňa humorné a vážne výmeny názorov o aplikáciách softvéru, testovacích metódach a potenciálnom využití v iných oblastiach, ako je zdravotníctvo.“</li>
+</ul>
+<h2><a href="https://twitter.com/patrickwardle/status/1814343502886477857">„Počiatočné podrobnosti o tom, prečo CrowdStrike&#39;s CSAgent.sys zlyhal“</a></h2>
+<ul>
+<li>„CSAgent.sys od CrowdStrike sa zrútil kvôli chybe inštrukcie zahŕňajúcej neplatnú pamäťovú adresu.“</li>
+<li>„Problém bol spôsobený neznámou adresou z poľa ukazovateľov, čo viedlo k pádu pri prístupe k pamäti.“</li>
+<li>„Špecifická chybná inštrukcia bola &quot;mov r9d, [r8],&quot; kde R8 obsahoval neplatnú adresu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021366">Reakcie</a></h3>
+<ul>
+<li>„Pád súboru CSAgent.sys od CrowdStrike bol spôsobený chybnými binárnymi údajmi a zle napísaným parserom, ktorý nedokázal správne spracovať neplatné údaje.“</li>
+<li>„Incident zhoršil zle napísaný kód jadra, nedostatok interného testovania, ignorované nastavenia aktualizácií, simultánne globálne nasadenie a počiatočná korupcia dát.“</li>
+<li>„Toto zdôrazňuje potrebu robustného spracovania chýb, postupného nasadzovania a dôkladného testovania, vrátane fuzz testovania, aby sa predišlo podobným zlyhaniam.“</li>
+</ul>
+<h2><a href="https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral">„Aký je význam znaku &quot;j&quot; na konci rímskej číslice? (2013)“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41022653">Reakcie</a></h3>
+<ul>
+<li>„Znak „j“ na konci rímskej číslice sa historicky používal na označenie konca čísla, čím sa zabezpečila jasnosť a zabránilo sa manipulácii.“</li>
+<li>„Táto prax bola nevyhnutná v ručne písaných dokumentoch, aby sa predišlo nesprávnemu výkladu, ako napríklad rozlíšenie &quot;xviij&quot; (18) od &quot;xviii&quot; (17) alebo &quot;xviiii&quot; (19).“</li>
+<li>„Podobné typografické konvencie ovplyvnili vývoj holandského digrafu „ij“, čo zdôrazňuje vplyv týchto praktík na vývoj jazyka.“</li>
+</ul>
+<h2><a href="https://computer.rip/2024-07-20-minuteman-missile-communications.html">„Komunikácia rakiet Minuteman“</a></h2>
+<ul>
+<li>„Autor plánuje zmeniť hostingové platformy, čo prinesie ďalšie výdavky, a hľadá podporu čitateľov prostredníctvom darov, pričom ponúka exkluzívny obsah a skorý prístup k novým videám na YouTube pre podporovateľov.“</li>
+<li>„USA udržiava 400 medzikontinentálnych balistických rakiet Minuteman III, ktoré spravujú 90., 91. a 341. raketové krídlo letectva, pričom každú skupinu desiatich odpaľovacích zariadení monitoruje jedno zariadenie na varovanie pred raketami.“</li>
+<li>„Komunikácie Minuteman zahŕňajú externé systémy ako LF, HF, UHF a SHF antény a interné systémy ako Hardened Intersite Cable System (HICS), pričom budúce vylepšenia sú plánované v rámci programu Sentinel.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019604">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá komunikačnými systémami rakiet Minuteman, pričom zdôrazňuje prechod od starších technológií, ako je DSL cez HICS káble, k moderným optickým vláknam pre zlepšenú kapacitu a spoľahlivosť.“</li>
+<li>„Rozhovor zahŕňa pohľady na výzvy ochrany pred EMP (elektromagnetický impulz) a bleskami pre tieto komunikačné systémy, pričom zdôrazňuje výhody nevodivých optických káblov.“</li>
+<li>„Príspevok tiež obsahuje anekdoty a odporúčania na návštevu historických raketových miest, ako je riadiace zariadenie Minuteman v Južnej Dakote a silo rakety Titan II v Arizone, čím poskytuje historický kontext pre tieto technológie.“</li>
+</ul>
+<h2><a href="https://dgerrells.com/blog/how-not-to-use-box-shadows">„Takže si myslíte, že poznáte tieňovanie boxov?“</a></h2>
+<ul>
+<li>„Príspevok skúma kreatívne a nekonvenčné použitia tieňov boxov v CSS, nad rámec typických vylepšení používateľského rozhrania.“</li>
+<li>„Autor experimentoval s tieňmi boxov pre minimalistické umenie, animácie, 3D efekty a dokonca aj ray tracing, čím ukázal všestrannosť tejto CSS funkcie.“</li>
+<li>„Experimenty zdôrazňujú výkonové schopnosti moderného hardvéru, ako je napríklad M1 laptop, pri spracovaní zložitých vizuálnych efektov pomocou tieňov boxu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024664">Reakcie</a></h3>
+<ul>
+<li>„Diskusia sa zameriava na to, ako transparentnosť pri vykresľovaní grafiky ovplyvňuje dávkovanie GPU a prekresľovanie, čo je kľúčové pre optimalizáciu výkonu.“</li>
+<li>„Používatelia zdieľajú techniky ako používanie podpísaných vzdialenostných polí (SDF) pre efektívnejšie vykresľovanie, pričom si všímajú rôzny výkon na rôznych zariadeniach a prehliadačoch.“</li>
+<li>„Postrehy zahŕňajú praktické skúsenosti a odkazy na súvisiace zdroje a historické články na ďalšie čítanie.“</li>
+</ul>
+<h2><a href="https://x.com/">„X.com odmieta otvoriť sa s povolenou prísnou ochranou sledovania vo Firefoxe“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41022408">Reakcie</a></h3>
+<ul>
+<li>„X.com sa nenačíta, keď je v prehliadači Firefox povolená prísna ochrana proti sledovaniu, ktorá blokuje rôzne sledovacie mechanizmy a skripty.“</li>
+<li>„Používatelia špekulujú, že základné časti stránky sú blokované alebo že X.com detekuje blokovač reklám a odmieta sa načítať.“</li>
+<li>„Niektorí používatelia navrhujú používať alternatívne prehliadače alebo nástroje ako Nitter na prístup k obsahu Twitteru bez problémov.“</li>
+</ul>
+<h2><a href="https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/">„Používateľ sa vracia po 100-tisíc hodinovom zákaze, aby pokračoval v konverzácii, ktorá ho dostala do zákazu“</a></h2>
+<ul>
+<li>„Používateľ menom Etherwind sa vrátil na fóra Something Awful po 11-ročnom, 100 000-hodinovom zákaze, aby pokračoval v debate o stolovej hre, ktorá viedla k jeho zákazu v roku 2013.“</li>
+<li>„Etherwind bol pôvodne zabanovaný za žartovné prianie smrti autorovi a jeho návrat bol prijatý s humorom a úžasom od ostatných používateľov fóra.“</li>
+<li>„Napriek dlhému zákazu Etherwind videl svoj návrat ako komediálnu príležitosť a nakoniec účet zrušil po obnovení debaty.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024633">Reakcie</a></h3>
+<ul>
+<li>„Používateľ sa vrátil po zákaze na 100 000 hodín, čo opäť rozprúdilo diskusie na fórach ako Habbo Hotel a Stack Overflow o skúsenostiach so zákazmi a moci moderátorov.“</li>
+<li>„Rozhovor zahŕňal debaty o demokratickej umiernenosti, zaujatosti moderátorov a vplyve dlhodobých zákazov na duševné zdravie.“</li>
+<li>„Vlákno zdôraznilo vyvíjajúcu sa povahu online komunít a významné, trvalé účinky dlhodobých zákazov.“</li>
+</ul>
+<h2><a href="https://rr-project.org/">„rr – debugger na zaznamenávanie a prehrávanie pre C/C++“</a></h2>
+<ul>
+<li>„rr je nástroj na ladenie pre C/C++ na Linuxe, ktorý vylepšuje gdb tým, že umožňuje deterministické prehrávanie a efektívne spätné vykonávanie.“</li>
+<li>„Podporuje nahrávanie a prehrávanie rôznych aplikácií, spracováva viacprocesové úlohy a integruje sa so skriptovaním gdb a IDE.“</li>
+<li>„rr je pozoruhodný svojou nízkou réžiou, nasaditeľnosťou na štandardných Linuxových jadrách a schopnosťou uľahčiť a zrýchliť ladenie prerušovaných chýb.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41023547">Reakcie</a></h3>
+<ul>
+<li>„rr je nástroj na nahrávanie a prehrávanie pre C/C++, ktorý pomáha pri reverznom inžinierstve a ladení zložitých kódových základní tým, že umožňuje používať zarážky, sledovacie body a spätné pokračovanie na sledovanie zmien premenných a identifikáciu chýb.“</li>
+<li>„Používa gdb (GNU Debugger) a podporuje rôzne kompilované jazyky ako Rust, Go a Julia na Linuxe, ale má obmedzenia pri chybách súbežnosti a nepodporuje GPU.“</li>
+<li>„rr&#39;s chaos mode môže pomôcť odhaliť niektoré problémy so súbežnosťou a pokročilé nástroje ako Pernosco, založené na rr, ponúkajú dotazovateľnú databázu vykonávania programu.“</li>
+</ul>
+<h2><a href="https://semiengineering.com/intel-vs-samsung-vs-tsmc/">„Intel vs. Samsung vs. TSMC“</a></h2>
+<ul>
+<li>„Intel, Samsung a TSMC zintenzívňujú konkurenciu na trhu zlievarní, keďže výhody tradičného planárneho škálovania sa zmenšujú, zameriavajúc sa na 3D tranzistory, čiplety a pokročilé baliace technológie.“</li>
+<li>„Každá spoločnosť využíva štandardy ako UCIe (Universal Chiplet Interconnect Express) a BoW (Bridge of Wires) pre prepojenie čipletov, pričom Intel používa EMIB (Embedded Multi-die Interconnect Bridge) a Samsung a TSMC skúmajú prístupy 2.5D a 3D-IC (Integrated Circuit).“</li>
+<li>„Zlievarne napredujú smerom k angstromovej škále v procesných uzloch a inovujú v oblastiach ako je dodávka energie zo zadnej strany a sklenené substráty, s cieľom efektívne poskytovať prispôsobené, vysoko výkonné riešenia.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019561">Reakcie</a></h3>
+<ul>
+<li>„Diskusia zdôrazňuje kľúčovú úlohu výroby čipov, pričom hlavnými hráčmi v tomto odvetví sú Intel, Samsung a TSMC.“</li>
+<li>„Zložitosť a presnosť potrebná pri výrobe moderných čipov, vrátane pokročilého balenia a mikrofluidiky, sú zdôrazňované ako významné technologické úspechy.“</li>
+<li>„Rozhovor sa dotýka potenciálnych dôsledkov, ak by významný hráč ako TSMC opustil trh, čo by mohlo viesť k monopolistickým podmienkam a ovplyvniť globálnu dodávku polovodičov.“</li>
+</ul>
+<h2><a href="https://twitter.com/JoeBiden/status/1815080881981190320">„Joe Biden odstupuje ako kandidát Demokratickej strany“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41026741">Reakcie</a></h3>
+<ul>
+<li>„Joe Biden oznámil svoje rozhodnutie odstúpiť ako kandidát Demokratickej strany pre nadchádzajúce voľby.“</li>
+<li>„Toto rozhodnutie vyvolalo širokú škálu reakcií, od chvály za jeho prezidentovanie až po obavy o jeho vek a duševnú spôsobilosť.“</li>
+<li>„Demokratická strana teraz čelí výzve výberu nového kandidáta, pričom prebiehajú diskusie o potenciálnych nástupcoch a dôsledkoch pre nadchádzajúce voľby.“</li>
+</ul>
+<h2><a href="https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga">„Google Distributed Cloud air-gapped appliance“</a></h2>
+<ul>
+<li>„Google Distributed Cloud air-gapped appliance, ktorý bude uvedený na trh 17. júla 2024, prináša cloudové a AI schopnosti do taktických okrajových prostredí, ako sú zóny katastrof a vzdialené výskumné stanice.“</li>
+<li>„Zariadenie podporuje spracovanie lokálnych dát v reálnom čase pre prípady použitia AI, ako je detekcia objektov a analýza lekárskych snímok, s úplnou izoláciou od verejného internetu pre bezpečnosť a súlad s predpismi.“</li>
+<li>„Ponúka akreditáciu na úrovni 5 vplyvu Ministerstva obrany, čo ho robí vhodným pre reakcie na katastrofy, priemyselnú automatizáciu, dopravu, logistiku a obmedzené federálne a obranné pracovné zaťaženia.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019777">Reakcie</a></h3>
+<ul>
+<li>„Google predstavil zariadenie Distributed Cloud s oddeleným prístupom, navrhnuté na prevádzku bez pripojenia ku Google Cloud alebo verejnému internetu, primárne zamerané na vojenské a iné vysoko bezpečnostné aplikácie.“</li>
+<li>„Toto zariadenie je súčasťou širšieho trendu medzi hlavnými poskytovateľmi cloudových služieb (AWS, Azure) ponúkať odolné, prenosné a bezpečné riešenia na mieste pre prostredia s prísnymi bezpečnostnými a prevádzkovými požiadavkami.“</li>
+<li>„Dizajn zariadenia zahŕňa funkcie ako schopnosti umelej inteligencie, robustnú prenosnosť a súlad s vojenskými normami, s cieľom uspokojiť potreby odpojených a náročných okrajových prostredí.“</li>
+</ul>
+<h2><a href="https://twitter.com/leighhoneywell/status/1814278230704111792">„Akákoľvek dostatočne zlá aktualizácia softvéru je nerozoznateľná od kybernetického útoku“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41023086">Reakcie</a></h3>
+<ul>
+<li>„Diskusia sa sústreďuje na riziká a dôsledky poskytovania vzdialeného root prístupu bezpečnostnému softvéru tretích strán, pričom ho porovnáva s malvérom kvôli jeho potenciálu na zneužitie a kontrolu systému.“</li>
+<li>„Existuje debata o tom, či sa spoliehať výlučne na bezpečnostné riešenia prvej strany (ako sú tie od Microsoftu) alebo na riešenia tretích strán, pričom niektorí obhajujú používanie Linuxu, aby sa predišlo takýmto rizikám.“</li>
+<li>„Rozhovor zdôrazňuje dôležitosť postupného zavádzania aktualizácií softvéru na minimalizáciu narušenia a potenciálne nebezpečenstvá prístupu na úrovni jadra zo strany softvéru tretích strán.“</li>
+</ul>
+<h2><a href="https://lapcatsoftware.com/articles/2024/7/1.html">„Záplava falošných recenzií v Mac App Store“</a></h2>
+<ul>
+<li>„Jeff Johnson nahlásil nárast falošných recenzií pre najlepšie platené aplikácie v U.S. Mac App Store, ktorý ovplyvnil 8 z 40 najlepšie platených aplikácií medzi 11. júnom a 19. júlom 2024.“</li>
+<li>„Falošné recenzie, často 5-hviezdičkové s generickým alebo nezmyselným textom, boli pravdepodobne určené na zvýšenie hodnotenia aplikácie, pričom existujú podozrenia, že za nimi môže stáť jediný vývojár, aby zakryl falošné recenzie svojej vlastnej aplikácie.“</li>
+<li>„Napriek hláseniam spoločnosti Apple zostáva problém nevyriešený, pričom vývojári BetterSnapTool a Vinegar uznávajú a hlásia problém spoločnosti Apple.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021472">Reakcie</a></h3>
+<ul>
+<li>„Mac App Store zažíva nárast falošných recenzií, pričom vývojári ako tvorca BetterSnapTool hlásia tento problém spoločnosti Apple.“</li>
+<li>„Apple vyšetruje a odstraňuje niektoré falošné recenzie, ale zdroj a motív za nimi zostávajú nejasné, potenciálne zahŕňajúce konkurentov alebo farmy recenzií.“</li>
+<li>„Prevalencia falošných recenzií v obchodoch Mac a iOS App Store podkopáva ich spoľahlivosť pri objavovaní softvéru, čo vedie používateľov k hľadaniu odporúčaní aplikácií na Google alebo Reddit.“</li>
+</ul>
+<h2><a href="https://text.npr.org/g-s1-9028">„Zrútenia výkopov zabili stovky pracovníkov v USA za posledné desaťročie“</a></h2>
+<ul>
+<li>„Za posledné desaťročie došlo v USA k viac ako 250 úmrtiam pracovníkov v dôsledku zrútenia výkopov, z ktorých mnohým sa dalo predísť dodržiavaním základných bezpečnostných predpisov.“</li>
+<li>„Napriek predpisom a pokutám OSHA (Správa bezpečnosti a ochrany zdravia pri práci) mnoho spoločností naďalej porušuje bezpečnostné normy s minimálnymi následkami, pretože trestné obvinenia sú zriedkavé a pokuty sú často znížené alebo ignorované.“</li>
+<li>„Vyšetrovanie NPR, Texas Public Radio a 1A zdôrazňuje naliehavú potrebu prísnejšieho vymáhania a zodpovednosti, aby sa predišlo budúcim tragédiám.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024559">Reakcie</a></h3>
+<ul>
+<li>„Zrútenia výkopov viedli v USA za posledné desaťročie k stovkám úmrtí pracovníkov, ktorým sa dalo predísť, predovšetkým kvôli nedodržiavaniu bezpečnostných predpisov.“</li>
+<li>„Predpisy OSHA (Správa bezpečnosti a ochrany zdravia pri práci) sú nevyhnutné, ale často nie sú prísne vymáhané, čo vedie k nebezpečným pracovným podmienkam.“</li>
+<li>„K nedostatku robustnej bezpečnostnej kultúry prispievajú ako firemné politiky, tak aj postoje pracovníkov, ako napríklad ignorovanie bezpečnostného vybavenia kvôli tlaku rovesníkov, čo si vyžaduje presadzovanie a zodpovednosť zhora nadol.“</li>
+</ul>
+<h2><a href="https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/">„Správa zdrojov Classic Mac OS v ResEdit“</a></h2>
+<ul>
+<li>„Súborový systém Macintosh obsahoval dve vetvy: dátovú vetvu a zdrojovú vetvu, pričom druhá z nich uchovávala štruktúrované dáta ako ikony, dialógy a kúsky kódu.“</li>
+<li>„Apple’s ResEdit, editor zdrojov naposledy aktualizovaný v roku 1994, umožňoval používateľom prispôsobiť systémové súbory, dialógy a rozloženia klávesnice, ale predstavoval bezpečnostné riziká, pretože malware často zneužíval zdrojové vidlice.“</li>
+<li>„S Mac OS X sa vetvy zdrojov premenili na rozšírené atribúty a zdroje aplikácií sú teraz organizované do balíkov, pričom moderné aplikácie sú uzamknuté podpismi, čo zabraňuje rozsiahlym prispôsobeniam, ktoré boli kedysi možné s ResEdit.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019829">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá nostalgiou a technickými detailmi používania ResEdit, editora zdrojov pre Classic Mac OS, ktorý umožňoval používateľom upravovať softvér a systémové zdroje.“</li>
+<li>„Používatelia zdieľajú svoje skúsenosti s rôznymi nástrojmi na ladenie, ako sú MacsBug, TMON a The Debugger, pričom zdôrazňujú ich dôležitosť v ranom vývoji softvéru a hackingu.“</li>
+<li>„Rozhovor odráža, ako tieto nástroje ovplyvnili ich kariéru a širší dopad úpravy zdrojov na prispôsobenie a vývoj softvéru.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Empatia pre používateľa, ktorý má sex s vaším softvérom“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EEmpatia%20pre%20pou%C5%BE%C3%ADvate%C4%BEa%2C%20ktor%C3%BD%20m%C3%A1%20sex%20s%20va%C5%A1%C3%ADm%20softv%C3%A9rom%E2%80%9C&subheading=nede%C4%BEa%2021.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/21</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-20]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/20&#39;</h2>
+<h1>2024-07-20</h1>
+<h2><a href="https://roadway.report">„Zmapoval som takmer každé úmrtie na cestách v USA v 21. storočí“</a></h2>
+<ul>
+<li>„Celonárodná mapa Vision-Zero je nová iniciatíva zameraná na elimináciu smrteľných dopravných nehôd a vážnych zranení na cestách.“</li>
+<li>„Táto mapa poskytuje komplexný prehľad o údajoch o bezpečnosti cestnej premávky v celej krajine, čo pomáha identifikovať vysoko rizikové oblasti a zavádzať cielené bezpečnostné opatrenia.“</li>
+<li>„Iniciatíva je súčasťou širšej stratégie Vision-Zero, ktorú prijali rôzne mestá a krajiny na zlepšenie bezpečnosti na cestách prostredníctvom prístupov založených na dátach a zapojenia komunity.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41012443">Reakcie</a></h3>
+<ul>
+<li>„Bola vytvorená komplexná mapa takmer každého úmrtia na cestách v USA v 21. storočí, pričom používatelia navrhli vytvoriť tepelnú mapu na identifikáciu miest s vysokým počtom úmrtí.“</li>
+<li>„Diskusie poukázali na nepresnosti údajov z databázy FARS NHTSA, vrátane problémov s policajnými správami a štátnymi systémami hlásenia.“</li>
+<li>„Používatelia diskutovali o vplyve dizajnu ciest na bezpečnosť, obhajovali užšie ulice a opatrenia na upokojenie dopravy a diskutovali o rovnováhe medzi bezpečnosťou ciest a efektívnosťou dopravy.“</li>
+</ul>
+<h2><a href="https://www.kibty.town/blog/a16z/">„Výskumník našiel chybu na webovej stránke a16z, ktorá odhalila niektoré firemné údaje“</a></h2>
+<ul>
+<li>„Bezpečnostný výskumník objavil zraniteľnosť v subdoméne a16z crypto, ktorá odhalila citlivé informácie, ako sú AWS kľúče a obsah databázy.“</li>
+<li>„Vystavené poverenia zahŕňali prístup k AWS, Salesforce, Mailgun a databáze obsahujúcej osobné identifikačné údaje (PII).“</li>
+<li>„Výskumník nedostal odmenu za nájdenie chyby kvôli verejnému zverejneniu po tom, čo sa mu nepodarilo nájsť súkromný kontaktný spôsob, čo považoval za nespravodlivé.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41016768">Reakcie</a></h3>
+<ul>
+<li>„Výskumník identifikoval zraniteľnosť na webovej stránke a16z, ktorá odhalila údaje spoločnosti, ale nedostal žiadnu odmenu za nájdenie chyby kvôli verejnému zverejneniu po neúspešných pokusoch o súkromný kontakt.“</li>
+<li>„Incident vyvolal debaty o zodpovednom zverejňovaní, bezpečnostných praktikách spoločností a etike neplateného hľadania chýb.“</li>
+<li>„Kritika bola namierená na a16z za to, že neodmenili výskumníka, čím sa zdôrazňujú zodpovednosti oboch spoločností a bezpečnostných výskumníkov pri riešení takýchto objavov.“</li>
+</ul>
+<h2><a href="https://garagehq.deuxfleurs.fr/">„Garáž: Open-Source Distribuované Ukladanie Objektov“</a></h2>
+<ul>
+<li>„Garage je open-source distribuovaná služba na ukladanie objektov navrhnutá pre samohostovanie, ktorá ponúka redundanciu replikovaním dát v troch zónach.“</li>
+<li>„Kľúčové vlastnosti zahŕňajú ľahké a efektívne nasadenie, všestrannosť naprieč viacerými dátovými centrami a odolnosť voči sieťovým a hardvérovým zlyhaniam.“</li>
+<li>„Podporuje heterogénny hardvér, implementuje API Amazon S3 pre kompatibilitu a je financovaný NGI POINTER, NLnet / NGI0 Entrust a výskumným a inovačným programom Európskej únie Horizon 2021.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013004">Reakcie</a></h3>
+<ul>
+<li>„Garage je open-source distribuovaný systém objektového úložiska, ktorý používatelia uprednostňujú pred Minio kvôli lepšiemu výkonu s malými súbormi a replikáciou.“</li>
+<li>„Kľúčové vlastnosti zahŕňajú významné zlepšenia výkonu, nízku spotrebu pamäte a CRDTs (typy dát replikované bez konfliktov) pre distribuovaný konsenzus.“</li>
+<li>„Projekt je licencovaný pod AGPL a jeho cieľom je ponúknuť flexibilné, samohostované úložné riešenie, pričom prebiehajú diskusie o funkciách súladu a porovnaniach s inými úložnými systémami ako SeaweedFS, IPFS a Tahoe-LAFS.“</li>
+</ul>
+<h2><a href="https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399">„Multisatelitné údaje zobrazujú rekordný únik metánu z havárie vrtu“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41012193">Reakcie</a></h3>
+<ul>
+<li>„Multisatelitné údaje identifikovali rekordný únik metánu z havárie vrtu, čo poukazuje na to, že emisie metánu súvisiace s ropou a plynom sú priemyslom výrazne podhodnotené.“</li>
+<li>„Skleníkový potenciál metánu je 20-krát väčší ako potenciál CO2 za 100 rokov, čo robí niektoré výrobné cesty horšími ako uhlie z hľadiska klimatického dopadu.“</li>
+<li>„Incident v Kazachstane zdôrazňuje potrebu silnejších klimatických politík a presného merania na riešenie únikov metánu, ktoré sú zhoršované oslabenými regulačnými agentúrami a zastaranou infraštruktúrou.“</li>
+</ul>
+<h2><a href="https://github.com/typst/typst">„Typst: Jednoduchá alternatíva k LaTexu, ktorú sa ľahko naučíte“</a></h2>
+<ul>
+<li>„Typst je nový, užívateľsky prívetivý systém sadzby založený na značkovaní, navrhnutý tak, aby bol rovnako výkonný ako LaTeX, s integrovaným značkovaním, flexibilnými funkciami, integrovaným skriptovaním a rýchlymi časmi kompilácie.“</li>
+<li>„Kompilátor a CLI (príkazový riadok) Typst sú k dispozícii na lokálnu kompiláciu dokumentov, pričom bezplatný online editor je momentálne v verejnej beta verzii pre vylepšený zážitok.“</li>
+<li>„Používatelia sa môžu pripojiť k Typst komunite na Discorde pre podporu a prístup k zdrojom vytvoreným komunitou, s možnosťami prispieť nahlásením chýb alebo navrhovaním funkcií.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41014941">Reakcie</a></h3>
+<ul>
+<li>„Typst je prezentovaný ako jednoduchšia a efektívnejšia alternatíva k LaTeX-u na generovanie PDF, pričom používatelia hlásia výrazné zlepšenie výkonu.“</li>
+<li>„Nástroj je chválený za svoj intuitívny systém šablón, vďaka čomu je pre používateľov prístupnejší v porovnaní s LaTeXom, najmä pri rýchlom generovaní veľkého množstva dokumentov.“</li>
+<li>„Typst získava pozornosť vďaka svojmu potenciálu zjednodušiť akademické písanie a tvorbu regulačných dokumentov, hoci momentálne mu chýbajú niektoré funkcie ako výstup v HTML a plná podpora TeX.“</li>
+</ul>
+<h2><a href="https://batchmon.com/blog/ai-cheaper-than-ads/">„AI platená reklamami – mini inflexný bod GPT-4o“</a></h2>
+<ul>
+<li>„OpenAI spustilo mini model GPT-4o, ktorý stojí 0,15 USD za 1 milión vstupných tokenov a 0,60 USD za 1 milión výstupných tokenov, čo ho robí dostupnejším a inteligentnejším ako GPT-3.5 Turbo.“</li>
+<li>„Nízke náklady na GPT-4o mini umožňujú vytváranie obsahu generovaného umelou inteligenciou, ktorý môže byť úplne podporovaný príjmami z reklamy, čo môže potenciálne transformovať tvorbu online obsahu.“</li>
+<li>„Napríklad, generovanie blogového príspevku pomocou GPT-4o mini stojí $0.00051525, zatiaľ čo príjem z reklamy na jedno zobrazenie stránky môže byť okolo $0.0026, čo vedie k čistému zisku približne $0.002 na jedno zobrazenie stránky.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41010188">Reakcie</a></h3>
+<ul>
+<li>„Diskusia poukazuje na obavy o budúcnosť webového obsahu, naznačujúc, že čoskoro môže dominovať obsah generovaný umelou inteligenciou, čo povedie k cyklu trénovania AI na výstupoch AI.“</li>
+<li>„Existuje diskusia o kvalite súčasného webového obsahu, pričom niektorí tvrdia, že veľká časť z neho je už teraz nekvalitný materiál pre SEO (optimalizáciu pre vyhľadávače) a umelá inteligencia by mohla tento problém ešte zhoršiť.“</li>
+<li>„Rozhovor sa dotýka ťažkosti rozlišovania medzi textom vytvoreným človekom a AI, čo vyvoláva otázky o autentickosti a originalite online interakcií a obsahu.“</li>
+</ul>
+<h2><a href="https://nouptime.com/">„No Uptime Hosting (2006)“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41016290">Reakcie</a></h3>
+<ul>
+<li>„No Uptime Hosting je satirická webová stránka, ktorá humorne ponúka zastarané a nepraktické hostingové služby, ako je prijímanie súborov na disketách a podpora zastaraných operačných systémov, ako je OS/2 Warp.“</li>
+<li>„Zdrojový kód HTML stránky je zámerne plný chýb a zastaraných praktík, ako sú zmiešané deklarácie doctype, surové PHP značky a chýbajúce uzatváracie značky, čo pridáva ďalšie vrstvy k vtipu.“</li>
+<li>„Komunita nachádza humor v absurdnosti ponúkaných služieb a zámerne zlej webovej stránke, pričom mnohé komentáre vyzdvihujú nostalgické a komediálne prvky.“</li>
+</ul>
+<h2><a href="https://blog.kronis.dev/articles/never-update-anything">„Nikdy nič neaktualizujte“</a></h2>
+<ul>
+<li>„Článok predstavuje kontroverzný názor proti častým aktualizáciám softvéru, zdôrazňujúc narušenia a spotrebu zdrojov, ktoré spôsobujú.“</li>
+<li>„Navrhuje stabilnejší prístup, pričom používa príklady ako Lazarus IDE a stabilné balíčky FreeBSD, aby sa znížila potreba neustálych aktualizácií.“</li>
+<li>„Autor obhajuje spomalenie tempa aktualizácií, zameranie sa na dlhodobú stabilitu a nepretržité zmeny, aby sa uľahčila údržba a znížilo kognitívne zaťaženie vývojárov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41009942">Reakcie</a></h3>
+<ul>
+<li>„Pred internetom boli aktualizácie softvéru zriedkavé a nákladné, čo spôsobovalo, že chybný softvér bol významným problémom.“</li>
+<li>„Internet uľahčil aktualizácie, čo viedlo spoločnosti k častejším aktualizáciám a využívaniu zákazníkov ako testerov, čo malo za následok menej stabilný softvér.“</li>
+<li>„Existuje debata medzi uprednostňovaním dlhodobých podporných (LTS) verzií pre stabilitu a priemyselným trendom častých aktualizácií na úkor kvality.“</li>
+</ul>
+<h2><a href="https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe">„Verejné toalety miznú a to je občianska katastrofa“</a></h2>
+<ul>
+<li>„Verejné toalety miznú, čo vedie k občianskej kríze, ktorá obzvlášť postihuje jednotlivcov so zdravotnými problémami a marginalizované skupiny.“</li>
+<li>„Guido Corradi, psychológ, zdôrazňuje zlý stav verejných toaliet v bohatých západných krajinách, poukazujúc na ich vplyv na verejné zdravie a ľudskú dôstojnosť.“</li>
+<li>„Štúdie naznačujú, že chudobní, menej vzdelaní jednotlivci a ženy zažívajú viac negatívnych skúseností s verejnými toaletami, čo zdôrazňuje potrebu zlepšenia zariadení a kampaní na zvýšenie povedomia verejnosti.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41015731">Reakcie</a></h3>
+<ul>
+<li>„Zmiznutie verejných toaliet v USA viedlo k významným problémom s prístupnosťou, čo núti ľudí spoliehať sa na podniky pre prístup k toaletám.“</li>
+<li>„Hoci Výbor na ukončenie platených toaliet v Amerike uspel v zákaze platených toaliet, neboli prijaté žiadne opatrenia na ich nahradenie bezplatnými verejnými toaletami.“</li>
+<li>„V niektorých štátoch, ako je Florida, sú podniky povinné mať verejné toalety, ale prístup je často obmedzený len pre zákazníkov, čo poukazuje na potrebu zlepšenia infraštruktúry verejných toaliet.“</li>
+</ul>
+<h2><a href="https://devforum.play.date/t/doom-on-playdate/852">„Doom na Playdate“</a></h2>
+<ul>
+<li>„Skorá verzia hry Doom bola úspešne portovaná na Playdate, prenosnú hernú konzolu.“</li>
+<li>„Vývojár čelil významným problémom s makefilemi, kompilátormi a problémami s linkerom, najmä chýbajúcimi referenciami v libc, ktoré boli vyriešené úpravou možností linkeru a modifikáciou Playdate SDK.“</li>
+<li>„Hra teraz beží na simulátore aj na skutočnom hardvéri, čo umožňuje vývojárovi sústrediť sa na ovládanie hry, prezentáciu a optimalizáciu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013159">Reakcie</a></h3>
+<ul>
+<li>„Konzola Playdate spúšťa hru Doom, čo vyvoláva diskusie o optimalizácii jej displeja pomocou rôznych techník ditheringu pre lepšiu vizuálnu jasnosť.“</li>
+<li>„Používatelia diskutujú o výhodách rôznych metód ditheringu, ako sú Atkinson a ordered dithering, a odkazujú na iné hry, ako napríklad Return of the Obra Dinn, pre inšpiráciu.“</li>
+<li>„Playdate používa Sharp Memory LCD, ktorý ponúka rýchle obnovovacie frekvencie a nízku spotrebu energie, hoci niektorí používatelia by si priali, aby mal podsvietenie pre lepšiu použiteľnosť.“</li>
+</ul>
+<h2><a href="https://pad.public.cat/lettre-NCP-NGI">„Európska únia musí pokračovať vo financovaní slobodného softvéru“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41010458">Reakcie</a></h3>
+<ul>
+<li>„Európska únia je povzbudzovaná k zvýšeniu financovania pre slobodný softvér, keďže súčasné príspevky sú minimálne v porovnaní s komerčnými snahami.“</li>
+<li>„Nový model financovania môže byť nevyhnutný na podporu prosperujúceho ekosystému slobodného softvéru, pričom vplyv NLnet je obmedzený v porovnaní s veľkými spoločnosťami ako Google.“</li>
+<li>„Debata sa sústreďuje na efektívnosť vládneho financovania technických projektov a postavenie EÚ v technologickom priemysle.“</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html">„Fiasko CrowdStrike poskytuje cestovnú mapu amerických zraniteľností pre protivníkov“</a></h2>
+<ul>
+<li>„Chyba v aktualizácii softvéru spôsobila v piatok digitálny kolaps, ktorý ovplyvnil letiská, nemocnice a televízne stanice, čím poukázal na krehkosť prepojených sietí.“</li>
+<li>„Incident bol spôsobený ľudskou chybou, nie útokom zo strany štátu, a týkal sa softvéru CrowdStrike, ktorý je určený na neutralizáciu kybernetických útokov.“</li>
+<li>„Táto udalosť zdôrazňuje potrebu zlepšenej digitálnej odolnosti napriek prebiehajúcim snahám vlády USA a súkromného sektora o zvýšenie kybernetickej bezpečnosti.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41017077">Reakcie</a></h3>
+<ul>
+<li>„Incident CrowdStrike odhalil zraniteľnosti v americkej kritickej infraštruktúre, čo vyvolalo debaty o používaní operačných systémov (OS), ktoré potrebujú časté bezpečnostné záplaty.“</li>
+<li>„Odborníci navrhujú alternatívy ako Linux alebo OpenBSD, ktoré sú vnímané ako bezpečnejšie v porovnaní s Windows, ktorý je široko používaný z historických a praktických dôvodov.“</li>
+<li>„Incident zdôrazňuje nevyhnutnosť zabudovaných bezpečnostných prvkov v systémoch a vyvoláva obavy o širšie dôsledky pre národnú bezpečnosť a odolnosť infraštruktúry.“</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support">„Skrátené odkazy od Googlu prestanú fungovať budúci rok“</a></h2>
+<ul>
+<li>„Skrátené odkazy od Google (goo.gl) prestanú fungovať po 25. auguste 2025, čo bude mať za následok chybu 404 pre všetky takéto odkazy.“</li>
+<li>„Od 23. augusta 2024 budú odkazy goo.gl zobrazovať medzistránku, ktorá upozorní používateľov na nadchádzajúce vypnutie.“</li>
+<li>„Google radí vývojárom, aby aktualizovali dotknuté odkazy, aby sa predišlo prerušeniam, pričom poznamenáva, že služba goo.gl bola pôvodne ukončená v roku 2019 s odporúčaním prejsť na Firebase Dynamic Links, ktoré boli tiež zrušené.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41014089">Reakcie</a></h3>
+<ul>
+<li>„Služba na skracovanie URL od Googlu ukončí svoju činnosť budúci rok, čo spôsobí frustráciu medzi používateľmi, ktorí sa na ňu spoliehajú pri presmerovaniach.“</li>
+<li>„Kritici poukazujú na vzorec Googlu v ukončovaní služieb, pričom toto rozhodnutie pripisujú nákladom na údržbu a interným politikám.“</li>
+<li>„Používatelia navrhujú alternatívy ako AWS pre presmerovania a navrhujú jednoduchšie riešenia alebo outsourcing, aby služba zostala funkčná.“</li>
+</ul>
+<h2><a href="https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai">„Akademici šokovaní po tom, čo T&amp;F predal prístup k ich výskumu spoločnosti Microsoft AI“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41011779">Reakcie</a></h3>
+<ul>
+<li>„Akademici sú frustrovaní z Taylor &amp; Francis za predaj prístupu k ich výskumu spoločnosti Microsoft AI, argumentujúc, že verejne financovaný výskum by mal byť voľne prístupný, aby sa maximalizovali jeho prínosy.“</li>
+<li>„Kritici tvrdia, že spoplatnenie prístupu vytvára prekážky a brzdí vedecký pokrok, pričom zdôrazňujú dôležitosť správneho pripisovania a morálneho práva na uznanie.“</li>
+<li>„Situácia zdôrazňuje pretrvávajúce napätie medzi otvoreným prístupom a tradičnými modelmi publikovania, ktoré často profitujú z verejne financovaného výskumu.“</li>
+</ul>
+<h2><a href="https://www.crowdstrike.com/blog/technical-details-on-todays-outage/">„Technické podrobnosti o dnešnom výpadku“</a></h2>
+<ul>
+<li>„Dňa 19. júla 2024 CrowdStrike vydal aktualizáciu konfigurácie senzora pre systémy Windows, ktorá spôsobila pády systémov a modré obrazovky smrti (BSOD) v dôsledku logickej chyby, ktorá bola opravená približne za 1,5 hodiny.“</li>
+<li>„Problém ovplyvnil zákazníkov používajúcich Falcon senzor pre Windows verziu 7.11 a vyššie, ktorí boli online medzi 04:09 UTC a 05:27 UTC, kvôli problematickému súboru Channel File 291 určenému na vyhodnotenie vykonávania pomenovaných rúr.“</li>
+<li>„Systémy bežiace na Linuxe alebo macOS neboli ovplyvnené a prebieha analýza základnej príčiny, aby sa predišlo budúcim problémom.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013198">Reakcie</a></h3>
+<ul>
+<li>„CrowdStrike zažil významný výpadok kvôli nesprávne nakonfigurovanému súboru, čo spôsobilo pád systémov Windows s modrou obrazovkou smrti (BSOD) a opakované reštartovanie.“</li>
+<li>„Problém vznikol z aktualizácie zameranej na škodlivé pomenované rúry, čo neúmyselne viedlo k tomu, že systémy CrowdStrike blokovali samy seba, čím sa poukázalo na nedostatočné testovanie a postupy zavádzania.“</li>
+<li>„Tento incident vyvolal obavy o kontrolu kvality, testovacie postupy a robustnosť nasadzovacích stratégií spoločnosti CrowdStrike, najmä vzhľadom na ich kľúčovú úlohu v oblasti kybernetickej bezpečnosti pre mnohé organizácie.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Zmapoval som takmer každé úmrtie na cestách v USA v 21. storočí“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EZmapoval%20som%20takmer%20ka%C5%BEd%C3%A9%20%C3%BAmrtie%20na%20cest%C3%A1ch%20v%20USA%20v%2021.%20storo%C4%8D%C3%AD%E2%80%9C&subheading=sobota%2020.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/20</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-19]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/19&#39;</h2>
+<h1>2024-07-19</h1>
+<h2><a href="https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/">„Aktualizácia Crowdstrike: Modrá obrazovka a bootovacie slučky v systéme Windows“</a></h2>
+<ul>
+<li>„Viacerí používatelia na pracovisku sa stretávajú s modrými obrazovkami Windows a bootovacími slučkami, čo môže súvisieť s nedávnou aktualizáciou aplikácie Crowd Strike.“</li>
+<li>„IT oddelenie zaznamenalo, že niektoré servery prestali fungovať, a miestna rozhlasová stanica hlásila podobné problémy s laptopmi a nefunkčný telefónny systém.“</li>
+<li>„Tieto incidenty sa dejú v Austrálii, ale zatiaľ o nich nebola žiadna správa.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002195">Reakcie</a></h3>
+<ul>
+<li>„Nedávna aktualizácia Crowdstrike spôsobila významné problémy, vrátane modrých obrazoviek smrti a bootovacích slučiek v systéme Windows, čo ovplyvnilo rôzne sektory, vrátane záchranných služieb a nemocníc.“</li>
+<li>„Používateľ Redditu uviedol, že ich pohotovostné oddelenie bolo mimo prevádzky počas liečby infarktu a služby 911 boli tiež ovplyvnené, čo viedlo k oneskoreniam v starostlivosti o pacientov.“</li>
+<li>„Incident zdôrazňuje riziká spoliehania sa na prepojené systémy a potenciál pre katastrofálne zlyhania, keď aktualizácie nie sú riadne otestované pred nasadením.“</li>
+</ul>
+<h2><a href="https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t">„Výpadok Crowdstrike spôsobuje rozsiahle problémy“</a></h2>
+<ul>
+<li>„Globálne narušenie IT bolo spôsobené chybnou aktualizáciou softvéru od kyberbezpečnostnej firmy CrowdStrike Holdings, čo ovplyvnilo množstvo systémov Microsoft Windows.“</li>
+<li>„Obe spoločnosti Microsoft a CrowdStrike vydali opravy na riešenie problému, ale úplné zotavenie sa očakáva, že bude trvať nejaký čas.“</li>
+<li>„Situácia sa mierne zlepšila, ale dopad nepodarenej aktualizácie je stále cítiť po celom svete.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002677">Reakcie</a></h3>
+<ul>
+<li>„Crowdstrike zažil výpadok, ktorý spôsobil rozsiahle problémy, vrátane modrých obrazoviek smrti a bootovacích slučiek na Windows, v dôsledku nedávnej aktualizácie.“</li>
+<li>„Incident vyvolal významnú diskusiu na Hacker News, zdôrazňujúc vplyv na používateľov a systémy.“</li>
+<li>„Táto udalosť zdôrazňuje kľúčový význam dôkladného testovania a monitorovania pri aktualizáciách softvéru, aby sa predišlo takýmto narušeniam.“</li>
+</ul>
+<h2><a href="https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms">„FCC hlasuje za obmedzenie poplatkov za telekomunikačné služby vo väzniciach“</a></h2>
+<ul>
+<li>„FCC hlasovala za výrazné zníženie sadzieb za telefónne a videohovory pre väznice a väzby, pričom znížila maximálne sadzby za minútu o viac ako polovicu a zakázala všetky poplatky, vrátane poplatkov za vklad.“</li>
+<li>„Táto zmena ovplyvňuje 83 % uväznených osôb, šetrí rodinám najmenej 500 miliónov dolárov ročne a zlepšuje pohodu a úspešnosť opätovného začlenenia uväznených osôb.“</li>
+<li>„Očakávajú sa veľké straty príjmov pre telekomunikačné spoločnosti v oblasti väzníc, ako sú Aventiv a ViaPath, zatiaľ čo štáty ako Massachusetts, Minnesota a Colorado už pristúpili k tomu, aby boli väzenské hovory bezplatné.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41005181">Reakcie</a></h3>
+<ul>
+<li>„FCC hlasovala za obmedzenie poplatkov za telekomunikačné služby vo väzniciach s cieľom znížiť vysoké náklady na telefonáty väzňov.“</li>
+<li>„Predtým boli väzni obmedzení na používanie jediného, väznicou schváleného súkromného telefónneho operátora, čo viedlo k neprimerane vysokým cenám kvôli nedostatku konkurencie.“</li>
+<li>„Nové nariadenia majú za cieľ zmierniť finančné zaťaženie väzňov a ich rodín, podporovať lepšiu rehabilitáciu a znižovať recidívu.“</li>
+</ul>
+<h2><a href="https://johnfactotum.github.io/foliate/">„Foliate: Čítajte e-knihy štýlovo, navigujte s ľahkosťou“</a></h2>
+<ul>
+<li>„Foliate je open-source čítačka elektronických kníh podporujúca rôzne formáty ako EPUB, Mobipocket, Kindle, FB2, CBZ a PDF, s možnosťou prispôsobenia nastavení čítania.“</li>
+<li>„Ponúka funkcie ako navigácia pomocou touchpadu a dotykovej obrazovky, záložky, poznámky a integráciu s nástrojmi ako Wiktionary a Google Translate.“</li>
+<li>„Foliate podporuje text sprava doľava, vertikálne písanie a pevné rozloženia a je dostupný pre viaceré distribúcie Linuxu alebo prostredníctvom klonovania zdrojového kódu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002273">Reakcie</a></h3>
+<ul>
+<li>„Foliate je čítačka elektronických kníh, ktorá je chválená pre svoju jednoduchosť, ľahkú navigáciu, záložky a funkcie anotácií.“</li>
+<li>„Ukladá pokrok v čítaní, záložky a poznámky v jednoduchých JSON súboroch, čo uľahčuje export a synchronizáciu.“</li>
+<li>„Foliate používa hash súbory na generovanie jedinečných identifikátorov pre knihy, čím zabezpečuje, že PDF súbory zostanú nezmenené pri anotovaní, hoci niektorí používatelia upozorňujú na možné problémy, ak súbory zmenia.“</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html">„Viaceré letecké spoločnosti narušené kvôli výpadku Microsoft Azure“</a></h2>
+<ul>
+<li>„Frontier Airlines uzemnili všetky lety na približne 35 minút kvôli veľkému výpadku Microsoft Azure, ktorý ovplyvnil rezervácie, registráciu a prístup k palubným lístkom.“</li>
+<li>„Výpadok, ktorý začal o 17:56, tiež narušil systémy spoločností Allegiant a Sun Country Airlines, čo ovplyvnilo viaceré systémy v centrálnej časti USA.“</li>
+<li>„Frontier, prevádzkujúca viac ako 100 lietadiel, bola jednou z najmenej troch leteckých spoločností postihnutých výpadkami služieb.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41001959">Reakcie</a></h3>
+<ul>
+<li>„Viaceré letecké spoločnosti zažili výpadky kvôli výpadku Microsoft Azure, ktorý môže byť spojený s chybnou aktualizáciou Crowdstrike spôsobujúcou globálne pády Windows zariadení.“</li>
+<li>„Výpadok ovplyvnil rôzne sektory, vrátane bankomatov, supermarketov a letísk v Európe a na Novom Zélande, čo naznačuje rozsiahly problém.“</li>
+<li>„Incident zdôrazňuje riziká spojené s centralizovanými cloudovými službami a poukazuje na nevyhnutnosť zlepšenia plánov obnovy po havárii.“</li>
+</ul>
+<h2><a href="https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell">„Čo by bolo potrebné na znovuvytvorenie Bell Labs?“</a></h2>
+<ul>
+<li>„AT&amp;T prostredníctvom Bell Labs zohrala kľúčovú úlohu pri rozvoji americkej telefónnej infraštruktúry a vyprodukovala významné vynálezy ako tranzistor, kremíkový solárny PV článok a operačný systém UNIX.“</li>
+<li>„Úspech Bell Labs bol čiastočne spôsobený monopolom AT&amp;T, ktorý podporoval dlhodobé výskumné projekty, čo viedlo k mnohým oceneniam, vrátane 10 Nobelových cien.“</li>
+<li>„Rozpad AT&amp;T viedol k rozdeleniu a úpadku Bell Labs, čo dnes sťažuje znovuvytvorenie takejto inštitúcie kvôli jedinečným historickým a technologickým podmienkam, ktoré kedysi existovali.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40998927">Reakcie</a></h3>
+<ul>
+<li>„Znovuvytvorenie Bell Labs by si vyžadovalo kvázi monopol, značné financovanie, minimálnu konkurenciu a kultúru, ktorá uprednostňuje dlhodobé inovácie pred krátkodobými ziskami.“</li>
+<li>„Historické a moderné príklady, ako sú Sandia National Laboratories a technologickí giganti ako Google a Microsoft, zdôrazňujú dôležitosť vedenia, národnej kultúry a daňových štruktúr pri podpore inovácií.“</li>
+<li>„Súčasný dôraz na okamžité výnosy pre akcionárov predstavuje významnú prekážku pre zameranie sa na dlhodobý výskum.“</li>
+</ul>
+<h2><a href="https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/">„Ryanair – keď je každá stránka temným vzorom“</a></h2>
+<ul>
+<li>„Ryanair je známy používaním &quot;temných vzorcov,&quot; manipulatívnych dizajnových techník, na zvýšenie ziskov počas procesu rezervácie.“</li>
+<li>„Taktiky zahŕňajú „privacy zuckering“, kde sú zákazníci predvolene prihlásení na propagačné akcie, a „misdirection“, ktorá používa výrazné tlačidlá a vyskakovacie okná na predaj ďalších služieb.“</li>
+<li>„Tieto klamlivé dizajny sú rozšírené na celej webovej stránke Ryanair, čo robí nevyhnutným, aby používatelia zostali ostražití a vyhli sa náhodným nákupom alebo zdieľaniu viac informácií, než zamýšľali.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41004039">Reakcie</a></h3>
+<ul>
+<li>„Ryanair používa temné vzory, ako sú skryté poplatky a manipulatívne taktiky, na zvýšenie ziskov, čo frustruje zákazníkov.“</li>
+<li>„Príklady zahŕňajú poplatky za skenovanie ID aplikácie, zavádzajúce výhody „rýchleho nástupu“ a zložité pravidlá pre batožinu, čo vedie k dodatočným nákladom za základné služby.“</li>
+<li>„Napriek nízkym cenám a efektívnym letom mnohí zákazníci radšej vyhýbajú Ryanairu kvôli jeho nepriateľským praktikám voči zákazníkom, pričom iné nízkonákladové letecké spoločnosti ako EasyJet a WizzAir sú považované za menej agresívne.“</li>
+</ul>
+<h2><a href="https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/">„CrowdStrike opravy začínajú pri &quot;reštarte až 15-krát&quot;, odtiaľ sa to stáva zložitejším“</a></h2>
+<ul>
+<li>„Nedávna aktualizácia CrowdStrike spôsobila pád systémov Windows s modrou obrazovkou smrti (BSOD), čo viedlo k značným narušeniam.“</li>
+<li>„Opravy sa pohybujú od viacerých reštartov až po zložitejšie riešenia, ako je obnovenie záloh alebo manuálne odstránenie problematického ovládača, pričom pre systémy používajúce šifrovanie BitLocker sú potrebné ďalšie kroky.“</li>
+<li>„Aktualizácia bola stiahnutá a generálny riaditeľ CrowdStrike sa ospravedlnil, pričom uistil používateľov, že prebiehajú snahy o vyriešenie problému.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007898">Reakcie</a></h3>
+<ul>
+<li>„Nedávna oprava CrowdStrike vyžaduje až 15 reštartov, čo spôsobuje značné narušenia v rôznych sektoroch, vrátane CNC systémov, klimatizácie a bezpečnostných alarmov, telefónov, e-mailov a účtovných systémov.“</li>
+<li>„Incident zdôrazňuje riziká spojené s automatickými aktualizáciami a nevyhnutnosť zlepšenia bezpečnostných postupov, pričom mnohí obhajujú dôkladnejšie testovanie a postupné zavádzanie.“</li>
+<li>„Používatelia spochybňujú spoliehanie sa na internetom pripojené, na Windows založené kritické systémy, čím poukazujú na potrebu prehodnotenia súčasných stratégií IT infraštruktúry.“</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41007403">„Sendune – open-source HTML email designer“</a></h2>
+<ul>
+<li>„SENDUNE predstavil nový open-source HTML dizajnér emailov, ktorý má za cieľ zjednodušiť tvorbu HTML emailov, ktoré sú tradične ťažké na písanie a údržbu.“</li>
+<li>„Dizajnér je ľahký, používa čisté HTML a vyhýba sa ťažkopádnym závislostiam, čo umožňuje používateľom uložiť HTML výstup ako šablónu pre akéhokoľvek poskytovateľa e-mailových služieb.“</li>
+<li>„Používatelia sú povzbudzovaní, aby si forkovali repozitár, robili vylepšenia a podávali pull requesty, čím podporujú kolaboratívne vývojové prostredie.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007403">Reakcie</a></h3>
+<ul>
+<li>„Sendune je open-source HTML dizajnér e-mailov, ktorý kladie dôraz na jednoduchosť a ľahké používanie, pričom produkuje čisté HTML pre kompatibilitu s akýmkoľvek poskytovateľom e-mailových služieb.“</li>
+<li>„Nástroj je ľahký, bez závislostí a môže byť ľahko vložený do aplikácií, pričom používatelia môžu ukladať výstup HTML ako šablóny.“</li>
+<li>„Napriek niektorým hláseným problémom s funkciou drag-and-drop vo Firefoxe bola odozva komunity pozitívna a príspevky je možné robiť cez GitHub.“</li>
+</ul>
+<h2><a href="https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce">„60-ročný nemecký muž je pravdepodobne siedmou osobou, ktorá bola účinne vyliečená z HIV“</a></h2>
+<ul>
+<li>„60-ročný nemecký muž je pravdepodobne siedmou osobou, ktorá bola účinne vyliečená z HIV po transplantácii kmeňových buniek, ktorá zároveň liečila jeho agresívnu leukémiu.“</li>
+<li>„Pacient, označovaný ako &quot;ďalší berlínsky pacient,&quot; prestal užívať antiretrovirálne lieky koncom roka 2018 a zostáva bez HIV a rakoviny takmer šesť rokov neskôr.“</li>
+<li>„Vedci sú opatrne optimistickí a poznamenávajú, že tento prípad naznačuje, že nie všetky mutácie génu CCR5 sú nevyhnutné pre úspešnú liečbu HIV, čo ponúka nádej na širšie stratégie liečby HIV.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40999098">Reakcie</a></h3>
+<ul>
+<li>„60-ročný nemecký muž je pravdepodobne siedmym človekom, ktorý bol účinne vyliečený z HIV, hoci tento zákrok je drastický a zvyčajne sa používa pri ťažkých prípadoch leukémie.“</li>
+<li>„Existuje návrh vyvinúť to na autológnu transplantáciu kmeňových buniek, aby sa predišlo komplikáciám, ako je ochorenie štepu proti hostiteľovi.“</li>
+<li>„Napriek pokrokom v liečbe HIV, ktoré znižujú vírusovú záťaž na nedetegovateľné úrovne, v USA stále ročne zomiera 10 000 ľudí na AIDS, často kvôli nedostatočnej sexuálnej výchove a prístupu k zdravotnej starostlivosti.“</li>
+</ul>
+<h2><a href="https://www.bbc.co.uk/news/live/cnk4jdwp49et">„Celosvetový výpadok IT ovplyvňuje letecké spoločnosti, médiá a banky“</a></h2>
+<ul>
+<li>„Crowdstrike, texaská spoločnosť zaoberajúca sa kybernetickou bezpečnosťou, založená v roku 2011, sa špecializuje na bezpečnosť koncových bodov s cieľom chrániť firemné siete a cloudové dáta pred kybernetickými hrozbami.“</li>
+<li>„Spoločnosť, ktorú spoluzakladali George Kurtz a Dmitri Alperovitch, vstúpila na burzu Nasdaq v roku 2019.“</li>
+<li>„Crowdstrike zohral kľúčovú úlohu pri vyšetrovaní veľkých kybernetických útokov, najmä pri narušení siete Demokratického národného výboru USA v roku 2016.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002730">Reakcie</a></h3>
+<ul>
+<li>„Globálny výpadok IT, spôsobený aktualizáciou Crowdstrike, spôsobil, že systémy Windows zažívali modré obrazovky a bootovacie slučky, čo ovplyvnilo letecké spoločnosti, médiá a banky.“</li>
+<li>„Incident vyvolal diskusie o spoľahlivosti softvéru na ochranu koncových bodov, rizikách útokov na dodávateľský reťazec a silnej závislosti na infraštruktúre Windows.“</li>
+<li>„Výpadok, vyplývajúci z „bezpečnostnej aktualizácie“, vyvolal značné obavy o suverenitu a odolnosť IT infraštruktúry.“</li>
+</ul>
+<h2><a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm">„Dvojitý problém: ESA Gaia zasiahnutá mikrometeoroidom a slnečnou búrkou“</a></h2>
+<ul>
+<li>„Vesmírna sonda Gaia od ESA, ktorá bola vypustená v decembri 2013 s cieľom zmapovať viac ako miliardu hviezd v Mliečnej ceste, nedávno čelila významným výzvam v dôsledku nárazu mikrometeoroidu a slnečnej búrky.“</li>
+<li>„Mikrometeoroid poškodil ochranný kryt Gaii a slnečná búrka spôsobila poruchu jedného z jej zariadení s nabíjaním spojených prvkov (CCD), čo viedlo k tisícom falošných detekcií hviezd.“</li>
+<li>„Inžinieri z ESA a Airbus Defence and Space úspešne upravili softvér Gaia, čím znížili falošné detekcie a vrátili kozmickú loď k bežnej prevádzke, pričom teraz produkuje niektoré z najkvalitnejších údajov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40999928">Reakcie</a></h3>
+<ul>
+<li>„Vesmírna sonda Gaia od ESA nedávno utrpela poškodenie spôsobené mikrometeoroidom a slnečnou búrkou, ale pokračuje vo svojej misii, čo ukazuje odolnosť vesmírnych misií.“</li>
+<li>„Historické príklady ako Voyager 1 a Hubble ukazujú, že vesmírne misie často prežijú svoje očakávané životnosti vďaka aktualizáciám softvéru a opravám.“</li>
+<li>„Napriek rozpočtovým obmedzeniam a technickým výzvam umožnilo nasadenie inžinierov, aby Gaia po nedávnych úpravách naďalej produkovala vysokokvalitné údaje.“</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41004103">„Čo je v C-00000291*.sys?“</a></h2>
+<ul>
+<li>„Súbor CrowdStrike C-00000291*.sys spôsobil zlyhania systému kvôli neplatnému formátovaniu, čo ovplyvňuje ovládač CrowdStrike.“</li>
+<li>„Používatelia hlásia rôzne verzie súboru, pričom niektorí špekulujú o šifrovaní s kľúčmi špecifickými pre zákazníka, zatiaľ čo iní ich analyzovali bez dešifrovania.“</li>
+<li>„Súbory sú proprietárne formáty aktualizácií, nie DLL alebo záplaty, čo vyvoláva obavy o bezpečnosť a spoľahlivosť aktualizačného procesu CrowdStrike.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41004103">Reakcie</a></h3>
+<ul>
+<li>„Súbor CrowdStrike C-00000291*.sys spôsobil zlyhania systému kvôli neplatnému formátovaniu, čo ovplyvnilo hlavný ovládač CrowdStrike.“</li>
+<li>„Používatelia hlásia rôzne verzie súboru, pričom niektorí špekulujú o šifrovaní s kľúčmi špecifickými pre zákazníka, zatiaľ čo iní ich analyzovali bez dešifrovania.“</li>
+<li>„Súbory sú proprietárne formáty aktualizácií, nie DLL alebo obyčajné záplaty, čo vyvoláva obavy o bezpečnosť a spoľahlivosť aktualizačného procesu CrowdStrike.“</li>
+</ul>
+<h2><a href="https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock">„Rover Curiosity od NASA objavuje prekvapenie v marťanskom kameni“</a></h2>
+<ul>
+<li>„Rover Curiosity od NASA objavil na Marse prvýkrát elementárnu síru, čo je významný míľnik v prieskume Marsu.“</li>
+<li>„Objav bol urobený v oblasti bohatej na sírany, kde Curiosity našiel celé pole jasných skál zložených z čistého síry, čo vedcov zaujalo.“</li>
+<li>„Misia Curiosity, ktorá zahŕňa štúdium starovekého terénu Marsu na známky mikrobiálneho života, pokračuje, keď stúpa na Mount Sharp a odoberá svoj 41. vzorku skaly na ďalšiu analýzu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41006552">Reakcie</a></h3>
+<ul>
+<li>„Rover Curiosity od NASA objavil kryštály síry v marťanskej skale, čo viedlo k diskusii o používaní clickbaitových titulkov na zapojenie verejnosti.“</li>
+<li>„Objav nastal, keď Curiosity prešiel cez kameň, odhaľujúc kryštály, čo zdôrazňuje dôležitosť verejného záujmu a financovania pre NASA.“</li>
+<li>„Diskusia sa tiež zaoberala rozpočtovými výzvami NASA a nevyhnutnosťou zapojenia verejnosti pre pokračujúce operácie agentúry.“</li>
+</ul>
+<h2><a href="https://www.sciencedaily.com/releases/2024/07/240715135713.htm">„Strata kyslíka v jazerách a oceánoch“</a></h2>
+<ul>
+<li>„Výskum z Rensselaer Polytechnic Institute zdôrazňuje, že strata kyslíka v jazerách a oceánoch predstavuje významnú hrozbu pre ekosystémy, spoločnosť a planétu.“</li>
+<li>„Odstránenie kyslíka z vodných plôch, spojené so zmenou klímy, využívaním pôdy a znečistením, viedlo k rýchlemu poklesu rozpusteného kyslíka, pričom jazerá a nádrže stratili 5,5 % a 18,6 % svojho kyslíka od roku 1980 a oceány stratili približne 2 % od roku 1960.“</li>
+<li>„Toto odstraňovanie kyslíka ovplyvňuje fyziológiu druhov, potravinové siete a ekosystémové služby, vytvára „mŕtve zóny“ a škodlivé kvetenie rias, čo si vyžaduje naliehavé opatrenia na riešenie globálneho otepľovania a odtoku.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007196">Reakcie</a></h3>
+<ul>
+<li>„Jazerá a nádrže zaznamenali významnú stratu kyslíka, s poklesom o 5,5 % a 18,6 % od roku 1980, zatiaľ čo oceány zaznamenali približne 2 % pokles od roku 1960.“</li>
+<li>„Stredná Kalifornia je obzvlášť postihnutá, s poklesom hladiny kyslíka o 40 %, predovšetkým v dôsledku emisií skleníkových plynov, odtoku živín a surovej odpadovej vody.“</li>
+<li>„Navrhované riešenia zahŕňajú regeneratívne poľnohospodárstvo a zníženie spotreby priemyselného mäsa na zmiernenie širších environmentálnych dopadov klimatických zmien a znečistenia.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Aktualizácia Crowdstrike: Modrá obrazovka a bootovacie slučky v systéme Windows“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EAktualiz%C3%A1cia%20Crowdstrike%3A%20Modr%C3%A1%20obrazovka%20a%20bootovacie%20slu%C4%8Dky%20v%20syst%C3%A9me%20Windows%E2%80%9C&subheading=piatok%2019.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/19</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-18]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/18&#39;</h2>
+<h1>2024-07-18</h1>
+<h2><a href="https://naya.lol">„Moja dcéra (7 rokov) použila HTML na vytvorenie webovej stránky“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40992982">Reakcie</a></h3>
+<ul>
+<li>„Sedemročné dieťa vytvorilo webovú stránku pomocou základného HTML, čo vyvolalo nostalgiu medzi používateľmi za prvými dňami vývoja webu.“</li>
+<li>„Jednoduchosť a radosť z tvorby základných HTML stránok boli zdôraznené, v kontraste s komplexnosťou moderných nástrojov a techník webového vývoja.“</li>
+<li>„Diskusia zdôraznila dôležitosť povzbudzovania detí k objavovaniu technológií už od útleho veku.“</li>
+</ul>
+<h2><a href="https://mistral.ai/news/mistral-nemo/">„Mistral NeMo“</a></h2>
+<ul>
+<li>„Mistral AI vydal Mistral NeMo, 12B model vyvinutý v spolupráci s NVIDIA, ktorý sa vyznačuje kontextovým oknom s kapacitou 128k tokenov a vyniká v oblasti logického uvažovania, svetových znalostí a presnosti kódovania.“</li>
+<li>„Mistral NeMo podporuje inferenciu FP8 bez straty výkonu, prekonáva modely ako Gemma 2 9B a Llama 3 8B a je navrhnutý pre viacjazyčné aplikácie.“</li>
+<li>„Model používa nový tokenizér Tekken a prešiel pokročilým doladením pre lepšie nasledovanie inštrukcií, uvažovanie, viacnásobné konverzácie a generovanie kódu; váhy sú dostupné na HuggingFace.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40996058">Reakcie</a></h3>
+<ul>
+<li>„Mistral NeMo, 12B model vyvinutý spoločnosťou NVIDIA, disponuje kontextovým oknom s kapacitou 128 tisíc tokenov a vyniká v oblasti logického uvažovania, svetových znalostí a presnosti kódovania.“</li>
+<li>„Model je náhradou za Mistral 7B, podporuje FP8 inferenciu bez straty výkonu a je dostupný pod licenciou Apache 2.0.“</li>
+<li>„Používa nový tokenizér, Tekken, trénovaný na viac ako 100 jazykoch, a je navrhnutý tak, aby sa zmestil na GPU ako NVIDIA RTX 4090, s požiadavkami na VRAM v rozmedzí od 8 do 40 GB v závislosti od kvantizácie.“</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=40992654">„Amazon&#39;s Kindle Direct Publishing je dystopická nočná mora“</a></h2>
+<ul>
+<li>„Autor opisuje frustrujúcu skúsenosť s Amazon&#39;s Kindle Direct Publishing (KDP), kde ich eKniha bola zablokovaná pre &quot;zavádzajúci zákaznícky zážitok&quot; napriek tomu, že neexistoval žiadny dôkaz o podobnej knihe.“</li>
+<li>„Odvolania na Amazon viedli k automatizovaným a nejasným odpovediam, čo nakoniec viedlo k zrušeniu účtu autora bez jasného odôvodnenia.“</li>
+<li>„Dokonca ani kontaktovanie výkonných zákazníckych vzťahov Amazonu nevyriešilo problém, čo poukazuje na možné nedostatky v automatizovaných procesoch kontroly a odvolania Amazonu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40992654">Reakcie</a></h3>
+<ul>
+<li>„Autor nahlásil, že jeho eKniha bola zablokovaná a jeho účet na Kindle Direct Publishing (KDP) bol zrušený kvôli údajným zavádzajúcim metadátam, napriek tomu, že poskytol dôkazy o opaku.“</li>
+<li>„Odvolací proces bol frustrujúci, zahŕňal automatizované odpovede a nejasné dôvody zamietnutia, čo poukazovalo na problémy s automatizovanými systémami a nedostatok ľudského dohľadu vo veľkých technologických spoločnostiach.“</li>
+<li>„Táto situácia viedla mnohých autorov k hľadaniu alternatívnych publikačných platforiem a zdôrazňuje potrebu lepšej regulácie a transparentnosti v digitálnych trhoviskách.“</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=40994552">„Aký je Prolog v roku 2024?“</a></h2>
+<ul>
+<li>„Študent informatiky objavil Prolog a logické programovanie, naučil sa základy a pracuje na základnom systéme komunikácie agentov pomocou SICStus Prolog.“</li>
+<li>„Študent má záujem špecializovať sa na Prolog a ontológie, hľadá informácie o súčasnom stave a aplikáciách Prologu v roku 2024.“</li>
+<li>„Dotaz poukazuje na túžbu pochopiť potenciálne a súčasné využitie Prologu v technologickom priemysle.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40994552">Reakcie</a></h3>
+<ul>
+<li>„V roku 2024 zostáva Prolog špecifickým jazykom s rozdelenou komunitou nadšencov a skeptikov, ktorí čelia výzvam pri jeho širšom prijatí.“</li>
+<li>„Prolog vyniká v špecifických oblastiach, ako sú logické programovanie a ontológie, ale zápasí s problémami, ako je nedostatok moderného modulového systému a obavy o výkon.“</li>
+<li>„Nové vývojové trendy, vrátane Scryer Prolog a integrácií s jazykmi ako Python, naznačujú potenciál pre špecializované aplikácie skôr než pre široké použitie.“</li>
+</ul>
+<h2><a href="https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security">„SAPwned: Zraniteľnosti SAP AI odhaľujú cloudové prostredia zákazníkov a súkromie“</a></h2>
+<ul>
+<li>„Výskumný tím Wiz objavil zraniteľnosti v izolácii nájomníkov u poskytovateľov AI služieb, čo predstavuje významné riziká, keďže infraštruktúra AI sa stáva nevyhnutnou pre podniky.“</li>
+<li>„Ich výskum týkajúci sa ponuky umelej inteligencie od SAP, &quot;SAP AI Core,&quot; odhalil zraniteľnosti, ktoré umožňovali neoprávnený prístup k zákazníckym údajom a cloudovým povereniam, ktoré SAP odvtedy opravil.“</li>
+<li>„Kľúčové zistenia zahŕňajú obchádzanie sieťových obmedzení, odhalenie AWS tokenov, neautentifikovaný prístup k AWS EFS zdieľaniam a úplné prevzatie klastru, čo zdôrazňuje potrebu zlepšenia izolačných a sandboxingových štandardov v AI službách.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40990768">Reakcie</a></h3>
+<ul>
+<li>„Zraniteľnosti SAP AI odhalili cloudové prostredia a súkromné údaje zákazníkov kvôli zlej konfigurácii Kubernetes (k8s), nie kvôli samotnému AI produktu.“</li>
+<li>„Kritici poukazujú na zlyhanie SAP v základnej bezpečnosti cloudu, čím zdôrazňujú riziko, že útočníci môžu spúšťať škodlivé modely AI na slabej infraštruktúre.“</li>
+<li>„Bezpečnostní výskumníci zdôrazňujú potrebu zlepšených výstražných systémov a prísneho dodržiavania predpisov, pričom kladú dôraz na dôležitosť robustných bezpečnostných postupov v cloudových prostrediach.“</li>
+</ul>
+<h2><a href="https://github.com/rscott2049/DECstation2040">„Emulátor DECstation 3000 založený na RP2040, ktorý dokáže spustiť DECWindows“</a></h2>
+<ul>
+<li>„DECstation 2040 je emulátor pre DECstation 3000, postavený na mikrokontroléri RP2040, schopný spúšťať DECWindows.“</li>
+<li>„Kľúčové hardvérové funkcie zahŕňajú 1,8V/300 MHz RP2040, 32 MB PSRAM, 8 MB SPI flash a podporu Ethernet RMII PHY.“</li>
+<li>„Projekt sa začal 23. marca 2023, inšpirovaný Dmitryho LinuxCard, a zahŕňal učenie sa používať RP2040 PIO motory a DMA subsystém.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991182">Reakcie</a></h3>
+<ul>
+<li>„Nový emulátor DECstation 3000 založený na RP2040 dokáže spustiť DECWindows, čím demonštruje schopnosti mikrokontroléra RP2040 v správe pamäte a zobrazení VGA.“</li>
+<li>„Projekt vyvolal diskusie o vývoji výpočtovej techniky, pričom používatelia spomínajú na používanie DECstaníc v akademických prostrediach a výhody centralizovaných domovských adresárov a X11.“</li>
+<li>„Niektorí používatelia majú záujem o spustenie NetBSD na emulátore, čo poukazuje na pokroky vo výpočtovom výkone a zároveň na nostalgiu za staršími systémami.“</li>
+</ul>
+<h2><a href="https://stevejobsarchive.com/exhibits/objects-of-our-life">„Predmety nášho života (1983)“</a></h2>
+<ul>
+<li>„V roku 1983 Steve Jobs vystúpil na Medzinárodnej konferencii o dizajne v Aspene, kde zdôraznil budúci vplyv počítačov na spoločnosť a význam dobrého dizajnu v spotrebnej elektronike.“</li>
+<li>„Jobs predstavil počítač Lisa, ktorý obsahoval myš a grafické užívateľské rozhranie, a predpovedal, že do roku 1986 predaj PC prekoná predaj áut, pričom vyzval dizajnérov, aby vytvárali dobre navrhnuté produkty.“</li>
+<li>„Zdôraznil integráciu humanitných vied do technológie a občiansku zodpovednosť za vytváranie užitočných, krásnych produktov, pričom svoju prednášku ukončil diskusiou o tom, ako urobiť počítače intuitívnymi a prístupnými.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40995515">Reakcie</a></h3>
+<ul>
+<li>„Steve Jobs bol známy svojím jednoduchým a silným komunikačným štýlom, ktorý efektívne zaujal publikum tým, že humorne preformuloval zložité myšlienky.“</li>
+<li>„Jobsova vizionárska povaha viedla k predpovediam technologických pokrokov, ako sú skúšobné verzie softvéru a cenovo dostupnejšie počítače, pričom zdôrazňoval používateľsky prívetivé produkty.“</li>
+<li>„Jeho vplyvné prezentácie, vrátane ikonického uvedenia iPhonu, a jeho minimalistický životný štýl, zdôraznený na slávnej fotografii, podnecujú úvahy o dizajne a trvalej hodnote.“</li>
+</ul>
+<h2><a href="https://hallofshame.design/collection/">„Zbierka temných vzorov a neetického dizajnu“</a></h2>
+<ul>
+<li>„Katalóg poskytuje komplexnú zbierku temných vzorov, čo sú klamlivé dizajnové praktiky používané v používateľských rozhraniach.“</li>
+<li>„Tieto príklady sú systematicky usporiadané podľa kategórií, čo používateľom uľahčuje pochopenie a identifikáciu rôznych typov manipulatívnych dizajnov.“</li>
+<li>„Cieľom zdroja je vzdelávať a zvyšovať povedomie o neetických dizajnových taktikách, pomáhať používateľom ich rozpoznať a vyhnúť sa im.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40993389">Reakcie</a></h3>
+<ul>
+<li>„Príspevok poukazuje na rôzne „temné vzory“ a neetické dizajnové praktiky, ktoré používajú spoločnosti na manipuláciu používateľov, aby robili rozhodnutia, ktoré prospievajú spoločnosti, často na úkor používateľa.“</li>
+<li>„Príklady zahŕňajú Zoom, ktorý zavádza používateľov, aby si mysleli, že musia nainštalovať aplikáciu, Booking.com vytvárajúci falošnú naliehavosť ohľadom dostupnosti nehnuteľností a GoDaddy používajúci klamlivé praktiky pri obnove.“</li>
+<li>„Diskusia zdôrazňuje potrebu povedomia a potenciálnej regulácie na boj proti týmto manipulatívnym taktikám, pričom naznačuje, že verejné zahanbenie a právne kroky môžu byť nevyhnutné na presadzovanie etických štandardov.“</li>
+</ul>
+<h2><a href="https://tracklist.it/">„Product Hunt pre hudbu“</a></h2>
+<ul>
+<li>„TrackList je platforma na objavovanie a zdieľanie novej hudby, ktorá ponúka denné aktualizácie nových skladieb.“</li>
+<li>„Dnešné vybrané skladby zahŕňajú &quot;Keep Your Cool&quot; od Off Trakk a &quot;Erasing&quot; od Raf Duran.“</li>
+<li>„Platforma tiež zvýrazňuje skladby z predchádzajúcich dní, čím poskytuje nepretržitý prúd novej hudby na objavovanie pre používateľov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40989451">Reakcie</a></h3>
+<ul>
+<li>„Malí umelci v špecifických žánroch, ako je hudba na didgeridoo, považujú platformy ako Bandcamp alebo YouTube za užitočnejšie pre objavovanie v porovnaní so Spotify.“</li>
+<li>„Platformy na objavovanie hudby skúmajú alternatívy k odporúčaniam založeným na algoritmoch, pričom niektoré sa zameriavajú na zdieľanie v rámci komunity a manuálnu kuráciu.“</li>
+<li>„Existuje dopyt po špecifickejších subžánroch a lepších systémoch odporúčania hudby, ktoré sa nespoliehajú iba na metriky popularity.“</li>
+</ul>
+<h2><a href="https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/">„Dôvera Američanov vo vysokoškolské vzdelávanie prudko klesla“</a></h2>
+<ul>
+<li>„Nový prieskum Gallup odhaľuje výrazný pokles dôvery Američanov vo vysokoškolské vzdelanie, pričom jedna tretina vyjadruje &quot;malú alebo žiadnu dôveru&quot; v porovnaní so 57 % v roku 2015.“</li>
+<li>„Medzi faktory prispievajúce k tomuto poklesu patria politické agendy, vnímaná irelevantnosť vyučovaných zručností, vysoké náklady a obavy z liberálnej &quot;indoktrinácie&quot;, najmä medzi konzervatívcami.“</li>
+<li>„Napriek celkovému poklesu dôvera v komunitné vysoké školy a dvojročné programy rastie, čo naznačuje posun v vnímaní smerom k dostupnejším a praktickejším možnostiam vzdelávania.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991894">Reakcie</a></h3>
+<ul>
+<li>„Dôvera Američanov vo vysokoškolské vzdelávanie výrazne klesla, pričom medzi republikánmi došlo k poklesu o 36 % a medzi demokratmi o 12 % od roku 2015, podľa nedávneho prieskumu Gallup.“</li>
+<li>„68 % respondentov verí, že vyššie vzdelanie smeruje „nesprávnym smerom“, pričom uvádzajú obavy ako ideologické ovládnutie a zníženú ekonomickú užitočnosť.“</li>
+<li>„Kritici tvrdia, že metodológia prieskumu je nejasná a zjednodušená, naznačujúc, že pokles dôvery môže odrážať širšie spoločenské a politické trendy, skôr než konkrétne problémy v oblasti vysokoškolského vzdelávania.“</li>
+</ul>
+<h2><a href="https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/">„GPT-4o mini: pokrok v nákladovo efektívnej inteligencii“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40997585">Reakcie</a></h3>
+<ul>
+<li>„GPT-4o Mini má limit 16k výstupných tokenov, čo je výhodné pre úlohy ako sumarizácia zložitých dokumentov.“</li>
+<li>„Menšie modely sú trénované so syntetickými a živými dátami, čo umožňuje škálovateľnú generáciu dát a špecializované modely &quot;úzkej AI&quot;.“</li>
+<li>„GPT-4o Mini je nákladovo efektívnejší ako Claude Haiku, ale udržateľnosť jeho nízkych cien je neistá.“</li>
+</ul>
+<h2><a href="https://github.com/seddonm1/sqlite-bench">„Nástroj na benchmarking transakcií SQLite“</a></h2>
+<ul>
+<li>„Hodnotenie sa zameriava na porovnanie experimentálnej vetvy SQLite <code>BEGIN CONCURRENT</code> so štandardnými transakčnými správaním <code>DEFERRED</code> a <code>IMMEDIATE</code>.“</li>
+<li>„Cieľom je posúdiť rozdiely vo výkone v serverovom prostredí a poskytnúť prehľad o možných vylepšeniach alebo kompromisoch.“</li>
+<li>„Pre podrobné vysvetlenia a výsledky si pozrite blogový príspevok uvedený v pôvodnom texte.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40990641">Reakcie</a></h3>
+<ul>
+<li>„Bol vydaný nový nástroj na benchmarking transakcií SQLite, ktorý hodnotí výkon SQLite, konkrétne porovnáva vetvu <code>BEGIN CONCURRENT</code> s chovaním <code>DEFERRED</code> a <code>IMMEDIATE</code>.“</li>
+<li>„Diskusia zdôrazňuje výzvy a stratégie na dosiahnutie súbežnosti v SQLite, vrátane použitia viacerých pripojení, pooling pripojení a riadenia preťaženia súborového I/O.“</li>
+<li>„Nástroj a blogový príspevok vzbudili záujem vďaka svojim praktickým poznatkom o optimalizácii výkonu SQLite, najmä v situáciách zahŕňajúcich vysokú súbežnosť a asynchrónne operácie.“</li>
+</ul>
+<h2><a href="https://compoundsemiconductor.net/article/119170/Polychromatic_pixels">„Polychromatické pixely“</a></h2>
+<ul>
+<li>„MicroLEDy s nastaviteľnými vlnovými dĺžkami sú pripravené zrevolucionizovať technológiu displejov, ponúkajúc vyššiu účinnosť a rozlíšenie v porovnaní so súčasnými displejmi z tekutých kryštálov a organických LED.“</li>
+<li>„Spoločnosť Q-Pixel Inc. vyvinula metódu na pestovanie LED diód s nastaviteľnou vlnovou dĺžkou na jednom waferi, čím eliminuje potrebu samostatných červených, zelených a modrých sub-pixelov, čo zjednodušuje výrobu a znižuje náklady.“</li>
+<li>„Táto inovácia dosiahla rekordné hustoty pixelov, čo je obzvlášť prospešné pre aplikácie vo virtuálnej realite (VR) a rozšírenej realite (AR), čo naznačuje potenciálny posun smerom k nákladovo efektívnejším a vysokorozlišovacím microLED displejom.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40997087">Reakcie</a></h3>
+<ul>
+<li>„Polychromatické pixely môžu produkovať iba jednu vlnovú dĺžku naraz, čo vyžaduje aspoň dva na reprodukciu akejkoľvek viditeľnej farby, na rozdiel od tradičných displejov, ktoré používajú tri subpixely (RGB) na pokrytie farebného priestoru.“</li>
+<li>„Technológia sľubuje výrazné zvýšenie hustoty pixelov a efektívnosti výroby, ale čelí výzvam ako konzistentnosť farieb, kontrola jasu a neschopnosť produkovať určité farby ako biela a purpurová bez dodatočných techník ako je dithering.“</li>
+<li>„Tento vývoj je obzvlášť vzrušujúci pre aplikácie vyžadujúce vysokú hustotu pixelov, ako sú VR headsety, ale zatiaľ nemusí byť vhodný pre všeobecné displeje kvôli jeho súčasným obmedzeniam.“</li>
+</ul>
+<h2><a href="https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/">„Uzavretá forma parametrizácie dĺžky oblúka je pre kvadratické Bézierove krivky nemožná“</a></h2>
+<ul>
+<li>„Bézierove krivky sú základom vektorovej grafiky, definované pomocou riadiacich bodov v Bernsteinovej báze.“</li>
+<li>„Kvadratické Bézierove krivky používajú tri kontrolné body a ich dĺžku oblúka je možné presne vypočítať, ale parametrizácia nemá uzavretú formu riešenia, ak predpokladáme Schanuelovu domnienku.“</li>
+<li>„Kubické Bézierove krivky používajú štyri kontrolné body a ich dĺžka oblúka sa musí vypočítať numericky, pretože nemajú uzavretý tvar.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991075">Reakcie</a></h3>
+<ul>
+<li>„Uzavretá forma parametrizácie dĺžky oblúka nie je pre kvadratické Bézierove krivky uskutočniteľná; pre ich stabilitu a presnosť sa uprednostňujú numerické riešenia.“</li>
+<li>„Hoci uzavreté formy riešení môžu byť rýchlejšie, majú tendenciu stať sa nestabilnými, najmä pre krivky blízko priamej čiary.“</li>
+<li>„Numerické metódy sú vo všeobecnosti nadradené a praktickejšie pre väčšinu aplikácií, napriek existencii Pythagorejských-Hodografických kriviek a Eulerových špirál.“</li>
+</ul>
+<h2><a href="https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894">„Vrabce môžu byť &#39;kanárikom v uhoľnej bani&#39; pre otravu olovom u detí: štúdia“</a></h2>
+<ul>
+<li>„Štúdia publikovaná v Environmental Sciences &amp; Technology zistila, že vrabce domové dokážu presne predpovedať hladiny olova u detí, najmä v austrálskych banských mestách Broken Hill a Mount Isa.“</li>
+<li>„Vrabce by mohli slúžiť ako nákladovo efektívny nástroj na identifikáciu ohnísk kontaminácie olovom, čo ponúka praktickú alternatívu k priamemu testovaniu na ľuďoch, ktoré je často nákladné a zložité.“</li>
+<li>„Výskum poukazuje na pretrvávajúci problém vystavenia olovu v Austrálii a naznačuje, že vrabce môžu tiež indikovať vystavenie iným ťažkým kovom a „večným chemikáliám“.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40995527">Reakcie</a></h3>
+<ul>
+<li>„Štúdia naznačuje, že vrabce môžu indikovať otravu olovom u detí, najmä v austrálskych banských mestách ako Broken Hill a Mount Isa.“</li>
+<li>„Kontaminácia olovom z ťažobných činností predstavuje významné zdravotné riziká, ale starostovia miest často popierajú dôkazy, aby chránili ťažobný priemysel.“</li>
+<li>„Problém zdôrazňuje širší vplyv environmentálnych toxínov na zdravie ľudí aj divokej prírody, pričom zber údajov o verejnom zdraví je nevyhnutný, no často sa mu bráni kvôli politickým a ekonomickým záujmom.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Moja dcéra (7 rokov) použila HTML na vytvorenie webovej stránky“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EMoja%20dc%C3%A9ra%20(7%20rokov)%20pou%C5%BEila%20HTML%20na%20vytvorenie%20webovej%20str%C3%A1nky%E2%80%9C&subheading=%C5%A1tvrtok%2018.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/18</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-17]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/17&#39;</h2>
+<h1>2024-07-17</h1>
+<h2><a href="https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html">„Import a export Markdown v Dokumentoch Google“</a></h2>
+<ul>
+<li>„Google Docs teraz podporuje vylepšené funkcie Markdown, vrátane konverzie Markdown na obsah Docs pri vkladaní, kopírovania obsahu Docs ako Markdown, exportu dokumentu ako Markdown a importu Markdown ako dokumentu.“</li>
+<li>„Táto aktualizácia je prospešná pre technických autorov, uľahčuje jednoduchšiu konverziu medzi Docs a Markdown pre spoluprácu a dokumentáciu.“</li>
+<li>„Zavádzanie začína 16. júla 2024 pre domény s rýchlym vydaním a plánovaným vydaním a je dostupné pre všetkých zákazníkov Google Workspace, predplatiteľov Workspace Individual a používateľov osobných účtov Google.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40982118">Reakcie</a></h3>
+<ul>
+<li>„Google Docs teraz podporuje plný import/export Markdownu, čím zvyšuje jeho užitočnosť pre technických autorov a spolupracovníkov na dokumentoch v Markdown.“</li>
+<li>„Funkcia sa postupne zavádza, aby sa včas zachytili závažné chyby, takže používatelia ju nemusia vidieť okamžite.“</li>
+<li>„Google Drive a jeho API budú tiež podporovať túto novú schopnosť Markdown, hoci niektorí používatelia majú obavy z pomalého zavádzania a neúplnej podpory prvkov, ako sú bloky kódu a komentáre.“</li>
+</ul>
+<h2><a href="https://matt.sh/panic-at-the-job-market">„Panika na trhu práce“</a></h2>
+<ul>
+<li>„Trh s technologickými pracovnými miestami je v zmätku kvôli rastúcim úrokovým sadzbám, špekulatívnemu financovaniu a chybným náborovým praktikám.“</li>
+<li>„Vyššie úrokové sadzby vedú spoločnosti k investovaniu do bezpečných vládou podporovaných účtov namiesto rizikových podnikov, čo spôsobuje straty pracovných miest v technologickom sektore.“</li>
+<li>„Proces prijímania sa často zameriava na irelevantné testy kódovania a behaviorálne pohovory, pričom nedokáže posúdiť skutočné skúsenosti a schopnosti kandidátov.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40986894">Reakcie</a></h3>
+<ul>
+<li>„Trh práce je náročný v rôznych odvetviach, vrátane technológií, s komplikovanými náborovými procesmi, ktoré prehliadajú individuálne profily a príspevky.“</li>
+<li>„Networking je nevyhnutný, pretože pracovné portály často zatieňujú životopisy a trh práce v oblasti technológií čelí znižujúcim sa príležitostiam, keď sa spoločnosti zameriavajú na irelevantné zručnosti a svojvoľné požiadavky.“</li>
+<li>„Neefektívne náborové praktiky môžu naznačovať zlé pracovné prostredie a iracionalita trhu práce môže pretrvávať dlhšie ako finančná stabilita jednotlivcov, čo komplikuje hľadanie vhodného zamestnania.“</li>
+</ul>
+<h2><a href="https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html">„Jailbreaking RabbitOS: Odhaľovanie tajných záznamov a porušení GPL“</a></h2>
+<ul>
+<li>„David Buchanan vyvinul „tethered jailbreak“ pre Rabbit R1, ktorý umožňuje prístup k rootu bez odomknutia bootloadera alebo zmeny interného úložiska.“</li>
+<li>„Zajac R1, ktorý používa MediaTek MT6765 SoC, bol kritizovaný za rozsiahle zaznamenávanie údajov používateľov a porušovanie GPL, čo bolo čiastočne riešené v nedávnej aktualizácii.“</li>
+<li>„Buchananove zistenia odhaľujú, že RabbitOS je silne upravený Android 13 AOSP, ktorý primárne vynucuje režim kiosku s jednou aplikáciou, a vydal nástroj na ďalšie skúmanie zariadenia.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40987730">Reakcie</a></h3>
+<ul>
+<li>„Jailbreaking RabbitOS odhalilo tajné záznamy a potenciálne porušenia GPL (General Public License), čo vyvoláva obavy o súkromie a právne otázky.“</li>
+<li>„Záznamy obsahujú citlivé údaje, ako sú presné GPS polohy, názvy WiFi sietí, ID blízkych mobilných veží a používateľské tokeny, z ktorých niektoré sú odosielané na servery Rabbit.“</li>
+<li>„Rabbit Inc. vydala aktualizáciu (v0.8.112), ktorá rieši tieto problémy s protokolovaním, ale kontroverzia poukazuje na pretrvávajúce obavy o ochranu údajov a transparentnosť v technologických produktoch.“</li>
+</ul>
+<h2><a href="https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/">„Najväčší vzdelávací trik: Učenie sa matematiky vopred“</a></h2>
+<ul>
+<li>„Učenie sa matematiky v predstihu môže viesť k lepším známkam, ochrane pred slabým vyučovaním a prístupu k stážam, výskumným projektom a silným odporúčacím listom, ktoré sú kľúčové pre príležitosti na vysokej škole a v kariére.“</li>
+<li>„Pokročilé matematické kurzy nad rámec kalkulu, ako sú lineárna algebra a diferenciálne rovnice, sú nevyhnutné pre mnohé kvantitatívne oblasti a môžu urýchliť študentov do špecializovaných oblastí, čím zvyšujú ich kariérne úspechy.“</li>
+<li>„Výskum naznačuje, že vzdelávacie zrýchlenie nepoškodzuje psychickú pohodu a vedie k väčšiemu akademickému a profesionálnemu úspechu, napriek bežným mylným predstavám a logistickým výzvam.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40983734">Reakcie</a></h3>
+<ul>
+<li>„Používateľ sa podelil o svoju cestu prekonávania strachu z matematiky v tridsiatke, zdôrazňujúc, že nikdy nie je neskoro naučiť sa matematiku a jej výhody pre riešenie problémov a vhľady do programovania.“</li>
+<li>„Návrhy na učenie sa matematiky v neskoršom veku zahŕňali začať so základnými učebnicami matematiky, využívať zdroje komunitných vysokých škôl a postupne prechádzať k pokročilým témam.“</li>
+<li>„Diskusia tiež zdôraznila dôležitosť skorého vzdelávania v matematike, zapojenia rodičov a externých zdrojov ako Kumon, ako aj úlohu širšieho vzdelávacieho systému pri podpore samostatného štúdia a motivácie.“</li>
+</ul>
+<h2><a href="https://www.mailgun.com/blog/email/ai-phishing/">„Zlatý vek podvodníkov: Phishing poháňaný umelou inteligenciou“</a></h2>
+<ul>
+<li>„Generatívna AI umožňuje podvodníkom posielať vysoko personalizované a presvedčivé phishingové e-maily, prekonávať jazykové bariéry a automatizovať masové kampane.“</li>
+<li>„Nástroje AI ako WormGPT a FraudGPT pomáhajú pri generovaní phishingových e-mailov a falšovaní webových stránok, čím výrazne znižujú čas potrebný na vytvorenie účinných útokov.“</li>
+<li>„Obranné stratégie zahŕňajú implementáciu DMARC (Domain-based Message Authentication, Reporting &amp; Conformance), rozpoznávanie phishingových pokusov pomocou AI, používanie viacvrstvovej bezpečnosti a udržiavanie silnej reputácie odosielateľa.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40981067">Reakcie</a></h3>
+<ul>
+<li>„Phishingové podvody poháňané umelou inteligenciou sa stávajú sofistikovanejšími, využívajúc technológie ako Llama pre text, Whisper/Tortoise pre hlas a Stable Diffusion pre obrázky, hoci ich nasadenie je stále obmedzené.“</li>
+<li>„Napriek potenciálu umelej inteligencie zlepšiť phishing, tradičné metódy ako podvody z indických call centier zostávajú veľmi účinné a ekonomicky životaschopné, čo dokazuje nedávny prípad, keď bol starší človek podvedený o 25 000 dolárov.“</li>
+<li>„Banky a iné inštitúcie zlepšujú svoje schopnosti odhaľovania podvodov, ale nárast podvodov riadených umelou inteligenciou si vyžaduje zvýšenú informovanosť a vzdelávanie, najmä pre zraniteľné skupiny obyvateľstva, ako sú starší ľudia.“</li>
+</ul>
+<h2><a href="https://thetinypod.com/">„TinyPod – puzdro na Apple Watch s rolovacím kolieskom“</a></h2>
+<ul>
+<li>„Predstavujeme tinyPod, kompaktné zariadenie ponúkajúce základné funkcie ako telefón, hudbu, správy a ďalšie, všetko poháňané vašimi Apple Watch.“</li>
+<li>„Kľúčové vlastnosti zahŕňajú hmatové rolovacie koliesko, rýchle magnetické nabíjanie, viacdňovú výdrž batérie, Apple Pay a 32GB úložisko pre médiá.“</li>
+<li>„Dostupné v dvoch modeloch: tinyPod s rolovacím kolieskom za 79,99 USD a tinyPod lite bez rolovacieho kolieska za 29,99 USD, kompatibilné s rôznymi sériami Apple Watch, dodávané toto leto.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40987402">Reakcie</a></h3>
+<ul>
+<li>„TinyPod je puzdro na Apple Watch, ktoré obsahuje rolovacie koliesko, pripomínajúce clickwheel z iPodu, čím vytvára mechanické prepojenie s digitálnou korunou.“</li>
+<li>„Produkt je vnímaný ako zábavný, špecifický hardvérový nápad, ktorý oslovuje tých, ktorí oceňujú jedinečné a rozmarné technologické vychytávky, napriek jeho nepraktickosti.“</li>
+<li>„Recenzie na funkčnosť webovej stránky produktu sú zmiešané, pričom niektorí používatelia majú problémy vo Firefoxe, zatiaľ čo iní považujú dizajn za príťažlivý.“</li>
+</ul>
+<h2><a href="https://github.com/libarchive/libarchive/pull/1609">„Jia Tan &quot;JiaT75&quot;: Pridal text chyby k varovaniu pri rozbaľovaní s bsdtar (2021)“</a></h2>
+<ul>
+<li>„Libarchive zlúčil commit na pridanie chybového textu k varovaniam pri používaní bsdtar, čím riešil problém #1561, ale boli vznesené obavy o nahradenie safe_fprintf nebezpečným fprintf.“</li>
+<li>„Bol implementovaný opravný zásah na návrat k safe_fprintf a správnemu spracovaniu errno, s návrhmi na ďalšie audity a CVE (Common Vulnerabilities and Exposures) pre tento problém.“</li>
+<li>„Diskusia zdôraznila dôležitosť dôkladných kontrol kódu a udržiavania bezpečnosti v open-source projektoch, a problém bol vyriešený uzamknutím konverzácie.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40984589">Reakcie</a></h3>
+<ul>
+<li>„Jia Tan &quot;JiaT75&quot; pridal v roku 2021 chybový text k varovaniu v bsdtar, čo viedlo k vášnivej diskusii na GitHube o kvalite komentárov a kontrole zmien v kóde.“</li>
+<li>„Debata poukázala na výzvy pri udržiavaní veľkých softvérových projektov a na potenciálnu úlohu umelej inteligencie pri zlepšovaní bezpečnostných kontrol.“</li>
+<li>„Incident zdôraznil ťažkosti pri detekcii škodlivého kódu, najmä od známych prispievateľov, a spojil Jiu Tana so štátom sponzorovaným útokom na nástroj xz.“</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change">„Portoriko podáva žalobu vo výške 1 miliardy dolárov proti spoločnostiam fosílnych palív“</a></h2>
+<ul>
+<li>„Portoriko podalo žalobu vo výške 1 miliardy dolárov proti hlavným spoločnostiam zaoberajúcim sa fosílnymi palivami, vrátane ExxonMobil, BP, Chevron, Shell a ConocoPhillips, za údajné zavádzanie verejnosti o zmene klímy a zdržiavanie prechodu na čistú energiu.“</li>
+<li>„Žaloba podaná v San Juane tvrdí, že tieto spoločnosti porušili obchodné zákony tým, že propagovali fosílne palivá bez dostatočných varovaní o ich nebezpečenstvách, a žiada náhradu škody na obranu proti klimatickým katastrofám, ako je hurikán Maria.“</li>
+<li>„Táto právna akcia je súčasťou širšieho trendu podobných žalôb proti priemyslu fosílnych palív, ktoré zdôrazňujú rastúce snahy o zodpovednosť za klimatické dopady.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40986213">Reakcie</a></h3>
+<ul>
+<li>„Portoriko podalo žalobu vo výške 1 miliardy dolárov proti spoločnostiam zaoberajúcim sa fosílnymi palivami, obviňujúc ich zo spôsobenia škôd súvisiacich so zmenou klímy a požadujúc prísnejšie environmentálne predpisy.“</li>
+<li>„Súdny spor zdôrazňuje prebiehajúcu diskusiu medzi ekonomickými prínosmi fosílnych palív a nevyhnutnosťou udržateľných praktík a zodpovednosti korporácií.“</li>
+<li>„Názory sú rozdelené, pričom niektorí zdôrazňujú dôležitosť firemnej zodpovednosti za znečistenie a dezinformácie, zatiaľ čo iní kladú dôraz na úlohu individuálnych činov a vládnych politík v boji proti zmene klímy.“</li>
+</ul>
+<h2><a href="https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/">„Gitlab skúma predaj“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40983486">Reakcie</a></h3>
+<ul>
+<li>„Gitlab zvažuje predaj, čo vyvoláva obavy medzi používateľmi o potenciálne odstávky alebo zmeny v modeloch služieb, pripomínajúce minulé problémy s RedHat a CentOS.“</li>
+<li>„Používatelia diskutujú o výhodách open-source možností, ako je Gitlab, pričom uvádzajú jednoduchšiu migráciu a podporu komunity, a zároveň špekulujú o potenciálnych kupcoch, ako sú Datadog alebo IBM.“</li>
+<li>„Kritika cien a zamerania Gitlabu na podniky viedla niektorých používateľov k úvahám o prechode na alternatívy ako GitHub, čo odráža zmiešané pocity o budúcej stabilite a nákladoch.“</li>
+</ul>
+<h2><a href="https://vedgie.net/writing/darwin_machines.md">„Darwinove stroje“</a></h2>
+<ul>
+<li>„Príspevok sa zaoberá teóriou Williama Calvina z knihy &quot;The Cerebral Code,&quot; ktorá naznačuje, že mozog využíva evolučné procesy v rámci minikolón na spracovanie senzorických vstupov a nájdenie najvhodnejších vzorcov.“</li>
+<li>„Teória predpokladá, že štruktúra mozgu, najmä stĺpce a ministolpy neokortexu, umožňuje efektívne riešenie problémov a paralelné spracovanie, čo by sa mohlo aplikovať na umelú inteligenciu a strojové učenie (ML).“</li>
+<li>„Autor experimentuje s neurónovými sieťami, aby napodobnil tento evolučný proces, a hľadá rady týkajúce sa výskumu a akademických poznatkov v tejto oblasti, pričom zdôrazňuje potenciálne pokroky v schopnostiach hlbokého myslenia umelej inteligencie.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40981068">Reakcie</a></h3>
+<ul>
+<li>„Príspevok sa zaoberá konceptom Darwinových strojov, kde rôzne modality senzorických údajov spracovávajú mozgové minikolóny, pričom každá z nich produkuje jedinečné vzory výbojov, ktoré súťažia a posilňujú dominantný vzor, čím napomáhajú učeniu.“</li>
+<li>„Algoritmy na smerovanie kapsúl, ktoré navrhol Geoffrey Hinton, sa snažia implementovať túto myšlienku pomocou procesov očakávania-maximalizácie (EM), ale boli zatienené úspechom transformátorov vo výskume umelej inteligencie.“</li>
+<li>„Diskusia zdôrazňuje dôležitosť porozumenia funkcii mozgu a neurónových sietí, pričom odkazuje na Hebbovo učenie a potrebu hlbšieho skúmania časových dynamík v neurónovej aktivite.“</li>
+</ul>
+<h2><a href="https://github.com/guywaldman/magic-cli">„Magic-cli – Kopilot pre váš príkazový riadok“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40980715">Reakcie</a></h3>
+<ul>
+<li>„Magic-cli, príkazový riadkový kopilot vyvinutý Guyom Waldmanom, vyvolal diskusie kvôli svojmu predvolenému režimu &quot;unsafe-execution&quot;, s návrhmi na bezpečnejší predvolený režim ako napríklad &quot;clipboard&quot; režim.“</li>
+<li>„Používatelia zdieľali názory a skúsenosti, spomínajúc alternatívne nástroje ako zsh_codex, aichat a Warp terminal.“</li>
+<li>„Projekt je postavený v jazyku Rust, čo vyvoláva otázky o jeho zložitosti v porovnaní s jednoduchšími implementáciami v iných jazykoch.“</li>
+</ul>
+<h2><a href="https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide">„Google predstavuje metódu na obídenie automatického blokovania správcu značiek“</a></h2>
+<ul>
+<li>„Google zavádza beta funkciu na nasadzovanie značiek v režime prvej strany, čím zlepšuje výkon značiek a ochranu údajov pomocou domény webovej stránky na hosťovanie.“</li>
+<li>„Nastavenie zahŕňa rezerváciu jedinečnej cesty na doméne, smerovanie prevádzky cez služby ako Google Cloud alebo Cloudflare a aktualizáciu skriptov webovej stránky na použitie novej meracej cesty.“</li>
+<li>„Používatelia sú vyzvaní, aby otestovali nastavenie pomocou Tag Assistant a poskytli spätnú väzbu prostredníctvom určeného formulára na spätnú väzbu alebo kontaktného e-mailu.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40983585">Reakcie</a></h3>
+<ul>
+<li>„Google zaviedol metódu na obídenie automatického blokovania svojho Tag Managera, čo vyvoláva obavy o súkromie a účinnosť blokátorov reklám.“</li>
+<li>„Používatelia diskutujú o stratégiách blokovania sledovania, ako je používanie uBlock Origin s predvolene vypnutým JavaScriptom a jeho selektívne povolenie pre jednoduchšie používanie a výhody rýchlosti.“</li>
+<li>„Nová metóda od Google vyvolala diskusiu o vyvážení zberu dát na obchodné účely s ochranou súkromia používateľov, pričom niektorí používatelia vyjadrujú frustráciu nad sledovacími praktikami Google.“</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html">„Po 12 rokoch hodnotenia reštaurácií opúšťam stôl“</a></h2>
+<ul>
+<li>„Pete Wells, po 12 rokoch ako reštauračný kritik The New York Times, odstupuje kvôli zdravotným problémom, vrátane vysokého cholesterolu, hladiny cukru v krvi a hypertenzie.“</li>
+<li>„Napriek uspokojujúcej povahe jeho úlohy sa fyzická záťaž častých návštev reštaurácií pre Wellsa stala neudržateľnou.“</li>
+<li>„Wells zostane v The Times, ale už nebude riešiť požiadavky týždenných recenzií, namiesto toho sa rozhodne sústrediť na svoje zdravie a vyváženejší životný štýl.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40979539">Reakcie</a></h3>
+<ul>
+<li>„Dlhoročný recenzent reštaurácií odstupuje po 12 rokoch, čo vyvoláva diskusie o jeho vplyve a budúcnosti recenzií reštaurácií.“</li>
+<li>„Recenzent bol známy svojím rozmanitým výberom reštaurácií a svojím jedinečným, niekedy odmeraným prístupom k recenziám.“</li>
+<li>„Oznámenie vyvolalo nadšenie pre prichádzajúcu recenzentku Mellissu Clarkovú a úvahy o skúsenostiach tých, ktorí pracujú v reštauračnom priemysle.“</li>
+</ul>
+<h2><a href="https://github.com/bobbyiliev/introduction-to-bash-scripting">„Úvod do Bash skriptovania“</a></h2>
+<ul>
+<li>„Bol vydaný open-source sprievodca/ebook o Bash skriptovaní, zameraný na automatizáciu úloh pre vývojárov, systémových administrátorov a DevOps inžinierov.“</li>
+<li>„Elektronická kniha pokrýva širokú škálu tém od základnej štruktúry Bash až po pokročilé techniky skriptovania, vrátane práce s API a generovania hesiel.“</li>
+<li>„Ďalšie zdroje zahŕňajú mini video kurz, interaktívne školenie cez Katacoda a príspevky od Linux DevOps inžiniera Bobbyho Ilieva.“</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40982011">Reakcie</a></h3>
+<ul>
+<li>„Bash skriptovanie sa často porovnáva s Pythonom pre terminálové úlohy, pričom Bash je efektívnejší pre operácie so súborovým systémom a jednoduché sekvencie príkazov vďaka svojej natívnej integrácii s terminálom.“</li>
+<li>„Kritici poukazujú na zložitosť Pythonu pri základných úlohách a nešikovnú syntax Bashu, ale Bash zostáva nevyhnutný v prostrediach, kde Python nie je predinštalovaný.“</li>
+<li>„Alternatívy ako Ruby&#39;s shell alebo Perl na spracovanie textu existujú, a nástroje ako ChatGPT môžu pomôcť pri generovaní skriptov, ale porozumenie základom Bash je stále cenné.“</li>
+</ul>
+<h2><a href="https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks">„Návrat do kancelárie nie je hodný rizika straty talentov“</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40983717">Reakcie</a></h3>
+<ul>
+<li>„Povinné návraty do kancelárie (RTO) riskujú stratu najlepších talentov, pretože zamestnanci s alternatívami môžu odísť ako prvý, čo môže spôsobiť domino efekt.“</li>
+<li>„Flexibilné možnosti, ako napríklad kompenzácia cestovných nákladov alebo vylepšené kancelárske vybavenie, sú navrhované ako lepšie alternatívy k prísnym nariadeniam o návrate do kancelárie.“</li>
+<li>„Debata zahŕňa pohľady na produktivitu, mentorstvo a osobné preferencie, pričom niektorí považujú RTO za poháňané zastaranými manažérskymi názormi alebo ekonomickými tlakmi.“</li>
+</ul>
+<head>
+  <meta property="og:title" content="„Import a export Markdown v Dokumentoch Google“" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%E2%80%9EImport%20a%20export%20Markdown%20v%20Dokumentoch%20Google%E2%80%9C&subheading=streda%2017.%20j%C3%BAla%202024%3A%20Hacker%20News%20Zhrnutie" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/sk/2024/07/17</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

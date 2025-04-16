@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  version="2.0"
+>
+    <channel>
+        <title><![CDATA[Heimdall]]></title>
+        <description><![CDATA[Heimdall]]></description>
+        <link>https://hn.cho.sh</link>
+        <image>
+            <url>https://hn.cho.sh/img/android-chrome-512x512.png</url>
+            <title>Heimdall</title>
+            <link>https://hn.cho.sh</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Jul 2024 19:14:09 GMT</lastBuildDate>
+        <atom:link href="https://hn.cho.sh/rss/newsletter/nl.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        <copyright><![CDATA[2023 Sunghyun Cho]]></copyright>
+        <language><![CDATA[nl]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2024-07-26]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/26&#39;</h2>
+<h1>2024-07-26</h1>
+<h2><a href="https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution">En sveitsisk by forbød reklametavler. Zürich, Bern kan snart følge etter</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41075766">Reacties</a></h3>
+<ul>
+<li>En sveitsisk by har forbudt reklameplakater, og Zürich og Bern vurderer lignende tiltak, etter at Krakow i Polen innførte et vellykket forbud for to år siden.</li>
+<li>Vermont og Hawaii har langvarige forbud mot reklametavler, noe som bidrar til deres visuelt behagelige miljøer.</li>
+<li>Diskusjonen understreker den positive effekten av å redusere visuell rot på byens estetikk og de potensielle fordelene ved å fremme offentlig transport.</li>
+</ul>
+<h2><a href="https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/">AI-gjennomsøkere må være mer respektfulle</a></h2>
+<ul>
+<li>Det har vært en betydelig økning i misbrukende nettsidegjennomgang av AI-produkter, noe som skaper problemer for nettsteder som Read the Docs på grunn av overdreven båndbreddebruk og kostnader.</li>
+<li>Eksempler inkluderer en crawler som lastet ned 73 TB med data i mai 2024, noe som kostet over $5 000, og en annen som brukte Facebooks innholdsnedlaster til å hente 10 TB i juni 2024.</li>
+<li>Til tross for IP-basert hastighetsbegrensning, bruker disse crawlerne flere IP-adresser, noe som gjør det ineffektivt; tiltak som er tatt inkluderer blokkering av identifiserte AI-crawlere og forbedring av CDN-caching.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072549">Reacties</a></h3>
+<ul>
+<li>AI-crawlere har blitt kritisert for å være altfor aggressive, med ett tilfelle der en crawler lastet ned 73TB med zippede HTML-filer fra ReadTheDocs på en måned, noe som forårsaket betydelige båndbreddekostnader.</li>
+<li>Den overdrevne dataskrapingen førte til over $5 000 i båndbreddekostnader for ReadTheDocs, noe som understreker behovet for mer respektfulle og regulerte gjennomgangspraksiser.</li>
+<li>Den hendelsen reiser spørsmål om potensialet for slik oppførsel til å bli ansett som hensynsløs under Computer Fraud and Abuse Act (CFAA) og antyder at statlige bøter kan være passende for selskaper som er ansvarlige for slike handlinger.</li>
+</ul>
+<h2><a href="https://github.com/mriale/PyDPainter">En klone av Deluxe Paint II skrevet i Python</a></h2>
+<ul>
+<li>PyDPainter er et pixelkunstprogram utviklet i Python ved bruk av PyGame, inspirert av 1985 Commodore Amiga-versjonen av Deluxe Paint av Electronic Arts.</li>
+<li>Programmet har som mål å modernisere det klassiske Deluxe Paint-verktøyet med nye funksjoner, for å imøtekomme den gjenopplivede interessen for pikselkunst på grunn av retrotrenden.</li>
+<li>Den nyeste utgivelsen av PyDPainter er tilgjengelig på GitHub, og den er lisensiert under GPLv3 eller senere.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41073264">Reacties</a></h3>
+<ul>
+<li>En Python-klone av Deluxe Paint II har blitt utgitt på GitHub, og viser imponerende funksjoner som palettesyklus og animasjoner.</li>
+<li>Brukere mimrer om Deluxe Paint og andre retro grafikkprogrammer, og fremhever arbeidet til kunstneren Mark Ferrari.</li>
+<li>Diskusjoner inkluderer sammenligninger med andre verktøy som DPaint.js og Aseprite, og de tekniske utfordringene ved å gjenskape programvare for pikselkunst.</li>
+</ul>
+<h2><a href="https://rein.pk/startup-finance-for-founders-part-i-accounting">Startup Finance for Founders – Del I, Regnskap (2016)</a></h2>
+<ul>
+<li>Artikkelen er en del av en todelt serie om oppstartsfinansiering, med fokus på regnskap i del I og strategisk finans i del II.</li>
+<li>Viktige emner som dekkes inkluderer oppsett av en sikker bankkontostruktur, håndtering av kredittkortgrenser og overgang fra Stripe til papiravtaler og fakturaer etter hvert som kundebasen vokste.</li>
+<li>Forfatteren deler praktiske innsikter fra sin erfaring hos Segment, som vokste betydelig og hentet inn 44 millioner dollar, og fremhever viktigheten av å forstå grunnleggende regnskap for oppstartsgründere.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41074002">Reacties</a></h3>
+<ul>
+<li>Artikkelen &quot;Startup Finance for Founders – Part I, Accounting&quot; diskuterer essensielle regnskapsprinsipper for oppstartsgründere, selv om den mangler detaljerte regnskapsopplysninger.</li>
+<li>Et viktig poeng som ble tatt opp er strategien med å forhandle om kredittlinjer under investeringssamtaler i stedet for gradvis å øke kredittkortgrensene.</li>
+<li>Diskusjonen berører også begrensningene og risikoene forbundet med bruk av debetkort til transaksjoner som bilutleie, spesielt i USA sammenlignet med Europa.</li>
+</ul>
+<h2><a href="https://aml4td.org/">Anvendt maskinlæring for tabulære data</a></h2>
+<ul>
+<li>«Applied Machine Learning for Tabular Data» av Max Kuhn og Kjell Johnson er en praktisk guide for å utvikle prediktive modeller fra tabulære data, som skal publiseres i juni 2024.</li>
+<li>Den dekker hele prosessen med prediktiv modellering, inkludert feature engineering og aktiviteter etter modellering, og er lisensiert under CC BY-NC-SA 4.0, som tillater ikke-kommersiell bruk og tilpasning.</li>
+<li>Rettet mot dataanalytikere, statistikere og dataforskere, gir boken øvelser og datatillegg, hovedsakelig ved bruk av R&#39;s tidymodels-rammeverk, og ønsker bidrag fra samfunnet velkommen via GitHub.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072616">Reacties</a></h3>
+<ul>
+<li>Diskusjon om anvendt maskinlæring (ML) for tabulære data, med vekt på vanlige utfordringer som datalekkasjer, intelligent datasplitting og modellvalg.</li>
+<li>Vektlegging på bruk av XGBoost for toppmoderne resultater, med noen eksperter som anbefaler alternativer som LightGBM, CatBoost og Random Forests.</li>
+<li>En omtale av en ny praktisk lærebok av en O&#39;Reilly-forfatter, med fokus på å bygge ML-systemer med en funksjonsbutikk og praktiske prosjekter.</li>
+</ul>
+<h2><a href="http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/">Bcachefs, en introduksjon/utforskning</a></h2>
+<ul>
+<li>Bcachefs er et nytt filsystem designet for å overvinne begrensninger i eksisterende filsystemer, og tilbyr unike funksjoner og forbedringer.</li>
+<li>Den støtter eksperimentelle RAID-nivåer (0, 1, 5, 6) og slettingskoding, selv om noen ennå ikke anbefales for bruk.</li>
+<li>Bcachefs er fortsatt under utvikling, med pågående forbedringer og behov for samfunnshjelp for håndtering av flere enheter og systemintegrasjon.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41076190">Reacties</a></h3>
+<ul>
+<li>Det diskuteres et nytt filsystem, Bcachefs, for dets feilhåndteringsevner, spesielt dets selvhelbredende funksjon ved lesefeil/ sjekksumfeil, som vil bli implementert i Linux 6.11.</li>
+<li>Det er en debatt om de potensielle risikoene ved selvhelbredelse, som muligheten for å ødelegge gode data hvis systemkomponenter som RAM er defekte.</li>
+<li>Det gjøres sammenligninger mellom Bcachefs og andre filsystemer som ZFS og btrfs, med brukere som deler sine erfaringer og bekymringer om pålitelighet og dataintegritet.</li>
+</ul>
+<h2><a href="https://blog.zulip.com/2024/07/25/zulip-9-0-released/">Zulip 9.0: Organisert chat for distribuerte team</a></h2>
+<ul>
+<li>Zulip Server 9.0 er utgitt, med hundrevis av oppdateringer og feilrettinger som forbedrer brukervennligheten for fjern- og hybridarbeid.</li>
+<li>Viktige oppdateringer inkluderer en ny design for brukergrensesnittet, forbedret meldingskomposisjon, terminologiendringer, forbedret søk og bedre brukeropplæring.</li>
+<li>Ny integrasjoner, støtte for Ubuntu 24.04, og neste generasjons mobilapper bygget med Flutter er blant de betydelige forbedringene.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41075934">Reacties</a></h3>
+<ul>
+<li>Zulip 9.0 har blitt lansert, med en ny mindre tett standardlayout og planer for mer tilpasning.</li>
+<li>Zulips organiserte rom og intuitive design blir rost for å øke produktiviteten, spesielt for distribuerte team.</li>
+<li>Den nye mobilappen er bygget med Flutter, et åpen kildekode-rammeverk kjent for sin ytelse og iterasjonshastighet.</li>
+</ul>
+<h2><a href="https://www.tomshardware.com/software/switzerland-mandates-government-agencies-use-open-source-software">Sveits pålegger offentlige etater å bruke åpen kildekode-programvare</a></h2>
+<ul>
+<li>Sveits har vedtatt en lov som krever at offentlige etater bruker åpen kildekode-programvare (OSS) og publiserer ny offentlig kode under åpne kildekodelisenser, kjent som &quot;Federal Law on the Use of Electronic Means for the Fulfillment of Government Tasks&quot; (EMBAG).</li>
+<li>Dette initiativet har som mål å forbedre åpenhet, sikkerhet og effektivitet ved å gjøre ikke-personlige, ikke-sikkerhetsfølsomme offentlige data offentlig tilgjengelige.</li>
+<li>Schweiz&#39; tiltak er i tråd med lignende europeiske initiativer og kan potensielt inspirere til ytterligere adopsjon av OSS i Europa og USA.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41072795">Reacties</a></h3>
+<ul>
+<li>Sveits pålegger at offentlige etater bruker åpen kildekode-programvare, med mål om å øke åpenhet og redusere avhengighet av proprietære leverandører.</li>
+<li>Åpen kildekode-programvare lar myndigheter endre og revidere koden, noe som potensielt kan føre til bedre sikkerhet og kostnadsbesparelser ved å unngå leverandørinnlåsing.</li>
+<li>Dette trekket blir sett på som en investering i lokale kapasiteter og et skritt mot systematisk, langsiktig digitalisering, til tross for potensielle kortsiktige kostnader.</li>
+</ul>
+<h2><a href="https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF">U.S. Department of Defense – Oppdage smidig BS [pdf] (2018)</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41073688">Reacties</a></h3>
+<ul>
+<li>Det amerikanske forsvarsdepartementets dokument fra 2018 tar for seg ineffektivitet i smidig programvareutvikling, og fremhever problemer som mangel på samhandling med sluttbrukere og feil forvaltning av midler av mellommenn.</li>
+<li>Dokumentet antyder at Agile-praksiser ofte blir feilaktig anvendt, noe som fører til sløsing med ressurser og manglende evne til å levere programvare av høy kvalitet i tide.</li>
+<li>Det understreker behovet for bedre samsvar mellom utviklingsteam og sluttbrukere og advarer mot overdreven avhengighet av verktøy og prosesser.</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a">Det finnes ingen løsning for Intels krasjende 13./14. generasjons CPUer – skaden er permanent</a></h2>
+<ul>
+<li>Intels 13. og 14. generasjons CPU-er har et krasjproblem på grunn av forhøyede spenninger og produksjonsfeil, som ikke kan fikses hvis skaden allerede har oppstått.</li>
+<li>En oppdatering for å forhindre fremtidige problemer forventes i midten av august, men skadede CPU-er må byttes ut; Intel vil ikke tilbakekalle eller forlenge garantiene.</li>
+<li>Berørte brukere bør oppdatere BIOS og kontakte Intel kundestøtte, da problemet potensielt påvirker alle 13. eller 14. generasjons stasjonære prosessorer som bruker 65W eller mer strøm.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41079901">Reacties</a></h3>
+<ul>
+<li>Intels 13./14. generasjons CPU-er har et permanent krasjproblem uten noen nåværende løsning, som påvirker CPU-er som bruker 65W eller mer.</li>
+<li>MicroCenter har sluttet å inkludere disse CPU-ene i sine pakker, og en mikrokodeoppdatering som forventes i midten av august kan redusere ytelsen.</li>
+<li>Til tross for problemet har ikke Intels aksje falt betydelig, og selskapet har verken stoppet salget eller planlagt en tilbakekalling, men fokuserer i stedet på mikroprogramvareoppdateringer.</li>
+</ul>
+<h2><a href="https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy">Stripe kjøper opp Lemon Squeezy</a></h2>
+<ul>
+<li>Stripe har kjøpt opp Lemon Squeezy, en plattform lansert i 2021 for å forenkle salg av digitale produkter globalt.</li>
+<li>Sitronsqueezy oppnådde over $1M i årlig tilbakevendende inntekt (ARR) innen ni måneder etter lanseringen.</li>
+<li>Oppkjøpet har som mål å forbedre Lemon Squeezy sine tilbud med Stripes betalingsmuligheter, og lover en bedre kundeopplevelse og pålitelighet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41080018">Reacties</a></h3>
+<ul>
+<li>Stripe har kjøpt opp Lemon Squeezy, en plattform kjent for sin Merchant of Record (MoR)-funksjon som forenkler MVA-innbetaling.</li>
+<li>Brukere er bekymret for potensielle endringer i gebyrer og fremtiden til MoR-funksjonen, noe som fører til blandede følelser om oppkjøpet.</li>
+<li>Enkelte ser på oppkjøpet som en reduksjon av konkurransen innen betalingsområdet, mens andre håper på bedre integrasjon av skattehåndtering.</li>
+</ul>
+<h2><a href="https://www.lemonde.fr/en/france/article/2024/07/26/france-s-high-speed-trains-struck-by-malicious-acts_6699471_7.html">Frankrikes høyhastighetstogtrafikk forstyrret av &#39;ondsinnede handlinger&#39; under OL-seremoni</a></h2>
+<ul>
+<li>Frankrikes høyhastighetsjernbanenettverk, inkludert TGV, møtte betydelige forstyrrelser på grunn av «ondsinnede handlinger» som brannstiftelse, rett før OL i Paris.</li>
+<li>Angrepene skadet fiberoptiske kabler som er essensielle for togsikkerheten, noe som påvirket 800 000 passasjerer og forårsaket omfattende kanselleringer og forsinkelser, med reparasjoner som forventes å vare hele helgen.</li>
+<li>Franske tjenestemenn fordømte angrepene som «kriminelle handlinger» og igangsatte en etterforskning, med potensielle straffer på opptil 20 års fengsel og betydelige bøter.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41076831">Reacties</a></h3>
+<ul>
+<li>Frankrikes høyhastighetstogtrafikk ble forstyrret av «ondsinnede handlinger» under den olympiske seremonien, noe som fremhever sårbarheter i kollektivtransportsystemer for sabotasje.</li>
+<li>Spekulasjoner antyder mulig involvering av utenlandske aktører, inkludert Russland, og trekker paralleller til lignende hendelser i Tyskland og andre deler av Europa.</li>
+<li>Den hendelsen har utløst debatter om motstandsdyktigheten til transportmidler, nasjonale sikkerhetsimplikasjoner og behovet for tiltak for å beskytte kritisk infrastruktur.</li>
+</ul>
+<h2><a href="https://www.aljazeera.com/news/2024/7/26/french-rail-network-hit-by-malicious-acts-ahead-of-olympic-ceremony">Det franske jernbanenettet rammet av &#39;ondsinnede handlinger&#39; i forkant av OL i Paris</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41077798">Reacties</a></h3>
+<ul>
+<li>Det franske jernbanenettet har blitt utsatt for &#39;ondsinnede handlinger&#39; like før OL i Paris, noe som vekker bekymring for sikkerhet og infrastrukturens motstandskraft.</li>
+<li>Timingen av disse handlingene er spesielt betydningsfull ettersom Frankrike forbereder seg på å være vert for en stor internasjonal begivenhet, noe som fremhever potensielle sårbarheter.</li>
+<li>Diskusjoner og ytterligere detaljer pågår i ulike fora, noe som gjenspeiler den høye graden av offentlig og medieinteresse i hendelsen.</li>
+</ul>
+<h2><a href="https://old.reddit.com/r/b2b_sales/comments/1ecgw9g/a_database_of_all_startups_who_received_funding/">Database over alle finansierte oppstartsselskaper</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41076252">Reacties</a></h3>
+<ul>
+<li>En database over alle finansierte oppstartsselskaper har blitt delt på Reddit, og har fått betydelig oppmerksomhet med 81 poeng.</li>
+<li>Innlegget har utløst diskusjoner, med noen brukere som stiller spørsmål ved hvor ofte det blir postet på nytt.</li>
+</ul>
+<head>
+  <meta property="og:title" content="En sveitsisk by forbød reklametavler. Zürich, Bern kan snart følge etter" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=En%20sveitsisk%20by%20forb%C3%B8d%20reklametavler.%20Z%C3%BCrich%2C%20Bern%20kan%20snart%20f%C3%B8lge%20etter&subheading=vrijdag%2026%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/26</link>
+            <guid isPermaLink="false">2024-07-26T00:00:00.000Z</guid>
+            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-25]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/25&#39;</h2>
+<h1>2024-07-25</h1>
+<h2><a href="https://github.com/nodejs/node/pull/53725">Node.js legger til eksperimentell støtte for TypeScript</a></h2>
+<ul>
+<li>Node.js har introdusert en ny funksjon for å kjøre TypeScript-filer ved å bruke flagget <code>--experimental-strip-types</code>, som transpilerer TypeScript til JavaScript uten typekontroll.</li>
+<li>Denne funksjonen utnytter <code>@swc/wasm-typescript</code> for effektiv og enkel transpilerering, med mål om å redusere behovet for eksterne avhengigheter når TypeScript-filer kjøres.</li>
+<li>Funksjonen er eksperimentell og tilgjengelig i nattversjonen, med pågående diskusjoner om ytterligere forbedringer som å støtte import uten filendelser.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064351">Reacties</a></h3>
+<ul>
+<li>Node.js har introdusert eksperimentell støtte for å kjøre TypeScript-filer direkte, noe som eliminerer behovet for tidligere kompilering til JavaScript.</li>
+<li>Denne funksjonen, lik den som Deno tilbyr, har som mål å forenkle utviklingsprosessen for TypeScript-brukere.</li>
+<li>Vurderinger inkluderer å opprettholde kompatibilitet mellom Node.js og TypeScript-versjoner og vurdere den potensielle innvirkningen på NPM-økosystemet.</li>
+</ul>
+<h2><a href="https://www.elysian.press/p/employee-ownership">Alle selskaper bør eies av sine ansatte</a></h2>
+<ul>
+<li>Central States Manufacturing eksemplifiserer medarbeidereierskap, med 47 millionærer blant sine arbeidere på grunn av aksjeeierskap.</li>
+<li>Ansatte aksjeeierplaner (ESOP-er) utvider seg i USA, med 6 533 selskaper og 14,7 millioner ansatte som drar nytte av denne modellen.</li>
+<li>ESOP-er gir skattefordeler, forbedrer selskapets ytelse og øker ansattes lojalitet ved å fremme en følelse av eierskap.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065227">Reacties</a></h3>
+<ul>
+<li>Ansatteaksjeprogrammer (ESOP-er) gir ansatte en mulighet til å eie en del av selskapet gjennom aksjeopsjoner, men de kan være demotiverende i vanskelige tider.</li>
+<li>Ansatteierskap er risikabelt, spesielt hvis selskapet mislykkes, og selv om det er vanlig i teknologibransjen, er det ikke utbredt i alle bransjer.</li>
+<li>Å optimalisere for arbeidernes lykke fremfor profitt kan være fordelaktig, men kan påvirke konkurranseevnen i det globale markedet.</li>
+</ul>
+<h2><a href="https://jordaneldredge.com/notes/corrupted-skins/">Undersøker korrupte Winamp-skinn</a></h2>
+<ul>
+<li>Mens han utforsket Winamp Skin Museum-samlingen, oppdaget forfatteren korrupte skins og bestemte seg for å undersøke, noe som førte til overraskende funn.</li>
+<li>Etterforskningen avdekket ulike skjulte gjenstander, inkludert krypterte filer, personlige brev, e-postpassord, en hemmelig biografi om Chet Baker, kryptiske lydfiler og en spillkjørbar fil kalt worm.exe.</li>
+<li>Forfatteren fant 127 skinn innenfor andre skinn, hvorav 54 var nye tillegg til museet, som viser et fascinerende og merkelig eventyr drevet av en kjærlighet for Winamp og funnede gjenstander.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064645">Reacties</a></h3>
+<ul>
+<li>Jordan Eldredge har laget betydelige WinAmp-prosjekter, som WebAmp og en WASM (WebAssembly) motor for musikkvisualisering, som kan finnes på hans nettside.</li>
+<li>Brukere mimrer om sine opplevelser med WinAmp, diskuterer programvaretilpasning og uttrykker nostalgi for programvare fra tidlig 2000-tall.</li>
+<li>Diskusjonen fremhever en følelse av tap når det gjelder brukertilpasning i moderne programvare og en preferanse for det mer fellesskapsdrevne internettet fra fortiden.</li>
+</ul>
+<h2><a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/">AI løser problemer fra den internasjonale matematikkolympiaden på sølvmedaljenivå</a></h2>
+<ul>
+<li>Forsknings-AI-systemene AlphaProof og AlphaGeometry 2 oppnådde en sølvmedaljestandard ved å løse fire av seks problemer i den internasjonale matematikkolympiaden (IMO) i 2024.</li>
+<li>AlphaProof, ved å bruke forsterkende læring og det formelle språket Lean, løste to algebraoppgaver og én tallteorioppgave, inkludert den vanskeligste oppgaven i konkurransen.</li>
+<li>AlphaGeometry 2, et nevro-symbolsk hybridsystem, løste et geometriproblem på 19 sekunder, og bidro til det kombinerte AI-systemets poengsum på 28 av 42 poeng.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41069829">Reacties</a></h3>
+<ul>
+<li>DeepMinds AI har oppnådd å løse problemer fra den internasjonale matematikkolympiaden (IMO) på sølvmedaljenivå, noe som viser betydelige fremskritt i AIs evne til å løse problemer.</li>
+<li>AI-systemet, kalt AlphaProof, kombinerer forhåndstrente språkmodeller med forsterkningslæringsalgoritmer, og utnytter formelle matematiske språk som Lean for å generere og verifisere løsninger.</li>
+<li>Denne utviklingen fremhever potensialet til AI i å takle komplekse matematiske problemer, som tradisjonelt krever betydelig menneskelig intuisjon og ekspertise, og markerer en bemerkelsesverdig milepæl i AI-forskning og -anvendelse.</li>
+</ul>
+<h2><a href="https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/">Apple Maps på nettet lanseres i beta</a></h2>
+<ul>
+<li>Apple Maps er nå tilgjengelig i offentlig beta på nettet, slik at brukere kan få tilgang til Kart fra nettleserne sine globalt.</li>
+<li>Funksjoner inkluderer kjøre- og gangveibeskrivelser, stedsbilder, åpningstider, vurderinger, anmeldelser, matbestilling og kuraterte guider, med Look Around som kommer snart.</li>
+<li>Støtter for øyeblikket Safari og Chrome på Mac og iPad, og Chrome og Edge på Windows-PCer, med flere språk, nettlesere og plattformer som vil bli lagt til over tid.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065326">Reacties</a></h3>
+<ul>
+<li>Apple Maps har introdusert en beta-nettversjon, men den er foreløpig bare kompatibel med Safari og Chrome på macOS og Windows.</li>
+<li>Brukere er frustrerte over mangelen på støtte for Firefox og Linux, samt problemer med datanøyaktighet og brukervennlighet sammenlignet med Google Maps.</li>
+<li>Til tross for disse utfordringene er det optimisme for at Apple Maps vil forbedre seg og potensielt bli en sterk konkurrent til Google Maps.</li>
+</ul>
+<h2><a href="https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/">Dungeons and Dragons lærte meg hvordan jeg skriver alternativ tekst</a></h2>
+<ul>
+<li>Å spille Dungeons &amp; Dragons (D&amp;D) hjalp forfatteren med å utvikle verdifulle ferdigheter, inkludert å skrive effektiv alternativ tekst for bilder.</li>
+<li>&quot;Theater of the mind&quot;-metoden i D&amp;D, som er avhengig av muntlig historiefortelling, lærte forfatteren å prioritere klare og engasjerende beskrivelser.</li>
+<li>Å skrive alternativ tekst, likt D&amp;D-fortelling, krever at man først fremhever viktige detaljer og deretter legger til kontekst og følelser, med ressurser som Web Accessibility Initiative og BBC GEL som hjelper til med å forbedre ferdighetene.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41061755">Reacties</a></h3>
+<ul>
+<li>Innlegget diskuterer hvordan det å spille Dungeons and Dragons (D&amp;D) hjalp forfatteren med å lære å skrive effektiv alternativ tekst, som er tekst som brukes til å beskrive bilder for skjermlesere.</li>
+<li>Det viktigste poenget er viktigheten av å beskrive ting i rekkefølge etter viktighet, lik den omvendte pyramidestrukturen i journalistikk, for å gjøre innholdet tilgjengelig og nyttig for skjermleserbrukere.</li>
+<li>Diskusjonen fremhever hvordan D&amp;Ds narrative teknikker kan anvendes i profesjonell kommunikasjon, med vekt på klarhet og prioritering av informasjon.</li>
+</ul>
+<h2><a href="https://thehftguy.com/2024/07/25/crowdstrike-will-be-liable-for-damages-in-france-based-on-the-ovh-precedent/">CrowdStrike vil være ansvarlig for skader i Frankrike, basert på OVH-prejudikatet</a></h2>
+<ul>
+<li>Det kan hende at CrowdStrike står overfor erstatningsansvar i Frankrike, og trekker paralleller til OVH-precedensen der en brann førte til vellykkede søksmål mot OVH.</li>
+<li>En nylig oppdatering fra CrowdStrike deaktiverte 8,5 millioner datamaskiner, forårsaket over 5,4 milliarder dollar i skader og forstyrret kritiske industrier.</li>
+<li>Incidentet understreker uaktsomhet på grunn av mangelen på trinnvise utrullinger og testing, til tross for kundens forespørsler, noe som potensielt kan føre til en rekke skadekrav og kontraktsoppsigelser.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41066811">Reacties</a></h3>
+<ul>
+<li>Det er mulig at CrowdStrike kan bli holdt ansvarlig for skader i Frankrike, noe som trekker paralleller til OVH-hendelsen, som involverte betydelig datatap og forretningsmessige konsekvenser.</li>
+<li>Nyere problemer, inkludert et stort strømbrudd, har skapt bekymringer om CrowdStrikes ansvar, spesielt i kritiske sektorer som helsevesenet.</li>
+<li>Større diskusjoner dukker opp om programvareansvar og ansvaret til teknologiselskaper på tvers av ulike jurisdiksjoner.</li>
+</ul>
+<h2><a href="https://twitter.com/moo9000/status/1816352054425829420">EU-parlamentsmedlem rammet av israelsk Candiru-spyware</a></h2>
+<ul>
+<li>Medlem av Europaparlamentet Daniel Freund, kjent for sin kritikk av Ungarn, ble utsatt for et spionvareangrep, sannsynligvis involverende det israelske selskapet Candiru.</li>
+<li>Hellas, sammen med Polen, Hellas, Kypros og Spania, har en historie med ulovlig spionasje på sine borgere, noe som vekker bekymring for personvern og overvåking i disse landene.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41065156">Reacties</a></h3>
+<ul>
+<li>Et medlem av EU-parlamentet ble målrettet av israelsk Candiru-spyware gjennom et spydfiskingsforsøk, hvor det å åpne en lenke kunne kompromittere telefonen.</li>
+<li>Den hendelsen reiser betydelige bekymringer om sikkerheten til høyt profilerte individer og implikasjonene av statssponset cyber-spionasje.</li>
+<li>Det bredere problemet med spionprogrammer som brukes av ulike land for politisk vinning og de etiske betraktningene rundt slike teknologier blir fremhevet.</li>
+</ul>
+<h2><a href="https://github.com/mlfoundations/MINT-1T">Et multimodalt datasett med én billion tokens</a></h2>
+<ul>
+<li>MINT-1T er et åpen kildekode-datasett med én billion teksttokens og 3,4 milliarder bilder, som representerer en ~10x økning fra eksisterende datasett.</li>
+<li>Datasettet inkluderer nye kilder som PDF-er og ArXiv-artikler, og alle delsett er utgitt, inkludert HTML- og PDF-data fra ulike CommonCrawl-øyeblikksbilder.</li>
+<li>Datasettet MINT-1T ble offisielt åpen kildekode den 24. juli 2024, med en teknisk rapport utgitt den 17. juni 2024.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41061390">Reacties</a></h3>
+<ul>
+<li>En ny multimodal datasett som inneholder en billion tokens har blitt utgitt, som inkluderer tekst og bilder.</li>
+<li>Datasettet er lisensiert under CC-BY-4.0, noe som betyr at brukere må sikre lovlig bruk i kommersielle sammenhenger.</li>
+<li>Salesforce står bak denne utgivelsen, og viser deres økende engasjement i AI-forskning utover deres kjerne CRM-produkter.</li>
+</ul>
+<h2><a href="https://0xinfection.github.io/reversing/">Omvendt ingeniørkunst for alle</a></h2>
+<ul>
+<li>Dette innlegget introduserer et omfattende sett med kurs i reverseringsteknikk som dekker x86, x64, ARM-32 og ARM-64 arkitekturer, rettet mot nybegynnere.</li>
+<li>Kurset inkluderer detaljerte moduler om assembler, feilsøking, hacking og grunnleggende konsepter innen datamaskinarkitektur.</li>
+<li>Veiledningssettet er tilgjengelig for nedlasting i PDF- eller MOBI-format, noe som gjør det tilgjengelig for offline-studie.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41069256">Reacties</a></h3>
+<ul>
+<li>Omvendt utvikling kan utføres uten direkte tilgang til målet, som demonstrert av Andrew Tridgells arbeid med Microsofts SMB-protokoll og BitKeeper, som til slutt førte til opprettelsen av Git.</li>
+<li>Praktisk erfaring og nysgjerrighet er avgjørende for å lære om reverse engineering, med verktøy som Cheat Engine, IDA og radare2 som essensielle for å analysere og modifisere programvare.</li>
+<li>En oversikt på høyt nivå og mer dyptgående ressurser for nybegynnere er tilgjengelige, som veiledningen på GitHub av mytechnotalent og bloggserien av boricj.</li>
+</ul>
+<h2><a href="https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/">X redesignerer vannpistol-emoji tilbake til et skytevåpen</a></h2>
+<ul>
+<li>X (tidligere Twitter) har redesignet sin 🔫 Vannpistol-emoji til å vises som et skytevåpen, og reverserer dermed skiftet fra 2016-2018 til en vannpistol.</li>
+<li>Denne oppdateringen begynte å rulle ut 18. juli 2024, og er for øyeblikket tilgjengelig gjennom X&#39;s nettklient, med planer om å oppdatere mobilvisningen snart.</li>
+<li>Endringen markerer den første oppdateringen av X&#39;s Twemoji-sett siden juli i fjor, og avviker fra det tverrleverandørdesignskiftet som opprinnelig ble ledet av Apple i 2016.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41060813">Reacties</a></h3>
+<ul>
+<li>X (tidligere Twitter) har endret vannpistol-emojien tilbake til et skytevåpen, noe som har utløst debatter om de politiske implikasjonene av endringer i emoji-design.</li>
+<li>Den opprinnelige endringen fra en pistol til en vannpistol ble sett på som et politisk trekk, og å gå tilbake til det blir også sett på som politisk ladet, noe som forårsaker forvirring og debatt blant brukerne.</li>
+<li>Uoverensstemmelsen i emoji-representasjon på tvers av plattformer kan føre til misforståelser, og fremhever utfordringene med å standardisere visuelle symboler i digital kommunikasjon.</li>
+</ul>
+<h2><a href="https://rcoh.me/posts/linear-time-median-finding/">Min favorittalgoritme: Medianfunn i lineær tid (2018)</a></h2>
+<ul>
+<li>Innlegget diskuterer median-av-medianer-algoritmen, som finner medianen i deterministisk lineær tid, noe som gjør den teoretisk effektiv.</li>
+<li>Den kontrasterer dette med Quickselect, en algoritme som vanligvis finner medianen i gjennomsnittlig lineær tid, men som kan være mindre pålitelig i verste fall-scenarier.</li>
+<li>Median-of-medians-algoritmen sikrer et godt pivotvalg for Quickselect, noe som øker effektiviteten, selv om den ofte er tregere i praksis sammenlignet med enklere metoder som tilfeldig pivotvalg.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41066536">Reacties</a></h3>
+<ul>
+<li>Innlegget diskuterer ulike metoder for å finne medianen i store datasett, med fokus på lineære tidsalgoritmer og deres praktiske anvendelser.</li>
+<li>Et bemerkelsesverdig eksempel inkluderer bruk av MapReduce og bøttesortering for effektivt å finne medianen i en enkelt passering, noe som fremhever viktigheten av datapresisjon og -område.</li>
+<li>Diskusjonen berører også forskjellige algoritmer som Quickselect, Median-of-Medians og strømmingsalgoritmer, og sammenligner deres effektivitet og egnethet for forskjellige scenarier.</li>
+</ul>
+<h2><a href="https://chatgpt.com/search">OpenAI kunngjør SearchGPT</a></h2>
+<ul>
+<li>SearchGPT er en prototype av nye søkefunksjoner som bruker AI-modeller for å gi raske svar med klare kilder.</li>
+<li>Servicen tilbyr sanntidsinformasjon fra relevante kilder, visuelle resultater, og tillater naturlige, samtalebaserte oppfølgingsspørsmål.</li>
+<li>Brukere kan registrere seg på ventelisten for å prøve SearchGPT, og tilbakemeldinger vil bli brukt til å integrere de beste funksjonene i ChatGPT.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41071639">Reacties</a></h3>
+<ul>
+<li>OpenAI har kunngjort SearchGPT, et nytt AI-drevet søkeverktøy, som har utløst betydelig diskusjon og interesse i teknologisamfunnet.</li>
+<li>SearchGPT har som mål å gi direkte svar uten å omdirigere trafikk til nettsteder, noe som skaper bekymring for dens innvirkning på nettrafikk og nettsteders inntektsgenerering.</li>
+<li>Kunngjøringen har ført til debatter om fremtiden for SEO (søkemotoroptimalisering) og hvordan AI-søkeverktøy kan endre landskapet for online informasjonsinnhenting og annonsering.</li>
+</ul>
+<h2><a href="https://tn1ck.com/blog/how-to-generate-sudokus">Genererer sudokuer for moro skyld og uten fortjeneste</a></h2>
+<ul>
+<li>Tom Nick utviklet en gratis, åpen kildekode Sudoku-app, sudoku.tn1ck.com, opprinnelig for bestemoren sin, noe som førte til utforskning av Sudoku-generering og vanskelighetsgradering.</li>
+<li>Ulike algoritmer, inkludert Brute Force, Minimum Remaining Value og Arc Consistency (AC3), brukes til å løse og generere Sudokus, med vanskelighetsgrad målt ved antall iterasjoner av løseren.</li>
+<li>Appen genererer Sudokuer av spesifikke vanskelighetsgrader ved å fylle rutenett med tilfeldige tall, justere fylte celler og starte på nytt hvis ønsket vanskelighetsgrad ikke oppnås, for å sikre en morsom og utfordrende brukeropplevelse.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41062072">Reacties</a></h3>
+<ul>
+<li>Et blogginnlegg av TN1ck diskuterer generering av Sudoku-puslespill for moro skyld og uten fortjeneste, med interaktive eksempler og en brukervennlig nettside.</li>
+<li>Innlegget har fått positive tilbakemeldinger fra samfunnet, med brukere som deler sine egne erfaringer og verktøy for å løse og generere Sudoku-puslespill.</li>
+<li>TN1ck&#39;s nettsted er åpen kildekode, bygget med Next.js og React, og har nylig blitt gjort offentlig på GitHub for videre samarbeid og forbedring.</li>
+</ul>
+<h2><a href="https://www.google.com/search?q=roboto+mono+font">Google Søk: Roboto Mono</a></h2>
+<ul>
+<li>Roboto Mono er en monospaced skrifttype fra Roboto-skriftfamilien, optimalisert for lesbarhet på skjerm og tilgjengelig for gratis nedlasting.</li>
+<li>Fontfamilien tilbyr en rekke vekter fra 100 til 700, inkludert kursivvarianter, og kan være selvhostet via NPM.</li>
+<li>Roboto Mono er allment tilgjengelig gjennom plattformer som Google Fonts, Adobe Fonts og ulike gratis fontlagre.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41064950">Reacties</a></h3>
+<ul>
+<li>Google har introdusert et nytt påskeegg relatert til skrifttypesøk, spesielt for &quot;Comic Sans&quot; og andre skrifttyper.</li>
+<li>Brukere deler ulike morsomme og skjulte funksjoner de har oppdaget, som å søke etter &quot;do a barrel roll&quot; eller &quot;minecraft&quot; på Google.</li>
+<li>Samfunnet setter pris på disse påskeeggene, selv om noen uttrykker bekymring for ressursene som brukes på å vedlikeholde dem.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Node.js legger til eksperimentell støtte for TypeScript" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Node.js%20legger%20til%20eksperimentell%20st%C3%B8tte%20for%20TypeScript&subheading=donderdag%2025%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/25</link>
+            <guid isPermaLink="false">2024-07-25T00:00:00.000Z</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-24]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/24&#39;</h2>
+<h1>2024-07-24</h1>
+<h2><a href="https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html">Hydrotermisk eksplosjon i Yellowstone nasjonalpark</a></h2>
+<ul>
+<li>Skogvesenet jobber med å stenge deler av Mike Harris-stisystemet.</li>
+<li>MD Nursery har blitt bøtelagt over $28,000 på grunn av en manns død i en grøft.</li>
+<li>En hydrotermal eksplosjon ved Biscuit Basin i Yellowstone fikk turister til å flykte.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41050055">Reacties</a></h3>
+<ul>
+<li>En hydrotermal eksplosjon skjedde i Yellowstone nasjonalpark i det termiske området Biscuit Basin, og skadet gangveien, men forårsaket ingen skader.</li>
+<li>Eksplosjonen oppsto nær Black Diamond Pool og ble registrert av besøkende, noe som førte til midlertidige stengninger i området av sikkerhetsgrunner.</li>
+<li>Eksperter understreker at slike lokale hydrotermale hendelser ikke er indikative for aktivitet i den større Yellowstone Caldera (supervulkanen).</li>
+</ul>
+<h2><a href="https://mistral.ai/news/mistral-large-2407/">Stor nok – Mistral AI</a></h2>
+<ul>
+<li>Mistral AI har lansert Mistral Large 2-modellen, med et 128k kontekstvindu og støtte for over 80 programmeringsspråk, optimalisert for enkelt-node inferens med 123 milliarder parametere.</li>
+<li>Modellen oppnår 84,0 % nøyaktighet på MMLU, og overgår tidligere modeller og rivaler som GPT-4o og Llama 3 405B, med forbedrede evner til å minimere &quot;hallusinasjoner&quot; og forbedre resonnement.</li>
+<li>Mistral Large 2 er tilgjengelig under forskjellige lisenser for ikke-kommersiell og kommersiell bruk, med vekter som er vert på HuggingFace og utvidede skytjenestesamarbeid, inkludert Google Cloud Platform og Azure AI Studio.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41058107">Reacties</a></h3>
+<ul>
+<li>Den nye modellen til Mistral AI, Large 2, og Metas Llama 3.1 405B ble testet og funnet å være sammenlignbare, uten en klar vinner.</li>
+<li>Brukere fremhevet at Claude fortsatt er et sterkt alternativ, men uttrykte et ønske om forbedringer som smartere svar, lengre kontekstvinduer og raskere svar.</li>
+<li>Til tross for at noen modeller sliter med enkle oppgaver på grunn av tokeniseringsproblemer, forblir den raske utviklingen og konkurransen innen AI-modeller spennende, med mange brukere som bytter til modeller som Claude Sonnet 3.5 for bedre ytelse i koding og andre oppgaver.</li>
+</ul>
+<h2><a href="https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html">Ta diabetesbehandlingen i egne hender</a></h2>
+<ul>
+<li>En type 1-diabetiker utviklet en Windows Forms-applikasjon med OxyPlot-diagrammer for bedre å visualisere og administrere insulin- og karbohydratinntak.</li>
+<li>Individet brukte GeneticSharp, et genetisk algoritmebibliotek, for å optimalisere insulindoser, og stabiliserte dermed glukosenivåene.</li>
+<li>Tilnærmingen viser lovende resultater for personlig diabetesbehandling, selv om ytterligere simuleringer og justeringer for langtidsvirkende insulin er nødvendig.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052365">Reacties</a></h3>
+<ul>
+<li>Personer med diabetes deler personlige erfaringer og strategier for å håndtere tilstanden sin, og understreker viktigheten av egenovervåking og datalogging.</li>
+<li>Ulike metoder som diskuteres inkluderer kostholdsendringer, kontinuerlig glukoseovervåking (CGM) og personlig sporing av mat- og treningspåvirkninger på blodsukkernivået.</li>
+<li>Diskusjonen fremhever en vanlig følelse av selvhjulpenhet på grunn av oppfattede mangler i helsevesenets håndtering av diabetes.</li>
+</ul>
+<h2><a href="https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/">Google er den eneste søkemotoren som fungerer på Reddit nå, takket være AI-avtalen</a></h2>
+<ul>
+<li>Google er nå den eneste søkemotoren som kan vise nylige Reddit-resultater, noe som gjør Reddit-innhold eksklusivt for Google.</li>
+<li>Andre søkemotorer som Bing, DuckDuckGo og Qwant kan ikke vise nylige Reddit-resultater, med DuckDuckGo som gir begrensede lenker uten beskrivelser.</li>
+<li>Denne situasjonen understreker Googles nesten monopol på søk, noe som påvirker konkurransen og trekker kritikk over søkekvaliteten, med spekulasjoner om en avtale verdt flere millioner dollar som tillater Google å skrape Reddit for AI-trening.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41057033">Reacties</a></h3>
+<ul>
+<li>Google har blitt den eksklusive søkemotoren for Reddit på grunn av en ny AI-avtale, med Reddits robots.txt-fil som blokkerer andre søkemotorer fra å indeksere innholdet.</li>
+<li>Dette vedtaket har utløst debatter om dets virkninger på konkurransen mellom søkemotorer og prinsippene for et åpent internett.</li>
+<li>Bekymringer har blitt reist om den antikonkurransedyktige naturen til avtalen og dens potensielle negative innvirkning på brukeropplevelse og innholdstilgjengelighet.</li>
+</ul>
+<h2><a href="https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan">Du kan velge bort ansiktsskanninger på flyplassen</a></h2>
+<ul>
+<li>Reisende kan velge bort ansiktsgjenkjenning på flyplassen ved å stå unna kameraet, vise ID-en sin og si: «Jeg velger bort biometrikk.»</li>
+<li>Algorithmic Justice League sin kampanje “Freedom Flyers” har som mål å øke bevisstheten om denne retten, spesielt ettersom TSA planlegger å utvide ansiktsgjenkjenning til alle amerikanske flyplasser.</li>
+<li>Ansiktsgjenkjenning utgjør risikoer som datainnbrudd, feilgjenkjenning, AI-skjevhet og normalisering av overvåking, med betydelige personvernhensyn knyttet til oppbevaring og bruk av biometriske data.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41051327">Reacties</a></h3>
+<ul>
+<li>Erfaringer med å velge bort ansiktsskanninger på flyplasser varierer betydelig, med noen brukere som møter motstand og andre som ikke opplever noen problemer.</li>
+<li>Avanserte kameraer på flyplasser tar 3D-bilder for høy ansiktsgjenkjenningsnøyaktighet, noe som vekker bekymring for oppbevaring av ansiktsdata og allestedsnærværende overvåking.</li>
+<li>Debatten fortsetter om hvorvidt det å velge bort er essensielt for å motstå normaliseringen av overvåkingspraksis, eller om det er fåfengt på grunn av utbredelsen av slike teknologier.</li>
+</ul>
+<h2><a href="https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/">CrowdStrike tilbyr et unnskyldningsgavekort på $10 for å beklage avbruddet</a></h2>
+<ul>
+<li>Cybersecurity-firmaet CrowdStrike forårsaket et globalt strømbrudd 19. juli på grunn av en feilaktig oppdatering, som påvirket millioner av datamaskiner og førte til betydelige forstyrrelser som flyplassforsinkelser og stansede operasjoner.</li>
+<li>Som en unnskyldning tilbød selskapet $10 Uber Eats-gavekort til sine partnere, men noen mottakere rapporterte at kupongene var ugyldige.</li>
+<li>CEO og sjefssikkerhetsoffiser i CrowdStrike ga offentlige unnskyldninger, erkjente alvoret i hendelsen og forpliktet seg til åpenhet og fremtidige forebyggende tiltak.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41058261">Reacties</a></h3>
+<ul>
+<li>Som en unnskyldning for et strømbrudd utstedte CrowdStrike Uber Eats-gavekort på $10, men mange brukere fant ut at kupongene var ugyldige, noe som førte til kritikk og spekulasjoner om selskapets kompetanse.</li>
+<li>Noen brukere mistenkte at gavekortproblemet kunne være et phishingforsøk eller et hack, noe som ytterligere skadet CrowdStrikes omdømme.</li>
+<li>Gesten ble oppfattet som utilstrekkelig og fornærmende, spesielt gitt utfallens betydelige innvirkning på kritiske tjenester som flyselskaper og sykehus, noe som utløste diskusjoner om potensielle juridiske ansvar.</li>
+</ul>
+<h2><a href="https://papersplease.org/wp/2024/07/23/what-consent-really-looks-like-for-the-dea-and-tsa/">Hvordan &quot;samtykke&quot; ser ut for DEA og TSA</a></h2>
+<ul>
+<li>DEA og TSA har samarbeidet for å beslaglegge reisendes penger ved å målrette de som bærer store mengder kontanter, ved å bruke informanter og TSA-kontrollpunkter for å identifisere individer og hevde at de &quot;samtykker&quot; til søk.</li>
+<li>Denne praksisen, som også gjelder for Amtrak-tog med hjelp fra USAs toll- og grensebeskyttelse, innebærer &quot;sivil inndragning&quot; der penger beslaglegges uten en arrestordre, ofte uten å ta hensyn til passasjerenes avslag på å samtykke.</li>
+<li>Et pågående gruppesøksmål fremhever hyppigheten av disse ulovlige søkene, med saksøkerne som argumenterer for at mengden av opptegnelser indikerer et systemisk problem, til tross for DEA og TSA sin motstand mot å avsløre disse opptegnelsene.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053329">Reacties</a></h3>
+<ul>
+<li>Et bryllup ble forstyrret av en plutselig flom, noe som nødvendiggjorde en redningsoperasjon, selv om ingen alvorlige skader oppsto.</li>
+<li>Politiet arresterte deltakerne på busser med narkotikahunder før de flyttet dem til et tilfluktsrom på en videregående skole, noe som økte deres nød.</li>
+<li>Den hendelsen utløste en diskusjon om politiets maktmisbruk, sivil inndragning av eiendeler og krigen mot narkotika, og fremhevet behovet for reform og dens innvirkning på offentlig tillit og sikkerhet.</li>
+</ul>
+<h2><a href="https://github.com/trholding/llama2.c/blob/master/runq.c">Llama 3.1 i C</a></h2>
+<ul>
+<li>En ny C-basert implementering for inferens på Llama 2 og Llama 3/3.1 Transformer-modeller har blitt utgitt, med int8 kvantisert fremoverpassering.</li>
+<li>Den koden inkluderer støtte for ulike miljøer som Linux Kernel, Unikraft Unikernel, og innebygde modeller via Zip Archive.</li>
+<li>Brukere kan tilpasse parametere som temperatur, top-p sampling og modellversjon gjennom kommandolinjeargumenter, noe som øker fleksibiliteten for ulike bruksområder.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053201">Reacties</a></h3>
+<ul>
+<li>Metas Llama 3.1-modeller kan generere flerspråklig tekst, men den nåværende implementeringen i C er fortsatt buggy og krever ytterligere forbedring.</li>
+<li>Prosjektet innebærer kvantisering av modellen til 8-bit, noe som kan forringe utgangskvaliteten, humoristisk referert til som &#39;hjerneskade.&#39;</li>
+<li>Samfunnet bidrar aktivt til å forbedre implementeringen, med diskusjoner rundt optimale kvantiseringsmetoder og utvidelse av kontekstens lengde ved bruk av nye skaleringsteknikker.</li>
+</ul>
+<h2><a href="https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html">Opprinnelsen til Emacs i 1976</a></h2>
+<ul>
+<li>EMACS, en teksteditor, ble utviklet ved MIT AI Lab i 1976, med Richard Stallman (RMS) som hovedutvikler ved slutten av det året.</li>
+<li>RMS het &quot;E&quot; og &quot;EMACS&quot; og spilte en avgjørende rolle i å transformere TECO-makroer til en kraftig editor, med innledende hjelp fra Guy Steele, David Moon og John Kulp.</li>
+<li>Det tidlige brukersamfunnet, inkludert Moon, bidro til hurtigtaster og kommandonavn, noe som fremhever den samarbeids- og fellesskapsdrevne naturen til utviklingen av EMACS.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052593">Reacties</a></h3>
+<ul>
+<li>På 1976 brukte MIT-AI &quot;at&quot; i stedet for @-symbolet for e-postadresser på grunn av fraværet av DNS (Domain Name System).</li>
+<li>De tidlige datavitenskapsfolk foretrakk klare datoformater som &quot;dd MON yy&quot; og diskuterte tidlige nettverksfilsystemer og protokoller som MLDEV og SUPDUP.</li>
+<li>Emacs, en teksteditor opprinnelig skrevet i TECO, utviklet seg med bidrag fra utviklere som James Gosling, som laget en Unix-versjon i 1981.</li>
+</ul>
+<h2><a href="https://github.com/tekknolagi/scrapscript">Scrapscript: Et funksjonelt, innholds-adresserbart programmeringsspråk</a></h2>
+<ul>
+<li>Scrapscript er et programmeringsspråk med en tolk tilgjengelig for Python 3.8+ og Cosmopolitan, og det støtter Docker for containerisert kjøring.</li>
+<li>Syntaxen til Scrapscript skal snart oppdateres, og brukere kan referere til <code>scrapscript.py</code> og dets tester for å forstå språket.</li>
+<li>En eksperimentell kompilator er tilgjengelig, i stand til å produsere utdata i ELF-, Cosmopolitan- og Wasm-formater, med spesifikke kommandoer gitt for hver.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052371">Reacties</a></h3>
+<ul>
+<li>Scrapscript er et nytt funksjonelt, innholdsadresserbart programmeringsspråk designet for å løse problemer med deling av programvare ved hjelp av JSON-lignende typer, funksjoner og hashede referanser.</li>
+<li>Til forskjell fra Unison, som bruker et git-basert paradigme, er Scrapscript mer ambisiøs og fokuserer på IPFS (InterPlanetary File System) for kodeidentifikasjon og serialisering.</li>
+<li>Språket har fått oppmerksomhet på grunn av sin offentlige utvikling og den personlige reisen til skaperen, som overvant alkoholisme mens han arbeidet med prosjektet.</li>
+</ul>
+<h2><a href="https://www.nature.com/articles/d41586-024-02383-9">Du fikk et nullresultat. Vil noen publisere det?</a></h2>
+<ul>
+<li>Forskere møter utfordringer med å publisere nullresultater, som viser ingen signifikant sammenheng mellom variabler, noe som fører til en skjevhet som favoriserer positive funn.</li>
+<li>Denne publikasjonsbiasen forvrenger den vitenskapelige opptegnelsen og sløser med ressurser, slik det ses i evolusjonsbiolog Natalie Pilakoutas ufullstendige studie om fiskepreferanser i Islands varme kilder.</li>
+<li>Forsøk på å løse dette problemet inkluderer tidsskrifter som oppmuntrer til forhåndsregistrerte rapporter, men langsom adopsjon og oppfatningen av at nullresultater indikerer feilaktig forskning forblir betydelige hindringer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41056387">Reacties</a></h3>
+<ul>
+<li>Diskusjonen fremhever utfordringene og mangelen på insentiver for å publisere nullresultater i vitenskapelig forskning, til tross for deres potensielle verdi.</li>
+<li>En betydelig andel av forskere er villige til å publisere nullresultater, men svært få er i stand til å gjøre det på grunn av systemiske barrierer og mangel på etterspørsel fra høyt rangerte tidsskrifter.</li>
+<li>Forslagene inkluderer å opprette dedikerte tidsskrifter for nullresultater, integrere nullresultater som vedlegg til hovedpublikasjoner, og forbedre fagfellevurderingsprosessen ved å inkludere forhåndsregistrering av metoder.</li>
+</ul>
+<h2><a href="https://glhf.chat/landing/home">Vi laget glhf.chat – kjør nesten hvilken som helst åpen kildekode LLM, inkludert 405B</a></h2>
+<ul>
+<li>En ny nettside, <a href="https://glhf.chat/">https://glhf.chat/</a>, lar brukere kjøre nesten hvilken som helst åpen kildekode LLM (Large Language Model) på autoskalerende GPU-klynger gratis under prisbestemmelsesfasen.</li>
+<li>Servicen støtter alle modeller som er kompatible med det åpen kildekode vLLM-prosjektet, og tilbyr opptil ~640GB VRAM. Den har som mål å være mer kostnadseffektiv enn andre GPU-tjenester ved å kjøre modeller med flere leietakere.</li>
+<li>Plattformen ble lansert på Llama-3.1-405B lanseringsdagen og støtter effektive modeller som Llama-3-70b finetunes, med planer om å forbedre støtten for større modeller og adressere nåværende begrensninger.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052934">Reacties</a></h3>
+<ul>
+<li>glhf.chat lar brukere kjøre nesten hvilken som helst åpen kildekode LLM (Large Language Model) på autoskalerende GPU-klynger, for øyeblikket gratis mens de fastsetter prisingen.</li>
+<li>Servicen støtter alle modeller som er kompatible med det åpen kildekode vLLM-prosjektet, inkludert populære modeller som Llama-3-70b finetunes, med noen begrensninger på grunn av NVLink-problemer.</li>
+<li>Lansert på Llama-3.1-405B lanseringsdagen, har plattformen som mål å være kostnadseffektiv ved å kjøre modeller i et flerleiemiljø og ønsker tilbakemeldinger fra brukerne velkommen.</li>
+</ul>
+<h2><a href="https://pnut.sh">Pnøtt: En C til POSIX shell-kompilator du kan stole på</a></h2>
+<ul>
+<li>PNut er en C til POSIX shell transpiler som konverterer C-programmer til menneskelesbare shell-skript, og sikrer høy portabilitet på tvers av POSIX-kompatible shell.</li>
+<li>Det lar utviklere skrive skript i C uten å måtte lære et nytt språk, og resultatet er lett å inspisere, feilsøke og vedlikeholde.</li>
+<li>PNut kjører på alle større operativsystemer, inkludert Linux, macOS og Windows, og er lisensiert under BSD-2 Clause License.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41052446">Reacties</a></h3>
+<ul>
+<li>Pnøtt er en C til POSIX shell-kompilator som kan distribueres som et menneskelesbart shell-skript, noe som muliggjør reproduserbare bygg fra kildefiler.</li>
+<li>Den kan kompilere seg selv og, med innsats, Tiny C Compiler (TCC), som deretter kan bootstrappe GNU Compiler Collection (GCC), og skape en fullstendig byggverktøykjede.</li>
+<li>Selv om Pnut blir rost for sin innovasjon, møter det kritikk angående praktiske begrensninger, som håndtering av binær I/O og visse C-konstruksjoner, samt varierende meninger om dets pålitelighet og fullstendighet.</li>
+</ul>
+<h2><a href="https://www.chm.bris.ac.uk/motm/mppp/mppph.htm">MPPP – Den første &#39;designer drug&#39; katastrofen (2023)</a></h2>
+<ul>
+<li>MPPP (1-metyl-4-fenyl-4-propionoksypiperidin) er et designerdop først rapportert i 1947, ment som et smertestillende middel, men funnet å ikke være bedre enn eksisterende alternativer.</li>
+<li>In 1976 syntetiserte Barry Kidston MPPP og utviklet Parkinson-lignende symptomer på grunn av en urenhet, MPTP, som selektivt dreper celler som er avgjørende for motorisk kontroll.</li>
+<li>Utbruddet i 1982 av Parkinsons symptomer knyttet til MPTP-forurenset syntetisk heroin førte til betydelige vitenskapelige innsikter i Parkinsons sykdom og fremhevet farene ved amatørmessig narkotikasyntese.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41053383">Reacties</a></h3>
+<ul>
+<li>Diskusjonen dreier seg om farene ved designerdroger, spesielt MPPP og dets biprodukt MPTP, som har blitt knyttet til Parkinson-lignende symptomer hos brukere.</li>
+<li>Det legges vekt på risikoene forbundet med syntetiske stoffer, viktigheten av stoffrenhet, og de potensielle fordelene ved å legalisere og regulere stoffer for å sikre sikkerhet.</li>
+<li>Brukere deler personlige erfaringer og understreker behovet for forsiktighet og riktig testing, samtidig som de tar opp de bredere implikasjonene av narkotikaforbud og utfordringene med å sikre trygg bruk.</li>
+</ul>
+<h2><a href="https://en.wikipedia.org/wiki/Micromouse">Micromouse</a></h2>
+<ul>
+<li>Micromouse er en robotkonkurranse der små autonome roboter løser en 16×16 labyrint, som stammer fra slutten av 1970-tallet og er populær i flere land, inkludert Storbritannia, USA og Japan.</li>
+<li>Roboter bruker algoritmer som Bellman flood-fill, Dijkstra&#39;s og A* for navigasjon, med topphastigheter som overstiger tre meter per sekund; den nåværende verdensrekorden er 3,921 sekunder av Ng Beng Kiat.</li>
+<li>Nyere fremskritt inkluderer bruk av vifter for ekstra marktrykk, som muliggjør akselerasjoner over 2,5g, og en variant kalt Half-Size Micromouse bruker en 32×32 labyrint med mindre dimensjoner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41055230">Reacties</a></h3>
+<ul>
+<li>Micromouse er en robotikkonkurranse der små roboter navigerer i en labyrint, med en nylig video av Veritasium som fremhever emnet.</li>
+<li>Konkurransen inkluderer en rekognoseringsfase for å kartlegge labyrinten, og forskjellige strategier som veggfølgning og labyrintkartlegging brukes.</li>
+<li>Arrangementet engasjerer unge mennesker i programmering og ingeniørfag, med kategorier som LEGO-roboter og mer avanserte roboter, som demonstrerer teknologiens utvikling gjennom tiårene.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Hydrotermisk eksplosjon i Yellowstone nasjonalpark" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Hydrotermisk%20eksplosjon%20i%20Yellowstone%20nasjonalpark&subheading=woensdag%2024%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/24</link>
+            <guid isPermaLink="false">2024-07-24T00:00:00.000Z</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-23]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/23&#39;</h2>
+<h1>2024-07-23</h1>
+<h2><a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/">Åpen kildekode AI er veien fremover</a></h2>
+<ul>
+<li>Åpen kildekode Linux ble industristandarden for nettskyen og mobile enheter på grunn av sin modifiserbarhet, rimelighet og avanserte funksjoner, lik den forventede utviklingen av AI.</li>
+<li>Meta har lansert Llama 3.1 405B, den første grense-nivå open-source AI-modellen, sammen med forbedrede 70B og 8B modeller, med vekt på bedre kostnad/ytelse og egnethet for finjustering.</li>
+<li>Meta samarbeider med selskaper som Amazon, Databricks og NVIDIA for å støtte utviklere, med mål om å gjøre åpen kildekode AI til industristandard, fremme åpenhet, sikkerhet og økonomisk vekst.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046773">Reacties</a></h3>
+<ul>
+<li>Meta har lansert Llama 3.1, en åpen kildekode AI-modell, med en modell på 405 milliarder parametere og forbedrede modeller på 70 milliarder og 8 milliarder parametere.</li>
+<li>Dette utgivelsen oppfattes som et strategisk trekk for å utfordre konkurrenter som OpenAI, Google og Microsoft ved å tilby avanserte AI-modeller gratis, med restriksjoner for selskaper som overstiger 700 millioner brukere.</li>
+<li>Kritikere hevder at uten tilgang til treningsdataene og infrastrukturen, er disse modellene mer lik freeware enn genuint åpen kildekode, noe som utløser debatt om Metas egentlige hensikter og de bredere implikasjonene.</li>
+</ul>
+<h2><a href="https://bitbuilt.net/forums/index.php?threads/kawaii.6474/">Kawaii – En nøkkelring-størrelse Nintendo Wii</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41038552">Reacties</a></h3>
+<ul>
+<li>Thundervolt-prosjektet innebærer å modifisere en Nintendo Wii ved å trimme ned dens PCB (Printed Circuit Board) for å beholde kun essensielle komponenter som DRAM (Dynamic Random-Access Memory) og prosessorer, og legge til et eksternt DCDC (Direct Current to Direct Current) kort for strøm.</li>
+<li>Prosjektet har som mål å lage en nøkkelring-størrelse Wii, kalt &quot;Kawaii,&quot; som er mindre enn andre miniatyriserte versjoner som GC Nano, men som fortsatt krever en dokkingstasjon for full funksjonalitet, inkludert strømtilførsel og kontrollerforbindelser.</li>
+<li>Dette prosjektet fremhever den pågående interessen og innovasjonen innen retrospill og konsollminiatyrisering, og viser samfunnets dedikasjon til å bevare og forbedre klassisk spillmaskinvare.</li>
+</ul>
+<h2><a href="https://github.com/linuxmint/timeshift">Timeshift: Systemgjenopprettingsverktøy for Linux</a></h2>
+<ul>
+<li>Timeshift for Linux er et system backup-verktøy som ligner på Windows Systemgjenoppretting og Mac OS Time Machine, med fokus på systemfiler og innstillinger.</li>
+<li>Den støtter to moduser: RSYNC (ved bruk av rsync og hard-links) og BTRFS (ved bruk av BTRFS-filsystemfunksjoner), hvor sistnevnte krever en spesifikk subvolumlayout.</li>
+<li>Utviklet av Tony George og nå en del av Xapp-prosjektet av Linux Mint, tilbyr Timeshift funksjoner som flere øyeblikksnivåer, gjenoppretting på tvers av distribusjoner og etter-gjenopprettingskroker, med installasjonsinstruksjoner tilgjengelig for ulike Linux-distribusjoner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41039967">Reacties</a></h3>
+<ul>
+<li>Timeshift er et systemgjenopprettingsverktøy for Linux, lik macOS&#39;s Time Machine og Windows&#39; Systemgjenoppretting, som lar brukere opprette filsystemøyeblikksbilder ved hjelp av rsync og hardlinker.</li>
+<li>Brukere diskuterer ulike sikkerhetskopiløsninger og konfigurasjoner, inkludert restic, rclone, ZFS, BTRFS og LVM-snapshots, og fremhever viktigheten av atomiske snapshots for databasekonsistens og pålitelige sikkerhetskopier.</li>
+<li>Diskusjonen understreker behovet for robuste backupstrategier, sammenligner verktøy som restic, Borg og kopia, og diskuterer fordeler og ulemper med forskjellige filsystemer og snapshot-metoder.</li>
+</ul>
+<h2><a href="https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792">Juli 2024-oppdatering om ustabilitetsrapporter på Intel Core 13./14. generasjons stasjonære CPUer</a></h2>
+<ul>
+<li>Intel har identifisert ustabilitet i sine 13. og 14. generasjons stasjonære prosessorer forårsaket av forhøyet driftsspenning fra en mikrokodealgoritme.</li>
+<li>En mikrocodeoppdatering for å løse dette problemet forventes innen midten av august, og Intel råder berørte kunder til å kontakte kundestøtte for assistanse.</li>
+<li>Brukere har uttrykt bekymring for potensiell langsiktig skade på CPU, behovet for BIOS-oppdateringer, og har rapportert RMA (Return Merchandise Authorization) problemer mens de søker veiledning om hvordan man kan håndtere ustabiliteten til oppdateringen blir utgitt.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41039708">Reacties</a></h3>
+<ul>
+<li>Intels oppdatering fra juli 2024 indikerer et mikrokodeproblem i 13./14. generasjons stasjonære CPUer som forårsaker feil spenningsforespørsler, selv om noen brukere mistenker en maskinvarefeil.</li>
+<li>Bekymringer oppstår på grunn av Intels forsinkelse med å adressere problemet og rapporter om at feilfrie CPU-er sendes uten oppdatert mikrokode, noe som potensielt kan føre til langsiktig CPU-forringelse.</li>
+<li>Intel planlegger å slippe en mikrocode-oppdatering, men dens effektivitet og innvirkning på ytelsen er usikker, med brukere som rapporterer blandede erfaringer angående CPU-stabilitet.</li>
+</ul>
+<h2><a href="https://kb.databasedesignbook.com/posts/google-calendar/">Database Design for Google Calendar: En veiledning</a></h2>
+<ul>
+<li>Veiledningen av Alexey Makhotkin gir en omfattende guide om å designe databasetabeller for en Google Kalender-klone, etter tilnærmingen fra den kommende boken “Database Design using Minimal Modeling.”</li>
+<li>Den dekker den logiske modellen grundig, og beskriver hvordan man håndterer grunnleggende heldagseventer, tidsbaserte hendelser og gjentatte hendelser, og går deretter over til å opprette fysiske SQL-tabeller.</li>
+<li>Opplæringen er rettet mot lesere med en generell forståelse av databaser, og hjelper dem med å gå fra konseptuelle ideer til komplette databasetabelldefinisjoner, og inkluderer praktiske trinn for å implementere designet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41043371">Reacties</a></h3>
+<ul>
+<li>En diskusjon om Google Kalender sin databasedesign foreslår å optimalisere en iCalendar-parser for rask hendelsesskanning i stedet for å lage et komplekst skjema.</li>
+<li>Bekymringer ble reist om behovet for SQL-lignende områdesøk og brukerspesifikke forespørsler, som tradisjonelle databaser håndterer godt.</li>
+<li>Debatten inkluderte utfordringer som tidssoner, sommertid og tilbakevendende hendelser, med enighet om at SQLs evne til å håndtere relasjoner og spørringer gjør det egnet for kalenderapplikasjoner.</li>
+</ul>
+<h2><a href="https://danq.me/2024/07/21/ascii/">Elegansen til ASCII-tabellen</a></h2>
+<ul>
+<li>ASCII-tabellen, standardisert i 1963, tildeler betydninger til 100 av 128 mulige 7-bits binære kodepunkter og er fortsatt relevant i dag, spesielt med UTF-8-koding som er bakoverkompatibel.</li>
+<li>Tabellen inkluderer kontrollkoder, utskrivbare tegn, og følger spesifikke binære mønstre, med mellomromstegnet som det første utskrivbare tegnet for sorteringsformål.</li>
+<li>ASCII sitt design er logisk og estetisk tiltalende, noe som gjør det sammenhengende for mennesker å lære og forstå, og reflekterer dets historiske betydning og raffinerte logikk.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41040543">Reacties</a></h3>
+<ul>
+<li>Innlegget diskuterer elegansen og nytten av ASCII-tabellen, en tegnkodingstandard som brukes i databehandling.</li>
+<li>Det fremhever hvordan brukere kan få tilgang til ASCII-tabellen på Linux-systemer via kommandoen <code>man ascii</code>, som er nyttig for shell escape-koder og regulære uttrykk (regex).</li>
+<li>Diskusjonen inkluderer historisk kontekst og personlige anekdoter om å lære ulike teknologier gjennom manpages, og understreker ASCII-tabellens langvarige relevans i databehandling.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41042123">Er det mulig å tjene FAANG-lønninger uten å jobbe der?</a></h2>
+<ul>
+<li>Forskjellen i lønn mellom FAANG (Facebook, Amazon, Apple, Netflix, Google) og ikke-FAANG-selskaper er betydelig, med FAANG-ingeniører som mottar vesentlig høyere kompensasjonspakker.</li>
+<li>En stabingeniør i en typisk oppstartsbedrift kan tjene en grunnlønn på $250k pluss en bonus på 10-20%, mens en stabingeniør i en FAANG-bedrift kan motta en lignende grunnlønn pluss $1 million i aksjer over fire år.</li>
+<li>Innlegget stiller spørsmål ved om personer utenfor FAANG og store banker/høyfrekvent handel (HFT) selskaper tjener sammenlignbare beløp, og søker å identifisere hvem de er og deres roller.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042123">Reacties</a></h3>
+<ul>
+<li>Å tjene FAANG-nivå lønninger utenfor FAANG-selskaper er mulig, men sjeldent, og innebærer ofte nisje- eller høy-stress roller.</li>
+<li>Høyt betalende alternativer inkluderer hedgefond, høyfrekvent handelsfirmaer, spesialisert rådgivning, nisjeprogramvareselskaper, ekspertise på eldre systemer og entreprenørskap.</li>
+<li>Disse rollene kommer vanligvis med høy stress, intens konkurranse eller betydelig risiko og innsats, noe som gjør dem mindre vanlige og enkle sammenlignet med FAANG-jobber.</li>
+</ul>
+<h2><a href="https://llama.meta.com/">Llama 3.1</a></h2>
+<ul>
+<li>Llama 3.1 er en åpen kildekode AI-modell tilgjengelig i tre versjoner: 8B, 70B og 405B, som dekker ulike ytelses- og kostnadsbehov.</li>
+<li>Den støtter avanserte bruksområder, inkludert kodeassistenter, flerspråklige agenter og kompleks resonnement, med muligheter for sanntids- og batch-inferens, finjustering og syntetisk datagenerering.</li>
+<li>Modellen har blitt evaluert på over 150 datasett, og viser høy ytelse generelt, innen kode, matematikk, resonnement, verktøybruk og flerspråklige referanseverdier.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046540">Reacties</a></h3>
+<ul>
+<li>Llama 3.1, en åpen kildekode AI-modell fra Meta, viser konkurransedyktig ytelse mot lukkede kildekodemodeller som GPT-4.</li>
+<li>405B-modellen viser betydelige forbedringer i referanseverdier, men er upraktisk for hjemmebruk uten skystøtte, noe som fremhever utfordringer med å kjøre store modeller lokalt.</li>
+<li>Metas utgivelse av kraftige åpne modeller har som mål å forstyrre det konkurransedyktige landskapet, og vekker interesse for maskinvarekrav, kvantiseringsløsninger og de bredere implikasjonene for AI-utvikling og tilgjengelighet.</li>
+</ul>
+<h2><a href="https://anatolyzenkov.com/stolen-buttons/button-stealer">Knappetyv</a></h2>
+<ul>
+<li>Button Stealer er en Chrome-utvidelse som automatisk fjerner en knapp fra alle nettsteder du besøker.</li>
+<li>Utvidelsen er designet for å være morsom og er gratis å bruke, uten praktisk nytte.</li>
+<li>Det sikrer brukerens databeskyttelse ved å operere lokalt på brukerens enhet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042294">Reacties</a></h3>
+<ul>
+<li>Button Stealer, en Chrome-utvidelse, vekker bekymringer om sikkerhet på grunn av sine brede tillatelser, som kan tillate den å skrape data fra hvilken som helst nettside.</li>
+<li>Brukere foreslår å gjennomgå koden på GitHub og installere den lokalt for å unngå potensielt ondsinnede oppdateringer, mens andre hevder at slike risikable utvidelser ikke bør være i Chrome-butikken.</li>
+<li>Diskusjonen understreker behovet for mer spesifikke tillatelser og forbedrede sikkerhetspraksiser for nettleserutvidelser.</li>
+</ul>
+<h2><a href="https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/">Re: Vet folk i det virkelige liv at du har en blogg?</a></h2>
+<ul>
+<li>Forfatteren diskuterer den personlige betydningen av å opprettholde en blogg i nesten tjue år, til tross for likegyldighet fra folk i det virkelige liv (IRL).</li>
+<li>Bloggen fungerer som en form for selvuttrykk og frihet, i kontrast til presset fra sosiale medier og store teknologiselskaper.</li>
+<li>Lesernes svar fremhever ulike perspektiver, inkludert fordelene med blogging for personlig klarhet, bekymringer om AI-utnyttelse, og oppmuntring til å skrive uten analyseverktøy.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41041537">Reacties</a></h3>
+<ul>
+<li>Personlige nettsteder tilbyr fleksibilitet og raffinement uten presset av regelmessige oppdateringer, i motsetning til blogger som kan føles late og lite innbydende.</li>
+<li>Blogg kan være nyttige for historikere og deling av tanker, men personlige sider foretrekkes for deres organisering og kreative potensial.</li>
+<li>Noen individer bruker pseudonymer på personlige nettsteder for å unngå profesjonelle konsekvenser, noe som fremhever den personlige karakteren til disse plattformene.</li>
+</ul>
+<h2><a href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html">Wiz går bort fra avtale på 23 milliarder dollar med Google</a></h2>
+<ul>
+<li>Wiz har besluttet å forlate en oppkjøpsavtale på 23 milliarder dollar med Google og vil i stedet forfølge en børsnotering (IPO), som kunngjort av administrerende direktør Assaf Rappaport.</li>
+<li>Avgjørelsen ble påvirket av antitrust- og investorbekymringer, med Wiz som sikter mot 1 milliard dollar i årlige tilbakevendende inntekter.</li>
+<li>Grunnlagt i 2020, har Wiz raskt vokst, oppnådd 350 millioner dollar i årlig tilbakevendende inntekter i fjor, og tilbyr skysikkerhetsprodukter.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042034">Reacties</a></h3>
+<ul>
+<li>Det er mulig at Wiz har trukket seg fra en avtale på 23 milliarder dollar med Google, muligens på grunn av at Google har revurdert avtalen etter en intern dataevaluering.</li>
+<li>Wiz hevder at de gikk bort fordi de mener at deres verdivurdering er høyere, selv om det eksisterer skepsis rundt deres høye verdivurdering, angivelig over 60 ganger deres årlige gjentakende inntekter (ARR).</li>
+<li>Avtalenes kollaps reiser spørsmål om Wiz&#39; faktiske verdi og fremtid, til tross for deres raske vekst til $100 millioner ARR siden deres grunnleggelse i 2020.</li>
+</ul>
+<h2><a href="https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html">Intensjon om å avslutte OCSP-tjenesten</a></h2>
+<ul>
+<li>Let&#39;s Encrypt avslutter støtten for Online Certificate Status Protocol (OCSP) til fordel for Certificate Revocation Lists (CRL) på grunn av personvernrisikoer og ressurseffektivitet.</li>
+<li>Denne endringen vil ikke påvirke nettsteder eller besøkende, men kan påvirke noe programvare som ikke er nettlesere; brukere anbefales å sikre at programvaren deres fungerer uten en OCSP-URL.</li>
+<li>CA/Browser Forum sin beslutning gjør OCSP valgfritt for offentlig betrodde sertifikatutstedere (CAs), med Microsoft som det eneste unntaket; en tidslinje for å stenge ned OCSP-tjenester vil bli kunngjort når Microsoft også gjør det valgfritt.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41046956">Reacties</a></h3>
+<ul>
+<li>Let&#39;s Encrypt planlegger å avvikle sin OCSP (Online Certificate Status Protocol)-tjeneste på grunn av problemer med sertifikatopphørslistene (CRL-er) og kompleksiteten i OCSP-systemene.</li>
+<li>Forslagene inkluderer å bruke et binært format for CRL-er for å forbedre effektiviteten og obligatorisk OCSP-stapling for å adressere personvernhensyn, selv om dette kan forstyrre mange nettsteder.</li>
+<li>Overgangen fra OCSP kan påvirke ikke-nettleserapplikasjoner og innebygde enheter, men brukere av standard webservere som Nginx eller Caddy bør ikke trenge umiddelbare endringer.</li>
+</ul>
+<h2><a href="https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/">Linux-lydstacken avmystifisert (og mer)</a></h2>
+<ul>
+<li>Artikkelen gir en omfattende oversikt over Linux-lydstakken, forklarer lydens grunnleggende prinsipper, menneskelig lydoppfatning og digital lydbehandling.</li>
+<li>Viktige komponenter i Linux-lydstakken inkluderer ALSA for lavnivå maskinvarekontroll, JACK for lav-latens sanntidslyd, og PulseAudio for høyere nivå lydhåndtering, med PipeWire som en fremvoksende enhetlig løsning.</li>
+<li>PipeWire fremheves som et allsidig alternativ som integrerer funksjoner fra både JACK og PulseAudio, og kan potensielt erstatte dem i fremtidige Linux-distribusjoner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41042753">Reacties</a></h3>
+<ul>
+<li>Linux-lydstakken, selv om den er kompleks, støtter mangfoldig maskinvare og funksjonaliteter, inkludert multipleksing og nettverksfunksjoner.</li>
+<li>Pipewire har som mål å forene Linux-lydstacken, støtte ulike API-er og forbedre PulseAudio, og tilbyr økt allsidighet og stabilitet.</li>
+<li>Selv om noen brukere møter utfordringer med avanserte oppsett, setter mange pris på forbedringene og fleksibiliteten Pipewire bringer til Linux-lyd.</li>
+</ul>
+<h2><a href="https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/">USA avslører antall atomstridshoder; gjenoppretter atomgjennomsiktighet</a></h2>
+<ul>
+<li>Federasjonen av amerikanske forskere (FAS) roser USA for å avgradere antallet atomstridshoder, noe som øker kjernefysisk åpenhet.</li>
+<li>Per september 2023 har USA 3 748 atomstridshoder, med bare 69 demontert i fjor, det laveste siden 1994.</li>
+<li>Bidens administrasjon sin avsløring gjeninnfører åpenhet som ble satt på pause av Trump-administrasjonen, og FAS oppfordrer andre atomstater til å vedta lignende åpenhet for å forhindre mistillit og feilinformasjon.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41040417">Reacties</a></h3>
+<ul>
+<li>USA har avslørt sine atomstridshode-tall, gjeninnfører atomtransparens og utløser diskusjoner om produksjonskapasitet og strategisk betydning.</li>
+<li>Viktige emner inkluderer hastigheten på potensiell produksjonsopptrapping, virkningen av lagerstørrelse på global sikkerhet og geopolitikk, og vedlikeholdsutfordringer som aldring av plutonium og utskifting av tritium.</li>
+<li>Avsløringen har som mål å berolige allierte og avskrekke motstandere ved å vise frem USAs betydelige kjernefysiske kapasiteter.</li>
+</ul>
+<h2><a href="https://github.com/codr7/sharpl">Lisp i C#</a></h2>
+<ul>
+<li>Sharpl er en tilpasset Lisp-tolk skrevet i C# med rundt 4 000 linjer kode og ingen eksterne avhengigheter, noe som gjør det enkelt å integrere.</li>
+<li>Viktige funksjoner inkluderer par, matriser, kart, metodekomposisjoner, varargs, en enhetlig iteratorprotokoll og en fikspunkt desimaltype, blant andre.</li>
+<li>Den støtter leksikalske og dynamiske bindinger, haleanropsoptimalisering for å forhindre stakkoverløp, og gir detaljert feilmelding med linjenumre.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41041575">Reacties</a></h3>
+<ul>
+<li>En utvikler ved navn codr7 jobber med en Lisp-implementering i C# og søker hjelp fra samfunnet for optimalisering.</li>
+<li>Betydelige ytelsesforbedringer har blitt oppnådd ved hjelp av forslag fra fellesskapet, som å endre hvordan ArrayStack blir aksessert og bruke Span og ReadOnlySpan for dataslicing.</li>
+<li>Prosjektet har ikke som mål å oppfylle standarder, men heller å oppnå praktisk ytelse og brukervennlighet, med pågående diskusjoner om å integrere funksjoner som makroer og Fexprs (funksjonsuttrykk).</li>
+</ul>
+<head>
+  <meta property="og:title" content="Åpen kildekode AI er veien fremover" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=%C3%85pen%20kildekode%20AI%20er%20veien%20fremover&subheading=dinsdag%2023%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/23</link>
+            <guid isPermaLink="false">2024-07-23T00:00:00.000Z</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-22]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/22&#39;</h2>
+<h1>2024-07-22</h1>
+<h2><a href="https://forum.jellyfin.org/t-we-re-good-seriously">Jellyfin: Vi er bra, seriøst</a></h2>
+<ul>
+<li>Jellyfin har et budsjett på over $24 000, som dekker 40 måneders utgifter, og ber brukerne om å omdirigere donasjoner til forfatterne av klientene de bruker.</li>
+<li>Dette forespørselen er i tråd med Jellyfins &quot;ingen betalt utvikling&quot;-policy, ettersom donasjoner er frivillige, og prosjektet vil revurdere hvis midlene faller til 12 måneders drift.</li>
+<li>Medlemmene i fellesskapet reagerer positivt, med planer om å støtte klientforfattere og forespørsler om spesifikk kundestøtte som WebOS.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031998">Reacties</a></h3>
+<ul>
+<li>Jellyfin, et åpen kildekode medieserverprosjekt, kunngjorde at de har tilstrekkelige midler og foreslo at givere støtter andre økosystemprosjekter i stedet.</li>
+<li>Samfunnet er delt på denne tilnærmingen; noen mener at midler bør fordeles til økosystemutviklere, mens andre er enige med Jellyfins beslutning om å unngå ekstra administrative byrder.</li>
+<li>Diskusjonen fremhever kompleksiteten og potensielle problemer ved å håndtere donasjoner innenfor open-source-prosjekter, inkludert åpenhet, administrativt arbeid og å opprettholde fokus på kjerneutvikling.</li>
+</ul>
+<h2><a href="https://without.boats/blog/pin/">Pin</a></h2>
+<ul>
+<li>Pin-typen og konseptet med pinning er essensielle, men ofte misforståtte komponenter i Rusts asynkrone økosystem.</li>
+<li>Pin ble introdusert for å støtte selv-refererende typer i asynkron Rust, og sikrer at objekter ikke flyttes når de inneholder selv-referanser, i motsetning til Mojo, som iboende håndterer objektidentitet.</li>
+<li>Til tross for nødvendigheten, introduserer Pin betydelig kompleksitet for brukerne på grunn av mangelen på syntaktisk sukker og støtte, noe som fører til problemer som reborrowing, pinned projeksjoner og interaksjoner med Drop-trekket.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41029287">Reacties</a></h3>
+<ul>
+<li>Diskusjonen dreier seg om Rust-programmeringsspråkets <code>Pin</code>-type, som ofte blir misforstått på grunn av uklar dokumentasjon.</li>
+<li>Pin` sikrer at visse objekter ikke kan flyttes i minnet, noe som er avgjørende for selvrefererende strukturer, men dette konseptet er ikke godt forklart i de offisielle dokumentene.</li>
+<li>Diskusjonen fremhever behovet for bedre dokumentasjon og analogier for å gjøre konseptet <code>Pin</code> og <code>Unpin</code> mer tilgjengelig for Rust-utviklere, spesielt de som er nye i språket.</li>
+</ul>
+<h2><a href="https://github.com/BurntSushi/jiff">Jiff: Datetime-bibliotek for Rust</a></h2>
+<ul>
+<li>Jiff er et nytt Rust-datotidsbibliotek med fokus på brukervennlighet og ytelse, inspirert av JavaScripts Temporal-forslag.</li>
+<li>Den tilbyr funksjoner som høynivå datetime-primitiver, sømløs integrasjon med Time Zone Database, DST-bevisst aritmetikk, formatering, parsing og valgfri Serde-støtte.</li>
+<li>Jiff er dobbelt lisensiert under MIT eller UNLICENSE, støtter Unix og Windows, og krever Rust 1.70.0 eller nyere.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031037">Reacties</a></h3>
+<ul>
+<li>Jiff er et nytt datetime-bibliotek for Rust, utviklet av BurntSushi, kjent for å lage verktøy av høy kvalitet som ripgrep.</li>
+<li>Biblioteket har som mål å håndtere kompleksiteter i datotidshåndtering, som DST (sommertid) aritmetikk, tidssonebevisste beregninger og retrospektiv tidssonekonfliktdeteksjon.</li>
+<li>Jiff tilbyr en mer brukervennlig og fleksibel API sammenlignet med den eksisterende standarden, Chrono, samtidig som den opprettholder korrekthet og kapasitet i datetime-operasjoner.</li>
+</ul>
+<h2><a href="https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html">Ikke flere blå fredager</a></h2>
+<ul>
+<li>Et stort strømbrudd 19. juli forårsaket av en kjerne driveroppdatering førte til globale Windows-systemkrasj, noe som understreker behovet for tryggere oppdateringsmekanismer.</li>
+<li>eBPF (extended Berkeley Packet Filter), allerede brukt i Linux, er et sikkert kjøringsmiljø for kjernen som kan forhindre slike krasj og vil snart bli støttet av Windows.</li>
+<li>eBPF-programmer er sikkerhetskontrollert og sandkasset, og tilbyr fordeler som forbedret sikkerhet og lavere ressursbruk, med adopsjon av selskaper som Cisco, Google og Meta for sikkerhet og observasjon.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41033579">Reacties</a></h3>
+<ul>
+<li>Microsofts eBPF (Extended Berkeley Packet Filter)-støtte for Windows er for øyeblikket begrenset til pakkefiltrering, i motsetning til Crowdstrikes omfattende kjerneovervåkingsdrivere.</li>
+<li>Å integrere eBPF i Windows&#39; eksisterende rammeverk er utfordrende, og det er usikkert om Microsoft har som mål å gjøre det til en standard.</li>
+<li>eBPF kan forbedre sikkerheten ved å isolere kjerne-kode, men det er ikke en komplett løsning, som fremhevet av den nylige Crowdstrike-hendelsen, som understreker behovet for forbedrede implementeringspraksiser og sikkerhetstiltak.</li>
+</ul>
+<h2><a href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/">Analyser, ikke valider (2019)</a></h2>
+<ul>
+<li>Innlegget understreker prinsippet &quot;Parse, don’t validate,&quot; og tar til orde for å analysere data for å bevare informasjonen i typesystemet i stedet for å forkaste den gjennom validering.</li>
+<li>Det forklarer hvordan type-drevet design i språk som Haskell kan gjøre delvise funksjoner om til totale funksjoner ved å styrke argumenttyper, ved å bruke <code>NonEmpty</code>-lister som et eksempel.</li>
+<li>Praktiske råd inkluderer å bruke presise datastrukturer, refaktorere for å flytte bevisbyrder oppover, og unngå denormaliserte datarepresentasjoner for å forbedre program pålitelighet og sikkerhet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031585">Reacties</a></h3>
+<ul>
+<li>Artikkelen &quot;Parse, Don&#39;t Validate&quot; understreker viktigheten av å analysere data for å sikre korrekthet i stedet for å gjentatte ganger validere det gjennom hele programmet.</li>
+<li>Denne tilnærmingen, forankret i konsepter som Design by Contract og Domain-Driven Design (DDD), utnytter sterke typesystemer for å håndheve garantier og redusere feil, noe som gjør koden lettere å forstå og vedlikeholde.</li>
+<li>Diskusjonen fremhever praktiske eksempler og fordeler, som å bruke distinkte typer for forskjellige valideringsstadier og sikre at data alltid er i en gyldig tilstand, noe som kan forenkle komplekse applikasjoner og forbedre påliteligheten.</li>
+</ul>
+<h2><a href="https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/">Når ChatGPT oppsummerer, gjør den ingenting av det slaget</a></h2>
+<ul>
+<li>Forfatteren har utforsket og diskutert grunnlaget for ChatGPT og andre generative AI-er, med mål om å gi realistiske perspektiver mot den rådende hypen.</li>
+<li>En viktig innsikt er at ChatGPT ikke virkelig oppsummerer innholdet, men bare forkorter det, og ofte går glipp av essensielle detaljer og forslag, som vist ved en sammenligning med en menneskegenerert oppsummering av et 50-siders dokument.</li>
+<li>Denne begrensningen oppstår fordi oppsummering krever forståelse, noe ChatGPT mangler, noe som fører til skepsis om påliteligheten til LLM-er (store språkmodeller) for praktiske forretningsapplikasjoner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41027658">Reacties</a></h3>
+<ul>
+<li>Forfatteren hevder at ChatGPTs tekstsammendrag mangler ekte forståelse, noe som resulterer i ufullstendige og noen ganger misvisende sammendrag.</li>
+<li>Den kritikken peker på fraværet av detaljer om GPT-modellen, prompten og antall forsøk i den opprinnelige analysen.</li>
+<li>Brukeropplevelser og meninger varierer, med noen som finner ChatGPT og andre LLM-er nyttige, mens andre påpeker deres begrensninger og behovet for forbedret prompting og konteksthåndtering.</li>
+</ul>
+<h2><a href="https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/">Ryanair vinner skjermskrapingssaken mot Booking.com i amerikansk rettsavgjørelse</a></h2>
+<ul>
+<li>En amerikansk domstol avgjorde at Booking.com brøt Computer Fraud and Abuse Act ved å få tilgang til Ryanairs nettside uten tillatelse, og støttet Ryanairs holdning mot uautorisert skjermskraping.</li>
+<li>Juryen i Delaware District Court fant Booking.com skyldig i uautorisert tilgang med hensikt å bedra og avviste Booking.coms motsøksmål om ærekrenkelse og urettferdig konkurranse.</li>
+<li>Ryanair-sjef Michael O&#39;Leary håper at kjennelsen vil redusere ulovlig skjermskraping og overprising, mens Booking.com planlegger å anke, og argumenterer for at prissammenligning gagner forbrukernes valg.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031960">Reacties</a></h3>
+<ul>
+<li>Ryanair vant en rettssak mot Booking.com i en amerikansk domstol for uautorisert tilgang til å videreselge billetter, i strid med Computer Fraud and Abuse Act.</li>
+<li>Avgjørelsen kan påvirke andre nettbaserte reisebyråer som bruker lignende praksis, og fremhever kompleksiteten i lovene om webskraping.</li>
+<li>Det er spekulasjoner om at avgjørelsen kan bli omgjort på grunn av motstridende rettslige presedenser.</li>
+</ul>
+<h2><a href="https://www.robkhenderson.com/p/no-one-expects-young-men-to-do-anything">Det er ingen som forventer at unge menn skal gjøre noe, og de svarer med å ikke gjøre noe (2022)</a></h2>
+<ul>
+<li>Rob Hendersons innlegg diskuterer mangelen på samfunnsforventninger til unge menn og de negative konsekvensene av dette, inkludert økt arbeidsledighet og fengslingsrater.</li>
+<li>Han refererer til &quot;Promises I Can Keep&quot; av Kathryn Edin og Maria Kefalas, som undersøker hvorfor kvinner med lav inntekt ofte prioriterer morsrollen fremfor ekteskap, og tilskriver det dårlig oppførsel fra unge menn.</li>
+<li>Hen­derson kritiserer overklassen for å undergrave normene for familiestabilitet mens de sørger for at deres egne barn drar nytte av stabile hjem, og hevder at unge menn trenger høye forventninger for å blomstre.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41032918">Reacties</a></h3>
+<ul>
+<li>Artikkelen tilskriver fenomenet &quot;unge menn uten noe å gjøre&quot; til ulikhet i formue og konsentrasjonen av rikdom blant eldre eliter, noe som driver opp prisene på nødvendigheter og hemmer etterspørselen etter nye foretak.</li>
+<li>Den diskuterer også ustabiliteten i familiestrukturer, og bemerker at samfunnsendringer og økonomiske press har endret tradisjonelle familiedynamikker.</li>
+<li>Kommentarer til artikkelen diskuterer virkningen av fraværende fedre, kvinners rolle i familiestabilitet, og de bredere samfunns- og økonomiske faktorene som bidrar til disse problemene.</li>
+</ul>
+<h2><a href="https://nitter.poast.org/GerardoMunck/status/1815059432382067053">James C. Scott, forfatter av Seeing Like a State, er død</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41028887">Reacties</a></h3>
+<ul>
+<li>James C. Scott, forfatter av &quot;Seeing Like a State,&quot; har gått bort, noe som har ført til refleksjoner over hans innflytelsesrike ideer innen teknologisamfunnet.</li>
+<li>Scotts arbeid fremhever hvordan stater og teknologi kan håndheve ensartethet, og påvirker felt som medisin, utdanning og sosialt engasjement ved å redusere mangfold.</li>
+<li>Diskusjoner på Hacker News utforsker Scotts konsepter, spesielt balansen mellom sikkerhet og fleksibilitet i programvare, og de bredere implikasjonene av teknologisk homogenitet.</li>
+</ul>
+<h2><a href="https://github.com/eza-community/eza">Eza: En moderne, vedlikeholdt erstatning for ls</a></h2>
+<ul>
+<li>eza er en moderne erstatning for ls-kommandoen i Unix og Linux, og tilbyr forbedrede funksjoner og bedre standardinnstillinger.</li>
+<li>Viktige funksjoner inkluderer fargekodede filtyper, støtte for symlinks, utvidede attributter, Git-integrasjon og menneskelesbare datoer.</li>
+<li>eza har som mål å være mer brukervennlig og funksjonsrik, med ekstra støtte for hyperkoblinger, monteringspunktsdetaljer, SELinux-kontekst og lyse terminalfarger.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031112">Reacties</a></h3>
+<ul>
+<li>Eza blir introdusert som en moderne og aktivt vedlikeholdt erstatning for den tradisjonelle <code>ls</code>-kommandoen, som lister opp kataloginnhold i Unix-lignende operativsystemer.</li>
+<li>Diskusjonen fremhever brukernes frustrasjoner med &quot;menneskelesbare datoer&quot; i katalogoppføringer, og går inn for nøyaktige tidsstempler i stedet for relative tidsformater som &quot;1 dag siden.&quot;</li>
+<li>Innlegget nevner også andre moderne kommandolinjeverktøy som brukere foretrekker fremfor tradisjonelle, som <code>bat</code> (en <code>cat</code>-erstatning med syntaksutheving) og <code>rg</code> (ripgrep, et raskere alternativ til <code>grep</code>).</li>
+</ul>
+<h2><a href="https://www.smbc-comics.com/comic/investment-2">Hvor mye penger kan vi samle inn til åpenbart idiotiske oppstartsbedrifter?</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41036844">Reacties</a></h3>
+<ul>
+<li>Artikkelen diskuterer fenomenet med å skaffe midler til oppstartsbedrifter med tilsynelatende meningsløse ideer, og fremhever hvor lett det er å få kapital til slike foretak.</li>
+<li>Den kritiserer oppstartøkosystemet og antyder at det opererer som en &quot;pump and dump&quot;-ordning, som beveger seg fra ett trendy felt til et annet, ofte med sløsing av ressurser.</li>
+<li>Diskusjonen inkluderer eksempler på vellykkede oppstartsbedrifter og debatterer verdien og innvirkningen av fokusgrupper og MVP-er (Minimum Viable Products) i produktutvikling.</li>
+</ul>
+<h2><a href="https://billabear.com/">Et faktureringssystem med tilgjengelig kildekode som jeg har brukt 18 måneder på å bygge</a></h2>
+<ul>
+<li>Plattformen tilbyr dyp integrasjon med Stripe, som muliggjør omfattende kontroll over fakturering, skattehåndtering og automatiserte arbeidsflyter.</li>
+<li>Funksjoner inkluderer administrasjon av skattesatser på ulike nivåer, opprettelse av tilpassede abonnementsplaner og integrasjon med verktøy som Slack og e-postleverandører.</li>
+<li>Systemet støtter skalerbarhet, selvhosting, og gir detaljerte forretningsinnsikter som abonnementsfrafall og livstidsverdi.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41031975">Reacties</a></h3>
+<ul>
+<li>Et nytt kildekode-tilgjengelig faktureringssystem, Billabear, har blitt lansert etter 18 måneders utvikling, og tilbyr funksjoner som ligner på Stripe, men med kildekoden tilgjengelig under Fair Source License (FSL).</li>
+<li>FSL lar brukere få tilgang til kildekoden, som overgår til en Apache 2.0-lisens etter to år, og gir mer fleksibilitet og kontroll sammenlignet med Stripes lukket kildekodemodell.</li>
+<li>Diskusjoner fremhever viktigheten av kilde tilgjengelighet for noen brukere, behovet for bedre lokalisering på forskjellige språk, og bekymringer om håndtering av amerikansk statlig omsetningsavgift og GDPR-samsvar.</li>
+</ul>
+<h2><a href="https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html">Arbeiderne har talt: De blir hjemme</a></h2>
+<ul>
+<li>Dells policy som krever tilstedeværelse på kontoret for forfremmelser ble stort sett ignorert, med mange ansatte som valgte å bli hjemme.</li>
+<li>En rapport fra Gartner indikerer at 48 % av de ansatte mener at selskapets påbud favoriserer ledernes preferanser fremfor deres egne behov.</li>
+<li>Fjernarbeid foretrekkes i økende grad for sine fordeler, inkludert ingen pendling, bedre balanse mellom arbeid og fritid, kostnadsbesparelser og fleksibilitet, med høytytende ansatte som søker fjernmuligheter.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41037097">Reacties</a></h3>
+<ul>
+<li>Arbeidere er motvillige til å vende tilbake til kontorene på grunn av dårlige miljøer, mangel på faste pulter og produktivitetsproblemer i åpne kontorlandskap.</li>
+<li>Mange ansatte synes fjernarbeid er mer effektivt og er motvillige til å gå tilbake til suboptimale kontorforhold, med pendling som en betydelig faktor.</li>
+<li>Enkelte selskaper bruker pålegg om å vende tilbake til kontoret som en strategi for å redusere antall ansatte uten å ty til oppsigelser, noe som gir næring til den pågående debatten om optimale arbeidsordninger.</li>
+</ul>
+<h2><a href="https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf">Apollo DN10000: Quad CPU/128Mb RAM arbeidsstasjon fra 1988 [pdf]</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41029987">Reacties</a></h3>
+<ul>
+<li>Den Apollo DN10000, en arbeidsstasjon med fire CPU-er og 128 MB RAM fra 1988, blir nostalgisk diskutert for sin historiske betydning og tekniske kapasiteter.</li>
+<li>Brukere husker bruken i universitetslaboratorier og dens rolle i tidlig grafikkprogrammering, til tross for det komplekse Unix-miljøet og konfigurasjonsutfordringene.</li>
+<li>Maskinens høye kostnad, opptil $250 000 på 1980-tallet (tilsvarende omtrent $660 000 i dag), fremhever dens premiumstatus og de betydelige teknologiske fremskrittene siden den gang.</li>
+</ul>
+<h2><a href="https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/">Falcon-sensoren til CrowdStrike er også knyttet til panikk og krasj i Linux-kjernen</a></h2>
+<ul>
+<li>CrowdStrike&#39;s Falcon Sensor-programvare har forårsaket systemkrasj på både Windows og Linux, inkludert Red Hat Enterprise Linux 9.4, Debian og Rocky Linux.</li>
+<li>Å deaktivere Falcon Sensor stabiliserer midlertidig de berørte systemene, og CrowdStrike tester et raskt gjenopprettingsverktøy for å løse problemet.</li>
+<li>Avbruddet har hatt betydelige globale konsekvenser, inkludert flykanselleringer og forsinkelser i helsetjenester, med Microsoft som anslår at 8,5 millioner Windows-maskiner er berørt.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41030352">Reacties</a></h3>
+<ul>
+<li>Falcon Sensor fra CrowdStrike har blitt assosiert med Linux-kjernepanikk og krasj, forskjellig fra Windows BSOD (Blue Screen of Death) problemer.</li>
+<li>Linux-kjernepanikkene skyldes sannsynligvis en feil i kjernens eBPF (Extended Berkeley Packet Filter)-implementering, muligens fra en Red Hat-spesifikk patch, noe som indikerer en kjernefeil snarere enn et leverandørproblem.</li>
+<li>Diskusjonen fremhever utfordringene med å støtte flere OS-versjoner og kompleksiteten involvert i testing av kjerne moduler, og understreker forskjellene i kjernepålitelighetsingeniørarbeid mellom Linux og Windows.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Jellyfin: Vi er bra, seriøst" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Jellyfin%3A%20Vi%20er%20bra%2C%20seri%C3%B8st&subheading=maandag%2022%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/22</link>
+            <guid isPermaLink="false">2024-07-22T00:00:00.000Z</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-21]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/21&#39;</h2>
+<h1>2024-07-21</h1>
+<h2><a href="https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/">Empati for brukeren som har sex med programvaren din</a></h2>
+<ul>
+<li>Å utvikle teknologi for intim bruk, som Buttplug-applikasjoner, krever empati og hensyn til brukernes unike behov og kontekster, inkludert brukervennlighet under opphisselse og maskinvarefrakoblinger.</li>
+<li>Å dele sexteknologikode på plattformer som GitHub kan bidra til å etablere beste praksis, men utviklere bør være forsiktige med eksplisitt media og vurdere å selv-hoste sensitivt materiale.</li>
+<li>Prosjektet Buttplug legger vekt på sikkerhet, autonomi og menneskerettigheter, og oppmuntrer til ansvarlig atferd og utdanning i sin misjonserklæring.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021029">Reacties</a></h3>
+<ul>
+<li>Innlegget diskuterer buttplug.io, et programvarebibliotek for å kontrollere sexleketøy, og fremhever dets omfattende enhetsstøtte og etiske hensyn.</li>
+<li>Grunnleggeren, qdot, deler innsikt om utviklingsutfordringene, inkludert håndtering av Bluetooth-bibliotek og viktigheten av brukerempati i programvaredesign.</li>
+<li>Diskusjonen inkluderer humoristiske og seriøse utvekslinger om programvarens applikasjoner, testmetoder og potensielle bruksområder i andre domener som helse.</li>
+</ul>
+<h2><a href="https://twitter.com/patrickwardle/status/1814343502886477857">Første detaljer om hvorfor CrowdStrike&#39;s CSAgent.sys krasjet</a></h2>
+<ul>
+<li>CSAgent.sys fra CrowdStrike krasjet på grunn av en feilaktig instruksjon som involverte en ugyldig minneadresse.</li>
+<li>Problemet ble forårsaket av en umerket adresse fra en rekke pekere, noe som førte til et krasj ved tilgang til minne.</li>
+<li>Den spesifikke feilinstruksjonen var &quot;mov r9d, [r8],&quot; hvor R8 hadde den ugyldige adressen.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021366">Reacties</a></h3>
+<ul>
+<li>CSAgent.sys-krasjen til CrowdStrike ble forårsaket av dårlige binære data og en dårlig skrevet parser som ikke klarte å håndtere ugyldige data riktig.</li>
+<li>Incidenten ble forverret av dårlig skrevet kjerne-kode, mangel på intern testing, ignorerte oppdateringsinnstillinger, samtidig global utrulling og innledende datakorrupsjon.</li>
+<li>Dette fremhever behovet for robust feilhåndtering, trinnvis utrulling og grundig testing, inkludert fuzz-testing, for å forhindre lignende feil.</li>
+</ul>
+<h2><a href="https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral">Hva er betydningen av tegnet &quot;j&quot; på slutten av et romertall? (2013)</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41022653">Reacties</a></h3>
+<ul>
+<li>Karakteren &quot;j&quot; på slutten av et romertall ble historisk brukt for å indikere slutten av tallet, for å sikre klarhet og forhindre tukling.</li>
+<li>Dette var viktig i håndskrevne dokumenter for å unngå feiltolkning, som å skille &quot;xviij&quot; (18) fra &quot;xviii&quot; (17) eller &quot;xviiii&quot; (19).</li>
+<li>Like typografiske konvensjoner påvirket utviklingen av den nederlandske digrafen &quot;ij,&quot; og fremhevet virkningen av disse praksisene på språkutviklingen.</li>
+</ul>
+<h2><a href="https://computer.rip/2024-07-20-minuteman-missile-communications.html">Minuteman missilkommunikasjon</a></h2>
+<ul>
+<li>Forfatteren planlegger å bytte hostingplattformer, noe som medfører flere utgifter, og søker leserstøtte gjennom donasjoner, og tilbyr eksklusivt innhold og tidlig tilgang til nye YouTube-videoer for støttespillere.</li>
+<li>USA opprettholder 400 Minuteman III ICBM-er administrert av Luftforsvarets 90., 91. og 341. missilvinger, med hver klynge på ti utskytningsanlegg overvåket av en enkelt missilvarslingsfasilitet.</li>
+<li>Minuteman-kommunikasjon inkluderer eksterne systemer som LF-, HF-, UHF- og SHF-antenner, og interne systemer som det forsterkede intersite-kabelsystemet (HICS), med fremtidige oppgraderinger planlagt under Sentinel-programmet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019604">Reacties</a></h3>
+<ul>
+<li>Artikkelen diskuterer kommunikasjonssystemene til Minuteman-missiler, og fremhever overgangen fra eldre teknologier som DSL over HICS-kabler til moderne fiberoptiske kabler for forbedret kapasitet og pålitelighet.</li>
+<li>Diskusjonen inkluderer innsikt i utfordringene med EMP (elektromagnetisk puls) og lynbeskyttelse for disse kommunikasjonssystemene, og understreker fordelene med ikke-ledende fiberoptiske kabler.</li>
+<li>Innlegget inneholder også anekdoter og anbefalinger for å besøke historiske missilsteder, som Minuteman utskytningskontrollanlegg i South Dakota og Titan II missilsilo i Arizona, og gir en historisk kontekst for disse teknologiene.</li>
+</ul>
+<h2><a href="https://dgerrells.com/blog/how-not-to-use-box-shadows">Så du tror du kjenner til boks-skygger?</a></h2>
+<ul>
+<li>Innlegget utforsker kreative og ukonvensjonelle bruksområder for boks-skygger i CSS, utover typiske UI-forbedringer.</li>
+<li>Forfatteren eksperimenterte med boks-skygger for minimal kunst, animasjoner, 3D-effekter og til og med strålesporing, og viste frem allsidigheten til denne CSS-funksjonen.</li>
+<li>Eksperimentene fremhever ytelsesevnen til moderne maskinvare, som M1-laptopen, i å håndtere komplekse visuelle effekter ved bruk av bokseskygger.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024664">Reacties</a></h3>
+<ul>
+<li>Diskusjonen fokuserer på hvordan gjennomsiktighet i grafikkgjengivelse påvirker GPU-batching og overdraw, som er kritisk for ytelsesoptimalisering.</li>
+<li>Brukere deler teknikker som å bruke signerte avstandsfelt (SDF) for mer effektiv rendering, og bemerker varierende ytelse på tvers av forskjellige enheter og nettlesere.</li>
+<li>Innsiktene inkluderer praktiske erfaringer og lenker til relaterte ressurser og historiske artikler for videre lesing.</li>
+</ul>
+<h2><a href="https://x.com/">X.com nekter å åpne med Firefox streng sporing beskyttelse aktivert</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41022408">Reacties</a></h3>
+<ul>
+<li>X.com laster ikke med Firefox sin strenge sporingsbeskyttelse aktivert, som blokkerer ulike sporingsmekanismer og skript.</li>
+<li>Brukere spekulerer i at essensielle deler av nettstedet er blokkert, eller at X.com oppdager annonseblokkeringen og nekter å laste.</li>
+<li>Enkelte brukere foreslår å bruke alternative nettlesere eller verktøy som Nitter for å få tilgang til Twitter-innhold uten problemer.</li>
+</ul>
+<h2><a href="https://www.pcgamer.com/games/something-awful-forumite-achieves-posting-godhood-emerging-from-the-void-after-100000-hour-11-year-ban-to-continue-the-same-argument-from-2013/">Bruker kommer tilbake etter 100 000-timers utestengelse for å fortsette samtalen som fikk dem utestengt</a></h2>
+<ul>
+<li>En bruker ved navn Etherwind vendte tilbake til Something Awful-forumene etter en 11-års, 100 000-timers utestengelse for å fortsette en diskusjon om et rollespill som førte til utestengelsen hans i 2013.</li>
+<li>Etherwind ble opprinnelig utestengt for spøkefullt å ønske en forfatter død, og hans retur ble møtt med humor og ærefrykt fra andre forumbrukere.</li>
+<li>Til tross for det lange forbudet, så Etherwind sin retur som en komisk mulighet og avsluttet til slutt kontoen etter å ha gjenopptatt debatten.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024633">Reacties</a></h3>
+<ul>
+<li>En bruker kom tilbake etter en 100 000-timers utestengelse, noe som gjenopplivet diskusjoner på fora som Habbo Hotel og Stack Overflow om utestengelsesopplevelser og moderatorers makt.</li>
+<li>Diskusjonen inkluderte debatter om demokratisk moderasjon, moderatorenes skjevheter og den mentale helseeffekten av langsiktige utestengelser.</li>
+<li>Tråden understreket den utviklende naturen til nettbaserte samfunn og de betydelige, varige effektene av utvidede utestengelser.</li>
+</ul>
+<h2><a href="https://rr-project.org/">rr – record and replay debugger for C/C++</a></h2>
+<ul>
+<li>rr er et feilsøkingsverktøy for C/C++ på Linux, som forbedrer gdb ved å tillate deterministisk avspilling og effektiv reverskjøring.</li>
+<li>Den støtter opptak og avspilling av ulike applikasjoner, håndterer arbeidsbelastninger med flere prosesser, og integreres med gdb-skripting og IDE-er.</li>
+<li>rr er kjent for sin lave overhead, muligheten til å distribueres på standard Linux-kjerner, og evnen til å gjøre feilsøking av sporadiske feil enklere og raskere.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41023547">Reacties</a></h3>
+<ul>
+<li>rr er en opptaks- og avspillingsfeilsøker for C/C++ som hjelper med reversering og feilsøking av komplekse kodebaser ved å tillate stoppunkter, overvåkingspunkter og revers-kjøring for å spore variabelendringer og identifisere feil.</li>
+<li>Den bruker gdb (GNU Debugger) og støtter ulike kompilert språk som Rust, Go og Julia på Linux, men har begrensninger med samtidighetsfeil og støtter ikke GPUer.</li>
+<li>rr&#39;s kaosmodus kan bidra til å avdekke noen samtidighetsproblemer, og avanserte verktøy som Pernosco, basert på rr, tilbyr en søkbar database over programutførelse.</li>
+</ul>
+<h2><a href="https://semiengineering.com/intel-vs-samsung-vs-tsmc/">Intel vs. Samsung vs. TSMC</a></h2>
+<ul>
+<li>Intel, Samsung og TSMC intensiverer konkurransen i støperimarkedet ettersom de tradisjonelle fordelene med plan skaleringsdiminusjoner avtar, med fokus på 3D-transistorer, chiplets og avanserte pakkingsteknologier.</li>
+<li>Alle selskaper utnytter standarder som UCIe (Universal Chiplet Interconnect Express) og BoW (Bridge of Wires) for chiplet-tilkobling, med Intel som bruker EMIB (Embedded Multi-die Interconnect Bridge) og Samsung og TSMC som utforsker 2.5D og 3D-IC (Integrated Circuit) tilnærminger.</li>
+<li>Støperiene avanserer mot ångstrømskalaen i prosessteknologi og innoverer innen områder som bakside strømlevering og glassubstrater, med mål om å levere skreddersydde, høyytelsesløsninger effektivt.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019561">Reacties</a></h3>
+<ul>
+<li>Diskusjonen fremhever den kritiske rollen til chipproduksjon, med Intel, Samsung og TSMC som nøkkelaktører i bransjen.</li>
+<li>Kompleksiteten og presisjonen som kreves i moderne chipproduksjon, inkludert avansert emballasje og mikrofluidikk, fremheves som betydelige teknologiske prestasjoner.</li>
+<li>Diskusjonen berører de potensielle konsekvensene hvis en stor aktør som TSMC skulle forlate markedet, og antyder at det kan føre til monopolistiske forhold og påvirke den globale forsyningen av halvledere.</li>
+</ul>
+<h2><a href="https://twitter.com/JoeBiden/status/1815080881981190320">Joe Biden trekker seg som demokratisk kandidat</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41026741">Reacties</a></h3>
+<ul>
+<li>Joe Biden har kunngjort sin beslutning om å trekke seg som den demokratiske kandidaten for det kommende valget.</li>
+<li>Avgjørelsen har utløst en rekke reaksjoner, fra ros for hans presidentskap til bekymringer om hans alder og mentale kapasitet.</li>
+<li>Det demokratiske partiet står nå overfor utfordringen med å velge en ny kandidat, med diskusjoner om potensielle etterfølgere og konsekvensene for det kommende valget.</li>
+</ul>
+<h2><a href="https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga">Google Distributed Cloud luftgapet enhet</a></h2>
+<ul>
+<li>Google Distributed Cloud air-gapped appliance, som lanseres 17. juli 2024, bringer sky- og AI-funksjoner til taktiske kantmiljøer som katastrofeområder og avsidesliggende forskningsstasjoner.</li>
+<li>Enheten støtter sanntids lokal databehandling for AI-brukstilfeller som objektdeteksjon og medisinsk bildeanalyse, med full isolasjon fra det offentlige internett for sikkerhet og samsvar.</li>
+<li>Det tilbyr Department of Defense Impact Level 5-akkreditering, noe som gjør det egnet for katastrofeberedskap, industriell automatisering, transport, logistikk og begrensede føderale og forsvarsarbeidsbelastninger.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019777">Reacties</a></h3>
+<ul>
+<li>Google har introdusert Distributed Cloud air-gapped-apparatet, designet for å operere uten tilkobling til Google Cloud eller det offentlige internett, hovedsakelig rettet mot militære og andre høysikkerhetsapplikasjoner.</li>
+<li>Dette apparatet er en del av en bredere trend blant store skyleverandører (AWS, Azure) for å tilby robuste, bærbare og sikre løsninger på stedet for miljøer med strenge sikkerhets- og driftskrav.</li>
+<li>Apparatets design inkluderer funksjoner som AI-kapasiteter, robust bærbarhet og samsvar med militære standarder, med mål om å møte behovene til frakoblede og krevende kantmiljøer.</li>
+</ul>
+<h2><a href="https://twitter.com/leighhoneywell/status/1814278230704111792">Enhver tilstrekkelig dårlig programvareoppdatering er ikke til å skille fra et cyberangrep</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41023086">Reacties</a></h3>
+<ul>
+<li>Diskusjonen dreier seg om risikoene og implikasjonene ved å gi ekstern root-tilgang til tredjeparts sikkerhetsprogramvare, og sammenligner det med skadelig programvare på grunn av dets potensiale for misbruk og systemkontroll.</li>
+<li>Det er en debatt om hvorvidt man skal stole utelukkende på førsteparts sikkerhetsløsninger (som Microsofts) versus tredjeparts, med noen som argumenterer for bruk av Linux for å unngå slike risikoer.</li>
+<li>Diskusjonen fremhever viktigheten av trinnvise utrullinger for programvareoppdateringer for å minimere forstyrrelser og de potensielle farene ved kjerne-nivå tilgang av tredjeparts programvare.</li>
+</ul>
+<h2><a href="https://lapcatsoftware.com/articles/2024/7/1.html">Flom av falske anmeldelser i Mac App Store</a></h2>
+<ul>
+<li>Jeff Johnson rapporterte en økning av falske anmeldelser for de beste betalte appene i den amerikanske Mac App Store, som påvirket 8 av de 40 beste betalte appene mellom 11. juni og 19. juli 2024.</li>
+<li>De falske anmeldelsene, ofte 5-stjerners med generisk eller meningsløs tekst, var sannsynligvis ment å øke appens vurderinger, med mistanker om at en enkelt utvikler kunne stå bak dem for å skjule sin egen apps falske anmeldelser.</li>
+<li>Til tross for rapporter til Apple, forblir problemet uløst, med utviklere av BetterSnapTool og Vinegar som anerkjenner og rapporterer problemet til Apple.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41021472">Reacties</a></h3>
+<ul>
+<li>Mac App Store opplever en økning av falske anmeldelser, med utviklere som BetterSnapTools skaper som rapporterer problemet til Apple.</li>
+<li>Apple undersøker og fjerner noen falske anmeldelser, men kilden og motivet bak dem er fortsatt uklare, og kan potensielt involvere konkurrenter eller anmeldelsesfarmer.</li>
+<li>Forekomsten av falske anmeldelser på både Mac og iOS App Stores undergraver deres pålitelighet for programvareoppdagelse, noe som får brukere til å søke appanbefalinger fra Google eller Reddit i stedet.</li>
+</ul>
+<h2><a href="https://text.npr.org/g-s1-9028">Grøftekollapser har drept hundrevis av arbeidere i USA de siste ti årene</a></h2>
+<ul>
+<li>De siste ti årene har grøftekollapser resultert i over 250 arbeidsulykker med dødelig utfall i USA, hvorav mange kunne vært forhindret ved å følge grunnleggende sikkerhetsforskrifter.</li>
+<li>Til tross for OSHA&#39;s (Occupational Safety and Health Administration) forskrifter og bøter, fortsetter mange selskaper å bryte sikkerhetsstandarder med minimale konsekvenser, ettersom straffesaker er sjeldne og bøter ofte reduseres eller ignoreres.</li>
+<li>En undersøkelse utført av NPR, Texas Public Radio og 1A understreker det presserende behovet for strengere håndhevelse og ansvarlighet for å forhindre fremtidige tragedier.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41024559">Reacties</a></h3>
+<ul>
+<li>Grøftekollapser har resultert i hundrevis av forebyggbare arbeiderdødsfall i USA det siste tiåret, hovedsakelig på grunn av manglende overholdelse av sikkerhetsforskrifter.</li>
+<li>OSHA (Occupational Safety and Health Administration) forskrifter er essensielle, men ofte ikke strengt håndhevet, noe som fører til utrygge arbeidsforhold.</li>
+<li>Begge selskapets retningslinjer og arbeidernes holdninger, som å ignorere sikkerhetsutstyr på grunn av gruppepress, bidrar til mangelen på en robust sikkerhetskultur, som krever håndheving og ansvarlighet fra toppen og ned.</li>
+</ul>
+<h2><a href="https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/">Administrere Classic Mac OS-ressurser i ResEdit</a></h2>
+<ul>
+<li>Macintosh-filsystemet hadde to forgreninger: en dataforgrening og en ressursforgrening, hvor sistnevnte lagret strukturert data som ikoner, dialoger og kodebiter.</li>
+<li>Apples ResEdit, en ressursredigerer sist oppdatert i 1994, lot brukere tilpasse systemfiler, dialoger og tastaturoppsett, men utgjorde sikkerhetsrisikoer ettersom skadelig programvare ofte utnyttet ressursgafler.</li>
+<li>Med Mac OS X ble ressursgafler overført til utvidede attributter, og appressurser er nå organisert i bunter, med moderne apper som er låst ned av signaturer, noe som forhindrer de omfattende tilpasningene som en gang var mulig med ResEdit.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41019829">Reacties</a></h3>
+<ul>
+<li>Innlegget diskuterer nostalgien og tekniske detaljer ved bruk av ResEdit, en ressursredigerer for Classic Mac OS, som tillot brukere å endre programvare- og systemressurser.</li>
+<li>Brukere deler sine erfaringer med ulike feilsøkingsverktøy som MacsBug, TMON og The Debugger, og fremhever deres betydning i tidlig programvareutvikling og hacking.</li>
+<li>Diskusjonen reflekterer over hvordan disse verktøyene påvirket karrierene deres og den bredere innvirkningen av ressursredigering på programvaretilpasning og utvikling.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Empati for brukeren som har sex med programvaren din" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Empati%20for%20brukeren%20som%20har%20sex%20med%20programvaren%20din&subheading=zondag%2021%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/21</link>
+            <guid isPermaLink="false">2024-07-21T00:00:00.000Z</guid>
+            <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-20]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/20&#39;</h2>
+<h1>2024-07-20</h1>
+<h2><a href="https://roadway.report">Jeg kartla nesten alle trafikkdødsfall i USA i det 21. århundre</a></h2>
+<ul>
+<li>Det landsomfattende Vision-Zero-kartet er et nytt initiativ som tar sikte på å eliminere trafikkdødsfall og alvorlige skader på veiene.</li>
+<li>Dette kartet gir en omfattende oversikt over trafikksikkerhetsdata over hele landet, og hjelper med å identifisere risikoområder og implementere målrettede sikkerhetstiltak.</li>
+<li>Initiativet er en del av en bredere Vision-Zero-strategi, som har blitt vedtatt av ulike byer og land for å forbedre trafikksikkerheten gjennom datadrevne tilnærminger og samfunnsengasjement.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41012443">Reacties</a></h3>
+<ul>
+<li>Et omfattende kart over nesten alle trafikkdødsfall i USA i det 21. århundre ble laget, med brukere som foreslo et varmekart for å identifisere dødsfallshotspots.</li>
+<li>Diskusjoner fremhevet unøyaktigheter i data fra NHTSAs FARS-database, inkludert problemer med politirapporter og statlige rapporteringssystemer.</li>
+<li>Brukere debatterte virkningen av veidesign på sikkerhet, og talte for smalere gater og trafikksikkerhetstiltak, og diskuterte balansen mellom trafikksikkerhet og trafikkeffektivitet.</li>
+</ul>
+<h2><a href="https://www.kibty.town/blog/a16z/">Forsker finner feil på a16z-nettstedet som eksponerte noen selskapsdata</a></h2>
+<ul>
+<li>En sikkerhetsforsker oppdaget en sårbarhet i a16z kryptos subdomene, som avslørte sensitiv informasjon som AWS-nøkler og databaseinnhold.</li>
+<li>De eksponerte legitimasjonene inkluderte tilgang til AWS, Salesforce, Mailgun og en database som inneholdt personlig identifiserbar informasjon (PII).</li>
+<li>Forskeren mottok ikke en bug bounty på grunn av offentliggjøring etter å ha mislyktes i å finne en privat kontaktmetode, noe de anså som urettferdig.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41016768">Reacties</a></h3>
+<ul>
+<li>En forsker identifiserte en sårbarhet på a16z-nettstedet som eksponerte selskapsdata, men mottok ingen bug bounty på grunn av offentliggjøring etter at private kontaktforsøk mislyktes.</li>
+<li>Den hendelsen har utløst debatter om ansvarlig avsløring, selskapets sikkerhetspraksis og etikken ved ubetalt feiljakt.</li>
+<li>Det har blitt rettet kritikk mot a16z for ikke å kompensere forskeren, noe som fremhever ansvaret til både selskaper og sikkerhetsforskere i håndteringen av slike oppdagelser.</li>
+</ul>
+<h2><a href="https://garagehq.deuxfleurs.fr/">Garage: Åpen kildekode distribuert objektlagring</a></h2>
+<ul>
+<li>Garage er en åpen kildekode distribuert objektlagringstjeneste designet for selvhosting, som tilbyr redundans ved å replikere data på tvers av tre soner.</li>
+<li>Viktige funksjoner inkluderer lett og effektiv distribusjon, allsidighet på tvers av flere datasentre, og motstandsdyktighet mot nettverks- og maskinvarefeil.</li>
+<li>Den støtter heterogen maskinvare, implementerer Amazon S3 API for kompatibilitet, og er finansiert av NGI POINTER, NLnet / NGI0 Entrust, og EUs Horizon 2021 forsknings- og innovasjonsprogram.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013004">Reacties</a></h3>
+<ul>
+<li>Garage er et åpen kildekode distribuert objektlagringssystem som brukere tar i bruk over Minio på grunn av bedre ytelse med små filer og replikering.</li>
+<li>Viktige funksjoner inkluderer betydelige ytelsesforbedringer, lavt minneforbruk og CRDT-er (Conflict-free Replicated Data Types) for distribuert konsensus.</li>
+<li>Prosjektet er AGPL-lisensiert og har som mål å tilby en fleksibel, selvhostet lagringsløsning, med pågående diskusjoner om samsvarsfunksjoner og sammenligninger med andre lagringssystemer som SeaweedFS, IPFS og Tahoe-LAFS.</li>
+</ul>
+<h2><a href="https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399">Multisatellittdata viser en rekordstor metanutslipp fra en brønnutblåsning</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41012193">Reacties</a></h3>
+<ul>
+<li>Multisatellittdata har identifisert en rekordstor metanutslipp fra en brønnutblåsning, noe som understreker at olje- og gassrelaterte metanutslipp er betydelig underrapportert av industrien.</li>
+<li>Methans drivhusgasspotensial er 20 ganger det til CO2 over 100 år, noe som gjør noen produksjonsveier verre enn kull når det gjelder klimaeffekt.</li>
+<li>Den hendelsen i Kasakhstan understreker behovet for sterkere klimapolitikk og nøyaktig måling for å håndtere metanlekkasjer, som forverres av svekkede reguleringsorganer og utdatert infrastruktur.</li>
+</ul>
+<h2><a href="https://github.com/typst/typst">Typst: En lettlært alternativ til LaTex</a></h2>
+<ul>
+<li>Typst er et nytt, brukervennlig markupspråk-basert typografisystem designet for å være like kraftig som LaTeX, med innebygd markup, fleksible funksjoner, integrert skripting og raske kompileringstider.</li>
+<li>Typst-kompilatoren og CLI (Command Line Interface) er tilgjengelige for lokal dokumentkompilering, med en gratis nettredaktør som for øyeblikket er i offentlig beta for en forbedret opplevelse.</li>
+<li>Brukere kan bli med i Typst-samfunnet på Discord for støtte og tilgang til ressurser bygget av samfunnet, med muligheter til å bidra ved å rapportere feil eller foreslå funksjoner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41014941">Reacties</a></h3>
+<ul>
+<li>Typst presenteres som et enklere og mer ressurseffektivt alternativ til LaTeX for å generere PDF-er, med brukere som rapporterer betydelige ytelsesforbedringer.</li>
+<li>Verktøyet blir rost for sitt intuitive malingssystem, noe som gjør det mer tilgjengelig for brukere sammenlignet med LaTeX, spesielt for å generere store mengder dokumenter raskt.</li>
+<li>Typst får oppmerksomhet på grunn av sitt potensial til å effektivisere akademisk skriving og generering av regulatoriske dokumenter, selv om det for øyeblikket mangler noen funksjoner som HTML-utdata og full TeX-støtte.</li>
+</ul>
+<h2><a href="https://batchmon.com/blog/ai-cheaper-than-ads/">AI betalt av annonser – det lille vendepunktet for GPT-4o</a></h2>
+<ul>
+<li>OpenAI har lansert GPT-4o mini-modellen, priset til $0,15 per 1 million inndata-tokens og $0,60 per 1 million utdata-tokens, noe som gjør den mer rimelig og intelligent enn GPT-3.5 Turbo.</li>
+<li>Den lave kostnaden for GPT-4o mini gjør det mulig å skape AI-generert innhold som kan støttes fullt ut av annonseinntekter, noe som potensielt kan transformere nettinnholdsskaping.</li>
+<li>Eksempelvis koster det $0.00051525 å generere et blogginnlegg med GPT-4o mini, mens annonseinntektene per sidevisning kan være rundt $0.0026, noe som resulterer i en nettofortjeneste på omtrent $0.002 per sidevisning.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41010188">Reacties</a></h3>
+<ul>
+<li>Diskusjonen fremhever bekymringer om fremtiden for nettinnhold, og antyder at AI-generert innhold snart kan dominere, noe som fører til en syklus der AI trenes på AI-resultater.</li>
+<li>Det er en debatt om kvaliteten på dagens nettinnhold, hvor noen hevder at mye av det allerede er lavkvalitets SEO (søkemotoroptimalisering) materiale, og AI kan forverre dette problemet.</li>
+<li>Diskusjonen berører vanskeligheten med å skille mellom menneske- og AI-generert tekst, og reiser spørsmål om ektheten og originaliteten til nettinteraksjoner og innhold.</li>
+</ul>
+<h2><a href="https://nouptime.com/">Uten oppetid hosting (2006)</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41016290">Reacties</a></h3>
+<ul>
+<li>Nettsiden No Uptime Hosting er en satirisk side som humoristisk tilbyr utdaterte og upraktiske hostingtjenester, som å akseptere filer på disketter og støtte utdaterte operativsystemer som OS/2 Warp.</li>
+<li>HTML-kildekoden til nettstedet er med vilje fylt med feil og utdaterte praksiser, som blandede doctype-erklæringer, rå PHP-tagger og manglende avslutningstagger, noe som legger lag til vitsen.</li>
+<li>Samfunnet finner humoren i absurditeten av tjenestetilbudene og det bevisst dårlige nettsteddesignet, med mange kommentarer som fremhever de nostalgiske og komiske elementene.</li>
+</ul>
+<h2><a href="https://blog.kronis.dev/articles/never-update-anything">Oppdater aldri noe</a></h2>
+<ul>
+<li>Artikkelen presenterer et kontroversielt syn mot hyppige programvareoppdateringer, og fremhever forstyrrelsene og ressursforbruket de medfører.</li>
+<li>Det foreslår en mer stabil tilnærming, ved å bruke eksempler som Lazarus IDE og FreeBSDs stabile pakker, for å redusere behovet for konstante oppdateringer.</li>
+<li>Forfatteren tar til orde for å senke tempoet på oppdateringer, fokusere på langsiktig stabilitet og ikke-ødeleggende endringer for å lette vedlikehold og redusere utviklerens kognitive belastning.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41009942">Reacties</a></h3>
+<ul>
+<li>Før internett var programvareoppdateringer sjeldne og kostbare, noe som gjorde feilaktig programvare til et betydelig problem.</li>
+<li>Internett gjorde det lettere å oppdatere, noe som førte til at selskaper presset hyppige oppdateringer og brukte kundene som testere, noe som resulterte i mindre stabil programvare.</li>
+<li>Det er en debatt mellom å prioritere langtidsstøtte (LTS) versjoner for stabilitet versus bransjetrenden med hyppige oppdateringer på bekostning av kvalitet.</li>
+</ul>
+<h2><a href="https://psyche.co/ideas/public-toilets-are-vanishing-and-thats-a-civic-catastrophe">Offentlige toaletter forsvinner, og det er en samfunnskatastrofe</a></h2>
+<ul>
+<li>Offentlige toaletter forsvinner, noe som fører til en samfunnskrise, spesielt for personer med helseproblemer og marginaliserte grupper.</li>
+<li>Guido Corradi, en psykologiforsker, understreker den dårlige tilstanden til offentlige toaletter i velstående vestlige nasjoner, og fremhever deres innvirkning på folkehelsen og menneskelig verdighet.</li>
+<li>Studier indikerer at fattige, mindre utdannede individer og kvinner opplever flere negative møter med offentlige toaletter, noe som understreker behovet for forbedrede fasiliteter og offentlige bevissthetskampanjer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41015731">Reacties</a></h3>
+<ul>
+<li>Forsvinningen av offentlige toaletter i USA har ført til betydelige tilgjengelighetsproblemer, og tvinger folk til å stole på bedrifter for tilgang til toaletter.</li>
+<li>Selv om komiteen for å avskaffe betalingstoaletter i Amerika lyktes med å forby betalingstoaletter, ble det ikke iverksatt tiltak for å erstatte dem med gratis offentlige toaletter.</li>
+<li>In noen stater som Florida, er bedrifter pålagt å ha offentlige toaletter, men tilgangen er ofte begrenset til kunder, noe som understreker behovet for forbedret offentlig toalettinfrastruktur.</li>
+</ul>
+<h2><a href="https://devforum.play.date/t/doom-on-playdate/852">Undergang på Playdate</a></h2>
+<ul>
+<li>En tidlig versjon av Doom har blitt vellykket portert til Playdate, en håndholdt spillkonsoll.</li>
+<li>Utvikleren møtte betydelige utfordringer med makefiles, kompilatorer og linkerproblemer, spesielt manglende referanser i libc, som ble løst ved å justere linkeralternativer og modifisere Playdate SDK.</li>
+<li>Spillet kjører nå både på simulatoren og faktisk maskinvare, noe som gjør at utvikleren kan fokusere på spillkontroll, presentasjon og optimalisering.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013159">Reacties</a></h3>
+<ul>
+<li>Den håndholdte konsollen Playdate kjører Doom, noe som har utløst diskusjoner om å optimalisere skjermen ved hjelp av ulike dithering-teknikker for bedre visuell klarhet.</li>
+<li>Brukere diskuterer fordelene med forskjellige dithering-metoder, som Atkinson og ordnet dithering, og refererer til andre spill som Return of the Obra Dinn for inspirasjon.</li>
+<li>Playdate bruker en Sharp Memory LCD, som tilbyr raske oppdateringsfrekvenser og lavt strømforbruk, selv om noen brukere skulle ønske at den hadde bakgrunnsbelysning for bedre brukervennlighet.</li>
+</ul>
+<h2><a href="https://pad.public.cat/lettre-NCP-NGI">Den europeiske union må fortsette å finansiere fri programvare</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41010458">Reacties</a></h3>
+<ul>
+<li>Den europeiske union oppfordres til å øke finansieringen for fri programvare, ettersom nåværende bidrag er minimale sammenlignet med kommersielle innsats.</li>
+<li>En ny finansieringsmodell kan være nødvendig for å fremme et blomstrende økosystem for fri programvare, ettersom NLnets innvirkning er begrenset sammenlignet med store selskaper som Google.</li>
+<li>Debatten dreier seg om effektiviteten av statlig finansiering for tekniske prosjekter og EUs posisjon i teknologibransjen.</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html">CrowdStrike-fiaskoen gir veikart over amerikanske sårbarheter til motstandere</a></h2>
+<ul>
+<li>En programvareoppdateringsfeil forårsaket en digital nedsmelting på fredag, som påvirket flyplasser, sykehus og TV-stasjoner, og fremhevet skjørheten til sammenkoblede nettverk.</li>
+<li>Incidenten skyldtes menneskelig feil, ikke et angrep fra en nasjonalstat, og involverte CrowdStrikes programvare, som er ment å nøytralisere cyberangrep.</li>
+<li>Denne hendelsen understreker behovet for forbedret digital motstandskraft, til tross for pågående innsats fra den amerikanske regjeringen og privat sektor for å styrke cybersikkerheten.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41017077">Reacties</a></h3>
+<ul>
+<li>Den CrowdStrike-hendelsen har avdekket sårbarheter i amerikansk kritisk infrastruktur, noe som har ført til debatter om bruken av operativsystemer (OS) som trenger hyppige sikkerhetsoppdateringer.</li>
+<li>Eksperter foreslår alternativer som Linux eller OpenBSD, som anses å tilby bedre sikkerhet sammenlignet med Windows, som er mye brukt på grunn av historiske og praktiske årsaker.</li>
+<li>Den hendelsen understreker nødvendigheten av innebygde sikkerhetsfunksjoner i systemer og reiser bekymringer om de bredere implikasjonene for nasjonal sikkerhet og infrastrukturens motstandskraft.</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support">Googles forkortede lenker vil slutte å fungere neste år</a></h2>
+<ul>
+<li>Googles forkortede lenker (goo.gl) vil slutte å fungere etter 25. august 2025, noe som vil resultere i en 404-feil for alle slike lenker.</li>
+<li>Fra og med 23. august 2024 vil goo.gl-lenker vise en mellomside som advarer brukere om den kommende nedleggelsen.</li>
+<li>Google råder utviklere til å oppdatere berørte lenker for å unngå forstyrrelser, og bemerker at goo.gl-tjenesten opprinnelig ble lagt ned i 2019 med en anbefaling om å bytte til Firebase Dynamic Links, som også har blitt avviklet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41014089">Reacties</a></h3>
+<ul>
+<li>Googles URL-forkortelsestjeneste vil opphøre neste år, noe som vil forårsake frustrasjon blant brukere som er avhengige av den for omdirigeringer.</li>
+<li>Kritikere fremhever Googles mønster med å avvikle tjenester, og tilskriver beslutningen vedlikeholdskostnader og interne retningslinjer.</li>
+<li>Brukere foreslår alternativer som AWS for omdirigeringer og foreslår enklere løsninger eller outsourcing for å holde tjenesten funksjonell.</li>
+</ul>
+<h2><a href="https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai">Akademikere sjokkert etter at T&amp;F selger tilgang til forskningen deres til Microsoft AI</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=41011779">Reacties</a></h3>
+<ul>
+<li>Akademikere er frustrerte over Taylor &amp; Francis for å selge tilgang til forskningen deres til Microsoft AI, og argumenterer for at offentlig finansiert forskning bør være fritt tilgjengelig for å maksimere fordelene.</li>
+<li>Kritikere hevder at det å kreve betaling for tilgang skaper barrierer og hindrer vitenskapelig fremgang, og understreker viktigheten av riktig attribusjon og den moralske retten til anerkjennelse.</li>
+<li>Situasjonen understreker den pågående spenningen mellom åpen tilgang og tradisjonelle publiseringsmodeller, som ofte tjener på offentlig finansiert forskning.</li>
+</ul>
+<h2><a href="https://www.crowdstrike.com/blog/technical-details-on-todays-outage/">Tekniske detaljer om dagens strømbrudd</a></h2>
+<ul>
+<li><ol start="19">
+<li>juli 2024 ga CrowdStrike ut en sensoroppdatering for Windows-systemer, noe som forårsaket systemkrasj og blåskjermer (BSOD) på grunn av en logikkfeil, som ble fikset innen omtrent 1,5 timer.</li>
+</ol>
+</li>
+<li>Problemet påvirket kunder som brukte Falcon-sensor for Windows versjon 7.11 og nyere, som var online mellom 04:09 UTC og 05:27 UTC, på grunn av en problematisk Channel File 291 designet for å evaluere named pipe-eksekvering.</li>
+<li>Systemer som kjører Linux eller macOS ble ikke påvirket, og en rotårsaksanalyse pågår for å forhindre fremtidige problemer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41013198">Reacties</a></h3>
+<ul>
+<li>CrowdStrike opplevde et betydelig strømbrudd på grunn av en feilkonfigurert fil, noe som førte til at Windows-systemer krasjet med Blue Screen of Death (BSOD) og oppstartsløkker.</li>
+<li>Problemet stammet fra en oppdatering rettet mot ondsinnede navngitte rør, som utilsiktet førte til at CrowdStrikes egne systemer blokkerte seg selv, noe som fremhevet en mangel på tilstrekkelig testing og utrullingsprosedyrer.</li>
+<li>Dette hendelsen har reist bekymringer om CrowdStrikes kvalitetskontroll, testpraksis og robustheten i deres distribusjonsstrategier, spesielt gitt deres kritiske rolle i cybersikkerhet for mange organisasjoner.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Jeg kartla nesten alle trafikkdødsfall i USA i det 21. århundre" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Jeg%20kartla%20nesten%20alle%20trafikkd%C3%B8dsfall%20i%20USA%20i%20det%2021.%20%C3%A5rhundre&subheading=zaterdag%2020%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/20</link>
+            <guid isPermaLink="false">2024-07-20T00:00:00.000Z</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-19]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/19&#39;</h2>
+<h1>2024-07-19</h1>
+<h2><a href="https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/">Oppdatering fra Crowdstrike: Windows blåskjerm og oppstartsløkker</a></h2>
+<ul>
+<li>Flere brukere på en arbeidsplass opplever Windows blåskjermer og oppstartsløyfer, muligens knyttet til en nylig Crowd Strike-applikasjonsoppdatering.</li>
+<li>IT-avdelingen bemerket at noen servere gikk offline, og en lokal radiostasjon rapporterte lignende problemer med bærbare datamaskiner og et nede telefonsystem.</li>
+<li>Disse hendelsene skjer i Australia, men det har ennå ikke vært noen nyhetsdekning.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002195">Reacties</a></h3>
+<ul>
+<li>En nylig oppdatering fra Crowdstrike forårsaket betydelige problemer, inkludert blåskjermer og oppstartsløkker i Windows, som påvirket ulike sektorer, inkludert nødetater og sykehus.</li>
+<li>En Reddit-bruker rapporterte at akuttmottaket deres var nede under en hjerteinfarktbehandling, og 911-tjenestene ble også påvirket, noe som førte til forsinkelser i pasientbehandlingen.</li>
+<li>Den hendelsen understreker risikoen ved å stole på sammenkoblede systemer og potensialet for katastrofale feil når oppdateringer ikke testes ordentlig før de tas i bruk.</li>
+</ul>
+<h2><a href="https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t">Crowdstrike-utbrudd forårsaker omfattende problemer</a></h2>
+<ul>
+<li>En global IT-forstyrrelse ble utløst av en feilaktig programvareoppdatering fra cybersikkerhetsfirmaet CrowdStrike Holdings, som påvirket en rekke Microsoft Windows-systemer.</li>
+<li>Microsoft og CrowdStrike har begge gitt ut oppdateringer for å løse problemet, men fullstendig gjenoppretting forventes å ta litt tid.</li>
+<li>Situasjonen har blitt litt bedre, men virkningen av den mislykkede oppdateringen merkes fortsatt over hele verden.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002677">Reacties</a></h3>
+<ul>
+<li>Crowdstrike opplevde et strømbrudd som forårsaket omfattende problemer, inkludert Windows blåskjermer og oppstartsløkker, på grunn av en nylig oppdatering.</li>
+<li>Den hendelsen har utløst betydelig diskusjon på Hacker News, og fremhever virkningen på brukere og systemer.</li>
+<li>Denne hendelsen understreker den kritiske viktigheten av grundig testing og overvåking i programvareoppdateringer for å forhindre slike forstyrrelser.</li>
+</ul>
+<h2><a href="https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms">FCC stemmer for å begrense telekomkostnader i fengsler</a></h2>
+<ul>
+<li>FCC har stemt for å redusere telefon- og videoringingspriser for fengsler og fengsler betydelig, ved å kutte takene for minuttpriser med mer enn halvparten og forby alle gebyrer, inkludert innskuddsgebyrer.</li>
+<li>Denne endringen påvirker 83 % av de innsatte, sparer familier for minst 500 millioner dollar årlig og forbedrer velvære og tilbakeføringssuksess for de innsatte.</li>
+<li>Store inntektstap forventes for fengselstelefonselskaper som Aventiv og ViaPath, mens stater som Massachusetts, Minnesota og Colorado allerede har gjort fengselsamtaler gratis.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41005181">Reacties</a></h3>
+<ul>
+<li>FCC har stemt for å begrense kostnadene for telekomtjenester i fengsler, med mål om å redusere de høye kostnadene for innsattes telefonsamtaler.</li>
+<li>Tidligere var innsatte begrenset til å bruke en enkelt, fengselsgodkjent privat telefonoperatør, noe som resulterte i ublu priser på grunn av mangel på konkurranse.</li>
+<li>De nye forskriftene er ment å lette den økonomiske byrden på innsatte og deres familier, fremme bedre rehabilitering og redusere tilbakefall.</li>
+</ul>
+<h2><a href="https://johnfactotum.github.io/foliate/">Foliate: Les e-bøker med stil, naviger med letthet</a></h2>
+<ul>
+<li>Foliate er en åpen kildekode e-bokleser som støtter ulike formater som EPUB, Mobipocket, Kindle, FB2, CBZ og PDF, med tilpassbare leseinnstillinger.</li>
+<li>Den tilbyr funksjoner som touchpad- og berøringsskjermnavigasjon, bokmerker, merknader og integrasjon med verktøy som Wiktionary og Google Translate.</li>
+<li>Foliate støtter høyre-til-venstre tekst, vertikal skriving og faste oppsett, og er tilgjengelig for flere Linux-distribusjoner eller via kloning av kildekode.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002273">Reacties</a></h3>
+<ul>
+<li>Foliate er en e-bokleser som er kjent for sin enkelhet, enkle navigasjon, bokmerking og annotasjonsfunksjoner.</li>
+<li>Den lagrer leseprogresjon, bokmerker og notater i vanlige JSON-filer, noe som gjør det enkelt å eksportere og synkronisere.</li>
+<li>Foliate bruker fil-hasher for å generere unike identifikatorer for bøker, og sikrer at PDF-er forblir uendret når de er annotert, selv om noen brukere merker potensielle problemer hvis filer endres.</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html">Flere flyselskaper forstyrret på grunn av Microsoft Azure-utbrudd</a></h2>
+<ul>
+<li>Frontier Airlines satte alle flyvninger på bakken i omtrent 35 minutter på grunn av et stort Microsoft Azure-utbrudd, som påvirket booking, innsjekking og tilgang til boardingkort.</li>
+<li>Strømbruddet, som startet klokken 17:56, forstyrret også systemene til Allegiant og Sun Country Airlines, og påvirket flere systemer i det sentrale USA.</li>
+<li>Frontier, som opererer over 100 fly, var en av minst tre flyselskaper som ble påvirket av tjenesteforstyrrelsene.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41001959">Reacties</a></h3>
+<ul>
+<li>Flere flyselskaper opplevde forstyrrelser på grunn av et Microsoft Azure-avbrudd, muligens knyttet til en feilaktig Crowdstrike-oppdatering som forårsaket krasj på Windows-maskiner globalt.</li>
+<li>Strømbruddet har påvirket ulike sektorer, inkludert minibanker, supermarkeder og flyplasser i Europa og New Zealand, noe som indikerer et omfattende problem.</li>
+<li>Den hendelsen understreker risikoene forbundet med sentraliserte skytjenester og fremhever nødvendigheten av forbedrede katastrofegjenopprettingsplaner.</li>
+</ul>
+<h2><a href="https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell">Hva skal til for å gjenskape Bell Labs?</a></h2>
+<ul>
+<li>AT&amp;T, gjennom Bell Labs, var avgjørende i utviklingen av USAs telefoninfrastruktur og produserte betydelige oppfinnelser som transistoren, silisium solcelle og UNIX operativsystem.</li>
+<li>Bell Labs&#39; suksess var delvis på grunn av AT&amp;Ts monopol, som støttet langsiktige forskningsprosjekter, noe som resulterte i en rekke utmerkelser, inkludert 10 Nobelpriser.</li>
+<li>Oppløsningen av AT&amp;T førte til delingen og nedgangen av Bell Labs, noe som gjør det vanskelig å gjenskape en slik institusjon i dag på grunn av de unike historiske og teknologiske forholdene som en gang eksisterte.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40998927">Reacties</a></h3>
+<ul>
+<li>Å gjenskape Bell Labs ville kreve et kvasi-monopol, betydelig finansiering, minimal konkurranse og en kultur som prioriterer langsiktig innovasjon over kortsiktige gevinster.</li>
+<li>Historiske og moderne eksempler, som Sandia National Laboratories og teknologigiganter som Google og Microsoft, fremhever viktigheten av lederskap, nasjonal kultur og skattesystemer i å fremme innovasjon.</li>
+<li>Den nåværende vektleggingen av umiddelbare aksjonæravkastninger utgjør en betydelig hindring for fokuset på langsiktig forskning.</li>
+</ul>
+<h2><a href="https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/">Ryanair – når hver side er et mørkt mønster</a></h2>
+<ul>
+<li>Ryanair er kjent for å bruke &quot;mørke mønstre,&quot; manipulative designteknikker, for å øke fortjenesten under bestillingsprosessen.</li>
+<li>Metoder inkluderer &quot;privacy zuckering,&quot; hvor kunder automatisk meldes på kampanjer, og &quot;misdirection,&quot; som bruker fremtredende knapper og popups for å selge tilleggstjenester.</li>
+<li>Disse villedende designene er gjennomgripende på hele Ryanairs nettsted, noe som gjør det viktig for brukerne å være årvåkne for å unngå utilsiktede kjøp eller å dele mer informasjon enn planlagt.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41004039">Reacties</a></h3>
+<ul>
+<li>Ryanair bruker mørke mønstre, som skjulte avgifter og manipulerende taktikker, for å øke fortjenesten, noe som frustrerer kundene.</li>
+<li>Eksempler inkluderer gebyrer for app-ID-skanninger, misvisende &quot;speedy boarding&quot;-fordeler og komplekse bagasjeregler, noe som fører til ekstra kostnader for grunnleggende tjenester.</li>
+<li>Til tross for lave priser og effektive flyvninger, foretrekker mange kunder å unngå Ryanair på grunn av selskapets kundefiendlige praksis, mens andre lavprisflyselskaper som EasyJet og WizzAir anses som mindre aggressive.</li>
+</ul>
+<h2><a href="https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/">CrowdStrike-reparasjoner starter med &quot;omstart opptil 15 ganger&quot;, blir mer komplekse derfra</a></h2>
+<ul>
+<li>En nylig oppdatering fra CrowdStrike førte til at Windows-systemer krasjet med en blåskjerm (BSOD), noe som forårsaket betydelige forstyrrelser.</li>
+<li>Fiksene varierer fra flere omstarter til mer komplekse løsninger som å gjenopprette sikkerhetskopier eller manuelt slette den problematiske driveren, med flere trinn som kreves for systemer som bruker BitLocker-kryptering.</li>
+<li>Oppdateringen har blitt trukket tilbake, og CrowdStrikes administrerende direktør har beklaget, og forsikrer brukerne om at det arbeides med å løse problemet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007898">Reacties</a></h3>
+<ul>
+<li>Den siste oppdateringen fra CrowdStrike krever opptil 15 omstarter, noe som forårsaker betydelige forstyrrelser på tvers av ulike sektorer, inkludert CNC-systemer, AC- og sikkerhetsalarmer, telefoner, e-post og regnskapssystemer.</li>
+<li>Den hendelsen understreker risikoene forbundet med automatiske oppdateringer og nødvendigheten av forbedrede sikkerhetspraksiser, med mange som taler for mer robust testing og gradvise utrullinger.</li>
+<li>Brukere stiller spørsmål ved avhengigheten av internett-tilkoblede, Windows-baserte kritiske systemer, og fremhever behovet for en revurdering av nåværende IT-infrastrukturstrategier.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41007403">Sendune – åpen kildekode HTML e-postdesigner</a></h2>
+<ul>
+<li>SENDUNE har introdusert en ny åpen kildekode HTML e-postdesigner som tar sikte på å forenkle opprettelsen av HTML e-poster, som tradisjonelt er vanskelige å skrive og vedlikeholde.</li>
+<li>Designeren er lettvekts, bruker ren HTML, og unngår tungvinte avhengigheter, noe som gjør at brukerne kan lagre HTML-utdataene som en mal for enhver e-posttjenesteleverandør.</li>
+<li>Brukere oppfordres til å forke depotet, gjøre forbedringer og sende inn pull requests, noe som fremmer et samarbeidsutviklingsmiljø.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007403">Reacties</a></h3>
+<ul>
+<li>Sendune er en åpen kildekode HTML e-postdesigner som legger vekt på enkelhet og brukervennlighet, og produserer ren HTML for kompatibilitet med enhver e-posttjenesteleverandør.</li>
+<li>Verktøyet er lett, uten avhengigheter, og kan enkelt integreres i applikasjoner, med brukere som kan lagre HTML-utdata som maler.</li>
+<li>Til tross for noen rapporterte problemer med dra-og-slipp-funksjonaliteten på Firefox, har responsen fra samfunnet vært positiv, og bidrag kan gjøres via GitHub.</li>
+</ul>
+<h2><a href="https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce">60 år gammel tysk mann sannsynligvis den syvende personen som er effektivt kurert for HIV</a></h2>
+<ul>
+<li>En 60 år gammel tysk mann er sannsynligvis den syvende personen som er effektivt kurert for HIV etter en stamcelletransplantasjon, som også behandlet hans aggressive leukemi.</li>
+<li>Pasienten, referert til som den &quot;neste Berlin-pasienten,&quot; sluttet å ta antiretrovirale legemidler sent i 2018 og er fortsatt HIV- og kreftfri nesten seks år senere.</li>
+<li>Forskere er forsiktig optimistiske og bemerker at denne saken antyder at ikke alle CCR5-genmutasjoner er nødvendige for vellykket HIV-behandling, noe som gir håp om bredere HIV-kurstrategier.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40999098">Reacties</a></h3>
+<ul>
+<li>En 60 år gammel tysk mann er sannsynligvis den syvende personen som er effektivt kurert for HIV, selv om prosedyren er drastisk og vanligvis forbeholdt alvorlige leukemitilfeller.</li>
+<li>Det er et forslag om å utvikle dette til en autolog stamcelletransplantasjon for å unngå komplikasjoner som graft-versus-host-sykdom.</li>
+<li>Til tross for fremskritt innen HIV-behandlinger som reduserer virale belastninger til uoppdagelige nivåer, dør fortsatt 10 000 mennesker av AIDS årlig i USA, ofte på grunn av dårlig seksualundervisning og tilgang til helsetjenester.</li>
+</ul>
+<h2><a href="https://www.bbc.co.uk/news/live/cnk4jdwp49et">Massivt globalt IT-utfall påvirker flyselskaper, media og banker</a></h2>
+<ul>
+<li>Crowdstrike, et Texas-basert cybersikkerhetsselskap grunnlagt i 2011, spesialiserer seg på endepunktsikkerhet for å beskytte bedriftsnettverk og skydata mot cybertrusler.</li>
+<li>Medstiftet av George Kurtz og Dmitri Alperovitch, ble selskapet børsnotert på Nasdaq i 2019.</li>
+<li>Crowdstrike har vært avgjørende i å etterforske store cyberangrep, spesielt bruddet på nettverket til USAs demokratiske nasjonalkomité i 2016.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41002730">Reacties</a></h3>
+<ul>
+<li>Et globalt IT-utfall, utløst av en Crowdstrike-oppdatering, forårsaket at Windows-systemer opplevde blåskjermer og oppstartsløyfer, noe som påvirket flyselskaper, media og banker.</li>
+<li>Den hendelsen har utløst diskusjoner om påliteligheten til endepunktbeskyttelsesprogramvare, risikoen for forsyningskjedeangrep og den tunge avhengigheten av Windows-infrastruktur.</li>
+<li>Avbruddet, som stammer fra en &quot;sikkerhetsoppdatering,&quot; har reist betydelige bekymringer om suvereniteten og motstandskraften til IT-infrastrukturen.</li>
+</ul>
+<h2><a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm">Dobbel trøbbel: ESAs Gaia truffet av mikrometeoroid og solstorm</a></h2>
+<ul>
+<li>ESAs Gaia-romfartøy, som ble skutt opp i desember 2013 for å kartlegge over en milliard stjerner i Melkeveien, møtte nylig betydelige utfordringer fra et mikrometeoroidnedslag og en solstorm.</li>
+<li>En mikrometeoritt skadet Gaias beskyttelsesdeksel, og solstormen forårsaket en feil i en av dens ladekoblede enheter (CCD-er), noe som førte til tusenvis av falske stjernedeteksjoner.</li>
+<li>Ingeniører fra ESA og Airbus Defence and Space justerte vellykket Gaias programvare, reduserte falske deteksjoner og returnerte romfartøyet til rutineoperasjoner, som nå produserer noen av sine beste kvalitetsdata.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40999928">Reacties</a></h3>
+<ul>
+<li>ESAs Gaia-romfartøy fikk nylig skader fra en mikrometeoroid og en solstorm, men fortsetter sitt oppdrag, noe som viser romoppdragenes motstandskraft.</li>
+<li>Historiske eksempler som Voyager 1 og Hubble viser at romoppdrag ofte overlever sine forventede levetider gjennom programvareoppdateringer og reparasjoner.</li>
+<li>Til tross for budsjettbegrensninger og tekniske utfordringer, har ingeniørenes dedikasjon gjort det mulig for Gaia å fortsette å produsere data av høy kvalitet etter de siste justeringene.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=41004103">Hva er i C-00000291*.sys?</a></h2>
+<ul>
+<li>Filen C-00000291*.sys fra CrowdStrike har forårsaket systemkrasj på grunn av ugyldig formatering, noe som påvirker CrowdStrike-driveren.</li>
+<li>Brukere rapporterer forskjellige versjoner av filen, med noen som spekulerer i kryptering med kundespesifikke nøkler, selv om andre har analysert dem uten dekryptering.</li>
+<li>Filene er proprietære oppdateringsformater, ikke DLL-er eller oppdateringer, noe som vekker bekymring for sikkerheten og påliteligheten til CrowdStrikes oppdateringsprosess.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41004103">Reacties</a></h3>
+<ul>
+<li>CrowdStrike&#39;s C-00000291*.sys-fil har forårsaket systemkrasj på grunn av ugyldig formatering, noe som påvirker hoveddriveren til CrowdStrike.</li>
+<li>Brukere rapporterer forskjellige versjoner av filen, med noen som spekulerer i kryptering med kundespesifikke nøkler, selv om andre har analysert dem uten dekryptering.</li>
+<li>Filene er proprietære oppdateringsformater, ikke DLL-er eller vanlige oppdateringer, noe som vekker bekymring for sikkerheten og påliteligheten til CrowdStrikes oppdateringsprosess.</li>
+</ul>
+<h2><a href="https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock">NASAs Curiosity-rover oppdager en overraskelse i en marsstein</a></h2>
+<ul>
+<li>NASAs Curiosity-rover oppdaget grunnstoffet svovel på Mars for første gang, en betydelig milepæl i utforskningen av Mars.</li>
+<li>Oppdagelsen ble gjort i en sulfat-rik region, hvor Curiosity fant et helt felt med lyse steiner sammensatt av ren svovel, noe som vekket forskernes interesse.</li>
+<li>Curiosity sitt oppdrag, som inkluderer å studere Mars&#39; eldgamle terreng for tegn på mikrobielt liv, fortsetter mens det bestiger Mount Sharp og borer sin 41. steinprøve for videre analyse.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41006552">Reacties</a></h3>
+<ul>
+<li>NASAs Curiosity-rover oppdaget svovelkrystaller i en marsstein, noe som førte til en debatt om bruken av clickbait-overskrifter for å engasjere publikum.</li>
+<li>Oppdagelsen skjedde da Curiosity kjørte over en stein, og avslørte krystallene, noe som understreker viktigheten av offentlig interesse og finansiering for NASA.</li>
+<li>Diskusjonen tok også opp NASAs budsjettutfordringer og nødvendigheten av offentlig engasjement for byråets fortsatte drift.</li>
+</ul>
+<h2><a href="https://www.sciencedaily.com/releases/2024/07/240715135713.htm">Tap av oksygen i innsjøer og hav</a></h2>
+<ul>
+<li>Forskning fra Rensselaer Polytechnic Institute fremhever at tap av oksygen i innsjøer og hav utgjør en betydelig trussel mot økosystemer, samfunnet og planeten.</li>
+<li>Akvatiske deoksygenering, knyttet til klimaendringer, arealbruk og forurensning, har ført til en rask nedgang i oppløst oksygen, med innsjøer og reservoarer som har mistet 5,5 % og 18,6 % av oksygenet siden 1980, og hav som har mistet rundt 2 % siden 1960.</li>
+<li>Dette oksygenmangelen påvirker artenes fysiologi, næringsnett og økosystemtjenester, og skaper &quot;døde soner&quot; og skadelige algeoppblomstringer, noe som krever umiddelbare tiltak for å håndtere global oppvarming og avrenning.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=41007196">Reacties</a></h3>
+<ul>
+<li>Insjøer og reservoarer har opplevd betydelig oksygentap, med henholdsvis 5,5 % og 18,6 % reduksjon siden 1980, mens havene har sett en nedgang på rundt 2 % siden 1960.</li>
+<li>Sentral-California er spesielt berørt, med en 40 % reduksjon i oksygennivået, hovedsakelig på grunn av utslipp av klimagasser, næringsavrenning og rå kloakk.</li>
+<li>Foreslåtte løsninger inkluderer regenerativt jordbruk og redusert industrielt kjøttforbruk for å dempe de bredere miljøpåvirkningene av klimaendringer og forurensning.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Oppdatering fra Crowdstrike: Windows blåskjerm og oppstartsløkker" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Oppdatering%20fra%20Crowdstrike%3A%20Windows%20bl%C3%A5skjerm%20og%20oppstartsl%C3%B8kker&subheading=vrijdag%2019%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/19</link>
+            <guid isPermaLink="false">2024-07-19T00:00:00.000Z</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-18]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/18&#39;</h2>
+<h1>2024-07-18</h1>
+<h2><a href="https://naya.lol">Min datter (7 år gammel) brukte HTML for å lage en nettside</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40992982">Reacties</a></h3>
+<ul>
+<li>En 7-åring laget en nettside ved hjelp av grunnleggende HTML, noe som vekket nostalgi blant brukere for de tidlige dagene av webutvikling.</li>
+<li>Enkelheten og gleden ved å lage grunnleggende HTML-sider ble fremhevet, i kontrast til kompleksiteten i moderne verktøy og teknikker for webutvikling.</li>
+<li>Diskusjonen understreket viktigheten av å oppmuntre barn til å utforske teknologi fra ung alder.</li>
+</ul>
+<h2><a href="https://mistral.ai/news/mistral-nemo/">Mistral NeMo</a></h2>
+<ul>
+<li>Mistral AI har lansert Mistral NeMo, en 12B-modell utviklet med NVIDIA, med et 128k token kontekstvindu og utmerker seg i resonnement, verdenskunskap og kode nøyaktighet.</li>
+<li>Mistral NeMo støtter FP8-inferens uten ytelsestap, overgår modeller som Gemma 2 9B og Llama 3 8B, og er designet for flerspråklige applikasjoner.</li>
+<li>Modellen bruker en ny tokenizer, Tekken, og har gjennomgått avansert finjustering for bedre instruksjonsfølgning, resonnement, samtaler med flere vendinger og kodegenerering; vektene er tilgjengelige på HuggingFace.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40996058">Reacties</a></h3>
+<ul>
+<li>NeMo Mistral, en 12B-modell utviklet med NVIDIA, har et 128k token kontekstvindu og utmerker seg i resonnement, verdensforståelse og nøyaktighet i koding.</li>
+<li>Modellen er en drop-in-erstatning for Mistral 7B, støtter FP8-inferens uten ytelsestap, og er tilgjengelig under Apache 2.0-lisensen.</li>
+<li>Den bruker en ny tokenizer, Tekken, trent på over 100 språk, og er designet for å passe på GPUer som NVIDIA RTX 4090, med VRAM-krav som varierer fra 8-40GB avhengig av kvantisering.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=40992654">Amazon&#39;s Kindle Direct Publishing er et dystopisk mareritt</a></h2>
+<ul>
+<li>Forfatteren beskriver en frustrerende opplevelse med Amazons Kindle Direct Publishing (KDP), hvor eBoken deres ble blokkert for &quot;misvisende kundeopplevelse&quot; til tross for at det ikke var noen bevis for en lignende bok.</li>
+<li>Appeller til Amazon resulterte i automatiserte og vage svar, som til slutt førte til oppsigelsen av forfatterens konto uten klar begrunnelse.</li>
+<li>Selv kontakt med Amazons Executive Customer Relations løste ikke problemet, noe som fremhever potensielle feil i Amazons automatiserte gjennomgangs- og ankeprosesser.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40992654">Reacties</a></h3>
+<ul>
+<li>En forfatter rapporterte at eBoken deres ble blokkert og Kindle Direct Publishing (KDP)-kontoen deres ble avsluttet på grunn av påstått villedende metadata, til tross for at de hadde gitt bevis på det motsatte.</li>
+<li>Ankeprosessen var frustrerende, med automatiserte svar og vage grunner for avslag, noe som fremhevet problemer med automatiserte systemer og mangel på menneskelig tilsyn i store teknologiselskaper.</li>
+<li>Denne situasjonen har ført til at mange forfattere søker alternative publiseringsplattformer og understreker behovet for bedre regulering og åpenhet i digitale markedsplasser.</li>
+</ul>
+<h2><a href="https://news.ycombinator.com/item?id=40994552">Hvordan er Prolog i 2024?</a></h2>
+<ul>
+<li>En informatikkstudent har oppdaget Prolog og logisk programmering, lært det grunnleggende og arbeider med et grunnleggende agentskommunikasjonssystem ved bruk av SICStus Prolog.</li>
+<li>Studenten er interessert i å spesialisere seg i Prolog og ontologier, og søker innsikt i den nåværende tilstanden og anvendelsene av Prolog i 2024.</li>
+<li>Forespørselen fremhever et ønske om å forstå potensialet og moderne bruk av Prolog i teknologibransjen.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40994552">Reacties</a></h3>
+<ul>
+<li>Prolog fortsetter i 2024 å være et nisjespråk med et delt samfunn av entusiaster og skeptikere, og møter utfordringer med å bli tatt i bruk i mainstream.</li>
+<li>Prolog utmerker seg på spesifikke områder som logisk programmering og ontologier, men sliter med problemer som mangel på et moderne modulsystem og ytelsesproblemer.</li>
+<li>Ny utvikling, inkludert Scryer Prolog og integrasjoner med språk som Python, indikerer potensial for spesialiserte applikasjoner snarere enn utbredt bruk.</li>
+</ul>
+<h2><a href="https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security">SAPwned: SAP AI-sårbarheter utsetter kundenes skymiljøer og privat</a></h2>
+<ul>
+<li>Forskningsgruppen Wiz oppdaget sårbarheter i leietakerisolasjon hos AI-tjenesteleverandører, noe som utgjør betydelige risikoer ettersom AI-infrastruktur blir essensiell for bedrifter.</li>
+<li>Deres forskning på SAPs AI-tilbud, &quot;SAP AI Core,&quot; avdekket sårbarheter som tillot uautorisert tilgang til kundedata og sky-legitimasjon, som siden har blitt fikset av SAP.</li>
+<li>Viktige funn inkluderer omgåelse av nettverksrestriksjoner, eksponering av AWS-tokens, uautentisert tilgang til AWS EFS-aksjer og full klyngeovertakelse, noe som understreker behovet for forbedrede isolasjons- og sandkassestandarder i AI-tjenester.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40990768">Reacties</a></h3>
+<ul>
+<li>SAP AI-sårbarheter har eksponert kundenes skymiljøer og private data på grunn av dårlig Kubernetes (k8s) konfigurasjon, ikke selve AI-produktet.</li>
+<li>Kritikere påpeker SAPs svikt i grunnleggende skysikkerhet, og fremhever risikoen for at angripere kan kjøre ondsinnede AI-modeller på svak infrastruktur.</li>
+<li>Datasikkerhetsforskere understreker behovet for forbedrede varslingssystemer og streng overholdelse av forskrifter, og fremhever viktigheten av robuste sikkerhetspraksiser i skymiljøer.</li>
+</ul>
+<h2><a href="https://github.com/rscott2049/DECstation2040">En RP2040-basert DECstation 3000-emulator som kan kjøre DECWindows</a></h2>
+<ul>
+<li>DECstation 2040 er en emulator for DECstation 3000, bygget på RP2040-mikrokontrolleren, i stand til å kjøre DECWindows.</li>
+<li>Viktige maskinvarefunksjoner inkluderer en 1,8v/300 MHz RP2040, 32 MB PSRAM, 8 MB SPI-flash og Ethernet RMII PHY-støtte.</li>
+<li>Prosjektet begynte 23. mars 2023, inspirert av Dmitrys LinuxCard, og involverte læring i bruk av RP2040 PIO-motorer og DMA-undersystemet.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991182">Reacties</a></h3>
+<ul>
+<li>En ny RP2040-basert DECstation 3000-emulator kan kjøre DECWindows, og viser RP2040-mikrokontrollerens evner innen minnehåndtering og VGA-skjerm.</li>
+<li>Prosjektet har utløst diskusjoner om utviklingen av databehandling, med brukere som mimrer om å bruke DECstasjoner i akademiske miljøer og fordelene med sentraliserte hjemmekataloger og X11.</li>
+<li>Noen brukere er interessert i å kjøre NetBSD på emulatoren, og fremhever både fremskrittene innen datakraft og nostalgien for eldre systemer.</li>
+</ul>
+<h2><a href="https://stevejobsarchive.com/exhibits/objects-of-our-life">Objektene i vårt liv (1983)</a></h2>
+<ul>
+<li>In 1983 holdt Steve Jobs en tale på den internasjonale designkonferansen i Aspen, hvor han la vekt på fremtidens innvirkning av datamaskiner på samfunnet og viktigheten av godt design i forbrukerelektronikk.</li>
+<li>Jobs introduserte Lisa-datamaskinen, med en mus og grafisk brukergrensesnitt, og forutså at innen 1986 ville PC-salget overgå bilsalget, og oppfordret designere til å lage godt designede produkter.</li>
+<li>Han fremhevet integreringen av humaniora i teknologi og det samfunnsansvaret som ligger i å lage nyttige, vakre produkter, og avsluttet sin tale med en spørsmålsrunde om å gjøre datamaskiner intuitive og tilgjengelige.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40995515">Reacties</a></h3>
+<ul>
+<li>Steve Jobs var kjent for sin enkle og kraftfulle kommunikasjonsstil, og engasjerte effektivt publikum ved å omformulere komplekse ideer på en humoristisk måte.</li>
+<li>Jobs&#39; visjonære natur førte til spådommer om teknologiske fremskritt, som programvareprøver og rimeligere datamaskiner, med vekt på brukervennlige produkter.</li>
+<li>De innflytelsesrike presentasjonene hans, inkludert den ikoniske lanseringen av iPhone, og hans minimalistiske livsstil, fremhevet i et berømt bilde, gir grunn til ettertanke om design og varig verdi.</li>
+</ul>
+<h2><a href="https://hallofshame.design/collection/">Samling av mørke mønstre og uetisk design</a></h2>
+<ul>
+<li>Den katalogen gir en omfattende samling av mørke mønstre, som er villedende designpraksiser brukt i brukergrensesnitt.</li>
+<li>Disse eksemplene er systematisk organisert etter kategori, noe som gjør det lettere for brukerne å forstå og identifisere ulike typer manipulerende design.</li>
+<li>Ressursen har som mål å utdanne og øke bevisstheten om uetiske designtaktikker, og hjelpe brukere med å gjenkjenne og unngå dem.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40993389">Reacties</a></h3>
+<ul>
+<li>Innlegget fremhever ulike &quot;mørke mønstre&quot; og uetiske designpraksiser brukt av selskaper for å manipulere brukere til å ta beslutninger som gagner selskapet, ofte på bekostning av brukeren.</li>
+<li>Eksempler inkluderer Zoom som villedet brukere til å tro at de må installere en app, Booking.com som skaper falsk hastverk om tilgjengelighet av eiendommer, og GoDaddy som bruker villedende fornyelsespraksis.</li>
+<li>Diskusjonen understreker behovet for bevissthet og potensiell regulering for å bekjempe disse manipulerende taktikkene, og antyder at offentlig uthenging og rettslige skritt kan være nødvendig for å håndheve etiske standarder.</li>
+</ul>
+<h2><a href="https://tracklist.it/">Product Hunt for Music</a></h2>
+<ul>
+<li>TrackList er en plattform for å oppdage og dele ny musikk, med daglige oppdateringer om nye spor.</li>
+<li>De utvalgte sporene i dag inkluderer «Keep Your Cool» av Off Trakk og «Erasing» av Raf Duran.</li>
+<li>Plattformen fremhever også spor fra tidligere dager, og gir en kontinuerlig strøm av ny musikk for brukerne å utforske.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40989451">Reacties</a></h3>
+<ul>
+<li>Små artister i nisjesjangre, som didgeridoo-musikk, finner plattformer som Bandcamp eller YouTube mer fordelaktige for oppdagelse sammenlignet med Spotify.</li>
+<li>Musikkoppdagelsesplattformer utforsker alternativer til anbefalinger basert på algoritmer, hvor noen fokuserer på deling i fellesskapet og manuell kuratering.</li>
+<li>Det er et behov for mer spesifikke undergenrer og bedre musikkanbefalingssystemer som ikke bare er avhengige av popularitetsmålinger.</li>
+</ul>
+<h2><a href="https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/">Amerikanernes tillit til høyere utdanning har stupt</a></h2>
+<ul>
+<li>En ny Gallup-undersøkelse avslører en betydelig nedgang i amerikanernes tillit til høyere utdanning, med en tredjedel som uttrykker &quot;liten eller ingen tillit,&quot; sammenlignet med 57 % i 2015.</li>
+<li>Faktorer som bidrar til denne nedgangen inkluderer politiske agendaer, oppfattet irrelevans av ferdigheter som læres, høye kostnader og bekymringer om liberal &quot;indoktrinering,&quot; spesielt blant konservative.</li>
+<li>Til tross for den generelle nedgangen, øker tilliten til community colleges og toårige programmer, noe som indikerer et skifte i oppfatningen mot mer rimelige og praktiske utdanningsalternativer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991894">Reacties</a></h3>
+<ul>
+<li>Amerikanernes tillit til høyere utdanning har falt betydelig, med en nedgang på 36 % blant republikanere og 12 % blant demokrater siden 2015, ifølge en nylig Gallup-undersøkelse.</li>
+<li>68 % av respondentene mener høyere utdanning er «på vei i feil retning», og viser til bekymringer som ideologisk fangenskap og redusert økonomisk nytte.</li>
+<li>Kritikere hevder at meningsmålingens metodikk er uklar og forenklet, og antyder at nedgangen i tillit kan gjenspeile bredere samfunns- og politiske trender snarere enn spesifikke problemer innen høyere utdanning.</li>
+</ul>
+<h2><a href="https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/">GPT-4o mini: fremmer kostnadseffektiv intelligens</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40997585">Reacties</a></h3>
+<ul>
+<li>GPT-4o Mini har en grense på 16k utgangstoken, noe som er gunstig for oppgaver som å oppsummere komplekse dokumenter.</li>
+<li>Mindremodeller trenes med syntetiske og levende data, noe som muliggjør skalerbar datagenerering og spesialiserte &quot;Narrow AI&quot;-modeller.</li>
+<li>GPT-4o Mini er mer kostnadseffektiv enn Claude Haiku, men bærekraften til de lave prisene er usikker.</li>
+</ul>
+<h2><a href="https://github.com/seddonm1/sqlite-bench">SQLite Transaksjons Benchmarking Verktøy</a></h2>
+<ul>
+<li>Evalueringen fokuserer på å sammenligne SQLite&#39;s eksperimentelle <code>BEGIN CONCURRENT</code> gren med de standard <code>DEFERRED</code> og <code>IMMEDIATE</code> transaksjonsatferdene.</li>
+<li>Formålet er å vurdere ytelsesforskjeller i et servermiljø, og gi innsikt i potensielle forbedringer eller avveininger.</li>
+<li>For detaljerte forklaringer og resultater, se blogginnlegget som er lenket i den opprinnelige teksten.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40990641">Reacties</a></h3>
+<ul>
+<li>Et nytt SQLite Transaction Benchmarking-verktøy har blitt lansert for å evaluere SQLite-ytelse, spesielt ved å sammenligne <code>BEGIN CONCURRENT</code>-grenen med <code>DEFERRED</code> og <code>IMMEDIATE</code>-atferd.</li>
+<li>Diskusjonen fremhever utfordringene og strategiene for å oppnå samtidighet i SQLite, inkludert bruk av flere tilkoblinger, tilkoblingspooling og håndtering av fil-I/O-kongestion.</li>
+<li>Verktøyet og blogginnlegget har vekket interesse på grunn av deres praktiske innsikt i å optimalisere SQLite-ytelse, spesielt i scenarier som involverer høy samtidighet og asynkrone operasjoner.</li>
+</ul>
+<h2><a href="https://compoundsemiconductor.net/article/119170/Polychromatic_pixels">Polykromatiske piksler</a></h2>
+<ul>
+<li>MicroLED-er med justerbare bølgelengder er klare til å revolusjonere skjermteknologi, og tilbyr overlegen effektivitet og oppløsning sammenlignet med dagens LCD- og OLED-skjermer.</li>
+<li>Q-Pixel Inc. har utviklet en metode for å dyrke justerbare bølgelengde-LED-er på en enkelt wafer, noe som eliminerer behovet for separate røde, grønne og blå sub-piksler, og dermed forenkler produksjonen og reduserer kostnadene.</li>
+<li>Dette innovasjonen har oppnådd rekordhøye pikseltettheter, noe som er spesielt gunstig for applikasjoner innen virtuell virkelighet (VR) og utvidet virkelighet (AR), og indikerer et potensielt skifte mot mer kostnadseffektive og høyoppløselige microLED-skjermer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40997087">Reacties</a></h3>
+<ul>
+<li>Polykromatiske piksler kan bare produsere én bølgelengde om gangen, og krever minst to for å gjengi en synlig farge, i motsetning til tradisjonelle skjermer som bruker tre subpiksler (RGB) for å dekke fargerommet.</li>
+<li>Teknologien lover en betydelig økning i pikseltetthet og produksjonseffektivitet, men den står overfor utfordringer som fargekonsistens, lysstyrkekontroll og manglende evne til å produsere visse farger som hvit og magenta uten tilleggsteknikker som dithering.</li>
+<li>Denne utviklingen er spesielt spennende for applikasjoner som krever høy pikseltetthet, som VR-headset, men den er kanskje ennå ikke egnet for skjermer til generelt bruk på grunn av sine nåværende begrensninger.</li>
+</ul>
+<h2><a href="https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/">Det er umulig å parametrisere buelengden i lukket form for kvadratiske Bézier-kurver</a></h2>
+<ul>
+<li>Bézier-kurver er grunnleggende i vektorgrafikk, definert ved bruk av kontrollpunkter i Bernstein-basis.</li>
+<li>Kvadratiske Bézier-kurver bruker tre kontrollpunkter, og deres buelengde kan beregnes nøyaktig, men parametriseringen mangler en lukket formel, forutsatt Schanuels formodning.</li>
+<li>Kubiske Bézier-kurver bruker fire kontrollpunkter, og deres buelengde må beregnes numerisk da den mangler en lukket form.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40991075">Reacties</a></h3>
+<ul>
+<li>Det er ikke mulig å parametrisere buelengden i lukket form for kvadratiske Bézier-kurver; numeriske løsninger foretrekkes for deres stabilitet og nøyaktighet.</li>
+<li>Selv om lukkede formeløsninger kan være raskere, har de en tendens til å bli ustabile, spesielt for kurver nær en rett linje.</li>
+<li>Numeriske metoder er generelt overlegne og mer praktiske for de fleste anvendelser, til tross for eksistensen av Pythagoras-hodografkurver og Euler-spiraler.</li>
+</ul>
+<h2><a href="https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894">Gråspurver kan være &#39;kanarifuglen i kullgruven&#39; for blyforgiftning hos barn: studie</a></h2>
+<ul>
+<li>En studie publisert i Environmental Sciences &amp; Technology fant at gråspurver nøyaktig kan forutsi blynivåer hos barn, spesielt i de australske gruvebyene Broken Hill og Mount Isa.</li>
+<li>Sparrows kan fungere som et kostnadseffektivt verktøy for å identifisere blyforurensningshotspots, og tilbyr et praktisk alternativ til direkte menneskelig testing, som ofte er kostbart og komplekst.</li>
+<li>Forskningen fremhever det pågående problemet med blyeksponering i Australia og antyder at spurver også kan indikere eksponering for andre tungmetaller og «evige kjemikalier».</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40995527">Reacties</a></h3>
+<ul>
+<li>En studie antyder at spurver kan indikere blyforgiftning hos barn, spesielt i australske gruvebyer som Broken Hill og Mount Isa.</li>
+<li>Blant annet blyforurensning fra gruvedrift utgjør betydelige helserisikoer, men ordførere benekter ofte bevisene for å beskytte gruveindustrien.</li>
+<li>Problemet understreker den bredere virkningen av miljøgifter på både menneskers og dyrelivs helse, med innsamling av folkehelsedata som er essensielt, men ofte motarbeidet på grunn av politiske og økonomiske interesser.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Min datter (7 år gammel) brukte HTML for å lage en nettside" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Min%20datter%20(7%20%C3%A5r%20gammel)%20brukte%20HTML%20for%20%C3%A5%20lage%20en%20nettside&subheading=donderdag%2018%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/18</link>
+            <guid isPermaLink="false">2024-07-18T00:00:00.000Z</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024-07-17]]></title>
+            <description
+      ><![CDATA[<hr>
+<h2>slug: &#39;/2024/07/17&#39;</h2>
+<h1>2024-07-17</h1>
+<h2><a href="https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html">Importer og eksporter Markdown i Google Docs</a></h2>
+<ul>
+<li>Google Docs støtter nå forbedrede Markdown-funksjoner, inkludert konvertering av Markdown til Docs-innhold ved innliming, kopiering av Docs-innhold som Markdown, eksport av et dokument som Markdown og import av Markdown som et dokument.</li>
+<li>Denne oppdateringen er gunstig for tekniske innholdsforfattere, og gjør det enklere å konvertere mellom Docs og Markdown for samarbeid og dokumentasjon.</li>
+<li>Utrullingen begynner 16. juli 2024 for Rapid Release og Scheduled Release-domener, og er tilgjengelig for alle Google Workspace-kunder, Workspace Individual-abonnenter og personlige Google-kontobrukere.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40982118">Reacties</a></h3>
+<ul>
+<li>Google Docs støtter nå full import/eksport av Markdown, noe som øker nytteverdien for tekniske skribenter og samarbeidspartnere på Markdown-dokumenter.</li>
+<li>Funksjonen rulles gradvis ut for å fange opp alvorlige feil tidlig, så brukere ser den kanskje ikke umiddelbart.</li>
+<li>Google Drive og dets API-er vil også støtte denne nye Markdown-funksjonaliteten, selv om noen brukere har bekymringer om trege utrullinger og ufullstendig støtte for elementer som kodeblokker og kommentarer.</li>
+</ul>
+<h2><a href="https://matt.sh/panic-at-the-job-market">Panikken i arbeidsmarkedet</a></h2>
+<ul>
+<li>Teknologijobmarkedet er i uro på grunn av stigende renter, spekulativ finansiering og feilaktige ansettelsespraksiser.</li>
+<li>Høyere renter fører til at selskaper investerer i sikre, statlig støttede kontoer i stedet for risikofylte satsinger, noe som fører til tap av arbeidsplasser i teknologisektoren.</li>
+<li>Ansettelsesprosessen fokuserer ofte på irrelevante kodingstester og atferdsintervjuer, og klarer ikke å vurdere kandidatenes reelle erfaring og evner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40986894">Reacties</a></h3>
+<ul>
+<li>Arbeidsmarkedet er utfordrende på tvers av flere bransjer, inkludert teknologi, med komplekse ansettelsesprosesser som overser individuelle profiler og bidrag.</li>
+<li>Networking er essensielt ettersom jobbportaler ofte skjuler CV-er, og markedet for teknologijobber står overfor minkende muligheter med selskaper som fokuserer på irrelevante ferdigheter og vilkårlige krav.</li>
+<li>Ueffektive ansettelsespraksiser kan indikere dårlige arbeidsmiljøer, og irrasjonaliteten i arbeidsmarkedet kan vare lenger enn individers økonomiske stabilitet, noe som kompliserer søket etter passende arbeid.</li>
+</ul>
+<h2><a href="https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html">Jailbreaking RabbitOS: Avdekke hemmelige logger og GPL-brudd</a></h2>
+<ul>
+<li>David Buchanan har utviklet en «tethered jailbreak» for Rabbit R1, som gir root-tilgang uten å låse opp bootloaderen eller endre intern lagring.</li>
+<li>Kaninen R1, som bruker en MediaTek MT6765 SoC, har blitt kritisert for omfattende brukerdataregistrering og GPL-brudd, som delvis ble adressert i en nylig oppdatering.</li>
+<li>Buchanans funn avslører at RabbitOS er en sterkt modifisert Android 13 AOSP, som primært håndhever en enkelt-app kioskmodus, og han har gitt ut et verktøy for å hjelpe videre utforskning av enheten.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40987730">Reacties</a></h3>
+<ul>
+<li>Jailbreaking RabbitOS har avslørt hemmelige logger og potensielle GPL (General Public License) brudd, noe som reiser bekymringer om personvern og juridiske spørsmål.</li>
+<li>Logger inkluderer sensitive data som presise GPS-posisjoner, navn på WiFi-nettverk, ID-er til nærliggende celletårn og brukertokens, hvorav noen sendes til Rabbits servere.</li>
+<li>Rabbit Inc. ga ut en oppdatering (v0.8.112) som adresserer disse loggingsproblemene, men kontroversen fremhever pågående bekymringer om datavern og åpenhet i teknologiprodukter.</li>
+</ul>
+<h2><a href="https://www.justinmath.com/the-greatest-educational-life-hack-learning-math-ahead-of-time/">Den beste utdanningslivshacken: Lære matematikk på forhånd</a></h2>
+<ul>
+<li>Å lære matematikk på forhånd kan føre til bedre karakterer, beskyttelse mot dårlig undervisning og tilgang til praksisplasser, forskningsprosjekter og sterke anbefalingsbrev, som er avgjørende for muligheter innen høyere utdanning og karriere.</li>
+<li>Avanserte matematikkurs utover kalkulus, som Lineær Algebra og Differensialligninger, er essensielle for mange kvantitative felt og kan raskt føre studenter inn i spesialiserte felt, noe som forbedrer karriereprestasjoner.</li>
+<li>Forskning indikerer at pedagogisk akselerasjon ikke skader psykisk velvære og fører til større akademisk og profesjonell suksess, til tross for vanlige misoppfatninger og logistiske utfordringer.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40983734">Reacties</a></h3>
+<ul>
+<li>En bruker delte sin reise med å overvinne matematikkfobi i 30-årene, og fremhevet at det aldri er for sent å lære matematikk og dens fordeler for problemløsning og innsikt i programmering.</li>
+<li>Forslag for å lære matematikk senere i livet inkluderte å starte med grunnleggende matematikkbøker, utnytte ressurser fra community college, og gradvis gå videre til avanserte emner.</li>
+<li>Diskusjonen understreket også viktigheten av tidlig matematikkundervisning, foreldreinvolvering og eksterne ressurser som Kumon, samt utdanningssystemets bredere rolle i å fremme selvstudium og motivasjon.</li>
+</ul>
+<h2><a href="https://www.mailgun.com/blog/email/ai-phishing/">Svindlernes gullalder: AI-drevet phishing</a></h2>
+<ul>
+<li>Generativ AI gjør det mulig for svindlere å sende svært personlige og overbevisende phishing-e-poster, overvinne språkbarrierer og automatisere masse kampanjer.</li>
+<li>AI-verktøy som WormGPT og FraudGPT hjelper til med å generere phishing-e-poster og forfalske nettsteder, noe som reduserer tiden som trengs for å lage effektive angrep betydelig.</li>
+<li>Forsvarsstrategier inkluderer implementering av DMARC (Domain-based Message Authentication, Reporting &amp; Conformance), gjenkjenning av AI-phishingforsøk, bruk av flerlags sikkerhet og opprettholdelse av en sterk avsenderreputasjon.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40981067">Reacties</a></h3>
+<ul>
+<li>AI-drevne phishing-svindler blir mer sofistikerte, og utnytter teknologier som Llama for tekst, Whisper/Tortoise for stemme, og Stable Diffusion for bilder, selv om deres distribusjon fortsatt er begrenset.</li>
+<li>Til tross for potensialet for at AI kan forbedre phishing, forblir tradisjonelle metoder som indiske callsenter-svindler svært effektive og økonomisk levedyktige, som vist i en nylig sak hvor en eldre person ble svindlet for $25,000.</li>
+<li>Banker og andre institusjoner forbedrer sine evner til å oppdage svindel, men økningen av AI-drevne svindler krever økt bevissthet og utdanning, spesielt for sårbare grupper som eldre.</li>
+</ul>
+<h2><a href="https://thetinypod.com/">TinyPod – Apple Watch-deksel med rullehjul</a></h2>
+<ul>
+<li>Vi introduserer tinyPod, en kompakt enhet som tilbyr essensielle funksjoner som telefon, musikk, meldinger og mer, alt drevet av din Apple Watch.</li>
+<li>Viktige funksjoner inkluderer et taktilt rullehjul, rask magnetisk lading, batterilevetid på flere dager, Apple Pay og 32 GB lagring for media.</li>
+<li>Tilgjengelig i to modeller: tinyPod med et rullehjul for $79,99 og tinyPod lite uten rullehjul for $29,99, kompatibel med ulike Apple Watch-serier, leveres denne sommeren.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40987402">Reacties</a></h3>
+<ul>
+<li>TinyPod er et Apple Watch-deksel som inkluderer et rullehjul, som minner om iPodens klikkhjul, og skaper en mekanisk kobling med den digitale kronen.</li>
+<li>Produktet blir sett på som en morsom, nisje maskinvareidé, som appellerer til de som setter pris på unike og lunefulle teknologiske dingser, til tross for dens upraktiskhet.</li>
+<li>Det er blandede anmeldelser om produktets nettsidefunksjonalitet, med noen brukere som opplever problemer på Firefox, mens andre synes designet er tiltalende.</li>
+</ul>
+<h2><a href="https://github.com/libarchive/libarchive/pull/1609">Jia Tan &quot;JiaT75&quot;: La til feilmelding til advarsel ved utpakking med bsdtar (2021)</a></h2>
+<ul>
+<li>Libarchive fusjonerte en commit for å legge til feilmeldinger til advarsler ved bruk av bsdtar, og adresserte problem #1561, men bekymringer om å erstatte safe_fprintf med usikre fprintf ble reist.</li>
+<li>En løsning ble implementert for å gå tilbake til safe_fprintf og bruke korrekt errno-håndtering, med forslag til ytterligere revisjoner og en CVE (Common Vulnerabilities and Exposures) for problemet.</li>
+<li>Diskusjonen understreket viktigheten av grundige kodegjennomganger og opprettholdelse av sikkerhet i open-source-prosjekter, og problemet ble løst med samtalen låst.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40984589">Reacties</a></h3>
+<ul>
+<li>Jia Tan &quot;JiaT75&quot; la til feilmeldingstekst til en advarsel i bsdtar i 2021, noe som førte til en opphetet GitHub-diskusjon om kommentarens kvalitet og granskning av kodeendringer.</li>
+<li>Debatten fremhevet utfordringene med å vedlikeholde store programvareprosjekter og den potensielle rollen til AI i å forbedre sikkerhetsgjennomganger.</li>
+<li>Den hendelsen understreket vanskeligheten med å oppdage ondsinnet kode, spesielt fra kjente bidragsytere, og knyttet Jia Tan til et statssponset angrep på xz-verktøyet.</li>
+</ul>
+<h2><a href="https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change">Puerto Rico saksøker fossile brenselselskaper for 1 milliard dollar</a></h2>
+<ul>
+<li>Puerto Rico har anlagt et søksmål på 1 milliard dollar mot store fossile brenselselskaper, inkludert ExxonMobil, BP, Chevron, Shell og ConocoPhillips, for angivelig å ha villedet offentligheten om klimaendringer og forsinket overgangen til ren energi.</li>
+<li>Rettsaken, anlagt i San Juan, hevder at disse selskapene brøt handelslovene ved å promotere fossile brensler uten tilstrekkelige advarsler om farene deres, og søker erstatning for å forsvare seg mot klimakatastrofer som orkanen Maria.</li>
+<li>Dette søksmålet er en del av en bredere trend med lignende søksmål mot fossilindustrien, som fremhever økende ansvarlighetsinnsats for klima-relaterte påvirkninger.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40986213">Reacties</a></h3>
+<ul>
+<li>Puerto Rico har innledet et søksmål på 1 milliard dollar mot fossile brenselselskaper, og anklager dem for å forårsake klimarelaterte skader og søker strengere miljøreguleringer.</li>
+<li>Rettsaken understreker den pågående debatten mellom de økonomiske fordelene ved fossile brensler og nødvendigheten av bærekraftige praksiser og bedriftsansvar.</li>
+<li>Meningen er delte, med noen som understreker viktigheten av bedriftens ansvar for forurensning og feilinformasjon, mens andre legger vekt på rollen til individuelle handlinger og myndighetens politikk i bekjempelsen av klimaendringer.</li>
+</ul>
+<h2><a href="https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/">Gitlab utforsker salg</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40983486">Reacties</a></h3>
+<ul>
+<li>Gitlab vurderer et salg, noe som vekker bekymring blant brukerne om potensielle nedleggelser eller endringer i tjenestemodeller, som minner om tidligere problemer med RedHat og CentOS.</li>
+<li>Brukere diskuterer fordelene med open-source alternativer som Gitlab, og nevner enklere migrering og fellesskapsstøtte, samtidig som de spekulerer i potensielle kjøpere som Datadog eller IBM.</li>
+<li>Det har vært kritikk av Gitlabs prising og fokus på bedriftskunder, noe som har fått noen brukere til å vurdere å bytte til alternativer som GitHub, og dette gjenspeiler blandede følelser om fremtidig stabilitet og kostnader.</li>
+</ul>
+<h2><a href="https://vedgie.net/writing/darwin_machines.md">Darwin-maskiner</a></h2>
+<ul>
+<li>Artikkelen diskuterer William Calvins teori fra &quot;The Cerebral Code,&quot; som antyder at hjernen bruker evolusjonære prosesser innenfor minikolonner for å behandle sensoriske input og finne de mest &quot;passende&quot; mønstrene.</li>
+<li>Teorien hevder at hjernens struktur, spesielt neocortexens kolonner og minikolonner, tillater effektiv problemløsning og parallell prosessering, noe som kan anvendes på AI og maskinlæring (ML).</li>
+<li>Forfatteren eksperimenterer med nevrale nettverk for å etterligne denne evolusjonære prosessen og søker råd om forskning og akademisk innsikt på dette feltet, med vekt på potensielle fremskritt i AI&#39;s dype tenkeevner.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40981068">Reacties</a></h3>
+<ul>
+<li>Innlegget diskuterer konseptet Darwin-maskiner, der forskjellige sensoriske datamodaliteter behandles av hjerne-minikolonner, som hver gir unike fyringsmønstre som konkurrerer og forsterker det dominerende mønsteret, noe som hjelper læring.</li>
+<li>Capsule-rutingsalgoritmer, foreslått av Geoffrey Hinton, har som mål å implementere denne ideen ved hjelp av forventningsmaksimeringsprosesser (EM), men har blitt overskygget av suksessen til transformatorer i AI-forskning.</li>
+<li>Diskusjonen fremhever viktigheten av å forstå hjernefunksjon og nevrale nettverk, med referanse til Hebbiansk læring og behovet for dypere utforskning av temporale dynamikker i nevrale aktiviteter.</li>
+</ul>
+<h2><a href="https://github.com/guywaldman/magic-cli">Magic-cli – En copilot for kommandolinjen din</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40980715">Reacties</a></h3>
+<ul>
+<li>Magic-cli, en kommandolinje-copilot utviklet av Guy Waldman, har utløst diskusjoner på grunn av sin standard &quot;unsafe-execution&quot;-modus, med forslag om en tryggere standard som &quot;clipboard&quot;-modus.</li>
+<li>Brukere har delt meninger og erfaringer, og nevnt alternative verktøy som zsh_codex, aichat og Warp terminal.</li>
+<li>Prosjektet er bygget i Rust, noe som reiser spørsmål om dets kompleksitet sammenlignet med enklere implementeringer i andre språk.</li>
+</ul>
+<h2><a href="https://developers.google.com/tag-platform/tag-manager/first-party/setup-guide">Google presenterer metode for å omgå automatisk blokkering av tag manager</a></h2>
+<ul>
+<li>Google introduserer en betafunksjon for å distribuere tagger i førstepartsmodus, noe som forbedrer taggens ytelse og databeskyttelse ved å bruke nettstedets domene for hosting.</li>
+<li>Oppsettet innebærer å reservere en unik sti på domenet, rute trafikk gjennom tjenester som Google Cloud eller Cloudflare, og oppdatere nettsideskript for å bruke den nye målingsstien.</li>
+<li>Brukere oppfordres til å teste oppsettet ved å bruke Tag Assistant og gi tilbakemelding gjennom et eget tilbakemeldingsskjema eller kontakt-e-post.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40983585">Reacties</a></h3>
+<ul>
+<li>Google har introdusert en metode for å omgå den automatiske blokkeringen av sin Tag Manager, noe som vekker bekymring for personvern og effektiviteten til annonseblokkere.</li>
+<li>Brukere diskuterer strategier for å blokkere sporing, som å bruke uBlock Origin med JavaScript deaktivert som standard, og selektivt aktivere det for brukervennlighet og hastighetsfordeler.</li>
+<li>Den nye metoden fra Google har utløst en debatt om å balansere datainnsamling for forretningsformål med brukernes personvern, med noen brukere som uttrykker frustrasjon over Googles sporingspraksis.</li>
+</ul>
+<h2><a href="https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html">Etter 12 år med å anmelde restauranter, forlater jeg bordet</a></h2>
+<ul>
+<li>Pete Wells, etter 12 år som restaurantkritiker for The New York Times, trekker seg på grunn av helseproblemer, inkludert høyt kolesterol, blodsukker og hypertensjon.</li>
+<li>Til tross for den givende naturen i rollen hans, har den fysiske belastningen av hyppige restaurantbesøk blitt uholdbar for Wells.</li>
+<li>Wells vil forbli i The Times, men vil ikke lenger håndtere kravene til ukentlige anmeldelser, og velger i stedet å fokusere på helsen sin og en mer balansert livsstil.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40979539">Reacties</a></h3>
+<ul>
+<li>En mangeårig restaurantanmelder trekker seg etter 12 år, noe som utløser diskusjoner om hans innvirkning og fremtiden for restaurantanmeldelser.</li>
+<li>Anmelderen var kjent for sine mangfoldige restaurantvalg og sin unike, noen ganger avvisende, tilnærming til anmeldelser.</li>
+<li>Kunngjøringen har skapt begeistring for den kommende anmelderen, Mellissa Clark, og refleksjoner over erfaringene til de som er i restaurantbransjen.</li>
+</ul>
+<h2><a href="https://github.com/bobbyiliev/introduction-to-bash-scripting">Introduksjon til Bash-skripting</a></h2>
+<ul>
+<li>En åpen kildekode guide/e-bok om Bash-skripting har blitt utgitt, rettet mot å automatisere oppgaver for utviklere, systemadministratorer og DevOps-ingeniører.</li>
+<li>Eboken dekker et bredt spekter av emner fra grunnleggende Bash-struktur til avanserte skriptteknikker, inkludert arbeid med API-er og generering av passord.</li>
+<li>Ytterligere ressurser inkluderer et mini videokurs, interaktiv opplæring via Katacoda, og bidrag fra Linux DevOps-ingeniør, Bobby Iliev.</li>
+</ul>
+<h3><a href="https://news.ycombinator.com/item?id=40982011">Reacties</a></h3>
+<ul>
+<li>Bash-skripting blir ofte sammenlignet med Python for terminaloppgaver, der Bash er mer effektiv for filsystemoperasjoner og enkle kommandosekvenser på grunn av sin native terminalintegrasjon.</li>
+<li>Kritikere fremhever Pythons kompleksitet for grunnleggende oppgaver og Bashs klønete syntaks, men Bash forblir essensiell i miljøer uten Python forhåndsinstallert.</li>
+<li>Alternativer som Rubys shell eller Perl for tekstparsing finnes, og verktøy som ChatGPT kan hjelpe til med skriptgenerering, men det er fortsatt verdifullt å forstå Bash-grunnleggende.</li>
+</ul>
+<h2><a href="https://www.gartner.com/en/articles/the-data-is-in-return-to-office-mandates-aren-t-worth-the-talent-risks">Retur-til-kontor-mandater er ikke verdt talentrisikoen</a></h2>
+<h3><a href="https://news.ycombinator.com/item?id=40983717">Reacties</a></h3>
+<ul>
+<li>Pålegg om å vende tilbake til kontoret (RTO) risikerer å miste topp talent, ettersom ansatte med alternativer kan forlate først, noe som potensielt kan forårsake en dominoeffekt.</li>
+<li>Fleksible alternativer, som reisekompensasjon eller forbedrede kontorfasiliteter, foreslås som bedre alternativer til strenge RTO-mandater.</li>
+<li>Debatten inkluderer perspektiver på produktivitet, veiledning og personlige preferanser, hvor noen ser på RTO som drevet av utdaterte ledelsesoppfatninger eller økonomiske press.</li>
+</ul>
+<head>
+  <meta property="og:title" content="Importer og eksporter Markdown i Google Docs" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://og.cho.sh/api/og/?title=Importer%20og%20eksporter%20Markdown%20i%20Google%20Docs&subheading=woensdag%2017%20juli%202024%3A%20Samenvatting%20Hacker%20News" />
+</head>
+]]></description>
+            <link>https://hn.cho.sh/nl/2024/07/17</link>
+            <guid isPermaLink="false">2024-07-17T00:00:00.000Z</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
